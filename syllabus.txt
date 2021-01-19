@@ -1,0 +1,137 @@
+CS 495/595 - Web Security
+
+Spring 2021
+
+CRNs: 32298, 33122, 32301, 33123
+
+Instructor: Michael L. Nelson <mln@cs.odu.edu>
+                http://www.cs.odu.edu/~mln/
+
+Office Hours: R, 3:00-4:00 and by appointment
+
+Time: R 4:20 - 7:00 pm
+
+Place: Online, contact the instructor for the Zoom URL
+
+Course Objectives:
+
+The goal of this course is to review common web security vulnerabilities
+and exploits, as well as their corresponding defenses.  There is
+an inherent tension between "web as simple document reader" and
+"web as application environment", and as the functionality of the
+web ecosystem increases, so do the vulnerabilities.
+
+General concepts that students will learn: principles of web security,
+attacks and countermeasures, the browser security model, web app
+vulnerabilities, injection, denial-of-service, TLS attacks, privacy,
+fingerprinting, same-origin policy, cross site scripting, authentication,
+JavaScript security, emerging threats, defense-in-depth, techniques
+for writing secure code, web archiving, rehosting.
+
+Specific technologies that students will learn: Git/GitHub,
+DOM/Javascript, CLI, Node.js, Twitter, Youtube.
+
+Prerequisites: Unix/Linux, Web, HTML
+
+Attendance Policy: Attendance is encouraged.  The class will be
+recorded and the links shared on the class email list.  You are
+responsible for everything that is said, discussed, and presented
+during class.
+
+Grading: 
+
+   The class grade will consist of 10 Assignments of 10 points each.
+   Late assignments lose 3 points for every 24 hours they are late
+   unless prior arrangements are made with the intstuctor.  Readings
+   and assignment descriptions will be released on a rolling basis
+   during the semester.
+
+   Graduate students:
+	A  = 100-94
+	A- = 93-90
+	B+ = 89-88
+	B  = 87-84
+	B- = 83-80
+	C+ = 79-78
+	C  = 77-74
+	C- = 73-70
+	F  = 69-00
+
+   Undergraduate students:
+	A  = 100-92
+	A- = 91-90
+	B+ = 89-87
+	B  = 86-82
+	B- = 81-80
+	C+ = 79-77
+	C  = 77-72
+	C- = 71-70
+	D+ = 69-67
+	D  = 66-62
+	D- = 61-60
+	F  = 59-00
+
+ODU Honor Code:
+
+  Please familiarize yourself with the ODU Honor Code:
+
+  https://www.odu.edu/about/monarchcitizenship
+
+  especially resources pertaining to plagiarism and academic integrity:
+
+  https://graduate.cs.odu.edu/resources/academic-integrity/
+
+Class Homepage: 
+
+   https://github.com/phonedude/cs595-s21
+
+Class Email List:
+
+   https://groups.google.com/group/cs595-s21
+   You must verify that you are on the list.
+
+Class Textbook:
+
+   None.  Readings will be posted on the class web page.
+
+ODU Honor Code:
+
+  Please familiarize yourself with the ODU Honor Code:
+
+  https://www.odu.edu/about/monarchcitizenship
+
+  especially resources pertaining to plagiarism and academic integrity:
+
+  https://graduate.cs.odu.edu/resources/academic-integrity/
+
+The following statements apply to this class and come from:
+
+  https://odu.edu/facultystaff/teaching/conduct-integrity
+
+  Old Dominion University is committed to students' personal and
+  academic success. In order to achieve this vision, students,
+  faculty, and staff work together to create an environment that
+  provides the best opportunity for academic inquiry and learning.
+  All students must be honest and forthright in their academic
+  studies. Your work in this course and classroom behavior must
+  align with the expectations outlined in the Code of Student
+  Conduct, which can be found at www.odu.edu/oscai. The following
+  behaviors along with classroom disruptions violate this policy,
+  corrupt the educational process, and will not be tolerated.
+
+  Cheating: Using unauthorized assistance, materials, study aids,
+  or other information in any academic exercise.
+
+  Plagiarism: Using someone else’s language, ideas, or other original
+  material without acknowledging its source in any academic exercise.
+
+  Fabrication: Inventing, altering or falsifying any data, citation
+  or information in any academic exercise.
+
+  Facilitation: Helping another student commit, or attempt to commit,
+  any Academic Integrity violation, or failure to report suspected
+  Academic Integrity violations to a faculty member.
+
+  Academic dishonesty will be reported to the Office of Student
+  Conduct & Academic Integrity and may result in sanctions up to
+  and including expulsion from the University.
