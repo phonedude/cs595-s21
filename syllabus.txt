@@ -40,10 +40,11 @@ during class.
 
 Grading: 
 
-   The class grade will consist of 10 Assignments of 10 points each.
-   Late assignments lose 3 points for every 24 hours they are late
-   unless prior arrangements are made with the intstuctor.  Readings
-   and assignment descriptions will be released on a rolling basis
+   The class grade will consist of 7 Assignments of 15 points each.
+   Additional points are available with class participation.  Late
+   assignments lose 3 points for every 24 hours they are late unless
+   prior arrangements are made with the intstuctor.  Readings and
+   assignment descriptions will be released on a rolling basis
    during the semester.
 
    Graduate students:
