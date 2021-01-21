@@ -94,6 +94,25 @@ Class Textbook:
 
    None.  Readings will be posted on the class web page.
 
+Disability Services:
+
+   In compliance with PL94-142 and more recent federal legislation
+   affirming the rights of disabled individuals, provisions will
+   be made for students with special needs on an individual basis.
+   The student must have been identified as special needs by the
+   university and an appropriate letter must be provided to the
+   course instructor.  Provision will be made based upon written
+   guidelines from the University's Office of Educational Accessibility
+   (http://www.odu.edu/educationalaccessibility). All students are
+   expected to fulfill all course requirements.
+
+   Students are encouraged to self-disclose disabilities that have
+   been verified by the Office of Educational Accessibility by
+   providing Accommodation Letters to their instructors early in
+   the semester in order to start receiving accommodations.
+   Accommodations will not be made until the Accommodation Letters
+   are provided to instructors each semester.
+
 ODU Honor Code:
 
   Please familiarize yourself with the ODU Honor Code:
@@ -132,6 +151,14 @@ The following statements apply to this class and come from:
   any Academic Integrity violation, or failure to report suspected
   Academic Integrity violations to a faculty member.
 
-  Academic dishonesty will be reported to the Office of Student
-  Conduct & Academic Integrity and may result in sanctions up to
-  and including expulsion from the University.
+  Any evidence of an academic integrity violation (cheating) will
+  result in a 0 grade for the assignment/exam, and the incident
+  will be submitted to the Department of Computer Science for further
+  review. Note that academic integrity violations can result in a
+  permanent notation being placed on the student's transcript or
+  even expulsion from the University. Evidence of cheating may
+  include a student being unable to satisfactorily answer questions
+  asked by the instructor about a submitted solution. Cheating
+  includes not only receiving unauthorized assistance, but also
+  giving unauthorized assistance.
+
