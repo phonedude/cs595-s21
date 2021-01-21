@@ -1,4 +1,4 @@
-### ODU CS 495/595 Web Archiving Forensics, Spring 2021.
+### ODU CS 495/595 Web Security, Spring 2021.
 Instructor: [Michael L. Nelson](http://www.cs.odu.edu/~mln/) <mln@cs.odu.edu>
 
 Office Hours: Thursdays 3-4 and by appointment
