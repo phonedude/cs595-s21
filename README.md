@@ -44,7 +44,11 @@ his course materials (although any errors are mine).
    * [Node.js](https://nodejs.org/)
    * Document Object Model: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), [Easy Way to Understand How the DOM Works](Easy Way to Understand How the DOM Works)
    * [JavaScript Crash Course, JavaScript DOM Crash Course Parts 1--4](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+   * [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
    * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+   * Inside look at modern web browser: [1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [3](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+   * [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/webarch/)
+   * [Class slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit#slide=id.gae7496bce2_2_75)
 
 * Week 02 - January 28 - Cookies, Sessions
 
