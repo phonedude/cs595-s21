@@ -102,4 +102,4 @@ his course materials (although any errors are mine).
 * Weekly review of current events: [#cs595s21](https://twitter.com/search?q=%23cs595s21&src=typed_query&f=live)
 
 * Assignment 1: Getting Started
-   * [Due: February 4](https://raw.githubusercontent.com/phonedude/cs595-s21/master/assignments/assignment-1.md)
+   * [Due: February 4](/assignments/assignment-1.md)
