@@ -39,3 +39,7 @@ mkdir assignments/Nelson/1
 * In this directory, upload all of your *.html, *.js, and a README.md file that documents the assignment and includes a link to the Youtube video.  You MUST include a README.md file.  
 
 * When finished, use GitHub to issue a Pull Request to my repo (see [week 1 slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit) for details).
+
+### 2 points extra credit available
+
+* install and demonstrate a favicon.ico for your site
