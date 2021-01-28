@@ -20,7 +20,7 @@ Points available: 15
 ### Youtube video
 
 * Record your screen of you 1) viewing the files, 2) starting the server, 3) loading each of the three paths in your browser.  
-* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit) for details.
+* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit) for details).
 
 ### Put files in your forked repo, issue a Pull Request to my repo
 
@@ -38,4 +38,4 @@ mkdir assignments/Nelson/1
 
 * In this directory, upload all of your *.html, *.js, and a README.md file that documents the assignment and includes a link to the Youtube video.  You MUST include a README.md file.  
 
-* When finished, use GitHub to issue a Pull Request to my repo (see [week 1 slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit) for details.
+* When finished, use GitHub to issue a Pull Request to my repo (see [week 1 slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit) for details).
