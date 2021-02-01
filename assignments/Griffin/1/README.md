@@ -10,4 +10,4 @@ Install three "paths" on your server, with each path corresponding to a favorite
 5.	This is where I saw that the local server and code along with the favicon image was working as intended. 
 6.	I used an app called Streamlabs OBS to record the video then I proceeded to upload it onto my YouTube channel. 
 
-The link to my YouTube video is here:  https://youtu.be/QVSjIC8cCXY
+The link to my YouTube video is here:  https://youtu.be/NVwIjGCU-lM
