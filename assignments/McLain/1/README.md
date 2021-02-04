@@ -16,6 +16,13 @@
 * /parksandrec will bring up parksandrec.html
 * /starwars will bring up starwars.html
 
+### Technologies Used
+
+* node.js - v15.5.1 - https://nodejs.org/en/
+* bootstrap - v4.6 - https://getbootstrap.com/
+* fontawesome - v4.7 - https://fontawesome.com/v4.7.0/
+* expressJS - v4.17 - https://expressjs.com/
+
 ### YouTube Video
 
-Demonstration video for this assignment can be seen here: 
+Demonstration video for this assignment can be seen here: https://youtu.be/enuNTdXY9tA
