@@ -51,7 +51,10 @@ his course materials (although any errors are mine).
    * [Class slides](https://docs.google.com/presentation/d/1EZomYYzDeLNzCOlTsFUWgVHUhuiCGgXPY8G3r-i_Yic/edit#slide=id.gae7496bce2_2_75)
 
 * Week 02 - January 28 - Cookies, Sessions
-
+   * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+   * [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+   * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+   * [Class slides](https://docs.google.com/presentation/d/1SB1s-CifbG8KxKzgyDSRmxElC0BsjWbAZdpUqI4vrKY/edit)
 
 * Week 03 - February 4 - Cross-Site Request Forgery, Same Origin Policy
 
@@ -96,5 +99,7 @@ his course materials (although any errors are mine).
 
 ### Assignments (subject to change)
 
+* Weekly review of current events: [#cs595s21](https://twitter.com/search?q=%23cs595s21&src=typed_query&f=live)
+
 * Assignment 1: Getting Started
-   * Due: February 4
+   * [Due: February 4](/assignments/assignment-1.md)
