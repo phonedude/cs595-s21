@@ -9,12 +9,16 @@ const bodyParser = require('body-parser')
 const app = express()
 app.use(bodyParser.urlencoded({extended: false}))
 
-app.get('/', (req, res) => {
-    createReadStream('index-01.html').pipe(res)
+app.get('/AlwaysSunnyInPhiladelphia.html', (req, res) => {
+    createReadStream('AlwaysSunnyInPhiladelphia.html').pipe(res)
 })
 
+app.get('/FreddieGibbs.html', (req, res) => {
+    createReadStream('FreddieGibbs.html').pipe(res)
+})
 
-
-
+app.get('/KillBill2.html', (req, res) => {
+    createReadStream('KillBill2.html').pipe(res)
+})
 
 app.listen(4000)
