@@ -57,6 +57,12 @@ his course materials (although any errors are mine).
    * [Class slides](https://docs.google.com/presentation/d/1SB1s-CifbG8KxKzgyDSRmxElC0BsjWbAZdpUqI4vrKY/edit)
 
 * Week 03 - February 4 - Cross-Site Request Forgery, Same Origin Policy
+   * [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
+   * [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-01#section-4.1)
+   * [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
+   * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+   * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+   * [Class slides](https://docs.google.com/presentation/d/1aUZDYCNzQGRPT7DKpbQ6u-9hS7csb6uXWqmBtwE9t40/edit)
 
 
 * Week 04 - February 11 - Cross-Site Scripting (XSS)
