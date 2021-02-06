@@ -109,3 +109,4 @@ his course materials (although any errors are mine).
 
 * Assignment 1: Getting Started
    * [Due: February 4](/assignments/assignment-1.md)
+   * [Due: February 18](/assignments/assignment-2.md)
