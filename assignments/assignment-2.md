@@ -82,3 +82,9 @@ git push origin main
 ```
 
 Then inspect in your fork on GitHub.  If all looks good, issue a PR to my repo.  
+
+After the assignment is complete, you can optionally uinstall these packages with:
+
+```
+npm rm -g learnyouhtml javascripting learnyounode
+```
