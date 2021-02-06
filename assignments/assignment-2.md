@@ -64,6 +64,8 @@ learnyounode verify hello-world.js
 learnyounode # continue until complete
 ```
 
+The HTML and JavaScript workshops are pretty easy, so you should have no problems.  For learning Node, you'll probably need to read the [Node.js documentation](https://nodejs.org/api/).  Ask the email list if you get stuck.  
+
 ### Submission
 
 * Create a README.md that contains:
@@ -88,3 +90,5 @@ After the assignment is complete, you can optionally uninstall these packages wi
 ```
 npm rm -g learnyouhtml javascripting learnyounode
 ```
+
+
