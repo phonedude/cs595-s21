@@ -64,38 +64,35 @@ his course materials (although any errors are mine).
    * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
    * [Class slides](https://docs.google.com/presentation/d/1aUZDYCNzQGRPT7DKpbQ6u-9hS7csb6uXWqmBtwE9t40/edit)
 
+* Week 04 - February 11 - Same Origin Policy
 
-* Week 04 - February 11 - Cross-Site Scripting (XSS)
+* Week 05 - February 18 - Cross-Site Scripting (XSS)
 
-
-* Week 05 - February 18 - Fingerprinting and Privacy
-
-
-* Week 06 - February 25 - UI Denial-of-service, Phishing, Side Channels
+* Week 06 - February 25 - Fingerprinting and Privacy
 
 
-* Week 07 - March 4 - Code Injection
+* Week 07 - March 4 - UI Denial-of-service, Phishing, Side Channels
 
 
-* Week 08 - March 11 - Transport Layer Security
+* Week 08 - March 11 - Code Injection
 
 
-* Week 09 - March 18 - Authentication
+* Week 09 - March 18 - Transport Layer Security
 
 
-* Week 10 - March 25 - Server security, Safe coding practices
+* Week 10 - March 25 - Authentication
 
 
-* Week 11 - April 1 - DNS rebinding attacks
+* Week 11 - April 1 - Server security, Safe coding practices
 
 
-* Week 12 - April 8 - Browser architecture
+* Week 12 - April 8 - DNS rebinding attacks
 
 
-* Week 13 - April 15 - Web Archiving 
+* Week 13 - April 15 - Browser architecture
 
 
-* Week 14 - April 22 -  TBD 
+* Week 14 - April 22 - Web Archiving 
 
 
 * Week 15 - April 29 - TBD
@@ -109,4 +106,6 @@ his course materials (although any errors are mine).
 
 * Assignment 1: Getting Started
    * [Due: February 4](/assignments/assignment-1.md)
+
+* Assignment 2: Basics of HTML, Javascript, and Node
    * [Due: February 18](/assignments/assignment-2.md)
