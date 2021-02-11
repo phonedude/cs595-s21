@@ -62,9 +62,14 @@ his course materials (although any errors are mine).
    * [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
    * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
    * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+   * [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
    * [Class slides](https://docs.google.com/presentation/d/1aUZDYCNzQGRPT7DKpbQ6u-9hS7csb6uXWqmBtwE9t40/edit)
 
-* Week 04 - February 11 - Same Origin Policy
+* Week 04 - February 11 - Exceptions to the Same Origin Policy
+   * [X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options), [RFC 7034](https://tools.ietf.org/html/rfc7034)
+   * [Frame Hijacking](https://seclab.stanford.edu/websec/frames/)
+   * [Busting Frame Busting](https://seclab.stanford.edu/websec/framebusting/)
+   * [Class slides](https://docs.google.com/presentation/d/1NFyC1huil5uOic4ITtEUlogUqAfP8PQIpNGChtUJE7Y/edit)
 
 * Week 05 - February 18 - Cross-Site Scripting (XSS)
 
