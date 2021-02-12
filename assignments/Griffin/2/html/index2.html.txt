@@ -1,0 +1,13 @@
+   <!DOCTYPE html>
+     <html>
+       <head>
+         <meta charset="utf-8">
+         <title>Hello, world!</title>
+       </head>
+       <body> 
+	The Text Before
+         <p> this is my first paragraph </p> 
+	<hr>
+	<p> this is my second paragraph </p>
+       </body>
+     </html>
