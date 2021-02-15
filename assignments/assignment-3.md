@@ -136,7 +136,7 @@ X-XSS-Protection: 0
 
 In the above case, the terminating response is "HTTP 400" and no cookies are set.  
 
-All curl requests should use the HEAD method ("-I" or "--head").  Some servers will [behave differently](http://arxiv.org/abs/1405.2330) for HEAD vs. GET.  For this assignment, it is sufficient to document their HEAD behavior.  For example, ebay.com is ill-behaved on HEAD requests, entering a redirect loop that curl will eventually quit after 50 redirects (the last 20 lines of the file are shown below):
+* All curl requests should use the HEAD method ("-I" or "--head").  Some servers will [behave differently](http://arxiv.org/abs/1405.2330) for HEAD vs. GET.  For this assignment, it is sufficient to document their HEAD behavior.  For example, ebay.com is ill-behaved on HEAD requests, entering a redirect loop that curl will eventually quit after 50 redirects (the last 20 lines of the file are shown below):
 
 ```
 % curl -ILsk ebay.com | tail -20

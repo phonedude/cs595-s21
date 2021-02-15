@@ -114,3 +114,6 @@ his course materials (although any errors are mine).
 
 * Assignment 2: Basics of HTML, Javascript, and Node
    * [Due: February 18](/assignments/assignment-2.md)
+
+* Assignment 3: Cookie Report
+   * [Due: March 4](/assignments/assignment-3.md)
