@@ -1,0 +1,39 @@
+HTTP/1.1 301 Found
+Set-Cookie: cl_b=4|e18c5d5faf5f4184e5e102f6f0752906952eacb0|1613404333RIe9M;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Location: https://craigslist.org/
+
+HTTP/1.1 302 Found
+Set-Cookie: cl_b=4|bc9625f2fd5d733164c53a7d77500ea804991507|16134043337gK44;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Location: https://www.craigslist.org/
+Strict-Transport-Security: max-age=63072000
+
+HTTP/1.1 302 Found
+Set-Cookie: cl_b=4|170e832b0a38f2e68c323569461fcb7c696ad93c|1613404334KIaa4;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Location: https://geo.craigslist.org/
+Strict-Transport-Security: max-age=63072000
+
+HTTP/1.1 302 Found
+Connection: keep-alive
+Last-Modified: Mon, 15 Feb 2021 15:52:14 GMT
+Location: https://norfolk.craigslist.org
+Date: Mon, 15 Feb 2021 15:52:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=iso-8859-1
+Server: Apache
+Set-Cookie: cl_b=4|dbe610879e80e9708ecf1bf782463ac9762f2cb3|16134043343C8lU;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+
+HTTP/1.1 200 OK
+Last-Modified: Mon, 15 Feb 2021 15:41:26 GMT
+Cache-Control: max-age=3600, public
+Set-Cookie: cl_def_hp=norfolk; path=/; domain=.craigslist.org; expires=Sun, 02-Apr-2073 07:22:52 GMT
+Transfer-Encoding: chunked
+Date: Mon, 15 Feb 2021 15:41:26 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Server: Apache
+Expires: Mon, 15 Feb 2021 16:41:26 GMT
+Set-Cookie: cl_b=4|2b8d94719c5535dd11378693d9f7328a6b7e9621|1613404335CtVKc;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Strict-Transport-Security: max-age=63072000
+

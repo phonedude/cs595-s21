@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 15 Feb 2021 15:50:21 GMT
+Server: Apache
+Location: https://vt.edu/
+Cache-Control: max-age=600
+Expires: Mon, 15 Feb 2021 16:00:21 GMT
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Feb 2021 15:50:22 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Age: 1441
+Last-Modified: Mon, 15 Feb 2021 15:26:21 GMT
+ETag: "1132e-5bb619ba9668f"
+Accept-Ranges: bytes
+Content-Length: 70446
+Vary: Accept-Encoding
+Cache-Control: max-age=600
+Expires: Mon, 15 Feb 2021 16:00:22 GMT
+X-RouteInfo: cmsw-prod-01
+Content-Type: text/html;charset=utf-8
+
