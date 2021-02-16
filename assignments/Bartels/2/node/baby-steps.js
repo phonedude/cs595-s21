@@ -1,5 +1,11 @@
-x = Number(process.argv[2]);
-y = Number(process.argv[3]);
-z = Number(process.argv[4]);
-total = x + y + z;
-console.log(total);
+argList = process.argv;
+addArgs = argList.slice(2,argList.length);
+
+sum = 0;
+solution = addArgs.forEach((value) => {
+  // convert to a number
+  sum += Number(value);
+  return sum;
+});
+
+console.log(sum);
