@@ -1,9 +1,15 @@
-# Assignment 1: Getting Started
+# Assignment 2: Basics of HTML, JavaScript, and Node
 
-### List of files
+### List of directories
 
-* Index.js: Main javascript file created using node.js and express module for setting up the web server.
-* app_files directory: Contains the three separate HTML files and a images directory.
-* app_files/images directory: Contains all the favicons used.
+  * [html](html)
+  * [javascript](javascript)
+  * [node](node)
 
-### Link to the youtube video: https://youtu.be/lAIHbJs7fsc
+* Here are the screen shots of tutorial completion.
+
+<img src="screenshots/html.png" width="700">
+<img src="screenshots/javascripting.png" width="700">
+<img src="screenshots/node.png" width="700">
+
+### Link to the youtube video: https://youtu.be/T0K1Mx224Zs
