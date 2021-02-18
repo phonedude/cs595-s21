@@ -9,7 +9,7 @@ of each exercise.
 Youtube link:https://youtu.be/h18XvYiOBnw 
 
 Screenshots:
-<img src="learnyouhtml.png">
-<img src="javascripting.png">
-<img src="learnyounode.png">
+<img src="html/learnyouhtml.png">
+<img src="javascript/javascripting.png">
+<img src="node/learnyounode.png">
 
