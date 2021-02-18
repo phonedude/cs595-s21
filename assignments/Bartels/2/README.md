@@ -11,4 +11,4 @@
 <img src="javascript/javascripting-complete.png" width="700">
 <img src="node/learnyounode-complete.png" width="700">
 
-* The video of the files and test completion pages can be found here: https://youtu.be/OSdyiUigcRs
+* The video of the files and test completion pages can be found here: [https://youtu.be/OSdyiUigcRs](https://youtu.be/OSdyiUigcRs)
