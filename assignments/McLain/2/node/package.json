@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}

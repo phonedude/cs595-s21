@@ -1,0 +1,14 @@
+{
+  "name": "mclain-1",
+  "version": "1.0.0",
+  "description": "CS 595 - Web Security - Darin McLain - Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Darin McLain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,15 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://odu.edu/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Feb 2021 15:50:30 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux)
+Vary: Host
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BIGipServerWEB_HTTPS_PROD.app~WEB_HTTPS_PROD_pool_int=rd741o00000000000000000000ffff8052619eo80; path=/; Httponly; Secure
+

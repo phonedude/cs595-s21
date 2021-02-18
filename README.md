@@ -57,39 +57,50 @@ his course materials (although any errors are mine).
    * [Class slides](https://docs.google.com/presentation/d/1SB1s-CifbG8KxKzgyDSRmxElC0BsjWbAZdpUqI4vrKY/edit)
 
 * Week 03 - February 4 - Cross-Site Request Forgery, Same Origin Policy
+   * [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
+   * [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-01#section-4.1)
+   * [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
+   * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+   * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+   * [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
+   * [Class slides](https://docs.google.com/presentation/d/1aUZDYCNzQGRPT7DKpbQ6u-9hS7csb6uXWqmBtwE9t40/edit)
+
+* Week 04 - February 11 - Exceptions to the Same Origin Policy
+   * [X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options), [RFC 7034](https://tools.ietf.org/html/rfc7034)
+   * [Frame Hijacking](https://seclab.stanford.edu/websec/frames/)
+   * [Busting Frame Busting](https://seclab.stanford.edu/websec/framebusting/)
+   * [Class slides](https://docs.google.com/presentation/d/1NFyC1huil5uOic4ITtEUlogUqAfP8PQIpNGChtUJE7Y/edit)
+
+* Week 05 - February 18 - Cross-Site Scripting (XSS)
+   * [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+   * [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
+   * [Class slides](https://docs.google.com/presentation/d/12Z1WZZMLmlaJ4Uypq-Ck7POyq6EE2-VZAgvoWOmM6oI/edit)
+
+* Week 06 - February 25 - Fingerprinting and Privacy
 
 
-* Week 04 - February 11 - Cross-Site Scripting (XSS)
+* Week 07 - March 4 - UI Denial-of-service, Phishing, Side Channels
 
 
-* Week 05 - February 18 - Fingerprinting and Privacy
+* Week 08 - March 11 - Code Injection
 
 
-* Week 06 - February 25 - UI Denial-of-service, Phishing, Side Channels
+* Week 09 - March 18 - Transport Layer Security
 
 
-* Week 07 - March 4 - Code Injection
+* Week 10 - March 25 - Authentication
 
 
-* Week 08 - March 11 - Transport Layer Security
+* Week 11 - April 1 - Server security, Safe coding practices
 
 
-* Week 09 - March 18 - Authentication
+* Week 12 - April 8 - DNS rebinding attacks
 
 
-* Week 10 - March 25 - Server security, Safe coding practices
+* Week 13 - April 15 - Browser architecture
 
 
-* Week 11 - April 1 - DNS rebinding attacks
-
-
-* Week 12 - April 8 - Browser architecture
-
-
-* Week 13 - April 15 - Web Archiving 
-
-
-* Week 14 - April 22 -  TBD 
+* Week 14 - April 22 - Web Archiving 
 
 
 * Week 15 - April 29 - TBD
@@ -103,3 +114,9 @@ his course materials (although any errors are mine).
 
 * Assignment 1: Getting Started
    * [Due: February 4](/assignments/assignment-1.md)
+
+* Assignment 2: Basics of HTML, Javascript, and Node
+   * [Due: February 18](/assignments/assignment-2.md)
+
+* Assignment 3: Cookie Report
+   * [Due: March 4](/assignments/assignment-3.md)
