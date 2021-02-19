@@ -11,4 +11,4 @@
 <img src="node/learnyounode.png" width="700">
 
 
-### Link to the youtube video:
+### Link to the youtube video: https://youtu.be/NdTHMG_RX-c
