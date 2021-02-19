@@ -11,7 +11,7 @@ We have three directories
    
  *  <img src="java.PNG" width="700">
    
- *  <img src="node.PNG" width="700">
+ *  <img src="Node.PNG" width="700">
 
 
 I have completed work from the Learnyounode, Learnyouhtml, and javascripting programs set up in the github terminal. 
