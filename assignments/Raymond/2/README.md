@@ -1,6 +1,6 @@
 Assignment 2: completed all the exercises involving html, javascript, and node.
 
-Dirories:
+Directories:
 -Learnyouhtml
 
 -Javascripting
