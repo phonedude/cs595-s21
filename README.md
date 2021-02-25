@@ -123,7 +123,7 @@ his course materials (although any errors are mine).
    * [Due: March 4](/assignments/assignment-3.md)
 
 * Assignment 4: Frames
-   * [Due: March 18]((/assignments/assignment-4.md)
+   * [Due: March 18](/assignments/assignment-4.md)
 
 * Assignment 5: TBD
    * Due: April 1
