@@ -76,37 +76,38 @@ his course materials (although any errors are mine).
    * [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
    * [Class slides](https://docs.google.com/presentation/d/12Z1WZZMLmlaJ4Uypq-Ck7POyq6EE2-VZAgvoWOmM6oI/edit)
 
-* Week 06 - February 25 - Fingerprinting and Privacy
+* Week 06 - February 25 - XSS and Content Security Policy (CSP)
+   * [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
+   * [Class slides](https://docs.google.com/presentation/d/1amxk2d59TCL0ya3ZffxS9qe3J8pn_TOStDL70kbyoas/edit)
+
+* Week 07 - March 4 - Fingerprinting and Privacy
 
 
-* Week 07 - March 4 - UI Denial-of-service, Phishing, Side Channels
+* Week 08 - March 11 - UI Denial-of-service, Phishing, Side Channels
 
 
-* Week 08 - March 11 - Code Injection
+* Week 09 - March 18 - Code Injection
 
 
-* Week 09 - March 18 - Transport Layer Security
+* Week 10 - March 25 - Transport Layer Security
 
 
-* Week 10 - March 25 - Authentication
+* Week 11 - April 1 - Authentication
 
 
-* Week 11 - April 1 - Server security, Safe coding practices
+* Week 12 - April 8 - Server security, Safe coding practices
 
 
-* Week 12 - April 8 - DNS rebinding attacks
+* Week 13 - April 15 - DNS rebinding attacks
 
 
-* Week 13 - April 15 - Browser architecture
+* Week 14 - April 22 - Browser architecture
 
 
-* Week 14 - April 22 - Web Archiving 
+* Week 15 - April 29 - Web Archiving 
 
 
-* Week 15 - April 29 - TBD
-
-
-* Week 16 - May 6 - Exam
+* Week 16 - May 6 - Exam 
 
 ### Assignments (subject to change)
 
@@ -120,3 +121,15 @@ his course materials (although any errors are mine).
 
 * Assignment 3: Cookie Report
    * [Due: March 4](/assignments/assignment-3.md)
+
+* Assignment 4: Frames
+   * [Due: March 18]((/assignments/assignment-4.md)
+
+* Assignment 5: TBD
+   * Due: April 1
+
+* Assignment 6: TBD
+   * Due: April 15
+
+* Assignment 7: TBD
+   * Due: May 7
