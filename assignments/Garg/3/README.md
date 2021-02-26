@@ -109,30 +109,30 @@
 
 ---
 ### Total No. of cookies
-> 251
+* 251
 
 ### How many cookies set HttpOnly?  
-> 106
+* 106
 
 ### How many cookies set Secure?  
-> 114
+* 114
 
 ### How many cookies set SameSite?
-> 65
+* 65
 #### How many are Strict?  
-> 2
+* 2
 #### How many are Lax?  
-> 26
+* 26
 #### How many are None?
-> 37
+* 37
 
 ### How many cookies set a Path?  
->246
+* 246
 #### How many of those are values other than "/"?
->0
+* 0
 
 ### what are the Min/Max/Mean/Median number of cookies for the 100 sites?
-> Min: 0
-> Max: 18
-> Mean: 2.51
-> Median: 2
+* Min: 0
+* Max: 18
+* Mean: 2.51
+* Median: 2
