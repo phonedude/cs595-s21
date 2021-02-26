@@ -1,6 +1,6 @@
 # Assignment 3: Cookie report for 100 of the Mozilla top 500 web sites
 
-* Summary report: **sitecookies_report.tsv**
+* Summary report: ![sitecookies_report.tsv](sitecookies_report.tsv)
 * [http-responses of 100 sites](http-responses)
 
 ## Summary
