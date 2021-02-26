@@ -136,3 +136,15 @@
 * Max: 18
 * Mean: 2.51
 * Median: 2
+
+---
+## Extra Credit
+* The title of slide 60 in week 5: Parsers, parsers, everywhere!
+I believe this title is referencing to the famous phrase from [“The Rime of the Ancient Mariner” by Samuel Taylor Coleridge](https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834). The poem recounts the experiences of a sailor. In this particular excerpt, the sailer is stranded at sea with saltwater all around him, but he cannot drink any of it. This translates to a situation where despite being surrounded by something, you cannot benefit from it.  
+
+```
+Water, water, every where,
+And all the boards did shrink;
+Water, water, every where,
+Nor any drop to drink.
+```
