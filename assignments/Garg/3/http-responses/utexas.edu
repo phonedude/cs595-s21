@@ -1,0 +1,64 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-a-695744c5c6-wzlfh
+X-Styx-Req-Id: 33ea0305-7428-11eb-ad43-d2fb8bff6f1f
+Cache-Control: public, max-age=86400
+Content-Length: 162
+Date: Mon, 22 Feb 2021 03:57:00 GMT
+Connection: keep-alive
+X-Served-By: cache-mdw17347-MDW, cache-wdc5547-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+X-Timer: S1613966221.918095,VS0,VE1
+Vary: Cookie, Cookie
+Age: 66063
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/2 301 
+cache-control: public, max-age=1209600
+content-type: text/html; charset=UTF-8
+location: https://www.utexas.edu/
+server: nginx
+strict-transport-security: max-age=31622400
+x-pantheon-styx-hostname: styx-fe4-b-649d688684-mhstp
+x-styx-req-id: 9f5da91f-7096-11eb-a0e8-0a5f99c5632f
+date: Mon, 22 Feb 2021 03:57:01 GMT
+x-served-by: cache-mdw17342-MDW, cache-wdc5552-WDC
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1613966221.015260,VS0,VE1
+vary: Cookie, Cookie
+age: 458443
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=300
+content-language: en
+content-type: text/html; charset=utf-8
+etag: W/"1613965010-0"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Mon, 22 Feb 2021 03:36:50 GMT
+link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+server: nginx
+strict-transport-security: max-age=300
+x-drupal-cache: HIT
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+x-pantheon-styx-hostname: styx-fe3-a-857fcfdccb-gj5gc
+x-styx-req-id: 5d242642-74c1-11eb-b701-ba1402540070
+age: 281
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Mon, 22 Feb 2021 03:57:01 GMT
+x-served-by: cache-mdw17347-MDW, cache-lga21947-LGA, cache-lga21946-LGA
+x-cache: HIT, MISS, MISS
+x-cache-hits: 1, 0, 0
+x-timer: S1613966221.184548,VS0,VE27
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 62754
+

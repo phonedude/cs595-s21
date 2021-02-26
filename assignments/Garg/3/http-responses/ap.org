@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.ap.org/
+Expires: Mon, 22 Feb 2021 03:37:22 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 22 Feb 2021 03:37:22 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 22 Feb 2021 03:37:23 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.ap.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 237bd7e86f7f99cead16dc4ecb5fed20.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: LtIZt-EGkO-7v0-DX8DFbKFjcxT7CSBeb8oGshpugM1t6LvNfSsocQ==
+
+HTTP/2 302 
+content-type: text/html;charset=ISO-8859-1
+content-length: 0
+location: https://www.ap.org/en-us/
+date: Mon, 22 Feb 2021 03:30:11 GMT
+server: Apache/2.4.18 (Ubuntu)
+x-cache: Hit from cloudfront
+via: 1.1 3924198dd88678a1cab97875f32b6f20.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: Ikm_o9DsNXGayNk9ZBuk32Fou-_ZB-obqyQvhSTnCVpzBR_W_gq0Mw==
+age: 432
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+date: Mon, 22 Feb 2021 03:30:11 GMT
+server: Apache/2.4.18 (Ubuntu)
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 3924198dd88678a1cab97875f32b6f20.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: Z7tteE_ukTOK0VYwA0OTBvE7H-4xdPGVhPeMCZQ6bz-UPlp-D_JDGA==
+age: 432
+
