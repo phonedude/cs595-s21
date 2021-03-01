@@ -32,7 +32,10 @@
 * Median number of cookies: 0
 
 
-* Here are the screen shots of completion.
+### Screenshots
 
+* Collecting the data for each URL.
 <img src="screenshots/1.png" width="700">
+
+* Creating the summary table and reporting the summary.
 <img src="screenshots/2.png" width="700">
