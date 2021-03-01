@@ -2,7 +2,7 @@
 
 ### List of directories
 
-  * [curl_output](CURL Responses )
+  * [curl_output](curl_output)
   * [javascript](javascript)
   * [node](node)
 
