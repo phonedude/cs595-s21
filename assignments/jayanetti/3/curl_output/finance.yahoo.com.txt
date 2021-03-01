@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:23:28 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=3oqer8hg3o5v0&partner=;
+Location: https://finance.yahoo.com/
+Content-Length: 8
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Connection: keep-alive
+
+HTTP/2 404 
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=15552000
+x-frame-options: SAMEORIGIN
+content-security-policy: sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=yahoofinance; report-to csp-endpoint;
+report-to: {"group":"csp-endpoint","max-age":10886400,"endpoints":[{"url":"https://csp.yahoo.com/beacon/csp?src=yahoofinance"}]}
+content-type: text/html; charset=utf-8
+etag: W/"40-YKh66hDlESqeLOhUXoS2pBzN8lk"
+set-cookie: B=ab9aia1g3o5v0&b=3&s=1l; expires=Sun, 28-Feb-2022 22:23:28 GMT; path=/; domain=.yahoo.com
+date: Sun, 28 Feb 2021 22:23:27 GMT
+x-envoy-upstream-service-time: 7
+server: ATS
+expires: -1
+cache-control: max-age=0, private
+age: 1
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+

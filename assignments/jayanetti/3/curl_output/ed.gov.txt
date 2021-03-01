@@ -1,0 +1,32 @@
+HTTP/1.1 302 Found
+Location: https://www.ed.gov/
+Connection: close
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 19:13:15 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/7.2.10
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: max-age=31536000, private, no-store
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+Last-Modified: Tue, 23 Feb 2021 19:13:15 GMT
+Vary: Cookie,Accept-Encoding
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'self';
+Content-Type: text/html; charset=utf-8
+X-Varnish: 16383115 9071426
+Age: 443392
+Via: 1.1 varnish (Varnish/6.0)
+ETag: W/"1614107595-1"
+X-Varnish-Cache: HIT cached
+Accept-Ranges: bytes
+Content-Length: 29845
+Connection: keep-alive
+

@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sun, 28 Feb 2021 22:25:14 GMT
+Location: https://policies.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=210=PW3F_oQhz7rd9Us3p_ZJrSzPRcVqyVQICyKNfEnKcdqPXQLuqILRtZ-KZj7A8JVElQBhvmL-V4SF_gsf50lJ7FM6gLW9-bgbjhc_8ooVI31v9ijfKRym9Bu3KGErPuHqKKQVYCWG_NM-3j6kdjl_NTcsGgjBa64aPZ72US3F5nE; expires=Mon, 30-Aug-2021 22:25:14 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 28 Feb 2021 22:25:14 GMT
+content-length: 178781
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+cross-origin-resource-policy: same-site
+content-security-policy: script-src 'nonce-zG0m8WlYIOlOb999eC9jag' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityPoliciesUi/cspreport;worker-src 'self'
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+set-cookie: NID=210=pquFzSMLOVHgYUqMNeW4bOmDg-basEEbxR5BqDvJFihlt-6yLLcB-S-KArVtP2QNVjGLUPnJkm86FKT5fKxAgWGGMaWNKbwqOg3SVjaG5quQzMkjWMBNgjYK-lDBJI8Deb-VR3VxmvakZA-U3GRQF8EezShh489g2H40zKGsDRo; expires=Mon, 30-Aug-2021 22:25:14 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

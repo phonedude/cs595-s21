@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:24:26 GMT
+Server: Apache
+Location: https://www.ig.com.br/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:24:27 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d16b39895a5fb6d9d54fbbbcb5684ebcd1614551066; expires=Tue, 30-Mar-21 22:24:26 GMT; path=/; domain=.ig.com.br; HttpOnly; SameSite=Lax; Secure
+x-xrds-location: https://login.ig.com.br/discovery
+access-control-allow-origin: *
+access-control-allow-headers: origin, content-type, accept, ajax
+vary: Accept-Encoding
+edge-control: max-age=30s,downstream-ttl=30s
+x-url: /
+x-user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+x-xss-protection: 1; mode=block
+cf-cache-status: HIT
+expires: Sun, 28 Feb 2021 22:29:27 GMT
+cache-control: public, max-age=300
+cf-request-id: 088c573fdf0000c07ad0b87000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d8e463b60c07a-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:25:50 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 06 Mar 2021 12:05:55 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: 9a90b5b8-b6b3-4ac6-80e9-886f82e71373
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=6219072e-fa0e-4aa6-b788-6ddeddae0a31; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+Set-Cookie: trrgeo=36.9201%7C-76.2122%7CNORFOLK%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Mon, 01 Mar 2021 22:25:50 GMT; Secure
+X-Frame-Options: SAMEORIGIN
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-xact-uuid: 09bc1313-7efa-4a96-b72d-27928abe9d40
+x-xact-montador-time: 1614551156
+x-http-reason: OK
+x-cache-profile: cover
+cache-control: max-age=180, private
+x-original-ua: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+strict-transport-security: max-age=15552000
+x-mt-cache: HIT
+x-frame-options: SAMEORIGIN
+date: Sun, 28 Feb 2021 22:25:57 GMT
+set-cookie: X-XAct-ID=1d19571e-853f-45e3-ae6c-db9016493ded; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+set-cookie: trrgeo=36.8919%7C-76.2325%7CNORFOLK%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Mon, 01 Mar 2021 22:25:56 GMT; Secure
+

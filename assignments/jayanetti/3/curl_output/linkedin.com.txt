@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.linkedin.com/
+X-Li-Pop: afd-prod-esv5
+X-LI-Proto: http/1.1
+X-MSEdge-Ref: Ref A: FCB401EB84CE41149602624E768A82A2 Ref B: BLUEDGE0614 Ref C: 2021-02-28T22:24:33Z
+Date: Sun, 28 Feb 2021 22:24:33 GMT
+
+HTTP/2 200 
+cache-control: no-cache, no-store
+pragma: no-cache
+content-length: 84638
+content-type: text/html; charset=utf-8
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: JSESSIONID=ajax:4756133719201294310; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure
+set-cookie: lang=v=2&lang=en-us; SameSite=None; Path=/; Domain=linkedin.com; Secure
+set-cookie: bcookie="v=2&1e9477f6-85bf-4c64-85e7-a445c7442223"; domain=.linkedin.com; Path=/; Secure; Expires=Wed, 01-Mar-2023 10:02:06 GMT; SameSite=None
+set-cookie: bscookie="v=1&202102282224345238bc50-de95-41a1-8c70-8b67f776e6b9AQFD0IqwOhZfM_fRYtsYrq0J0WHcR_uw"; domain=.www.linkedin.com; Path=/; Secure; Expires=Wed, 01-Mar-2023 10:02:06 GMT; HttpOnly; SameSite=None
+set-cookie: lidc="b=TGST01:s=T:r=T:g=2443:u=1:i=1614551074:t=1614637474:v=1:sig=AQEfpqo1vD2zTiFPnt5Z2GpZuTjxFCba"; Expires=Mon, 01 Mar 2021 22:24:34 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
+x-fs-uuid: 682990d0a5096816f0c4e1ade32a0000
+expect-ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+content-security-policy: default-src 'none'; connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; script-src 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-zTIusdVJJeXz9+iox2a+pdDglzbpRpFVRzEwvW4AONk=' 'sha256-iC8MPqNLw0FDnsBf4DlSkFLNTwhkI85aouiAEB819ic=' 'sha256-2EqrEvcPzl8c6/TSGVvaVMEe7lg700MAz/te4/3kTYY=' 'sha256-y5uW69VItKj51mcc7UD9qfptDVUqicZL+bItEpvVNDw=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' snap.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src dms.licdn.com *.lynda.com; child-src blob: lnkd-communities: voyager: *; frame-src 'self' https://www.youtube.com/embed/ https://www.youtube-nocookie.com/embed/ lnkd.demdex.net https://smartlock.google.com/ https://accounts.google.com/ linkedin.cdn.qualaroo.com player.vimeo.com www.linkedin.com www.slideshare.net *.megaphone.fm msit.powerbi.com app.powerbi.com linkedin.github.io; manifest-src 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=gg
+content-security-policy-report-only: default-src 'none'; connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; script-src 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-zTIusdVJJeXz9+iox2a+pdDglzbpRpFVRzEwvW4AONk=' 'sha256-iC8MPqNLw0FDnsBf4DlSkFLNTwhkI85aouiAEB819ic=' 'sha256-2EqrEvcPzl8c6/TSGVvaVMEe7lg700MAz/te4/3kTYY=' 'sha256-y5uW69VItKj51mcc7UD9qfptDVUqicZL+bItEpvVNDw=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' snap.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src dms.licdn.com *.lynda.com; child-src blob: lnkd-communities: voyager: *; frame-src 'self' https://www.youtube.com/embed/ https://www.youtube-nocookie.com/embed/ lnkd.demdex.net https://smartlock.google.com/ https://accounts.google.com/ linkedin.cdn.qualaroo.com player.vimeo.com www.linkedin.com www.slideshare.net *.megaphone.fm msit.powerbi.com app.powerbi.com linkedin.github.io; manifest-src 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=gm
+x-li-fabric: prod-ltx1
+x-li-pop: afd-prod-ltx1
+x-li-proto: http/2
+x-li-uuid: aCmQ0KUJaBbwxOGt4yoAAA==
+x-msedge-ref: Ref A: 9E003B6AD71246D0AF781AB6C6692A96 Ref B: ASHEDGE1207 Ref C: 2021-02-28T22:24:34Z
+date: Sun, 28 Feb 2021 22:24:33 GMT
+

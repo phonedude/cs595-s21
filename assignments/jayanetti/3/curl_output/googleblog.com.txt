@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://googleblog.com/
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 28 Feb 2021 22:24:00 GMT
+Expires: Sun, 28 Feb 2021 22:24:00 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+HTTP/2 302 
+strict-transport-security: max-age=86400; includeSubDomains
+location: https://www.blog.google
+content-type: text/html; charset=UTF-8
+date: Sun, 28 Feb 2021 22:24:05 GMT
+expires: Sun, 28 Feb 2021 22:24:05 GMT
+cache-control: private, max-age=0
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-security-policy: img-src * data: blob:; connect-src 'self' plus.google.com www.google-analytics.com apis.google.com cdn.ampproject.org *.google.com https://services.google.com/fb/submissions/thekeywordtest/ https://services.google.com/fb/submissions/0a65d7733e1f11ea9701614fc033d30c/ *.gstatic.com gstatic.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com *.gstatic.com storage.googleapis.com *.google.com; base-uri 'none'; default-src 'self' *.gstatic.com; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.googleanalytics.com *.google-analytics.com ajax.googleapis.com *.youtube.com youtube.com optimize.google.com https://s.ytimg.com *.googletagmanager.com apis.google.com storage.googleapis.com *.googleapis.com *.google.com 'sha256-786mZQPkATV3kJd7q8ZuwoTH4U3/0WniBdyVOgZQpv4=' 'sha256-Xyk5Ei/Yh7DuZgaxNfbPswkpmMKHk5Jy18vkxjfPMj0=' 'sha256-hdPneczWRi+c9LQVo+PzNzlNr9TacChC0CW0fiDBHkI=' 'sha256-DE/j4w1a1HDIXysWgFTrJCJK6JWEcHqScfyMr9zq9R4=' 'sha256-Ehy9lGqrTi8OqqWxX1HN6hKJT7iwwYMFJ+HLjpEobO0=' 'sha256-s/yvuH0ZHyO+7N8dM5CshPem4K1PknDExYN18xHq0LI=' 'sha256-MWQdkIAX5J//suH1t5P3PFFwFUiphY0PxD6VVzbBehQ=' 'sha256-587vJAV9t9k86IMQixmyKa7lbPaDhkGzrJsdngtoiAA=' 'sha256-kYDvl4o9O3XKKtgQW4BZzZZ44BDD2lwJj6eNJ8HyqWg=' *.googleapis.com *.gstatic.com gstatic.com googleadservices.com *.googleadservices.com; font-src 'self' themes.googleusercontent.com *.gstatic.com https://fonts.gstatic.com storage.googleapis.com fonts.googleapis.com; frame-src 'self' www.google.com *.youtube.com youtube.com accounts.google.com plus.google.com *.doubleclick.net apis.google.com optimize.google.com *.google.com
+content-language: en-us
+access-control-allow-origin: *
+x-cloud-trace-context: 41fcdf3ea9344190401ebcf6efcfba40
+content-length: 0
+date: Sun, 28 Feb 2021 22:24:05 GMT
+server: Google Frontend
+
