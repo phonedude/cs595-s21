@@ -22,7 +22,7 @@
   * Lax: 28
   * None: 41
 * Path: 182
-  * Values other than /: 1
+  * Values other than "/": 1
 
 ### Min/Max/Mean/Median 
 
