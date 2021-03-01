@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:24:57 GMT
+Server: Apache
+Location: https://nps.gov:443/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:24:57 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+Strict-Transport-Security: max-age=31536000; preload
+Location: https://www.nps.gov/
+Vary: Accept-Encoding
+Set-Cookie: AWSALB=09OpFpXxqSHsM5KpeeIGmJ0zSg74gbzEeqHLPU/wpv/8zxSN+xgCNUYMihBQGrDLIlxXsec4PwyCuSx5jw/WchqQiEKFVx3ZD8rlgRMcGi49049M5y/gtv6U5dXC; Expires=Sun, 07 Mar 2021 22:24:57 GMT; Path=/
+Set-Cookie: AWSALBCORS=09OpFpXxqSHsM5KpeeIGmJ0zSg74gbzEeqHLPU/wpv/8zxSN+xgCNUYMihBQGrDLIlxXsec4PwyCuSx5jw/WchqQiEKFVx3ZD8rlgRMcGi49049M5y/gtv6U5dXC; Expires=Sun, 07 Mar 2021 22:24:57 GMT; Path=/; SameSite=None; Secure
+
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.nps.gov/index.htm
+date: Sun, 28 Feb 2021 22:24:57 GMT
+strict-transport-security: max-age=31536000 ; preload
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+server: Apache
+access-control-allow-origin: *
+p3p: policyref="https://www.nps.gov/w3c/p3p.xml", CP="ALL DSP COR OTP PUB BUS OTC"
+date: Sun, 28 Feb 2021 22:24:57 GMT
+strict-transport-security: max-age=31536000 ; preload
+

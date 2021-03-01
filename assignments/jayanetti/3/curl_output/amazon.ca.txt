@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 28 Feb 2021 22:21:47 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://amazon.ca/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 28 Feb 2021 22:21:47 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.ca/
+
+HTTP/2 503 
+content-type: text/html
+content-length: 1888
+server: Server
+date: Sun, 28 Feb 2021 22:21:47 GMT
+x-amz-rid: HT2YYAY9ANDXTANHEQNF
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+last-modified: Wed, 30 Sep 2020 23:54:00 GMT
+etag: "760-5b0909d09d600"
+accept-ranges: bytes
+x-cache: Error from cloudfront
+via: 1.1 8ba3a4becb51f8eb807e5e3697846e1a.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: Cb4a7HjCktCfMZrEKNuCDnslh1CNVU0VSwQXo5cvxmRwruZ184wC2g==
+

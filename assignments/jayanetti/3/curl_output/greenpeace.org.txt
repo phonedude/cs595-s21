@@ -1,0 +1,36 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Sun, 28 Feb 2021 22:24:14 GMT
+Content-Type: text/html
+Content-Length: 138
+Connection: keep-alive
+Location: https://www.greenpeace.org/
+
+HTTP/2 301 
+date: Sun, 28 Feb 2021 22:24:14 GMT
+set-cookie: __cfduid=ddfc521966e055e471047bff646d0b7511614551054; expires=Tue, 30-Mar-21 22:24:14 GMT; path=/; domain=.greenpeace.org; HttpOnly; SameSite=Lax
+location: https://www.greenpeace.org/global/
+cf-cache-status: BYPASS
+cf-apo-via: origin,nohtml
+cf-request-id: 088c570ff90000c07519087000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d8df98ebec075-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:24:14 GMT
+content-type: text/html
+set-cookie: __cfduid=ddfc521966e055e471047bff646d0b7511614551054; expires=Tue, 30-Mar-21 22:24:14 GMT; path=/; domain=.greenpeace.org; HttpOnly; SameSite=Lax
+cf-ray: 628d8dfc38bdc075-ORF
+age: 180562
+vary: Accept-Encoding, Accept-Encoding
+cf-cache-status: HIT
+cf-apo-via: cache
+cf-request-id: 088c5711a90000c075211bf000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
