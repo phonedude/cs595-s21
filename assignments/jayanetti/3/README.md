@@ -1,6 +1,6 @@
 # Assignment 3: Cookie Report
 
-### List of directories
+## List of directories
 
   * [Data Table](data.tsv)
   * Code
@@ -11,7 +11,9 @@
     * [JSON Output](out.json)
 
 
-### Summary
+## Summary
+
+### 
 
 * HttpOnly: 72
 * Secure: 115
@@ -21,6 +23,8 @@
   * None: 41
 * Path: 182
   * Values other than /: 1
+
+### Min/Max/Mean/Median 
 
 * Minimum number of cookies: 0
 * Maximum number of cookies: 14
