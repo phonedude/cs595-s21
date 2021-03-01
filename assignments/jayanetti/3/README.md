@@ -2,12 +2,13 @@
 
 ### List of directories
 
-  * [CURL Responses](curl_output)
-  * [JSON Output](out.json)
   * [Data Table](data.tsv)
   * Code
-    * [javascript](analyze_cookies.py)
-    * [node](summary.py)
+    * [Collect CURL responses and dump JSON](analyze_cookies.py)
+    * [Creat summary table with values](summary.py)
+  * Intermediate Files
+    * [CURL Responses](curl_output)
+    * [JSON Output](out.json)
 
 * Here are the screen shots of tutorial completion.
 
