@@ -16,11 +16,11 @@
 * HttpOnly: 72
 * Secure: 115
 * SameSite: 72
- * Strict: 3
- * Lax: 28
- * None: 41
+  * Strict: 3
+  * Lax: 28
+  * None: 41
 * Path: 182
- * Values other than /: 1
+  * Values other than /: 1
 
 * Minimum number of cookies: 0
 * Maximum number of cookies: 14
