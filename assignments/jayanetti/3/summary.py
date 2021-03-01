@@ -82,7 +82,7 @@ if __name__ == '__main__':
 							if samesite.lower() == "none": 
 								SameSite_none = SameSite_none + 1
 						if key.lower() == "path":
-							tot_samesite = tot_samesite + 1
+							tot_path = tot_path + 1
 							path  = json[url]['cookie-parameters'][str(i)][key]
 							path = path.strip("\n")
 							Path = Path + 1
