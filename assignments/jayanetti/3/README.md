@@ -3,8 +3,11 @@
 ### List of directories
 
   * [CURL Responses](curl_output)
-  * [javascript](javascript)
-  * [node](node)
+  * [JSON Output](out.json)
+  * [Data Table](data.tsv)
+  * Code
+    * [javascript](analyze_cookies.py)
+    * [node](summary.py)
 
 * Here are the screen shots of tutorial completion.
 
