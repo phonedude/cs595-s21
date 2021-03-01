@@ -9,20 +9,20 @@
       "3": {},
       "4": {
         "path": "/",
-        "secure": "Mon, 28 Feb 2022 22:21:37 -0000"
+        "secure": "y"
       },
       "5": {
         "path": "/",
-        "secure": "Mon, 28 Feb 2022 22:21:37 -0000"
+        "secure": "y"
       },
       "6": {
         "path": "/",
-        "secure": "Thu, 01 Jan 1970 00:00:00 -0000"
+        "secure": "y"
       },
       "7": {
         "path": "/",
-        "secure": "/",
-        "HttpOnly": "/"
+        "secure": "y",
+        "HttpOnly": "y"
       },
       "8": {},
       "9": {}
@@ -34,13 +34,13 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "Tue, 28-Feb-2023 22:21:44 GMT",
-        "HttpOnly": "Tue, 28-Feb-2023 22:21:44 GMT"
+        "Secure": "y",
+        "HttpOnly": "y"
       },
       "1": {
         "Path": "/",
-        "Secure": "Tue, 28-Feb-2023 22:21:44 GMT",
-        "HttpOnly": "Tue, 28-Feb-2023 22:21:44 GMT"
+        "Secure": "y",
+        "HttpOnly": "y"
       }
     }
   },
@@ -79,7 +79,7 @@
       "1": {
         "Path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "2": {
         "path": "/",
@@ -87,7 +87,7 @@
       },
       "3": {
         "path": "/",
-        "httponly": "www.answers.com",
+        "httponly": "y",
         "samesite": "lax\n"
       },
       "4": {
@@ -135,8 +135,8 @@
       },
       "2": {
         "path": "/",
-        "Secure": "Fri, 27-Feb-2026 22:22:11 GMT",
-        "HTTPOnly": "Fri, 27-Feb-2026 22:22:11 GMT",
+        "Secure": "y",
+        "HTTPOnly": "y",
         "SameSite": "None\n"
       }
     }
@@ -147,7 +147,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".google.com"
+        "HttpOnly": "y"
       }
     }
   },
@@ -167,7 +167,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".brandbucket.com",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       },
       "1": {
@@ -218,7 +218,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".cambridge.org",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       }
     }
@@ -229,25 +229,25 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".www.cloudflare.com",
+        "HttpOnly": "y",
         "SameSite": "Lax",
-        "Secure": "Lax"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
-        "HttpOnly": ".www.cloudflare.com",
-        "Secure": ".www.cloudflare.com",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "None\n"
       },
       "2": {
         "SameSite": "Lax",
         "path": "/",
-        "HttpOnly": "Mon, 01-Mar-21 21:22:35 GMT"
+        "HttpOnly": "y"
       },
       "3": {
         "path": "/",
-        "HttpOnly": ".www.cloudflare.com",
-        "Secure": ".www.cloudflare.com",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "None\n"
       }
     }
@@ -258,31 +258,31 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "1": {
         "Path": "/",
-        "HttpOnly": ".wikipedia.org",
-        "secure": ".wikipedia.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "2": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "3": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "4": {
         "Path": "/",
-        "HttpOnly": ".wikipedia.org",
-        "secure": ".wikipedia.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "5": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       }
     }
   },
@@ -297,65 +297,65 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "1": {
-        "httponly": "Fri, 27 Feb 2026 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "2": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "3": {
-        "httponly": "Sun, 28 Feb 2021 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "4": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "5": {
-        "httponly": "Wed, 28 Feb 2024 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "6": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "7": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "8": {
-        "httponly": "Fri, 27 Feb 2026 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "9": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "10": {
-        "httponly": "Sun, 28 Feb 2021 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "11": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "12": {
-        "httponly": "Wed, 28 Feb 2024 22:22:40 GMT",
+        "httponly": "y",
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "13": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       }
     }
   },
@@ -375,31 +375,31 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "1": {
         "Path": "/",
-        "HttpOnly": ".wikipedia.org",
-        "secure": ".wikipedia.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "2": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "3": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "4": {
         "Path": "/",
-        "HttpOnly": ".wikipedia.org",
-        "secure": ".wikipedia.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "5": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       }
     }
   },
@@ -415,17 +415,17 @@
       "0": {
         "path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "2": {
         "path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       }
     }
   },
@@ -435,13 +435,13 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "secure": ".facebook.com",
-        "httponly": ".facebook.com"
+        "secure": "y",
+        "httponly": "y"
       },
       "1": {
         "path": "/",
-        "secure": ".facebook.com",
-        "httponly": ".facebook.com"
+        "secure": "y",
+        "httponly": "y"
       }
     }
   },
@@ -470,11 +470,11 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "Secure": ".google.com"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
-        "HttpOnly": ".google.com"
+        "HttpOnly": "y"
       }
     }
   },
@@ -484,7 +484,7 @@
     "cookie-parameters": {}
   },
   "godaddy.com": {
-    "status-code": "200",
+    "status-code": "000",
     "number-of-cookies": 0,
     "cookie-parameters": {}
   },
@@ -553,12 +553,12 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".greenpeace.org",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       },
       "1": {
         "path": "/",
-        "HttpOnly": ".greenpeace.org",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       }
     }
@@ -589,9 +589,9 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".ig.com.br",
+        "HttpOnly": "y",
         "SameSite": "Lax",
-        "Secure": "Lax"
+        "Secure": "y"
       }
     }
   },
@@ -600,30 +600,30 @@
     "number-of-cookies": 6,
     "cookie-parameters": {
       "0": {
-        "HttpOnly": "Tue, 28-Feb-2023 22:24:28 GMT",
+        "HttpOnly": "y",
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "1": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "2": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "3": {
-        "HttpOnly": "Tue, 28-Feb-2023 22:24:28 GMT",
+        "HttpOnly": "y",
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "4": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "5": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       }
     }
   },
@@ -642,12 +642,12 @@
       "1": {
         "path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "2": {
         "path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       }
     }
   },
@@ -658,28 +658,28 @@
       "0": {
         "SameSite": "None",
         "Path": "/",
-        "Secure": ".www.linkedin.com"
+        "Secure": "y"
       },
       "1": {
         "SameSite": "None",
         "Path": "/",
-        "Secure": "linkedin.com"
+        "Secure": "y"
       },
       "2": {
         "Path": "/",
-        "Secure": "/",
+        "Secure": "y",
         "SameSite": "None\n"
       },
       "3": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "Wed, 01-Mar-2023 10:02:06 GMT",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "None\n"
       },
       "4": {
         "Path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       }
     }
   },
@@ -694,8 +694,8 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "Tue, 28-Feb-2023 22:24:36 GMT",
-        "HttpOnly": "Tue, 28-Feb-2023 22:24:36 GMT"
+        "Secure": "y",
+        "HttpOnly": "y"
       }
     }
   },
@@ -730,14 +730,14 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".namesilo.com",
+        "HttpOnly": "y",
         "SameSite": "Lax",
-        "Secure": "Lax"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
-        "HttpOnly": ".namesilo.com",
-        "Secure": ".namesilo.com",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "None\n"
       }
     }
@@ -753,19 +753,19 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".google.com"
+        "HttpOnly": "y"
       },
       "1": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "2": {
         "path": "/",
-        "HttpOnly": ".google.com"
+        "HttpOnly": "y"
       },
       "3": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       }
     }
   },
@@ -797,8 +797,8 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "HttpOnly": "/",
-        "Secure": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "Lax\n"
       },
       "1": {
@@ -809,19 +809,19 @@
       },
       "3": {
         "Path": "/",
-        "Secure": "Wed, 26 Feb 2031 22:24:59 GMT",
+        "Secure": "y",
         "SameSite": "None\n"
       },
       "4": {
         "Path": "/",
-        "HttpOnly": "/",
-        "Secure": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "Lax\n"
       },
       "5": {
         "Path": "/",
-        "HttpOnly": "/",
-        "Secure": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
         "SameSite": "Lax\n"
       }
     }
@@ -864,7 +864,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".google.com"
+        "HttpOnly": "y"
       }
     }
   },
@@ -879,24 +879,24 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".researchgate.net",
+        "HttpOnly": "y",
         "SameSite": "Lax",
-        "Secure": "Lax"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
-        "secure": ".www.researchgate.net",
-        "httponly": ".www.researchgate.net"
+        "secure": "y",
+        "httponly": "y"
       },
       "2": {
         "path": "/",
-        "secure": ".www.researchgate.net",
-        "httponly": ".www.researchgate.net"
+        "secure": "y",
+        "httponly": "y"
       },
       "3": {
         "Path": "/",
-        "Secure": ".www.researchgate.net",
-        "HttpOnly": ".www.researchgate.net"
+        "Secure": "y",
+        "HttpOnly": "y"
       }
     }
   },
@@ -906,7 +906,7 @@
     "cookie-parameters": {
       "0": {
         "Path": "/rcom-betaus/",
-        "HttpOnly": "/rcom-betaus/"
+        "HttpOnly": "y"
       }
     }
   },
@@ -926,8 +926,8 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "secure": "/",
-        "HttpOnly": "/"
+        "secure": "y",
+        "HttpOnly": "y"
       }
     }
   },
@@ -943,33 +943,33 @@
       "0": {
         "Path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "1": {
         "Path": "/",
-        "secure": "Sun, 28-Feb-21 22:55:47 GMT",
+        "secure": "y",
         "samesite": "none\n"
       },
       "2": {
         "Path": "/",
-        "secure": "Sat, 29-May-21 22:25:47 GMT",
+        "secure": "y",
         "samesite": "none\n"
       },
       "3": {
         "Path": "/",
-        "httponly": "Sat, 29-May-21 22:25:47 GMT",
-        "secure": "Sat, 29-May-21 22:25:47 GMT",
+        "httponly": "y",
+        "secure": "y",
         "samesite": "none\n"
       },
       "4": {
         "Path": "/",
-        "secure": "Tue, 01-Mar-22 04:25:47 GMT",
+        "secure": "y",
         "samesite": "none\n"
       },
       "5": {
         "Path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       }
     }
   },
@@ -979,10 +979,10 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "/"
+        "Secure": "y"
       },
       "1": {
-        "Secure": "Mon, 01 Mar 2021 22:25:56 GMT"
+        "Secure": "y"
       }
     }
   },
@@ -992,7 +992,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".thenextweb.com",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       },
       "1": {
@@ -1010,7 +1010,7 @@
       "1": {
         "Path": "/",
         "SameSite": "Lax",
-        "Secure": "Lax"
+        "Secure": "y"
       }
     }
   },
@@ -1035,7 +1035,7 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "HttpOnly": ".tinyurl.com",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       },
       "1": {
@@ -1044,7 +1044,7 @@
       },
       "2": {
         "path": "/",
-        "httponly": ".tinyurl.com",
+        "httponly": "y",
         "samesite": "lax\n"
       },
       "3": {
@@ -1057,7 +1057,7 @@
       },
       "5": {
         "path": "/",
-        "HttpOnly": ".tinyurl.com",
+        "HttpOnly": "y",
         "SameSite": "Lax\n"
       },
       "6": {
@@ -1066,7 +1066,7 @@
       },
       "7": {
         "path": "/",
-        "httponly": ".tinyurl.com",
+        "httponly": "y",
         "samesite": "lax\n"
       },
       "8": {
@@ -1099,7 +1099,7 @@
       "1": {
         "Path": "/",
         "SameSite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "2": {
         "Path": "/\n"
@@ -1124,7 +1124,7 @@
       },
       "1": {
         "Path": "/",
-        "Secure": "/",
+        "Secure": "y",
         "SameSite": "None\n"
       },
       "2": {
@@ -1142,12 +1142,12 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "secure": ".washingtonpost.com",
+        "secure": "y",
         "SameSite": "None\n"
       },
       "1": {
         "path": "/",
-        "secure": ".washingtonpost.com",
+        "secure": "y",
         "SameSite": "None\n"
       },
       "2": {
@@ -1156,12 +1156,12 @@
       "3": {
         "path": "/",
         "SameSite": "None",
-        "secure": "None"
+        "secure": "y"
       },
       "4": {
         "path": "/",
         "SameSite": "None",
-        "secure": "None"
+        "secure": "y"
       }
     }
   },
@@ -1176,31 +1176,31 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "1": {
         "Path": "/",
-        "HttpOnly": ".wiktionary.org",
-        "secure": ".wiktionary.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "2": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       },
       "3": {
         "Path": "/",
-        "HttpOnly": "/",
-        "secure": "/"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "4": {
         "Path": "/",
-        "HttpOnly": ".wiktionary.org",
-        "secure": ".wiktionary.org"
+        "HttpOnly": "y",
+        "secure": "y"
       },
       "5": {
         "Path": "/",
-        "secure": "/"
+        "secure": "y"
       }
     }
   },
@@ -1210,34 +1210,34 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "wired.com"
+        "Secure": "y"
       },
       "1": {
         "SameSite": "Strict",
-        "Secure": "Strict"
+        "Secure": "y"
       },
       "2": {
         "Path": "/",
         "Samesite": "None",
-        "Secure": "None"
+        "Secure": "y"
       },
       "3": {
         "Path": "/",
-        "Secure": "wired.com"
+        "Secure": "y"
       },
       "4": {
         "SameSite": "Strict",
-        "Secure": "Strict"
+        "Secure": "y"
       },
       "5": {
         "path": "/",
-        "Secure": "/",
+        "Secure": "y",
         "SameSite": "None"
       },
       "6": {
         "path": "/",
-        "Secure": "/",
-        "httponly": "/",
+        "Secure": "y",
+        "httponly": "y",
         "SameSite": "None"
       },
       "7": {
@@ -1252,7 +1252,7 @@
       "10": {
         "Path": "/",
         "Samesite": "None",
-        "Secure": "None"
+        "Secure": "y"
       }
     }
   },
@@ -1267,36 +1267,36 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/"
+        "Secure": "y",
+        "HttpOnly": "y"
       },
       "1": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "2": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "3": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/"
+        "Secure": "y",
+        "HttpOnly": "y"
       },
       "4": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "5": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       }
     }
@@ -1307,31 +1307,31 @@
     "cookie-parameters": {
       "0": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "1": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "2": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/"
+        "Secure": "y",
+        "HttpOnly": "y"
       },
       "3": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       },
       "4": {
         "Path": "/",
-        "Secure": "/",
-        "HttpOnly": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
         "SameSite": "none\n"
       }
     }
@@ -1342,19 +1342,19 @@
     "cookie-parameters": {
       "0": {
         "path": "/",
-        "Secure": ".zdnet.com"
+        "Secure": "y"
       },
       "1": {
         "path": "/",
-        "Secure": ".zdnet.com"
+        "Secure": "y"
       },
       "2": {
         "path": "/",
-        "Secure": ".zdnet.com"
+        "Secure": "y"
       },
       "3": {
         "path": "/",
-        "Secure": ".zdnet.com"
+        "Secure": "y"
       }
     }
   }

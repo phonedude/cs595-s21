@@ -1,6 +1,6 @@
  	 	 	Total	 	 	 	1				2				3				4				5				6				7				8				9				10				11				12				13				14
 URL	status-code	number-of-cookies	Total-HttpOnly	Total-Secure	Total-SameSite	Total-Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path	HttpOnly	Secure	SameSite	Path
-academia.edu	200	10	1	4	4	0	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	y	n	/	n	y	n	/	n	y	n	/	y	y	n	/	y	y	n	/	y	y	n	/	
+academia.edu	200	10	1	4	4	0	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	y	n	/	n	y	n	/	n	y	n	/	y	y	n	/	n	n	n	n	n	n	n	n	
 accounts.google.com	200	2	2	2	2	0	y	y	n	/	y	y	n	/	
 adobe.com	200	0	0	0	0	0	
 adweek.com	200	0	0	0	0	0	
@@ -34,7 +34,7 @@ forbes.com	200	0	0	0	0	0
 foxnews.com	200	0	0	0	0	0	
 get.google.com	200	2	1	1	2	0	n	y	n	/	y	y	n	/	
 ggpht.com	000	0	0	0	0	0	
-godaddy.com	200	0	0	0	0	0	
+godaddy.com	000	0	0	0	0	0	
 gofundme.com	200	6	0	0	6	0	n	n	n	/	n	n	n	/	n	n	n	/	n	n	n	/	n	n	n	/	n	n	n	/	
 goo.gl	200	0	0	0	0	0	
 google.co.in	200	0	0	0	0	0	

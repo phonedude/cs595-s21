@@ -54,9 +54,9 @@ def grep(url,file):
 
 def get_cookie_parameters(cookie):
 	#To create a dictionary with parameters in the set-cookie
-	value = cookie.split("set-cookie:")[1]
+	cookie_value = cookie.split("set-cookie:")[1]
 	#print(value)
-	key_value_list = value.split(";")
+	key_value_list = cookie_value.split(";")
 	#print(key_value_list)
 	cookie_dic = {}
 	for each in key_value_list:
@@ -66,12 +66,14 @@ def get_cookie_parameters(cookie):
 			key = key.strip(" ")		
 		except:
 			key = each.split("=",1)[0]
+			key = key.strip(" ")		
+			value = "y"
 		para = ["httponly","secure","samesite","path"]
 		key = key.strip(" \n") #FIXXXXXXXXXXX
 		#print(key)
 		if key.lower() in para:
-			#print(key)
 			cookie_dic[key] = value
+	#	print(cookie_dic)
 	return cookie_dic
 
 def get_status_code(url):	
@@ -95,8 +97,10 @@ if __name__ == '__main__':
 		url = url.strip("\n")
 		print(url)
 		file = f"curl_output/{url}.txt"
-		collect_data(url,file)			
-		sc = get_status_code(url)	
+		#collect_data(url,file)			
+		sc = get_status_code(url)
+		if sc == 0:
+			sc = "Coul"	
 		n_cookies, cookie_dic = grep(url,file)
 		data["status-code"] = sc
 		data["number-of-cookies"] = n_cookies	
