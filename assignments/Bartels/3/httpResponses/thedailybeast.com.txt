@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:32 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 26 Feb 2021 21:15:32 GMT
+Location: https://www.thedailybeast.com/
+cf-request-id: 08819485de0000c0751e21a000000001
+Server: cloudflare
+CF-RAY: 627c56b63978c075-ORF
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:15:33 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: __cfduid=d535868ea172777b7a9995b2b4f6e45811614370532; expires=Sun, 28-Mar-21 20:15:32 GMT; path=/; domain=.thedailybeast.com; HttpOnly; SameSite=Lax
+CF-Ray: 627c56b719b8c089-ORF
+Set-Cookie: __tdbbrowser=d335ddb2-2269-4e27-8681-e2446d1a6b98; path=/; expires=Mon, 24 Feb 2031 20:15:33 GMT; samesite=lax; httponly
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088194866c0000c089421f9000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __tdbbrowser.sig=xyjiz8Z-SbZIeN0iHtJe07OBcwQ; path=/; expires=Mon, 24 Feb 2031 20:15:33 GMT; samesite=lax; httponly
+Set-Cookie: kppid=o1ZgEVJ8nSs; path=/; expires=Wed, 25 Aug 2021 20:15:33 GMT; domain=thedailybeast.com
+Set-Cookie: kppid.sig=Frt1MKOmCooRHQyK1R2nPd8ABR8; path=/; expires=Wed, 25 Aug 2021 20:15:33 GMT; domain=thedailybeast.com
+Set-Cookie: __tdbsesh=eyJub3dJbk1pbnV0ZXMiOjI2OTA2MTc1LCJzZXNzaW9uSWQiOiI0OTlmYjliMS1iZjY3LTQxZDAtOGQ5NC1jMWU3MDQ1NzY1ZjIiLCJkZnBCdWNrZXRJZCI6MTZ9; path=/; expires=Fri, 26 Feb 2021 20:45:33 GMT; samesite=lax; httponly
+Set-Cookie: __tdbsesh.sig=t2TRJB9ZIq9u5yirtL91EZsyrRo; path=/; expires=Fri, 26 Feb 2021 20:45:33 GMT; samesite=lax; httponly
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-powered-by: Express
+x-tdb-cache-scope: rev:22.4.284:gbp:desktop
+x-tdb-deployment: 22.4.284
+x-tdb-host: prod-tdb-774c57464f-29wj8
+x-tdb-revision: 829fff5c8698919913d23b3f674d280524663d48
+x-xss-protection: 1; mode=block
+Server: cloudflare
+

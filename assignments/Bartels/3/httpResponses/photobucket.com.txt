@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://photobucket.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 7bab52277d6272f1dda6e20e26aba08f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: w_pFNCPmotnpCIkjSF8_wWwTKM5GcCDxk8VvY-DtTVNOZwlyfe3DFQ==
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Server: awselb/2.0
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Location: https://app.photobucket.com:443/
+X-Cache: Miss from cloudfront
+Via: 1.1 7ff806af6d25cdaec01063add992fe27.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: u9hT3Y_8V0kX91G1mUHJxFo9RL0RuFdK1IAGnvvPv-VLSEWiaP8XTA==
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 16907
+Connection: keep-alive
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Server: nginx
+Last-Modified: Fri, 26 Feb 2021 08:26:09 GMT
+ETag: "6038b0a1-420b"
+Strict-Transport-Security: max-age=604800
+Accept-Ranges: bytes
+X-Cache: Miss from cloudfront
+Via: 1.1 3ce1b04fdf4b78c695ea1764363d1f38.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C3
+X-Amz-Cf-Id: -ktoQbTkAovJ0_BTUs9-vUxA1H7cGnZb9LiI7BNJOIVKI500esyxlQ==
+

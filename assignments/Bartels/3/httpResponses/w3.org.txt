@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: http://www.w3.org/
+
+HTTP/1.1 200 OK
+date: Fri, 26 Feb 2021 20:15:40 GMT
+content-location: Home.html
+vary: negotiate,accept,Accept-Encoding,upgrade-insecure-requests
+tcn: choice
+last-modified: Thu, 25 Feb 2021 14:20:17 GMT
+etag: "8513-5bc29d9c80a40;89-3f26bd17a2f00"
+accept-ranges: bytes
+content-length: 34067
+cache-control: max-age=600
+expires: Fri, 26 Feb 2021 20:25:40 GMT
+content-type: text/html; charset=utf-8
+x-backend: www-mirrors
+

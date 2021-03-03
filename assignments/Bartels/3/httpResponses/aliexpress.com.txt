@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:13 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Set-Cookie: ali_apache_id=33.0.189.213.1614370393576.193558.2; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: https://www.aliexpress.com/
+Server: Tengine/Aserver
+EagleEye-TraceId: 2100bdd516143703935775555e1b74
+Timing-Allow-Origin: *
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+P3P: CP="CAO PSA OUR"
+X-Application-Context: ae-buyer-homepage-f:prod:7001
+Cache-Control: max-age=0
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Language: en-US
+Access-Control-Allow-Origin: https://hz.aliexpress.com
+Server: Tengine/Aserver
+EagleEye-TraceId: 0b0a555616143703938507660e47cb
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+Date: Fri, 26 Feb 2021 20:13:13 GMT
+Connection: keep-alive
+Set-Cookie: ali_apache_id=11.10.85.86.1614370393853.134200.9; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Set-Cookie: xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1&x_as_i=%7B%22aeuCID%22%3A%22%22%2C%22cookieCacheEffectTime%22%3A1614370693865%2C%22isCookieCache%22%3A%22Y%22%2C%22ms%22%3A%220%22%7D&acs_rt=948ccda77f4142ccbf544fc500fe7986; Domain=.aliexpress.com; Expires=Wed, 16-Mar-2089 23:27:20 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: acs_usuc_t=x_csrf=u52rp6zveq0o&acs_rt=948ccda77f4142ccbf544fc500fe7986; Domain=.aliexpress.com; Path=/; Secure; SameSite=None
+Set-Cookie: intl_locale=en_US; Domain=.aliexpress.com; Path=/
+Set-Cookie: aep_usuc_f=site=glo&c_tp=USD&region=US&b_locale=en_US; Domain=.aliexpress.com; Expires=Wed, 16-Mar-2089 23:27:20 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: xman_t=3BTF3fTiYl/1+eoREXr07nkYlGgfJPkOWsWGv9v4tvmbu4g0N7SpRQzpsxu9JfeJ; Domain=.aliexpress.com; Path=/; Secure; SameSite=None; HttpOnly
+Set-Cookie: intl_common_forever=2fFyhOBxXzc38rtqLTQOu9JgKL2fk/0ukX617n1PgLkvW3rtVd0Jpg==; Domain=.aliexpress.com; Expires=Wed, 16-Mar-2089 23:27:20 GMT; Path=/; HttpOnly
+Set-Cookie: xman_f=/1dQpZMQ5LAAFIfM3zOW94/G4ujMCCtzj389bTM+2GcamNjr0xiPXLK45vg3HM9mEV/EjQZPKQEQv9MZqOvyIMGA816PTZ2CFKKGdpIRGCLqP3UJn/E/Hw==; Domain=.aliexpress.com; Expires=Wed, 16-Mar-2089 23:27:20 GMT; Path=/; Secure; SameSite=None; HttpOnly
+Set-Cookie: JSESSIONID=7D9F77EE545FB62C54EB1F34E374C345; Path=/; HttpOnly
+X-Akamai-Fwd-Auth-SHA: EE6147741C4898B2CF95E53E47676787136B54F55A2DB65748542A44B3169146
+X-Akamai-Fwd-Auth-Data: 1860558119, 23.55.57.4, 1614370393, 68.10.204.79
+X-Akamai-Fwd-Auth-Sign: vQ3LGmbjvpk/eRBGH7ZWum0DC4ljJkkhrjGlFhhOE9LL3Y9L3JwvDS/15O6EZ0DGOIh8WHQ6tBZJTT4ycesHEGCQHyJeuFiRkk811B2vYCg=
+

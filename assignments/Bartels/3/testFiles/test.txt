@@ -1,0 +1,7 @@
+Set-Cookie: xpdpp3=B; expires=Fri, 30 Apr 2021 20:42:41 GMT; domain=godaddy.com; path=/; secure
+Set-Cookie: visitor=cafadcb0-c775-4a47-8acc-0ed3863e40dc; expires=Tue, 01 Mar 2022 20:42:41 GMT; domain=godaddy.com; path=/php
+Set-Cookie: fb_sessiontraffic=S_TOUCH%3D03%2F01%2F2021%252020%3A42%3A41.587%26pathway%3Dcafadcb0-c775-4a47-8acc-0ed3863e40dc%26V_DATE%3D03%2F01%2F2021%252013%3A42%3A41.587%26pc%3D0; domain=godaddy.com; path=/docs
+Set-Cookie: pathway=cafadcb0-c775-4a47-8acc-0ed3863e40dc; domain=godaddy.com; path=/docs/Web
+Set-Cookie: market=en-US; expires=Tue, 01-Mar-2022 20:42:41 GMT; path=/; domain=.godaddy.com
+Set-Cookie: currency=USD; expires=Tue, 01-Mar-2022 20:42:41 GMT; path=/; domain=.godaddy.com
+Set-Cookie: xpnes=A; expires=Tue, 02-Mar-2021 20:42:41 GMT; path=/; domain=.godaddy.com

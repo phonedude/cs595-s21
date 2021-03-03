@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:23 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=10
+Location: https://www.detik.com/
+Server: dtk21
+X-Content-Type-Options: nosniff
+X-XSS-Protection: '1;mode=block'
+Access-Control-Allow-Origin: *
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:13:25 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=10
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Server: dtk24
+X-Content-Type-Options: nosniff
+X-XSS-Protection: '1;mode=block'
+Access-Control-Allow-Origin: *
+X-FastCGI-Cache: HIT
+

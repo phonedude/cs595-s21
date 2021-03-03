@@ -1,0 +1,5 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Moved Permanently
+Via: HTTP/2 edgeproxy, 1.1 google
+HTTP/1.1 200 OK
+Via: HTTP/2 edgeproxy, 1.1 google

@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://yale.edu/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:52 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5558-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614370552.460403,VS0,VE0
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+location: https://www.yale.edu/
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5568-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614370553.594678,VS0,VE0
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 76117
+Cache-Control: public, max-age=21600
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Etag: W/"1614360673-0"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 26 Feb 2021 17:31:13 GMT
+Link: <https://www.yale.edu/>; rel="canonical",<https://www.yale.edu/>; rel="shortlink"
+Server: nginx
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe4-b-7fbc4c4c64-zxtdc
+X-Styx-Req-Id: 732cfd3c-7858-11eb-860b-461c860d1d20
+Age: 9868
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Fri, 26 Feb 2021 20:15:52 GMT
+X-Served-By: cache-mdw17349-MDW, cache-lga21928-LGA, cache-lga21928-LGA
+X-Cache: HIT, HIT, MISS
+X-Cache-Hits: 1, 1, 0
+X-Timer: S1614370553.747169,VS0,VE8
+Vary: Accept-Encoding, Cookie, Cookie, Cookie
+Strict-Transport-Security: max-age=300
+

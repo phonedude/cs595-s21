@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://outlook.live.com/owa/
+Server: Microsoft-IIS/10.0
+X-MSEdge-Ref: Ref A: E01302DE192F4610844F04021E8042B1 Ref B: BL2EDGE1811 Ref C: 2021-02-26T20:14:50Z
+Date: Fri, 26 Feb 2021 20:14:50 GMT
+
+HTTP/1.1 440 Login Timeout
+Content-Length: 154
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+request-id: 9c7a57c9-e2fe-4d37-8917-516077a04ba0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-CalculatedFETarget: SN6PR01CU001.internal.outlook.com
+X-BackEndHttpStatus: 440
+Set-Cookie: RoutingKeyCookie=; expires=Tue, 26-Feb-1991 20:14:50 GMT; path=/; secure
+Set-Cookie: HostSwitchPrg=; expires=Tue, 26-Feb-1991 20:14:50 GMT; path=/; secure
+Set-Cookie: OptInPrg=; expires=Tue, 26-Feb-1991 20:14:50 GMT; path=/; secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-FEProxyInfo: SN6PR01CA0001.PROD.EXCHANGELABS.COM
+X-CalculatedBETarget: SN1SPR01MB0004.namprd13.prod.outlook.com
+X-BackEndHttpStatus: 440
+X-OWA-DiagnosticsInfo: 1;0;0
+X-BackEnd-Begin: 2021-02-26T20:14:50.543
+X-BackEnd-End: 2021-02-26T20:14:50.545
+X-DiagInfo: SN1SPR01MB0004
+X-BEServer: SN1SPR01MB0004
+X-UA-Compatible: IE=EmulateIE7
+X-RUM-Validated: 1
+X-Proxy-RoutingCorrectness: 1
+X-Proxy-BackendServerStatus: 440
+X-FEServer: SN6PR01CA0001
+Report-To: {"group":"NelOfficeUpload1","max_age":86400,"endpoints":[{"url":"https://exo.nel.measure.office.net/api/report?TenantId="}],"include_subdomains":true}
+NEL: {"report_to":"NelOfficeUpload1","max_age":86400,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+X-FEServer: BL1PR13CA0214
+Date: Fri, 26 Feb 2021 20:14:50 GMT
+
