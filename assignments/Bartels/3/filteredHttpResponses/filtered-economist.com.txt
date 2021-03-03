@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
 HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
 Set-Cookie: visid_incap_121505=/c3VtEzbQJ2Cyvx3P6IvGW1WOWAAAAAAQUIPAAAAAABMhUrboStXq8/fNeNv4ZTt; expires=Fri, 25 Feb 2022 21:33:16 GMT; HttpOnly; path=/; Domain=.economist.com
 Set-Cookie: nlbi_121505=x9UWR4hibiJr9xdMntKrYQAAAAAeFGrkv183EbzfKAKwRH7t; path=/; Domain=.economist.com
 Set-Cookie: incap_ses_1346_121505=zx8qYvW7+iwLsPCt/POtEm1WOWAAAAAAn64WBqPA8mKtJEEnPYwUWA==; path=/; Domain=.economist.com
-HTTP/1.1 200 OK
 Set-Cookie: economist_has_visited_app_before=true; Path=/; expires=Wed, 26 May 2021 20:12:56 GMT;
 Set-Cookie: geo_country=US;Domain=.economist.com;Path=/;
 Set-Cookie: geo_region=NA;Domain=.economist.com;Path=/;

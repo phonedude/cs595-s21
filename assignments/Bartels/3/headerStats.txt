@@ -569,7 +569,7 @@ filtered-finance.yahoo.com.txt
 Terminating status code:
 404
 Number of Cookies:
-0
+1
 Number of HttpOnly cookies:
 0
 Number of Secure cookies:
@@ -583,7 +583,7 @@ Number of Lax SameSite cookies:
 Number of None SameSite cookies:
 0
 Number of cookies that set path:
-0
+1
 Number of paths other than /:
 0
 filtered-foursquare.com.txt
@@ -884,9 +884,9 @@ filtered-istockphoto.com.txt
 Terminating status code:
 200
 Number of Cookies:
-0
+5
 Number of HttpOnly cookies:
-0
+1
 Number of Secure cookies:
 0
 Number of SameSite cookies:
@@ -898,7 +898,7 @@ Number of Lax SameSite cookies:
 Number of None SameSite cookies:
 0
 Number of cookies that set path:
-0
+5
 Number of paths other than /:
 0
 filtered-it.wikipedia.org.txt
@@ -1640,11 +1640,11 @@ filtered-sedo.com.txt
 Terminating status code:
 200
 Number of Cookies:
-4
+5
 Number of HttpOnly cookies:
-4
+5
 Number of Secure cookies:
-4
+5
 Number of SameSite cookies:
 2
 Number of Strict SameSite cookies:
@@ -1654,7 +1654,7 @@ Number of Lax SameSite cookies:
 Number of None SameSite cookies:
 0
 Number of cookies that set path:
-4
+5
 Number of paths other than /:
 0
 filtered-slideshare.net.txt
@@ -1722,23 +1722,23 @@ Number of paths other than /:
 0
 filtered-spotify.com.txt
 Terminating status code:
-HTTP/2
+200
 Number of Cookies:
-0
+5
 Number of HttpOnly cookies:
-0
+3
 Number of Secure cookies:
-0
+5
 Number of SameSite cookies:
-0
+2
 Number of Strict SameSite cookies:
 0
 Number of Lax SameSite cookies:
-0
+2
 Number of None SameSite cookies:
 0
 Number of cookies that set path:
-0
+5
 Number of paths other than /:
 0
 filtered-stanford.edu.txt
@@ -1976,21 +1976,21 @@ filtered-wired.com.txt
 Terminating status code:
 200
 Number of Cookies:
-12
+16
 Number of HttpOnly cookies:
 2
 Number of Secure cookies:
-7
+11
 Number of SameSite cookies:
-7
+9
 Number of Strict SameSite cookies:
-0
+2
 Number of Lax SameSite cookies:
 0
 Number of None SameSite cookies:
 7
 Number of cookies that set path:
-12
+14
 Number of paths other than /:
 0
 filtered-www.blogger.com.txt

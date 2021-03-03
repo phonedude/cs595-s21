@@ -2,6 +2,6 @@ Minimum number of cookies:  0
 
 Maximum number of cookies:  142 
 
-Mean number of cookies:  3.520408163265306 
+Mean number of cookies:  3.683673469387755 
 
 Median number of cookies:  1.0
