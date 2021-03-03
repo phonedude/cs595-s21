@@ -7,18 +7,29 @@ I used gettingcookieinfo.py to get the cookie data.
 
 
 mean     2.46 
+
 max       12   
+
 min       0    
+
 median    2    
 
 Cookie Data                          
+
 cookie Num               239        
+
 Secure cookie             51        
+
 SameSite                  73        
+
 Strict                    62        
+
 Lax                       37        
+
 None                      51        
+
 With path                149        
+
 path other than /          0        
 
 
