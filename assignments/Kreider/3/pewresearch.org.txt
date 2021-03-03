@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 24 Feb 2021 00:01:33 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://pewresearch.org/
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 24 Feb 2021 00:01:33 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Location: https://www.pewresearch.org/
+X-rq: dca6 103 47 3136
+Age: 0
+X-Cache: miss
+Strict-Transport-Security: max-age=31536000;includeSubdomains;preload
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 24 Feb 2021 00:01:33 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 110805
+Connection: keep-alive
+X-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+Link: <https://www.pewresearch.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.pewresearch.org/wp-json/wp/v2/pages/325424>; rel="alternate"; type="application/json"
+Link: <https://www.pewresearch.org/>; rel=shortlink
+X-rq: dca6 98 153 3201
+Cache-Control: max-age=300, must-revalidate
+Age: 433
+X-Cache: hit
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000;includeSubdomains;preload
+

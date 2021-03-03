@@ -1,0 +1,44 @@
+HTTP/1.1 302 Found
+Server: Varnish
+Retry-After: 0
+Location: https://www.scribd.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:15:11 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5559-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Set-Cookie: nway=(null); max-age=86400; path=/; secure; httponly
+Cache-Control: no-store
+Vary: 
+Set-Cookie: scribd_ubtc=u%3D8d8b6d0c-b66e-4c7c-9bf1-1519087f4ded%26h%3Dq4GO9S2CIWHAkJkhQPMmavTLDR%2BIo%2B2cBB%2FgmkSrHIc%3D; Domain=.scribd.com; Path=/; Expires=Fri, 31 Jan 2121 00:15:11 GMT; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self'
+Last-Modified: Wed, 24 Feb 2021 00:15:11 GMT
+Set-Cookie: scribd_ubtc=u%3D0d7adf7e-4dd6-4315-bdb2-23881a458b32%26h%3Dj0SnOfJn%2F8YQxekKR%2FcywxoiXTtdyJBXD2dIPdiawSc%3D; domain=.scribd.com; path=/; expires=Sun, 24 Feb 2036 00:15:11 GMT; secure
+Set-Cookie: __CJ_nwt=%7B%22nw1906%22%3A4692%7D; domain=.scribd.com; path=/; expires=Fri, 24 Feb 2023 00:15:11 GMT; secure
+Set-Cookie: _scribd_session=eyJzZXNzaW9uX2lkIjoiNzRhNjdiNDUzZmYyMDNkZDc4MjQyMzAwNjY5ZGY2MjEifQ%3D%3D--f1906c9449c7f7c5be33efc9793d769319ba0b67; domain=.scribd.com; path=/; expires=Sat, 24 Feb 2024 00:15:11 GMT; secure; HttpOnly
+X-Request-Id: ccf70f8d375839c1c319f3011eb73766785c55f83595099ff9f7261fb296dd9c
+X-Runtime: 0.068490
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Bot: 1
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:15:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr18171-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+Set-Cookie: nway=27d88c56-10a3-4bad-8e8c-af9b0d5ed4b8; max-age=86400; path=/; secure; httponly
+Cache-Control: no-store
+Vary: Accept-Encoding, X-Language-Locale
+

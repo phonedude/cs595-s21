@@ -1,0 +1,30 @@
+
+HTTP/1.1 301 Redirect
+Date: Tue, 23 Feb 2021 23:00:51 GMT
+Connection: keep-alive
+Via: http/1.1 usqas2-edge-bx-011.ts.apple.com (ApacheTrafficServer/8.1.1)
+Server: ATS/8.1.1
+Cache-Control: no-store
+Location: https://www.apple.com/
+Content-Type: text/html
+Content-Language: en
+CDNUUID: 67d0d341-4a40-47c0-88c6-c752ebc30dc4-14444810797
+X-Cache: none
+Content-Length: 304
+
+HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Length: 72783
+Cache-Control: max-age=533
+Expires: Tue, 23 Feb 2021 23:09:45 GMT
+Date: Tue, 23 Feb 2021 23:00:52 GMT
+X-Cache: TCP_HIT from a23-221-225-196.deploy.akamaitechnologies.com (AkamaiGHost/10.3.0.1-32633187) (-)
+Connection: keep-alive
+Set-Cookie: geo=US; path=/; domain=.apple.com
+

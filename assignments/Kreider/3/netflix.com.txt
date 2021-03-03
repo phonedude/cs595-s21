@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://netflix.com/
+Server: nq_website_nonmember-prod-release UNKNOWN
+Set-Cookie: nfvdid=BQFmAAEBEKaTRnB3sNUcd7HJQDcB4S9Ad1G3TFxBiA0iiLRkM_Ux1W3_kCsL_XJGpXt7AiC53AmYFMS829BU4XOLT5jFCrl6n8nwvZN2Q9Vf94-G1Wy3uA%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+Set-Cookie: memclid=3321c116-cab6-48f2-aee0-cfcc6099e72f; Max-Age=31536000; Expires=Wed, 23 Feb 2022 23:57:44 GMT; Path=/; Domain=.netflix.com
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 i-0dd51e21059bd775c (us-east-1)
+X-Content-Type-Options: nosniff
+X-Netflix.nfstatus: 1_21
+X-Netflix.proxy.execution-time: 2
+X-Originating-URL: http://netflix.com/
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+Connection: keep-alive
+
+HTTP/1.1 405 Method Not Allowed
+allow: GET, OPTIONS, POST
+Cache-Control: no-cache, no-store
+date: Tue, 23 Feb 2021 23:57:44 GMT
+Edge-Control: no-cache, no-store
+Server: nq_website_nonmember-prod-release 2800b6ab-2b3c-425c-8c10-47e8d8d82d9d
+Set-Cookie: nfvdid=BQFmAAEBEItPZ2R7GkTyUtUsalOB6rtAo2nm5AAAOz7gA4TIu_88u0ZsQqbmaiQFH0kL153ZuJ3FVCAONA1S6WC9IdHV-prIvtpY0GoaN_CrmVQEsFfs0Q%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+Set-Cookie: memclid=5f586563-887e-4a4a-bc6d-5ba975187d1b; Max-Age=31536000; Expires=Wed, 23 Feb 2022 23:57:44 GMT; Path=/; Domain=.netflix.com
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 i-0aebc5f51d48606fd (us-east-1)
+X-Content-Type-Options: nosniff
+x-envoy-upstream-service-time: 1
+x-frame-options: DENY
+X-Netflix.nfstatus: 1_1
+X-Netflix.proxy.execution-time: 14
+X-Originating-URL: https://netflix.com/
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+Connection: keep-alive
+

@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:54:06 GMT
+Content-Type: text/html
+Content-Length: 178
+Age: 21
+X-Country-Code: US
+X-FTR-Cache-Status: HIT
+X-FTR-Expires: Tue, 23 Feb 2021 23:56:06 GMT
+Location: https://www.livescience.com/
+Expires: Tue, 23 Feb 2021 23:59:28 GMT
+Cache-Control: max-age=300,public
+Set-Cookie: FTR_Country_Code=US; path=/; domain=livescience.com
+X-Country-Code-Real: US
+X-FTR-Request-ID: 00000000:D798_00000000:0050_603595B4_30D2A2F:660C
+X-FTR-Balancer: fteproxy-185-113-25-48
+X-FTR-Backend: www-live-sites-varnish-new
+X-FTR-Backend-Server: ftevarnishprod-172-20-8-37
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 23:53:02 GMT
+Content-Type: text/html; charset=UTF-8
+X-FTR-ABTest: 1
+X-FTR-ABTest-ID: enhanced-sticky-site-nav_1607436916
+X-FTR-ABTest-Groups: 2
+X-FTR-ABTest-Group: 1
+X-FTR-Request-ID: 8e1941d6-ae38-45a6-9c88-a33698c5f564
+X-TraceId: 71ba1231706248e2
+Xkey: livescience-platform-responsive
+Xkey: livescience-page-homepage
+Xkey: livescience-region-US
+Xkey: livescience-flexi-page-guid-enhanced-sticky-site-nav_1607436916
+Xkey: livescience-version-250266
+Xkey: livescience-server-front-5d57b7d85-v9ns7
+Vary: Accept-Encoding
+Age: 85
+X-Country-Code: US
+X-FTR-Cache-Status: HIT
+X-FTR-Expires: Thu, 25 Feb 2021 23:53:02 GMT
+Expires: Tue, 23 Feb 2021 23:59:28 GMT
+Cache-Control: max-age=300,public
+X-Country-Code-Real: US
+Set-Cookie: enhanced-sticky-site-nav_1607436916=1; Path=/; Expires=Thu, 25 Feb 2021 23:54:28 GMT; httpOnly
+Accept-Ranges: bytes
+X-FTR-Request-ID: 00000000:D799_00000000:01BB_603595B4_73456DB:131A
+X-FTR-Balancer: fteproxyblue
+X-FTR-Backend: www-live-sites-varnish-new
+X-FTR-Backend-Server: ftevarnishprod-172-20-8-34
+

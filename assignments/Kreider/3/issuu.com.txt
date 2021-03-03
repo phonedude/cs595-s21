@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 23 Feb 2021 23:52:13 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://issuu.com:443/
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 23:52:13 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 79150
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: iutk=4d109d11-eb7f-425c-aa58-e3e248be4c6a; Max-Age=15552; Domain=issuu.com; Path=/; Expires=Wed, 24 Feb 2021 04:11:25 GMT;Secure;SameSite=None
+ETag: W/"1352e-ThobJULmCtTTAbTmyBjEt3bcLbM"
+Accept-CH: UA-Arch,UA-Full-Version,UA-Mobile,UA-Model,UA-Platform-Version,UA-Platform,UA,ECT,DPR,Downlink,Save-Data,Width,Viewport-Width
+X-Content-Type-Options: nosniff
+

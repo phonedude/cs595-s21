@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Feb 2021 00:15:22 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 24 Feb 2021 01:15:22 GMT
+Location: https://sedo.com/
+cf-request-id: 0872fd03a90000748e60018000000001
+Server: cloudflare
+CF-RAY: 6264fde5d9af748e-IAD
+
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 24 Feb 2021 00:15:23 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d65d7b92f9fb75a56e80f5297f20addb71614125722; expires=Fri, 26-Mar-21 00:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+x-cache-miss-from: marketplace-classic-855bddcc9c-sprf7
+access-control-allow-origin: *
+x-ua-compatible: IE=edge
+x-content-type-options: nosniff
+set-cookie: session=1a878aa4c5cd10d60b70b069a5334de6; expires=Sat, 27-Feb-2021 00:15:23 GMT; Max-Age=259200; path=/; secure; HttpOnly
+x-sedo-request-id: ID-576b449c84-rh6hj-f14287248faabdf329f9f125b98fd0e5
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+location: /us/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0872fd041b00000dd23ea6b000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6264fde69cf00dd2-IAD
+
+HTTP/1.1 200 OK
+Date: Wed, 24 Feb 2021 00:15:23 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d1c7bb799a287370bfe262c986f054aa91614125723; expires=Fri, 26-Mar-21 00:15:23 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Vary: Accept-Encoding
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+x-sedo-request-id: ID-576b449c84-vqh6m-fb4a33dfeb0be7d51f869c79f302e32e
+content-language: en
+age: 120610
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0872fd05ea00000dd223afb000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6264fde97b280dd2-IAD
+

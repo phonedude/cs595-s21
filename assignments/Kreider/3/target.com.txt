@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.target.com
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:16:56 GMT
+Via: 1.1 varnish
+Age: 1063
+Connection: keep-alive
+X-Served-By: cache-wdc5523-WDC
+X-Cache: HIT
+X-Cache-Hits: 14
+X-Timer: S1614125817.678919,VS0,VE0
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:16:56 GMT
+clientgeo: US
+clientip: 71.120.190.73
+Set-Cookie: TealeafAkaSid=lO_p513mTvy8dkLr-1sT45q9u9uv1ABd; Expires=Fri, 26 Mar 2021 00:16:56 GMT; Path=/; Domain=target.com;
+x-frame-options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://*.target.com;
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

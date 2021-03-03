@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-length: 0
+Location: http://www.washington.edu/
+
+HTTP/1.1 200 OK
+Date: Wed, 24 Feb 2021 00:20:43 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.1e-fips PHP/7.2.23 mod_pubcookie/3.3.4a mod_uwa/3.2.1
+Last-Modified: Tue, 23 Feb 2021 19:05:06 GMT
+ETag: "180147-f6bf-5bc0598aebc80"
+Accept-Ranges: bytes
+Content-Length: 63167
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
