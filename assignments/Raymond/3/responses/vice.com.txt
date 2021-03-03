@@ -1,0 +1,64 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Mon, 01 Mar 2021 16:09:01 GMT
+Location: https://www.vice.com/
+Server: nginx
+Connection: keep-alive
+
+HTTP/2 302 
+server: Varnish
+retry-after: 0
+x-geo-redirect: 
+location: /en
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:09:02 GMT
+via: 1.1 varnish
+x-served-by: cache-bwi5049-BWI
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1614614942.041994,VS0,VE0
+set-cookie: X-Vice-Split-Testing=2020-10-19a:A; expires=Wed, 31 Mar 2021 16:09:02 GMT; domain=www.vice.com; path=/
+x-vice-split-testing: 2020-10-19a:A
+x-geoip-country-code: US
+x-geoip-region-code: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' *.vice.com vicetv.com *.vicetv.com vicetv.nl vicetv.be vicesports.nl vicemoney.nl vicebelgique.com survey18.toluna.com *.viceops.net survey-d.dynata.com
+set-cookie: X-GeoIP-Country-Code=US; path=/;
+set-cookie: X-GeoIP-Region-Code=VA; path=/;
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-powered-by: web-next
+vice-trace-id: 1e7ca8b4a82030b3:1e7ca8b4a82030b3:0:1
+pragma: public
+cache-control: public, max-age=303, must-revalidate
+expires: Mon, 01 Mar 2021 16:13:34 GMT
+etag: "2dd28-AyzRdaHtW67zxFP9KIZQb8xTPXE"
+x-backend: 54.89.45.181
+x-cache-debug: cache-control: public, max-age=303, must-revalidate | surrogate-control: max-age=28800 | fastly ttl 180.000
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:09:02 GMT
+via: 1.1 varnish
+age: 30
+x-served-by: cache-bwi5049-BWI
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1614614942.064048,VS0,VE2
+vary: Accept-Encoding
+set-cookie: X-Vice-Split-Testing=2020-10-19a:A; expires=Wed, 31 Mar 2021 16:09:02 GMT; domain=www.vice.com; path=/
+x-vice-split-testing: 2020-10-19a:A
+x-geoip-country-code: US
+x-geoip-region-code: VA
+set-cookie: Vice-H2-Push-Sig=1384c5557a20e43f812f83c26ec74e85aa22edbccb8edca94f940867; Secure; HttpOnly
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' *.vice.com vicetv.com *.vicetv.com vicetv.nl vicetv.be vicesports.nl vicemoney.nl vicebelgique.com survey18.toluna.com *.viceops.net survey-d.dynata.com
+set-cookie: X-GeoIP-Country-Code=US; path=/;
+set-cookie: X-GeoIP-Region-Code=VA; path=/;
+content-length: 187688
+

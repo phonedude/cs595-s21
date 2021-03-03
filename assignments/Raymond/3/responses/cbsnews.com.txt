@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:08:13 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://www.cbsnews.com/
+Expires: Mon, 01 Mar 2021 15:08:59 GMT
+Cache-Control: max-age=60
+Age: 14
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+link: <https://cbsnews1.cbsistatic.com>; rel="preconnect", <https://cbsnews2.cbsistatic.com>; rel="preconnect", <https://cbsnews3.cbsistatic.com>; rel="preconnect", </fly/bundles/cbsnewscontent/fonts/PublicoHeadline-Black/PublicoHeadline-Black.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/PublicoText/PublicoText.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/ProximaNova-Regular/ProximaNova-Regular.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/ProximaNova-Bold/ProximaNova-Bold.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/PublicoHeadline-Bold/PublicoHeadline-Bold.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/css/responsive.min.css?v=97482831490ef82706f3236d353de136>; rel="stylesheet preload"; as="style", <https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/libs/hls-0.12.4.light.min.js?v=97482831490ef82706f3236d353de136>; rel="preload"; as="script", <https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=97482831490ef82706f3236d353de136>; rel="preload"; as="script", <https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.responsive.js?v=97482831490ef82706f3236d353de136>; rel="preload"; as="script", <https://tealium.cbsnews.com/prod/utag.js?v=202101282033#>; rel="preload"; as="script", <https://vidtech.cbsinteractive.com>; rel="preconnect"
+last-modified: Mon, 01 Mar 2021 15:08:11 GMT
+cache-control: public
+core-api-cache-key: e8074928-8717-4e96-94d3-c57247d92fc5
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-device: desktop
+x-edge-forwarded-proto: https
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:08:13 GMT
+via: 1.1 varnish
+age: 1
+set-cookie: fly_device=desktop; expires=Mon, 01 Mar 2021 15:13:13 GMT; path=/; domain=.cbsnews.com
+set-cookie: fly_geo={"countryCode": "US","dma": "511", "connection": { "type": "broadband"}}; expires=Mon, 01 Mar 2021 15:13:13 GMT; path=/; domain=.cbsnews.com
+set-cookie: CBS_INTERNAL=0; expires=Mon, 01 Mar 2021 15:13:13 GMT; path=/; domain=.cbsnews.com
+vary: Accept-Encoding, X-Geo-DMA, X-Device, X-Edge-Forwarded-Proto
+content-length: 408721
+

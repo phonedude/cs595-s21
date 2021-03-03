@@ -1,0 +1,62 @@
+HTTP/1.1 301 Moved Permanently
+Location: /fb/a/home
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 01 Mar 2021 15:21:23 GMT
+Expires: Mon, 01 Mar 2021 15:21:23 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Location: https://www.google.com/accounts/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=puIF_nRHLRFLQpEqLsoD7u04OEoWq0zu
+Date: Mon, 01 Mar 2021 15:21:23 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: S=feedburner-control-panel=puIF_nRHLRFLQpEqLsoD7u04OEoWq0zu; Domain=.google.com; Path=/; HttpOnly; Priority=LOW
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 01 Mar 2021 15:21:23 GMT
+location: https://accounts.google.com/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=puIF_nRHLRFLQpEqLsoD7u04OEoWq0zu
+content-length: 357
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: DENY
+x-auto-login: realm=com.google&args=service%3Dfeedburner%26continue%3Dhttps%253A%252F%252Ffeedburner.google.com%252Ffb%252Fa%252Fmyfeeds
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 01 Mar 2021 15:21:23 GMT
+content-length: 66016
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-rq9PAAtoXwm3+0v2jvk4uw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:sxFQmhfw41rrTycrPKbZv5v2JruVxQ:waj3RfC8Tl42b7m6;Path=/;Expires=Wed, 01-Mar-2023 15:21:23 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

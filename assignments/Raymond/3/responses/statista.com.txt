@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:59:46 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://statista.com/
+
+HTTP/2 301 
+date: Mon, 01 Mar 2021 15:59:46 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.statista.com/
+server: nginx
+set-cookie: STATSESSID=a01n9q31sg2chu2f4ubhusjms3; path=/; domain=statista.com; secure; HttpOnly
+cache-control: max-age=16070400, public
+expires: Thu, 18 Mar 2027 14:47:57 GMT
+set-cookie: abtest=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=statista.com; secure
+x-cache-status: BYPASS
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=16070400; includeSubDomains
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:59:47 GMT
+content-type: text/html; charset=UTF-8
+server: nginx
+vary: Accept-Encoding
+set-cookie: STATSESSID=noj5lmmb3agq11o99oquk0d4u5; path=/; domain=statista.com; secure; HttpOnly
+cache-control: public, s-maxage=300
+set-cookie: abtest=2; expires=Sat, 28-Apr-2035 11:59:47 GMT; Max-Age=446760000; path=/; domain=statista.com; secure
+x-cache-status: BYPASS
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=16070400; includeSubDomains
+

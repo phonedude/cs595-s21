@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:46:15 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=&partner=;
+Location: https://news.yahoo.com/
+Expires: -1
+Content-Length: 8
+
+HTTP/2 404 
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+etag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+set-cookie: B=c6dnk8dg3q328&b=3&s=23; expires=Mon, 01-Mar-2022 15:46:16 GMT; path=/; domain=.yahoo.com
+date: Mon, 01 Mar 2021 15:46:15 GMT
+x-envoy-upstream-service-time: 42
+server: ATS
+x-envoy-decorator-operation: tdv2-app-news--production-bf1.frontpage-k8s-frontend.svc.yahoo.local:4080/*
+expires: -1
+content-security-policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=3f6gt7lg3q328&partner=;
+cache-control: max-age=0, private
+

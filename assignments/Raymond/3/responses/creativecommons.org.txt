@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:11:59 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=de651831627aa17c6e34df8b88084d7011614611519; expires=Wed, 31-Mar-21 15:11:59 GMT; path=/; domain=.creativecommons.org; HttpOnly; SameSite=Lax
+Location: https://creativecommons.org/
+Strict-Transport-Security: max-age=15768000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088ff1af840000be8cdcb0d000000001
+Server: cloudflare
+CF-RAY: 6293522bfb1cbe8c-RIC
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:12:00 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=dad8d27f587d32a4b5d167acaa0be7af81614611519; expires=Wed, 31-Mar-21 15:11:59 GMT; path=/; domain=.creativecommons.org; HttpOnly; SameSite=Lax
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+link: <https://creativecommons.org/wp-json/>; rel="https://api.w.org/", <https://creativecommons.org/wp-json/wp/v2/pages/48812>; rel="alternate"; type="application/json", <https://creativecommons.org/>; rel=shortlink
+set-cookie: PHPSESSID=9elrvjvohq7k1730o86j14tug7; path=/
+vary: Accept-Encoding
+referrer-policy: 
+x-varnish: 497656378
+age: 0
+via: 1.1 varnish (Varnish/5.0)
+strict-transport-security: max-age=15768000
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+cf-request-id: 088ff1b0250000be9667bcf000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 6293522d082ebe96-RIC
+

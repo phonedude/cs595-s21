@@ -1,0 +1,46 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 16:08:21 GMT
+Server: Apache
+Location: http://www.usatoday.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Force SSL
+Retry-After: 0
+Content-Length: 0
+Location: https://www.usatoday.com/
+Cache-Control: max-age=300
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 16:08:21 GMT
+Connection: close
+X-Cache: HIT
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+etag: W/"26e68-xBC/BjPaQBEskp1cjubE4atxJrA"
+content-security-policy: upgrade-insecure-requests; frame-ancestors 'none'
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+feature-policy: camera 'none'; display-capture 'none'; geolocation 'none'; microphone 'none'; payment 'none'; usb 'none'
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+origin-agent-cluster: ?1
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:08:21 GMT
+age: 18
+set-cookie: gnt_ub=98; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
+set-cookie: gnt_sb=20; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
+set-cookie: gnt_eid=control; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=5184000;
+gannett-cam-experience-id: control
+link: <https://www.usatoday.com/tangstatic/svg/weather/7-q1a2z3371d08dc.svg>;rel=preload;as=image;nopush
+set-cookie: gnt_d=%7B%22w%22%3A%7B%22t%22%3A%2254%22%2C%22f%22%3A%227-q1a2z3371d08dc%22%2C%22c%22%3A%22Cloudy%22%7D%2C%22z%22%3A%2222407%22%2C%22c%22%3A%22fredericksburg%22%2C%22s%22%3A%22VA%22%7D; domain=.usatoday.com; path=/; samesite=lax; secure; priority=high;
+nel: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+x-cache: HIT
+x-timer: S1614614902.511666,VS0,VE3
+vary: Accept-Encoding, X-AbVariant, X-AltUrl, X-AbVCfg
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+content-length: 141129
+

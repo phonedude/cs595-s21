@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 14:50:47 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d6ae831958001f2adb7d989c51087af6d1614610247; expires=Wed, 31-Mar-21 14:50:47 GMT; path=/; domain=.allaboutcookies.org; HttpOnly; SameSite=Lax
+Location: https://www.allaboutcookies.org/
+X-Powered-By: centminmod
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088fde48230000be8ccf15d000000001
+Server: cloudflare
+CF-RAY: 629333200bd3be8c-RIC
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 14:50:48 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=dabcf127ee09e61de3d6577349f7c39ed1614610247; expires=Wed, 31-Mar-21 14:50:47 GMT; path=/; domain=.allaboutcookies.org; HttpOnly; SameSite=Lax
+vary: Accept-Encoding
+x-powered-by: centminmod
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+cf-cache-status: DYNAMIC
+cf-request-id: 088fde49230000be78a3090000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62933321ddf5be78-RIC
+

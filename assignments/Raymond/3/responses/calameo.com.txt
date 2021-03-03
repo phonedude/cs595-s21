@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+Date: Tue, 02 Mar 2021 00:04:12 GMT
+Server: Varnish
+X-Varnish: 967191949
+Location: https://www.calameo.com/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 02 Mar 2021 00:04:13 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Age: 0
+X-Server: CALAMVN02
+Accept-Ranges: bytes
+

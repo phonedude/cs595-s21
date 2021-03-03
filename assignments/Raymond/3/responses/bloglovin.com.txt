@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:02:52 GMT
+Server: Varnish
+X-Varnish: 613460607
+Location: https://bloglovin.com/
+Cache-Control: no-cache, must-revalidate
+Expires: Sat, 01 Jan 2001 00:13:37 GMT
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 302 
+server: nginx
+date: Mon, 01 Mar 2021 15:02:52 GMT
+content-length: 0
+location: https://www.bloglovin.com/
+x-varnish: 555172020
+
+HTTP/2 405 
+server: nginx
+date: Mon, 01 Mar 2021 15:02:53 GMT
+content-type: text/html; charset=UTF-8
+content-length: 14026
+set-cookie: bloglovin[page_type]=deleted; expires=Sun, 01-Mar-2020 15:02:52 GMT; path=/; domain=.bloglovin.com; httponly
+set-cookie: bloglovin[referrer_page_type]=unknown; expires=Mon, 29-Mar-2021 15:02:53 GMT; path=/; domain=.bloglovin.com; httponly
+vary: ,Accept-Encoding
+x-varnish: 374645054
+age: 0
+via: 1.1 varnish (Varnish/5.2)
+bl-cache-status: MISS
+bl-cdn-provider: None
+

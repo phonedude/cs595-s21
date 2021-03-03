@@ -1,0 +1,63 @@
+HTTP/1.1 301 TLS Redirect
+Date: Mon, 01 Mar 2021 15:37:59 GMT
+Server: Varnish
+X-Varnish: 739744828
+X-Cache: cp1079 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=01-Mar-2021;Path=/;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=01-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+X-Client-IP: 2601:5cb:c380:62e0:e8ea:6831:4c3c:9d1a
+Location: https://ja.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 301 
+date: Mon, 01 Mar 2021 15:29:10 GMT
+server: mw1401.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+cache-control: s-maxage=1200, must-revalidate, max-age=0
+x-request-id: YD0IRoD2wrYDrypjHH4HSAAAARA
+last-modified: Mon, 01 Mar 2021 15:29:10 GMT
+location: https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+content-length: 0
+content-type: text/html; charset=utf-8
+age: 528
+x-cache: cp1079 miss, cp1085 hit/276
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=01-Mar-2021;Path=/;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=01-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+x-client-ip: 2601:5cb:c380:62e0:e8ea:6831:4c3c:9d1a
+set-cookie: GeoIP=US:VA:Spotsylvania:38.27:-77.64:v4; Path=/; secure; Domain=.wikipedia.org
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 14:28:30 GMT
+server: mw1401.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+content-language: ja
+vary: Accept-Encoding,Cookie,Authorization
+x-request-id: YDz6DgAjrD2TAU7zsx1EBQAAAEc
+last-modified: Mon, 01 Mar 2021 14:28:26 GMT
+content-type: text/html; charset=UTF-8
+age: 4168
+x-cache: cp1075 miss, cp1085 hit/1850
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=01-Mar-2021;Path=/;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=01-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 02 Apr 2021 12:00:00 GMT
+x-client-ip: 2601:5cb:c380:62e0:e8ea:6831:4c3c:9d1a
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+set-cookie: GeoIP=US:VA:Spotsylvania:38.27:-77.64:v4; Path=/; secure; Domain=.wikipedia.org
+accept-ranges: bytes
+content-length: 102779
+

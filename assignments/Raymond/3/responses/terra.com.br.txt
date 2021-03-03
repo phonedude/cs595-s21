@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 16:03:33 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 06 Mar 2021 12:02:59 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: 096366ff-5bd2-4ee7-ae66-92860af42011
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=88b21f02-f119-42bc-8efb-0a35ed40738e; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+Set-Cookie: trrgeo=38.271%7C-77.5495%7CSPOTSYLVANIA+COUNTY%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Tue, 02 Mar 2021 16:03:33 GMT; Secure
+X-Frame-Options: SAMEORIGIN
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-xact-uuid: 5b796e2d-fd01-4997-b9a9-19449c0ed57c
+x-xact-montador-time: 1614614614
+x-http-reason: OK
+x-cache-profile: cover
+cache-control: max-age=180, private
+x-original-ua: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+strict-transport-security: max-age=15552000
+x-mt-cache: HIT
+x-frame-options: SAMEORIGIN
+date: Mon, 01 Mar 2021 16:03:34 GMT
+set-cookie: X-XAct-ID=84d73b1b-7fd6-4aef-845a-a96db1b2c9fd; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+set-cookie: trrgeo=38.271%7C-77.5495%7CSPOTSYLVANIA+COUNTY%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Tue, 02 Mar 2021 16:03:34 GMT; Secure
+

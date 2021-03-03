@@ -1,0 +1,17 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.dell.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/2 403 
+server: AkamaiGHost
+mime-version: 1.0
+content-type: text/html
+content-length: 260
+expires: Mon, 01 Mar 2021 15:13:01 GMT
+date: Mon, 01 Mar 2021 15:13:01 GMT
+x-akamai-erpolicy: Responsive_redirects
+x-akamai-erruleid: 
+set-cookie: akavpau_maintenance_vp=1614611881~id=a6b1b84cfc64976949de4a77c0324843; Path=/; HttpOnly; Secure; SameSite=None
+

@@ -1,0 +1,35 @@
+HTTP/1.1 302 Found
+Location: https://whatsapp.com/
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Mon, 01 Mar 2021 16:11:12 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/2 302 
+location: https://www.whatsapp.com/
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/plain
+content-length: 0
+server: proxygen-bolt
+date: Mon, 01 Mar 2021 16:11:12 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+HTTP/2 200 
+vary: Accept-Encoding
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+set-cookie: wa_lang_pref=en; expires=Mon, 08-Mar-2021 16:11:12 GMT; Max-Age=604800; path=/; domain=.whatsapp.com; secure; httponly
+set-cookie: wa_ul=511453af-eaa1-4190-a208-3ddc07f46f2e; expires=Wed, 01-Mar-2023 16:11:12 GMT; Max-Age=63072000; path=/; domain=.www.whatsapp.com; secure; httponly
+set-cookie: wa_csrf=dveZka5Y8YxC4AWnHatgAe; path=/; domain=.whatsapp.com; secure; httponly
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+content-type: text/html; charset="utf-8"
+x-fb-debug: ARkY7A8jiObtKLw50y6SUPyh+iud221st7eAiMEVS1UHlkOOpKHwkqLUsNilpY13WYuscfsnmz+78O424CoDSA==
+date: Mon, 01 Mar 2021 16:11:12 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+

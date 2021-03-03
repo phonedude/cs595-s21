@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.washingtonpost.com/
+Cache-Control: max-age=0
+Expires: Mon, 01 Mar 2021 16:10:28 GMT
+Date: Mon, 01 Mar 2021 16:10:28 GMT
+Connection: keep-alive
+Content-Security-Policy: upgrade-insecure-requests
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: openresty
+fusion-content-id: undefined
+fusion-content-source: undefined
+fusion-template-id: page/pMEVjk1OZnv23s
+fusion-component-id: undefined
+fusion-deployment-id: 379
+etag: W/"106b72-5CqUGMR86aNkxN3Oxm+T1F9oXCg"
+fusion-source: lambda
+last-modified: Monday, 01-Mar-2021 16:10:39 GMT
+x-served-by: pf
+x-origin-cache: MISS
+x-origin-upstream-status: 200
+cache-control: max-age=60
+expires: Mon, 01 Mar 2021 16:11:39 GMT
+date: Mon, 01 Mar 2021 16:10:39 GMT
+set-cookie: wp_devicetype=0; expires=Wed, 31-Mar-2021 16:10:39 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+set-cookie: wp_country=US; expires=Mon, 01-Mar-2021 17:10:39 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+set-cookie: rplampr=0a|20181213; expires=Tue, 01-Mar-2022 16:10:39 GMT; path=/; domain=.washingtonpost.com
+set-cookie: wp_ak_subs=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure
+set-cookie: wp_ak_v_m=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure
+content-security-policy: upgrade-insecure-requests
+

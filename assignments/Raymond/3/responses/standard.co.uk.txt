@@ -1,0 +1,53 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://standard.co.uk/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 15:58:52 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: esi-permutive-id=(null); Path=/ ; Secure
+X-Served-By: cache-dca17742-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.standard.co.uk/
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:58:53 GMT
+via: 1.1 varnish
+set-cookie: esi-permutive-id=(null); Path=/ ; Secure
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-served-by: cache-dca17753-DCA
+x-cache: HIT
+x-cache-hits: 0
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: Apache/2.4.29 (Ubuntu)
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+etag: W/"51e15-PLsEG6Oe4smm6kMmQfrDYy669PU"
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+age: 66
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: Locale=US ; Path=/ ; Expires=Mon, 01 Mar 2021 16:58:53 GMT;
+set-cookie: esi-uuid=93f99d58-50ea-4a5f-bef8-b49de5d3fe4c ; Path=/ ; Secure; HttpOnly; Expires=Tue, 01 Mar 2022 15:58:53 GMT
+set-cookie: esi-permutive-id=93f99d58-50ea-4a5f-bef8-b49de5d3fe4c; Path=/ ; Secure
+date: Mon, 01 Mar 2021 15:58:53 GMT
+canary: 1
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: Locale=US ; Path=/ ; Expires=Mon, 01 Mar 2021 16:58:53 GMT;
+set-cookie: esi-uuid=c1c41b34-e6f3-4bce-8d06-69c9e66d8ec5 ; Path=/ ; Secure; HttpOnly; Expires=Tue, 01 Mar 2022 15:58:53 GMT
+set-cookie: esi-permutive-id=c1c41b34-e6f3-4bce-8d06-69c9e66d8ec5; Path=/ ; Secure
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-served-by: cache-lhr7383-LHR, cache-bwi5027-BWI
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+x-timer: S1614614333.159373,VS0,VE126
+vary: Accept-Encoding, Locale, loggedIn
+

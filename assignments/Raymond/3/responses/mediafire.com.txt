@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:44:12 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 01 Mar 2021 16:44:12 GMT
+Location: https://www.mediafire.com/
+cf-request-id: 08900f2fb70000be7d190b0000000001
+Server: cloudflare
+CF-RAY: 6293815f8ba4be7d-RIC
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:44:12 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d8e5ef57b80c80ccf07381357839e6cea1614613452; expires=Wed, 31-Mar-21 15:44:12 GMT; path=/; domain=.mediafire.com; HttpOnly; SameSite=Lax
+vary: Accept-Encoding
+set-cookie: ukey=yaonlkp3u18t83pk2yzpl4ehi0xa04a7; expires=Fri, 01-Mar-2041 15:44:12 GMT; Max-Age=631152000; path=/; domain=.mediafire.com; HttpOnly
+strict-transport-security: max-age=0
+cache-control: no-cache, no-store, must-revalidate, max-age=0
+cache-control: post-check=0, pre-check=0
+pragma: no-cache
+expires: 0
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors *.mediafire.com
+access-control-allow-origin: *
+cf-cache-status: DYNAMIC
+cf-request-id: 08900f30250000be910f17c000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 629381603ff1be91-RIC
+

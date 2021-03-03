@@ -1,0 +1,41 @@
+HTTP/1.1 302 Found
+Location: https://wa.me/
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Mon, 01 Mar 2021 16:09:37 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/2 302 
+vary: Accept-Encoding
+pragma: no-cache
+location: https://api.whatsapp.com/
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+content-type: text/html; charset="utf-8"
+x-fb-debug: ydK0epUjUh253s8i68/HI37fMcmfrkw/qc2Ee6h4C2zLnxefuxEpf7YS1xkpKG1Yx3DbQhB6Macpm9s+y+f9fQ==
+content-length: 0
+date: Mon, 01 Mar 2021 16:09:37 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+HTTP/2 200 
+vary: Accept-Encoding
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+set-cookie: wa_lang_pref=en; expires=Mon, 08-Mar-2021 16:09:38 GMT; Max-Age=604800; path=/; domain=.whatsapp.com; secure; httponly
+set-cookie: wa_ul=0b22812e-ad65-4e69-90d0-804076ab6017; expires=Wed, 01-Mar-2023 16:09:38 GMT; Max-Age=63072000; path=/; domain=.whatsapp.com; secure; httponly
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+content-type: text/html; charset="utf-8"
+x-fb-debug: MeSqQQzrGQrPSKtvz3ylFhON3q17ohjEmSf5yFTWg003p3Hykoj0yhj1AuGHvn34fLcIzAMSk2c9b/chRW0lvg==
+date: Mon, 01 Mar 2021 16:09:38 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+

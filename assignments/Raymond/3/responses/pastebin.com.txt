@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:51:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 01 Mar 2021 16:51:27 GMT
+Location: https://pastebin.com/
+cf-request-id: 089015d3ed0000be87341cc000000001
+Server: cloudflare
+CF-RAY: 62938bffefa8be87-RIC
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:51:28 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d8f4548e99a44753f6005826dfc4152451614613888; expires=Wed, 31-Mar-21 15:51:28 GMT; path=/; domain=.pastebin.com; HttpOnly; SameSite=Lax; Secure
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-xss-protection: 1;mode=block
+set-cookie: _csrf-frontend=d2e026291b90f88fb8b703807791573c6e7c701ac32b9742df86108f08b219cca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22nfyT4uwpelcirovUqkamOBOHSKDK8r7d%22%3B%7D; path=/; HttpOnly
+cf-cache-status: DYNAMIC
+cf-request-id: 089015d4630000be789196b000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62938c009f27be78-RIC
+

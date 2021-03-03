@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 16:14:00 GMT
+Server: Kestrel
+Location: http://www.xbox.com/
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.xbox.com/
+Date: Mon, 01 Mar 2021 16:14:01 GMT
+Connection: keep-alive
+Set-Cookie: aka_locale=US; domain=.www.xbox.com
+Strict-Transport-Security: max-age=10886400
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: https://www.xbox.com:443/en-US/
+x-requestid: 402295a2-1cef-4424-be34-0308c3f55a86
+MS-CV: KohR02l0XUSJL3kE.0
+X-Content-Type-Options: nosniff
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 57
+Cache-Control: private, max-age=171
+Date: Mon, 01 Mar 2021 16:14:01 GMT
+Connection: keep-alive
+Set-Cookie: mobileOverride=desktop; expires=Tue, 01-Mar-2022 16:14:01 GMT; path=/
+Set-Cookie: aka_locale=US; domain=.www.xbox.com
+Strict-Transport-Security: max-age=10886400
+
+HTTP/1.1 404 Not Found
+Content-Length: 0
+x-requestid: 55c9be30-6456-4f87-ab9f-e8a67076688c
+MS-CV: hTmoQdQEbUqNtDGC.0.0
+X-Content-Type-Options: nosniff
+X-EdgeConnect-MidMile-RTT: 6
+X-EdgeConnect-Origin-MEX-Latency: 21
+Cache-Control: private, max-age=180
+Date: Mon, 01 Mar 2021 16:14:01 GMT
+Connection: keep-alive
+Set-Cookie: mobileOverride=desktop; expires=Tue, 01-Mar-2022 16:14:01 GMT; path=/
+Set-Cookie: aka_locale=US; domain=.www.xbox.com
+Strict-Transport-Security: max-age=10886400
+

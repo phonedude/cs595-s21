@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:49:26 GMT
+Server: Apache
+Strict-Transport-Security: max-age=0
+Cache-Control: no-cache, no-store, must-revalidate, private, max-age=0
+Age: 99999999
+Vary: Cookie
+Expires: 0
+X-Orange-Internal-Id: 5ac86bfa-f462-4139-b4f6-0866ec35b810
+Location: https://www.orange.fr/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:49:27 GMT
+Server: Apache
+Cache-Control: no-cache, max-age=0, no-store, private
+Location: https://www.orange.fr/portail
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Mon, 01 Mar 2021 15:49:27 GMT
+Server: Apache
+Cache-Control: no-cache, max-age=0, no-store, private
+X-Request-Id: b3f48916-7aa5-11eb-a379-000000000539
+Set-Cookie: idzone=AFcoYyPxBZ-deMoxv1u2xJYKeC8OKBwjI6U6xFiXE3zrgZlQRam9YtYI_593abEDR8UK9Xzbf2B8Re4Z1Iyk7dGvvyDTS79LSPcnd6vYA6cFog9oW1ei1E1Tljhp1N5D-ctiX0gWbxcerww; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+Set-Cookie: izclientid=vlOoaoWZUzpBVFCqStwAAiwx%2C1615218567; expires=Sat, 28-Aug-2021 15:49:27 GMT; Max-Age=15552000; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+X-Frame-Options: sameorigin
+Content-Type: text/html; charset=UTF-8
+

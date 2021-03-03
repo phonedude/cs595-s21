@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 01 Mar 2021 23:55:41 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.amazon.fr/
+X-Cache: Redirect from cloudfront
+Via: 1.1 3b8e0d5ce152e011bcc1dba2235e26b8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C1
+X-Amz-Cf-Id: LpL_IxOpDuw9O01ZdEkEY-jXbBphaG0lbTqlEF8SJo7j39E3b53mqA==
+
+HTTP/2 405 
+content-type: text/html;charset=UTF-8
+content-length: 0
+server: Server
+date: Mon, 01 Mar 2021 23:55:41 GMT
+x-amz-rid: 5S64XVHFT2NDTRAENQP2
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-cache: Error from cloudfront
+via: 1.1 9a41a14a2366d5a6bb5ec868d987c229.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: 3CVjPuNzuCiGW62LJItNblnk8zKZCODOIvzwFqHKMdgPTAwvmaJS2w==
+

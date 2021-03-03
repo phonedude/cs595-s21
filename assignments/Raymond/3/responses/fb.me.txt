@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://fb.me/
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: eCPfvg1TGaiP5UOGDfOiLYPxFgrthkqga2UHozilp6JevEcHzCva0iO7yHfK4tMoVs1TkeixGU0H9u3ClW8CRQ==
+Date: Mon, 01 Mar 2021 15:19:23 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/2 302 
+location: https://www.facebook.com/
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: wp158m3U+SLGMJYHtc3pTF2hj6G70JRvl9x+DQPygvxunHg1jh+ezAz+LCZLpxrz6py3+D/5+5G5NfYE/KXzmg==
+content-length: 0
+date: Mon, 01 Mar 2021 15:19:23 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+HTTP/2 200 
+x-frame-options: DENY
+x-xss-protection: 0
+x-content-type-options: nosniff
+strict-transport-security: max-age=15552000; preload
+set-cookie: fr=1pYBNZFuVQ6gzxkyO..BgPQX7.r4.AAA.0.0.BgPQX7.AWUNp13OBvU; expires=Sun, 30-May-2021 15:19:22 GMT; Max-Age=7775999; path=/; domain=.facebook.com; secure; httponly
+set-cookie: sb=-wU9YOoE-IlCJkMpdrCUgML4; expires=Wed, 01-Mar-2023 15:19:23 GMT; Max-Age=63072000; path=/; domain=.facebook.com; secure; httponly
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Accept-Encoding
+pragma: no-cache
+x-fb-rlafr: 0
+content-type: text/html; charset="utf-8"
+x-fb-debug: s+kL52ZwfUu76B17Is1yOoKiIEqrLkv39FZ7uQNHEzWWkuR5L+HeVfX9ItBshSF6TCJ1QKudM/U3ir8lVoyzww==
+date: Mon, 01 Mar 2021 15:19:23 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+

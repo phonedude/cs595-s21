@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 14:39:02 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 01 Mar 2021 15:39:02 GMT
+Location: https://addtoany.com/
+cf-request-id: 088fd384500000be7d4d927000000001
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 629321e6d981be7d-RIC
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 301 
+date: Mon, 01 Mar 2021 14:39:02 GMT
+cache-control: max-age=3600
+expires: Mon, 01 Mar 2021 15:39:02 GMT
+location: https://www.addtoany.com/
+cf-request-id: 088fd385300000be7d2732e000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: 629321e84b28be7d-RIC
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 14:39:02 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=dfed0d838f3e623117134b40a642cde121614609542; expires=Wed, 31-Mar-21 14:39:02 GMT; path=/; domain=.addtoany.com; HttpOnly; SameSite=Lax; Secure
+vary: Accept-Encoding
+via: e4s
+cf-cache-status: HIT
+age: 1602
+cf-request-id: 088fd385a10000be9676aad000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: 629321e90cc8be96-RIC
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+date: Mon, 01 Mar 2021 16:07:06 GMT
+location: https://tripadvisor.com/
+server: envoy
+X-TA-CDN-Provider: Edgecast
+Transfer-Encoding: chunked
+Connection: close
+
+HTTP/2 301 
+cache-control: no-cache,no-store,must-revalidate
+content-type: text/plain; charset=utf-8
+date: Mon, 01 Mar 2021 16:07:07 GMT
+expires: 0
+location: https://www.tripadvisor.com/
+pragma: no-cache
+server: envoy
+timing-allow-origin: https://www.tripadvisor.com
+x-ta-cdn-provider: Edgecast
+
+HTTP/2 200 
+server: envoy
+p3p: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DSP COR CAO PSA IDC ADM DEVi TAIi PSD IVAi IVDi CONi HIS CNT"
+link: <https://static.tacdn.com>;rel="preconnect";crossorigin
+link: <https://media-cdn.tripadvisor.com/media/>;rel="preconnect";crossorigin
+cache-control: no-cache,no-store,must-revalidate
+expires: 0
+pragma: no-cache
+content-length: 264463
+timing-allow-origin: https://www.tripadvisor.com
+vary: Accept-Encoding
+content-type: text/html;charset=UTF-8
+date: Mon, 01 Mar 2021 16:07:07 GMT
+
