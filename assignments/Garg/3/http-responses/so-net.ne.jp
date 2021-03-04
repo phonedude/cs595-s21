@@ -1,0 +1,26 @@
+HTTP/1.1 302 Found
+Location: https://so-net.ne.jp/
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Feb 2021 03:56:44 GMT
+Server: Apache
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy-Report-Only: frame-ancestors https://*.so-net.ne.jp http://*.so-net.ne.jp https://*.sonynetwork.co.jp https://*.sony.com https://*.sony.co.jp https://*.sonymobile.co.jp http://postpet.jp; report-uri /cgi-bin/csp-reports.cgi
+Location: https://www.so-net.ne.jp/
+Content-Type: text/html; charset=iso-8859-1
+Strict-Transport-Security:max-age=31536000;includeSubDomains
+
+HTTP/1.1 200 OK
+Date: Mon, 22 Feb 2021 03:56:45 GMT
+Server: Apache
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy-Report-Only: frame-ancestors https://*.so-net.ne.jp http://*.so-net.ne.jp https://*.sonynetwork.co.jp https://*.sony.com https://*.sony.co.jp https://*.sonymobile.co.jp http://postpet.jp; report-uri /cgi-bin/csp-reports.cgi
+Upgrade: h2
+Connection: Upgrade
+Accept-Ranges: none
+Content-Type: text/html
+Strict-Transport-Security:max-age=31536000;includeSubDomains
+
