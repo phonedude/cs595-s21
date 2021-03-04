@@ -22,11 +22,11 @@ Path: 91
 
 Path without /: 0
 
-                                                                                Table
                                                                                 
                                                                                 
-                                                          <img src="Assingment_3_PNG/A3_1.PNG" width="700">
+                                                                                
+                                                          <img src="Assignment_3_PNG/A3_1.PNG" width="700">
    
-                                                          <img src="Assingment_3_PNG/A3_2.PNG" width="700">
+                                                          <img src="Assignment_3_PNG/A3_2.PNG" width="700">
    
-                                                          <img src="Assingment_3_PNG/A3_3.PNG" width="700">
+                                                          <img src="Assignment_3_PNG/A3_3.PNG" width="700">
