@@ -1,0 +1,2831 @@
+URL: alibaba.com
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Tue, 02 Mar 2021 22:06:33 GMT
+Content-Type: text/html
+Content-Length: 239
+Connection: keep-alive
+Location: https://alibaba.com/
+Timing-Allow-Origin: *
+EagleId: 0be3767e16147227939764939eebd3
+server-timing: rt;dur=0.000,eagleid;desc=0be3767e16147227939764939eebd3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: android.com
+HTTP/1.1 302 Found
+Location: https://www.android.com/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 02 Mar 2021 22:06:34 GMT
+Server: sffe
+Content-Length: 221
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: answers.yahoo.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:34 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Location: https://answers.yahoo.com/
+Content-Length: 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: aol.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:34 GMT
+P3P: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: max-age=3600, public
+Location: https://www.aol.com/
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: berkeley.edu
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:34 GMT
+Server: Apache/2.4
+Location: https://www.berkeley.edu/
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: biglobe.ne.jp
+HTTP/1.1 200 OK
+Date: Tue, 02 Mar 2021 22:06:35 GMT
+Server: httpd
+Last-Modified: Thu, 05 Apr 2018 04:11:53 GMT
+Accept-Ranges: bytes
+Content-Length: 254
+X-XRDS-Location: https://openid.biglobe.ne.jp/server.xrds
+Content-Type: text/html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: billboard.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:35 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:06:35 GMT
+Location: https://www.billboard.com/
+cf-request-id: 089693a192000000938f947000000001
+Set-Cookie: PGMINFO=cc:us-ip:128.82.20.1; Max-Age=3600; Path=/; Domain=.billboard.com
+Set-Cookie: __cf_bm=d5a648bf34b7bbac61a27863b67a32f2f737e538-1614722795-1800-AebZRx5C9SKalR+Zbmyu92lOUCa4LNzV9GtwiG+pqLH4c/ZrKO82mOwE7uPYRnWAWp0c9oXJmcfLOmbfQMibpYDNf8RsYy2xBrt9wSB41PGI; path=/; expires=Tue, 02-Mar-21 22:36:35 GMT; domain=.billboard.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 629deee28bae0093-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: bit.ly
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Tue, 02 Mar 2021 22:06:35 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: https://bitly.com/
+Via: 1.1 google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: box.com
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Content-Type: text/html
+Content-Length: 138
+Connection: keep-alive
+Location: https://box.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: bp0.blogger.com
+HTTP/1.1 400 Bad Request
+Vary: Origin
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Server: fife
+Content-Length: 1555
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: bp1.blogger.com
+HTTP/1.1 400 Bad Request
+Vary: Origin
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Server: fife
+Content-Length: 1555
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: bp3.blogger.com
+HTTP/1.1 400 Bad Request
+Vary: Origin
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Server: fife
+Content-Length: 1555
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: calendar.google.com
+HTTP/1.1 404 Not Found
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: cambridge.org
+HTTP/1.1 302 Found
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Last-Modified: Tue, 02 Mar 2021 22:06:36 GMT
+Accept-Ranges: none
+Connection: close
+Content-type: text/html
+Location: https://www.cambridge.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: cbc.ca
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.cbc.ca/
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Connection: keep-alive
+Set-Cookie: akaas_feed=2147483647~rv=92~id=2bce79d33d862ceb5487ac219342a526; path=/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: cisco.com
+HTTP/1.1 301 Moved permanently
+Location: https://www.cisco.com/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: cloudflare.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:06:36 GMT
+Location: https://www.cloudflare.com/
+cf-request-id: 089693a4b4000074a73c3e0000000001
+Set-Cookie: __cf_bm=4838ef6ac2e1124789329087bf18f9800b01475a-1614722796-1800-Aes04CxO+dTX4X6YibMSolFtQEAgogsg5cMiZN7ilG1aqXy9yfIya5LUGNLnbS4xbYrZ4BsRhwowFw1K38K611U=; path=/; expires=Tue, 02-Mar-21 22:36:36 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=%2BdIIqjAE9VtRnFqjyqqFUbdT%2FUaHbpdvR4wMFQqih%2BPgAoghmkbid3S8yW3E5S2BNSHClVmdRwby%2FbizXZu7eYKiriOVZgnGANTJnRXMSw%3D%3D"}],"group":"cf-nel"}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 629deee78fb574a7-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+
+
+
+
+
+
+
+
+
+
+URL: cnet.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Tue, 02 Mar 2021 22:06:36 GMT
+Location: https://www.cnet.com/
+Server: nginx
+Via: 1.1 google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: cnil.fr
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://cnil.fr/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: columbia.edu
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:37 GMT
+Server: Apache
+Location: http://www.columbia.edu/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServer~CUIT~www.columbia.edu-80-pool=1764244352.20480.0000; expires=Wed, 03-Mar-2021 04:06:37 GMT; path=/; Httponly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: corriere.it
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:32 GMT
+Location: https://www.corriere.it/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+Vary: User-Agent
+Referrer-Policy: unsafe-url
+Connection: keep-alive
+Set-Cookie: NSC_Wjq_Dpssjfsf_Dbdif=ffffffff091a1f8b45525d5f4f58455e445a4a423660;expires=Tue, 02-Mar-2021 22:36:37 GMT;path=/;httponly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: creativecommons.org
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:37 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d7f06c2370d77f8b4733c2320199ad53c1614722797; expires=Thu, 01-Apr-21 22:06:37 GMT; path=/; domain=.creativecommons.org; HttpOnly; SameSite=Lax
+Location: https://creativecommons.org/
+Strict-Transport-Security: max-age=15768000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+cf-request-id: 089693a8fc00002a573483e000000001
+Server: cloudflare
+CF-RAY: 629deeee6c552a57-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: dailymail.co.uk
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.dailymail.co.uk/ushome/index.html
+Date: Tue, 02 Mar 2021 22:06:37 GMT
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: digg.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:37 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:06:37 GMT
+Location: https://digg.com/
+cf-request-id: 089693a98b0000380c860bf000000001
+Server: cloudflare
+CF-RAY: 629deeef4a46380c-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: docs.google.com
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 02 Mar 2021 22:06:38 GMT
+Location: https://docs.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=210=ffYdCdl4Sa-X699tKihDv839sLvovhK-_3YC3caW0DCd8O-_VzpKGTOZx_LrVT1ter8jZX0JIEa9AWRwQ6Mu1WA7cRTVehCvnYWTUCjRwSSuNuBGIEsQXZrcir8kH9Rkd8J-s_gUfhlnWkTQuOxA3WmvztWXICdOS9Jk_17WKqo; expires=Wed, 01-Sep-2021 22:06:38 GMT; path=/; domain=.google.com; HttpOnly
+
+
+
+
+
+
+
+
+
+
+
+
+URL: doubleclick.net
+HTTP/1.1 301 Moved Permanently
+Location: https://marketingplatform.google.com/about/enterprise/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 02 Mar 2021 22:01:17 GMT
+Expires: Tue, 02 Mar 2021 22:31:17 GMT
+Server: sffe
+Content-Length: 251
+X-XSS-Protection: 0
+Cache-Control: public, max-age=1800
+Age: 321
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: dw.com
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.dw.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: e-monsite.com
+HTTP/1.1 301 Redirect
+Date: Tue, 02 Mar 2021 22:06:38 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d7b0692c1beaa7b6b9c462cd6993fd4c11614722798; expires=Thu, 01-Apr-21 22:06:38 GMT; path=/; domain=.e-monsite.com; HttpOnly; SameSite=Lax
+X-Powered-By: PHP/7.4.12
+Location: http://www.e-monsite.com/
+X-EMS-Server: 78
+X-Frame-Options: sameorigin
+CF-Cache-Status: DYNAMIC
+cf-request-id: 089693ab910000299ab897c000000001
+Report-To: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=jIfVWlSLGxoTxo%2BPziAm%2FP3I7zFhROYXuUoq6fUiO%2FuNp6HYc%2BQFcGXuVWsn0Xc7cK9s32jXEiAzmsRo522B9XYjk1p9JCfwQmik3ofi"}],"group":"cf-nel"}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 629deef28be2299a-IAD
+
+
+
+
+
+
+
+
+
+
+URL: ea.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://ea.com/
+Cache-Control: max-age=0
+Expires: Tue, 02 Mar 2021 22:06:38 GMT
+Date: Tue, 02 Mar 2021 22:06:38 GMT
+Connection: keep-alive
+Set-Cookie: ealocale=en-us; expires=Wed, 02-Mar-2022 22:06:38 GMT; path=/; domain=.ea.com; secure
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ebay.co.uk
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.co.uk/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: elmundo.es
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Content-Type: text/html
+Content-Length: 169
+Location: https://www.elmundo.es/
+Referrer-Policy: unsafe-url
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: elpais.com
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://elpais.com/america/
+Cache-Control: private, max-age=0
+Expires: Tue, 02 Mar 2021 22:06:39 GMT
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Connection: keep-alive
+Set-Cookie: arc-geo={"georegion":"288","countrycode":"US","regioncode":"VA","timezone":"EST","continent":"NA"}; expires=Tue, 02-Mar-2021 22:21:39 GMT; path=/
+Set-Cookie: eptz=US; path=/; domain=.elpais.com
+Set-Cookie: hpage=2; expires=Wed, 02-Mar-2022 22:06:39 GMT; path=/; domain=.elpais.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: es.wikipedia.org
+HTTP/1.1 301 TLS Redirect
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Server: Varnish
+X-Varnish: 1058526009
+X-Cache: cp1075 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=02-Mar-2021;Path=/;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=02-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+X-Client-IP: 128.82.20.1
+Location: https://es.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: europa.eu
+HTTP/1.1 307 Temporary Redirect
+Location: https://europa.eu/
+Cache-Control: no-cache
+Pragma: no-cache
+X-XSS-Protection: 1
+Content-Type: text/html; charset=utf-8
+Proxy-Connection: close
+Connection: close
+Content-Length: 683
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: fb.me
+HTTP/1.1 301 Moved Permanently
+Location: https://fb.me/
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: MthyH3T3W8K3Y+rxCL/9hSsVbpcOcTpS01DvUL5D2NbGSf9tL8G0nzhylyQSgJlfblwB2KgKh2caH5p7QIBiQw==
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: feedburner.com
+HTTP/1.1 301 Moved Permanently
+Location: /fb/a/home
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Expires: Tue, 02 Mar 2021 22:06:39 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: finance.yahoo.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com https://*-yahoo-com.cdn.ampproject.org https://*-yahoo-com-0.cdn.ampproject.org https://*-yahoo-com.bing-amp.com https://*-yahoo-com-0.bing-amp.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=58vvq65g3tdnf&partner=;
+Location: https://finance.yahoo.com/
+Content-Length: 8
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+URL: forms.gle
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://forms.gle/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:06:39 GMT
+Connection: close
+X-Served-By: cache-dca17783-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614722800.955555,VS0,VE0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: foursquare.com
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://foursquare.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17730-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+
+
+
+
+
+
+
+
+
+
+
+
+URL: fr.wikipedia.org
+HTTP/1.1 301 TLS Redirect
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Server: Varnish
+X-Varnish: 11469948
+X-Cache: cp1075 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=02-Mar-2021;Path=/;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=02-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+X-Client-IP: 128.82.20.1
+Location: https://fr.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ft.com
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Location: https://ft.com
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Connection: close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: google.ru
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.ru/
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Expires: Thu, 01 Apr 2021 22:06:40 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: gravatar.com
+HTTP/1.1 302 Found
+Server: nginx
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+P3P: CP="CAO PSA"
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Tue, 02 Mar 2021 22:06:40 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Location: https://en.gravatar.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: harvard.edu
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Content-Length: 0
+Server: Pantheon
+Location: https://www.harvard.edu/
+X-Pantheon-Redirect: primary-domain-policy-doc
+Date: Tue, 02 Mar 2021 22:06:40 GMT
+Connection: close
+X-Served-By: cache-dca17757-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614722800.385447,VS0,VE1
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ieee.org
+HTTP/1.0 302 Found
+Location: http://www.ieee.org//
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ietf.org
+HTTP/1.1 302 Found
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Server: Apache
+Location: https://www.ietf.org/
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: imageshack.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.8
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.2.9
+Location: https://imageshack.com/
+X-Frame-Options: SAMEORIGIN
+X-Varnish: 1892862956
+Age: 0
+Via: 1.1 varnish
+X-Varnish-Hits: 0
+X-Varnish-IP: 208.94.3.34
+X-Varnish-Port: 17001
+Vary: Accept-Encoding, User-Agent
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: indiatimes.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.indiatimes.com/
+Cache-Control: max-age=0
+Expires: Tue, 02 Mar 2021 22:06:41 GMT
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: istockphoto.com
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://istockphoto.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 a929b4bfaa0111e3feb7c4dbffdbd8d8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C1
+X-Amz-Cf-Id: TvoC_aklebOScLE0KamecmaduGyFHxypoKwPv5f8XBrfQSWdRVXTQw==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ja.wikipedia.org
+HTTP/1.1 301 TLS Redirect
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Server: Varnish
+X-Varnish: 8653962
+X-Cache: cp1075 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=02-Mar-2021;Path=/;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=02-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Sat, 03 Apr 2021 12:00:00 GMT
+X-Client-IP: 128.82.20.1
+Location: https://ja.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: lemonde.fr
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17724-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614722802.644040,VS0,VE1
+Location: https://www.lemonde.fr/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: loc.gov
+HTTP/1.1 301 Moved permanently
+Date: Tue, 02 Mar 2021 22:06:41 GMT
+Connection: keep-alive
+Set-Cookie: __cfduid=d0dfb79491154f0454c8e885bcb24c3b31614722801; expires=Thu, 01-Apr-21 22:06:41 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+Location: https://loc.gov/
+Cache-Control: no-cache
+Pragma: no-cache
+CF-Cache-Status: DYNAMIC
+cf-request-id: 089693b8250000747607adf000000001
+Server: cloudflare
+CF-RAY: 629def06aa2d7476-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: mail.ru
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.14.1
+Date: Tue, 02 Mar 2021 22:06:42 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: https://mail.ru/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: metro.co.uk
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 02 Mar 2021 22:06:42 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://metro.co.uk/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: mhlw.go.jp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: mozilla.com
+HTTP/1.1 308 Permanent Redirect
+Date: Tue, 02 Mar 2021 22:06:42 GMT
+Content-Type: text/html
+Content-Length: 164
+Connection: keep-alive
+Location: https://mozilla.com/
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'none'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: mysql.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:42 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://mysql.com/
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: namecheap.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:06:42 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://www.namecheap.com/
+Server: namecheap-nginx
+Strict-Transport-Security: max-age=16000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: nydailynews.com
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Tue, 02 Mar 2021 22:06:43 GMT
+Content-Type: text/html
+Content-Length: 182
+Connection: keep-alive
+Location: http://www.nydailynews.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ok.ru
+HTTP/1.1 200 OK
+Server: Apache
+Date: Tue, 02 Mar 2021 22:06:43 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: bci=1470485470064795271; Domain=.ok.ru; Expires=Mon, 21-Mar-2089 01:20:50 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _statid=df4b1379-7c03-434e-a565-30ac240e23ea; Domain=.ok.ru; Expires=Mon, 21-Mar-2089 01:20:50 GMT; Path=/; Secure; HttpOnly
+Content-Security-Policy: default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adsafeprotected.com *.serving-sys.com https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru *.googletagmanager.com connect.facebook.net;  worker-src blob: 'self';  connect-src * wss: blob:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;
+Cache-Control: no-cache
+Cache-Control: no-store
+Pragma: no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosnif
+URL: over-blog-kiwi.com
+HTTP/1.1 301 Moved Permanently
+date: Tue, 02 Mar 2021 22:06:43 GMT
+location: https://www.over-blog.com/
+content-length: 234
+content-type: text/html; charset=iso-8859-1
+age: 0
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: paypal.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: picasa.google.com
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Length: 14770
+Content-Security-Policy-Report-Only: script-src 'nonce-gnXDNCpq8kX8PCNDcliPzQ' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'
+Cross-Origin-Resource-Policy: cross-origin
+Date: Tue, 02 Mar 2021 22:07:25 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Last-Modified: Tue, 20 Oct 2020 16:00:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+URL: rapidshare.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: rediff.com
+HTTP/1.0 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.rediff.com/
+Date: Tue, 02 Mar 2021 22:07:26 GMT
+Connection: keep-alive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: rt.com
+HTTP/1.1 301 Moved Permanently 
+Connection: close
+Content-Type: text/html
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://www.rt.com/
+Content-Length: 181
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: samsung.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 205
+Content-Type: text/html; charset=UTF-8
+Location: https://www.samsung.com/
+Date: Tue, 02 Mar 2021 22:07:25 GMT
+Set-Cookie: TS01ef6e9e=0130e8942a0ca4ca223faabbf4ac9870b63fe577522323d0f61de45d91e579f1f09bb761b9ba9f6bb4b19ba6c51f36b7c8796e9329; Path=/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: scoop.it
+HTTP/1.1 302 Found
+Server: openresty
+Date: Tue, 02 Mar 2021 22:07:27 GMT
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: no-cache
+Location: https://www.scoop.it
+Datacenter: ny8.nyc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: snapchat.com
+HTTP/1.1 302 Found
+Location: https://snapchat.com/
+X-Cloud-Trace-Context: f4ac1e953d8e696e853088143f8d59cc
+Date: Tue, 02 Mar 2021 22:07:27 GMT
+Content-Type: text/html
+Server: Google Frontend
+Transfer-Encoding: chunked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: stores.jp
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://stores.jp/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: support.google.com
+HTTP/1.1 301 Moved Permanently
+Location: https://support.google.com/
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+Expires: Tue, 02 Mar 2021 22:07:28 GMT
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+Content-Length: 224
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: tabelog.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://tabelog.com/
+Vary: Accept-Encoding,User-Agent
+Expires: Tue, 02 Mar 2021 22:07:28 GMT
+Cache-Control: max-age=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: target.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.target.com
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+Via: 1.1 varnish
+Age: 689
+Connection: keep-alive
+X-Served-By: cache-dca17760-DCA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1614722849.873310,VS0,VE0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: techcrunch.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+ec-policy-id: 1172233
+Location: https://techcrunch.com/
+Server: ECAcc (dcb/7EDB)
+Content-Length: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: thedailybeast.com
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:28 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:07:28 GMT
+Location: https://www.thedailybeast.com/
+cf-request-id: 08969470d80000cf44aab5d000000001
+Server: cloudflare
+CF-RAY: 629df02e2cdacf44-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: thefreedictionary.com
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 0
+Content-Type: text/html
+Location: https://www.thefreedictionary.com
+Date: Tue, 02 Mar 2021 22:07:26 GMT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: theguardian.com
+HTTP/1.1 301 
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://theguardian.com/
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:07:29 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17745-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614722849.332821,VS0,VE0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: themeforest.net
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:29 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:07:29 GMT
+Location: https://themeforest.net/
+cf-request-id: 089694726e0000096b94178000000001
+Server: cloudflare
+CF-RAY: 629df030b8a4096b-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: time.com
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 02 Mar 2021 22:07:29 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://time.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 3af8198471e066af6684852e004db602.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: 1aazYtkxuThxWTPMV3ucLQNzDSIbPDm3EulHVw7acJLVXLtwVWjlug==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: tmz.com
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Date: Tue, 02 Mar 2021 22:07:29 GMT
+Server: Apache
+Location: https://www.tmz.com/
+X-Cache: Miss from cloudfront
+Via: 1.1 a0042b5b0abdf83ac753e9d8be59e4e5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C3
+X-Amz-Cf-Id: dr9lSLrlqdF4EOebfJsDc3_7iJyzDnI-LGqKIFeLxU0w6HslxYaplg==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: tools.google.com
+HTTP/1.1 302 Moved Temporarily
+Location: https://www.google.com/chrome
+Content-Type: text/html; charset=UTF-8
+Content-Length: 211
+Date: Tue, 02 Mar 2021 22:07:29 GMT
+Expires: Tue, 02 Mar 2021 22:07:29 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: tripadvisor.com
+HTTP/1.1 301 Moved Permanently
+date: Tue, 02 Mar 2021 22:07:29 GMT
+location: https://tripadvisor.com/
+server: envoy
+X-TA-CDN-Provider: Edgecast
+Transfer-Encoding: chunked
+Connection: close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ucla.edu
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:30 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: https://www.ucla.edu/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: ucoz.ru
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.8.1
+Date: Tue, 02 Mar 2021 22:07:25 GMT
+Content-Type: text/html
+Content-Length: 184
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: https://www.ucoz.ru/
+X-Frame-Options: DENY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: undeveloped.com
+HTTP/1.1 301 Moved Permanently
+Server: openresty/1.13.6.2
+Date: Tue, 02 Mar 2021 22:07:02 GMT
+Content-Type: text/html
+Content-Length: 191
+Connection: keep-alive
+Location: https://dan.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: uol.com.br
+HTTP/1.0 301 Moved Permanently
+Location: https://www.uol.com.br/
+Cache-Control: max-age=60
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: usgs.gov
+HTTP/1.0 302 Redirect
+Connection: Close
+Location: https://usgs.gov/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: vk.com
+HTTP/1.1 418 
+Server: kittenx
+Date: Tue, 02 Mar 2021 22:07:31 GMT
+Content-Length: 0
+Connection: keep-alive
+X-Frontend: front605105
+Access-Control-Expose-Headers: X-Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: vox.com
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: http://www.vox.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 02 Mar 2021 22:07:32 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17724-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614722852.075131,VS0,VE0
+Set-Cookie: vmidv1=447394fe-30b8-41db-b339-8860994c6468;Expires=Sun, 01 Mar 2026 22:07:32 GMT;Domain=vox.com;Path=/;SameSite=Lax;Secure
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: wa.me
+HTTP/1.1 302 Found
+Location: https://wa.me/
+Content-Type: text/plain
+Server: proxygen-bolt
+X-FB-TRIP-ID: 1679558926
+Date: Tue, 02 Mar 2021 22:07:32 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: walmart.com
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Content-Length: 54
+Content-Type: text/html; charset=utf-8
+Location: https://www.walmart.com/
+Via: HTTP/1.1 odnd
+Date: Tue, 02 Mar 2021 22:07:32 GMT
+Set-Cookie: TS011baee6=01c5a4e2f934d4dc612ed8921a48a37012ae65a69051102b5e84f2cfa50d93d4fcc3c387b69df5613139d85fbffcd0553371e17004; Path=/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: weibo.com
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 02 Mar 2021 22:07:32 GMT
+Content-Type: text/html
+Connection: keep-alive
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Tue, 02 Mar 2021 22:07:32 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+Location: http://weibo.com/us
+DPOOL_HEADER: mweibo-10-13-113-156.bx.intra.weibo.cn
+LB_NODE: mweibo-10-22-254-41.xxg.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-ffbfd95c5-khw5f
+LB: 47.254.92.5
+LB_NODE: layer7-002.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: whitehouse.gov
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://whitehouse.gov/
+Date: Tue, 02 Mar 2021 22:07:33 GMT
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: who.int
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 22:07:33 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 02 Mar 2021 23:07:33 GMT
+Location: https://www.who.int/
+cf-request-id: 08969482110000f0d9ac029000000001
+Server: cloudflare
+CF-RAY: 629df049bc24f0d9-IAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: wsj.com
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Content-Length: 643856
+Connection: keep-alive
+Date: Tue, 02 Mar 2021 22:03:39 GMT
+Last-Modified: Tue, 02 Mar 2021 22:02:07 GMT
+ETag: "ad9159fdfbaa88543717d400fd01bf5d"
+Cache-Control: public,max-age=60,s-maxage=60
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Error from cloudfront
+Via: 1.1 55fa3dde23353cff6cf7a09eb763933c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C3
+X-Amz-Cf-Id: _VjnfgTpZDoDcUBEtQtyUQdXekz8NuQmwyp02zRyuvU8MY-rIPTCxA==
+Age: 235
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: yadi.sk
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 02 Mar 2021 22:07:33 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://yadi.sk/
+Strict-Transport-Security: max-age=31536000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: youtu.be
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 02 Mar 2021 22:07:34 GMT
+Location: https://youtu.be/
+Content-Length: 0
+X-Frame-Options: SAMEORIGIN
+Server: ESF
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: youtube.com
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 02 Mar 2021 22:07:34 GMT
+Location: https://youtube.com/
+Content-Length: 0
+X-Frame-Options: SAMEORIGIN
+Server: ESF
+X-XSS-Protection: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: zdnet.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Tue, 02 Mar 2021 22:07:34 GMT
+Location: https://www.zdnet.com/
+Server: nginx
+Via: 1.1 google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL: zendesk.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 02 Mar 2021 22:07:34 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.zendesk.com/
+X-Content-Type-Options: nosniff
+
+
