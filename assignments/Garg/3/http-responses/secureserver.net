@@ -1,0 +1,24 @@
+HTTP/1.1 301 Redirect
+Date: Mon, 22 Feb 2021 03:56:42 GMT
+Connection: keep-alive
+Server: ATS/7.1.6
+Cache-Control: no-store
+Location: https://www.secureserver.net/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 311
+
+HTTP/1.1 404 Not Found
+Server: openresty/1.15.8.2
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+x-powered-by: Slay
+Expires: Mon, 22 Feb 2021 03:56:42 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 22 Feb 2021 03:56:42 GMT
+Connection: keep-alive
+Set-Cookie: market=en-US; Max-Age=31536000; Domain=.secureserver.net; Path=/; Expires=Tue, 22 Feb 2022 03:56:42 GMT; Secure; SameSite=None
+Set-Cookie: currency=USD; Max-Age=31536000; Domain=.secureserver.net; Path=/; Expires=Tue, 22 Feb 2022 03:56:42 GMT; Secure; SameSite=None
+X-ARC: 101
+

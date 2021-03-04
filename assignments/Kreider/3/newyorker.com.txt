@@ -1,0 +1,50 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.newyorker.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 23 Feb 2021 23:59:20 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: CN_xid=99dcc85c-1c6b-4a8e-abaa-567e85b340ef; Expires=Sun, 22 Aug 2021 23:59:20 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=99dcc85c-1c6b-4a8e-abaa-567e85b340ef; Expires=Fri, 21 Feb 2031 23:59:20 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Tue, 23 Feb 2021 23:59:35 GMT; path=/;
+Set-Cookie: CN_segments=co.w2108; Expires=Sun, 22 Aug 2021 23:59:20 GMT; path=/;
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+X-Served-By: cache-wdc5571-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary: 
+cache-control: no-cache
+Set-Cookie: CN_geo_country_code=US; Expires=Sun, 22 Aug 2021 23:59:20 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+payment: free
+X-ESI: on
+Verso: true
+Fastly-Restarts: 1
+Date: Tue, 23 Feb 2021 23:59:21 GMT
+Via: 1.1 varnish
+Age: 28
+Set-Cookie: CN_xid=f3816fab-537d-4611-935c-7d9a43d48118; Expires=Sun, 22 Aug 2021 23:59:21 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=f3816fab-537d-4611-935c-7d9a43d48118; Expires=Fri, 21 Feb 2031 23:59:21 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Tue, 23 Feb 2021 23:59:36 GMT; path=/;
+Set-Cookie: CN_segments=co.w2108; Expires=Sun, 22 Aug 2021 23:59:21 GMT; path=/;
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+Strict-Transport-Security: max-age=86400; preload
+X-Served-By: cache-ewr18130-EWR
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1614124761.041531,VS0,VE4
+X-UA-Device: desktop
+Set-Cookie: verso_bucket=151; Expires=Wed, 23 Feb 2022 23:59:21 GMT; path=/;
+Vary: Accept-Encoding, accept-encoding, Accept-Encoding, accept-payment, X-UA-Device, Verso
+ev_entitlements_status: N.A
+ev_entitlements_decoded: 
+cache-control: no-cache
+set-cookie: pay_ent_smp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJ1cmxzIjpbXSwiY250IjowLCJtYXgiOjQsImV4cCI6MjAyMTAyfQ.Zi5MxSsPDSpQKaV4TLgp0sT1lZL_wXF6D2F65ptadMo; Path=/; Expires=Thu, 24 Feb 2022 05:59:21 GMT; Domain=newyorker.com; Secure;
+Set-Cookie: CN_geo_country_code=US; Expires=Sun, 22 Aug 2021 23:59:21 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure
+

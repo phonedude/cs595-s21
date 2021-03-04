@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.gov.uk/
+Fastly-Backend-Name: force_ssl
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:22:55 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5562-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 41843
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Cache-Control: max-age=1800, public
+Content-Security-Policy-Report-Only: default-src https: 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk; img-src 'self' data: *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com assets.digital.cabinet-office.gov.uk; script-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.gstatic.com www.signin.service.gov.uk *.ytimg.com www.youtube.com www.youtube-nocookie.com hmrc-uk.digital.nuance.com 'unsafe-inline'; style-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.gstatic.com 'unsafe-inline'; font-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk data:; connect-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.tax.service.gov.uk hmrc-uk.digital.nuance.com gov.klick2contact.com www.signin.service.gov.uk; object-src 'none'; frame-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.youtube.com www.youtube-nocookie.com; report-uri https://jhpno0hk6b.execute-api.eu-west-2.amazonaws.com/production
+Etag: W/"49783e94c67f6ff2ec86a872f043a517"
+Strict-Transport-Security: max-age=31536000; preload
+Via: 1.1 router, 1.1 varnish, 1.1 varnish
+X-Frame-Options: ALLOWALL
+X-Request-Id: 125886f2-74a2-4088-a3b4-25a2cfc4761e
+Fastly-Backend-Name: origin
+Accept-Ranges: bytes
+Date: Wed, 24 Feb 2021 00:22:55 GMT
+Age: 1707
+X-Served-By: cache-wdc5567-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 0
+X-Timer: S1614126175.129223,VS0,VE521
+Vary: Accept-Encoding, Accept-Encoding
+

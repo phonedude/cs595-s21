@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Sun, 28 Feb 2021 22:27:00 GMT
+Location: https://www.zdnet.com/
+Server: nginx
+Via: 1.1 google
+
+HTTP/2 200 
+content-security-policy: frame-ancestors 'self' *.zdnet.com *.ampproject.org *.amp.cloudflare.com; default-src https: blob: 'unsafe-inline' 'unsafe-eval' data:; font-src https: blob: data:; img-src https: data: android-webview-video-poster: blob:; form-action https:; block-all-mixed-content; media-src https: blob: data:;
+content-type: text/html; charset=UTF-8
+expect-ct: max-age=0, report-uri="https://7a8f8748a40805618a61b617481a6ebc.report-uri.com/r/d/ct/reportOnly"
+last-modified: Sun, 28 Feb 2021 22:25:05 GMT
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-tx-id: 638fa5eb-19ee-499f-b0f8-86aca599c4e2
+x-xss-protection: 1; mode=block
+date: Sun, 28 Feb 2021 22:27:00 GMT
+via: 1.1 varnish
+cache-control: max-age=300, private
+expires: Sun, 28 Feb 2021 22:30:05 GMT
+set-cookie: fly_geo={"countryCode": "us"}; max-age=604800; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_device=desktop; max-age=604800; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_preferred_edition=us; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_default_edition=us; path=/; domain=.zdnet.com; Secure;
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ranges: bytes
+vary: Accept-Encoding, User-Agent
+content-length: 597212
+

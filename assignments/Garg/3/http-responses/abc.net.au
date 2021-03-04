@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.abc.net.au/
+Connection: close
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.abc.net.au/
+Cache-Control: max-age=0
+Expires: Mon, 22 Feb 2021 03:37:15 GMT
+Date: Mon, 22 Feb 2021 03:37:15 GMT
+Connection: keep-alive
+Set-Cookie: ABCGuestID=23.200.156.181.52981613965035753; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.abc.net.au
+Set-Cookie: ABC_LD=int; path=/; domain=.abc.net.au
+Set-Cookie: ABC_FF=desktop; expires=Mon, 22-Feb-2021 05:37:15 GMT; path=/
+Vary: Origin
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: Apache/2.4.46 (Unix)
+application: core
+branch: master-core
+build: 59
+environment: production
+product: presentation-layer
+transaction-id: YDMmv-LCEzcSuQxOkYEA6AAAAAk
+x-dns-prefetch-control: off
+x-frame-options: SAMEORIGIN
+x-download-options: noopen
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: no-referrer-when-downgrade
+access-control-allow-origin: http://nucwed.aus.aunty.abc.net.au
+etag: W/"27620-B+BF1SaqRhW3wUMdGg2Z/kW9Pfs-gzip"
+cache-control: public, max-age=14
+expires: Mon, 22 Feb 2021 03:37:29 GMT
+date: Mon, 22 Feb 2021 03:37:15 GMT
+set-cookie: ABCGuestID=23.200.156.157.266781613965035860; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.abc.net.au
+set-cookie: ABC_LD=int; path=/; domain=.abc.net.au
+set-cookie: ABC_FF=desktop; expires=Mon, 22-Feb-2021 05:37:15 GMT; path=/
+content-security-policy: upgrade-insecure-requests;
+vary: Origin
+vary: User-Agent
+

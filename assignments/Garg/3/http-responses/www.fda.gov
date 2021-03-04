@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.fda.gov/
+Date: Fri, 26 Feb 2021 00:28:15 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: Apache
+x-content-type-options: nosniff
+link: <http://www.fda.gov/>; rel="shortlink", <http://www.fda.gov/>; rel="canonical"
+link: <https://www.fda.gov/home>; rel="alternate"; hreflang="en"
+link: <https://www.fda.gov/home>; rel="revision"
+x-ua-compatible: IE=edge
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+last-modified: Thu, 25 Feb 2021 22:51:09 GMT
+etag: "1614293469"
+content-type: text/html; charset=UTF-8
+cache-control: public, max-age=22914
+expires: Fri, 26 Feb 2021 06:50:10 GMT
+date: Fri, 26 Feb 2021 00:28:16 GMT
+strict-transport-security: max-age=31536000
+

@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Feb 2021 00:17:20 GMT
+ec-policy-id: 1172233
+Location: https://techcrunch.com/
+Server: ECAcc (dcd/7D26)
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 463
+Cache-Control: max-age=300, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 24 Feb 2021 00:17:20 GMT
+ec-policy-id: 1172233
+Host-Header: a9130478a60e5f9135f765b23f26593b
+Link: <https://techcrunch.com/wp-json/>; rel="https://api.w.org/"
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Set-Cookie: A1=d=AQABBBCbNWACEBDZ2DLsANgbvBVSyKPHoLAFEgEBAQHsNmA_YAAAAAAA_SMAAA&S=AQAAAmEdRAKnVfEnDkd5rLEsS2U; Domain=.techcrunch.com; Expires=Thu, 24 Feb 2022 00:17:20 GMT; Max-Age=31536000; SameSite=Lax; Path=/; Secure; HttpOnly
+Set-Cookie: A3=d=AQABBBCbNWACEBDZ2DLsANgbvBVSyKPHoLAFEgEBAQHsNmA_YAAAAAAA_SMAAA&S=AQAAAmEdRAKnVfEnDkd5rLEsS2U; Domain=.techcrunch.com; Expires=Thu, 24 Feb 2022 00:17:20 GMT; Max-Age=31536000; SameSite=None; Path=/; Secure; HttpOnly
+Set-Cookie: A1S=d=AQABBBCbNWACEBDZ2DLsANgbvBVSyKPHoLAFEgEBAQHsNmA_YAAAAAAA_SMAAA&S=AQAAAmEdRAKnVfEnDkd5rLEsS2U; Domain=.techcrunch.com; SameSite=Lax; Path=/; Secure
+Set-Cookie: GUC=AQEBAQFgNuxgP0IasgQQ; Domain=.techcrunch.com; Expires=Thu, 24 Feb 2022 00:17:20 GMT; Max-Age=31536000; Path=/; Secure
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Cache: hit
+X-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+X-rq: dca5 100 70 3188
+Content-Length: 1112600
+

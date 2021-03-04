@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.de/
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 28 Feb 2021 22:23:43 GMT
+Expires: Tue, 30 Mar 2021 22:23:43 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sun, 28 Feb 2021 22:23:43 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Sun, 28 Feb 2021 22:23:43 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-02-28-22; expires=Tue, 30-Mar-2021 22:23:43 GMT; path=/; domain=.google.de; Secure
+Set-Cookie: NID=210=gHbY9NkjxmvATBpa3NelJF7a_x9bcxdXS_6XCeDGv9UiaId9tu46Ee2xwzJUQycUvg2VwGK1v9gvZVXnnD-BcAeRQowgxi6fnTnh08jkr1WVVLha1Pj4wDk_sdzoyou_KfrfT2BwZwxNE1qqyPksAezNt8_Y082HDOxfxoAP91o; expires=Mon, 30-Aug-2021 22:23:43 GMT; path=/; domain=.google.de; HttpOnly
+

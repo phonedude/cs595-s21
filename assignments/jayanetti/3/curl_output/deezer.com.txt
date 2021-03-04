@@ -1,0 +1,49 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:22:37 GMT
+Server: Apache
+Location: http://www.deezer.com/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 302 Moved Temporarily
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+P3P: policyref="/w3c/p3p.xml" CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+X-Frame-Options: SAMEORIGIN
+Location: /us/
+X-Host: blm-web-96
+X-UA-Compatible: IE=edge,chrome=1,requiresActiveX=true
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Date: Sun, 28 Feb 2021 22:22:37 GMT
+Connection: keep-alive
+Set-Cookie: sid=fre3f0becea8233ca25faee2dfd15a76e0a667d1; path=/; domain=.deezer.com; HttpOnly
+x-org: FR
+Set-Cookie: bm_sz=E3D84075805BAA36B28EAED267803778~YAAQNWcmF9xYS9B3AQAAw3286gobqPiTl0dEkxmXlHk46CttTEJQ7XoNlRvaFmyGXzTAPaFYoh1RDjm2zH+XRTqDafLUCxQsF4gq08DlVmJsiisDIaJVRl7JvT9JDTmJBKiBrDaycWNacDDVo6REq73Z9nuhsaQvNwpxgm1KM/a+9NlDU5M2UE27+dHIAF70; Domain=.deezer.com; Path=/; Expires=Mon, 01 Mar 2021 02:22:37 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=61CC64BCDE1ED0EE7BB51B8AD409D1F0~-1~YAAQNWcmF91YS9B3AQAAw3286gU+RvyTvRiLOBVxQpWSrEBvyvLAxZnczjjJWcyJPI2NYe05vhivs6JOqqvFl+4P92XE87oGbvpKRg/tmfufCNdO/XMT9TXASf1DWalUDZHZFt8bR7U6tlf8W+voUTdE7Iebebe1kugm2tljozT6JshIK20d7F6W15hc+ug5Gqgxa6H+IMYS2reG0uikFFZdqBHNBREU4qtUqjqgqPEAfndjwQisdZZOJ0nqcsRYwmqS6Ma43SYqHI19gd6gOLzpSYj5RzNE5BFccxqoxHFeP33KM6xPLDhIeTgfs1VnrhfTyVIAxJtzGeo6uQKi+7qJngo=~-1~-1~-1; Domain=.deezer.com; Path=/; Expires=Mon, 28 Feb 2022 22:22:37 GMT; Max-Age=31536000
+
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+P3P: policyref="/w3c/p3p.xml" CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy-Report-Only: upgrade-insecure-requests ; report-uri /csp-report
+Content-Security-Policy-Report-Only: block-all-mixed-content ; report-uri /csp-report
+Link: <http://e-cdn-files.dzcdn.net/cache/js/app-backstage-plain-html.2296a304788b84c7d80a.js>; as="script"; rel="preload"; nopush, <http://e-cdn-files.dzcdn.net/cache/css/sass_c/app-backstage-plain-html.e3f3b2c1a902f07cf6c7.css>; as="style"; rel="preload"; nopush
+X-Host: blm-web-45
+X-UA-Compatible: IE=edge,chrome=1,requiresActiveX=true
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Feb 2021 22:22:37 GMT
+Connection: keep-alive
+Set-Cookie: sid=fr28bc1d4cea6e6a58e902fa2d35da59cf14a38e; path=/; domain=.deezer.com; HttpOnly
+Set-Cookie: dzr_uniq_id=dzr_uniq_id_fr28d3e61b119c34d42bc278e6b188b37ea729c5; expires=Fri, 27-Aug-2021 22:22:37 GMT; Max-Age=15552000; path=/; domain=.deezer.com; HttpOnly
+x-org: FR
+Set-Cookie: bm_sz=4C9B5EFF530C369700F338DD62FD270A~YAAQNWcmF95YS9B3AQAAVX686gqM6MfQ9YHL9S12yx+nozsBQfxKVWQ8P1PzwRwCcjuQnt6y+Ctj3kb/pDVCK7FLs8GkOpq1GzP58+1EqI6SfrMZOa3nGdeDAZbyEjNVFCW8ERpIoK9MXJFYIe775eJKcJr1FeZ6SknXPCtrmSj7q4rqt9NGpWC3/eI7gS+Q; Domain=.deezer.com; Path=/; Expires=Mon, 01 Mar 2021 02:22:37 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=8D345859E039C3AC72F3AC04821C0135~-1~YAAQNWcmF99YS9B3AQAAVX686gUcgPTwfAN795A1QpTPw+5GgXCKigBBGxmLal2H/Ac/WvFzdUe6h5xbJyYXZugZkukCi3upkGRa/48k6kWLhtACFc6IUocXJLl0qblRYrqdmZLCllXSZXm9WAGg6GthyTzuKnaDyTt2+6XXNLfjWlDNXN6jwSDLnhCLYT3r4g7H8cQY3ECRAGwXGZpRbmAo5Nxey9Q+Id6gS0nMB64Vr6TdaTMg99no/n2Tm2Szun1PRhjhW4AbUqzT8pK0wneQcBC3UnODBwADHRlIoQ0Be5ZNTpuG/caAelKWcd19zema32Q7Yhw7jb8pA2Yfpr9cIKI=~-1~-1~-1; Domain=.deezer.com; Path=/; Expires=Mon, 28 Feb 2022 22:22:37 GMT; Max-Age=31536000
+

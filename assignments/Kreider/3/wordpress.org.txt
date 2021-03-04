@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 24 Feb 2021 00:22:00 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://wordpress.org/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 24 Feb 2021 00:22:00 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=360
+X-Olaf: ⛄
+X-Frame-Options: SAMEORIGIN
+X-nc: HIT ord 1
+

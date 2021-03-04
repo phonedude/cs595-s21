@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 24 Feb 2021 00:23:54 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://yadi.sk/
+Strict-Transport-Security: max-age=31536000
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 24 Feb 2021 00:23:54 GMT
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://disk.yandex.com
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-qloud-router: sas8-9ff07984c632.qloud-c.yandex.net
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 24 Feb 2021 00:23:55 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 25411
+Connection: keep-alive
+Keep-Alive: timeout=120
+Set-Cookie: yandexuid=469963421614126235; domain=.yandex.com; expires=Tue, 19 Jan 2038 03:14:07 GMT; path=/; Secure;
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'none'; script-src 'nonce-G2ZXayBJBmlWd6r6C0U/pQ==' 'unsafe-inline' https://yastatic.net mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; style-src 'unsafe-inline' https://yastatic.net; img-src 'self' https://yastatic.net mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; font-src yastatic.net; connect-src yandex.ru mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; child-src blob: mc.yandex.ru; frame-src blob: mc.yandex.ru;
+ETag: W/"6343-jUVu9k8L3Ejv88lWhcQeqwBh6zQ"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-qloud-router: sas8-9ff07984c632.qloud-c.yandex.net
+

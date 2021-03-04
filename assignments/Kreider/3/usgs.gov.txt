@@ -1,0 +1,39 @@
+HTTP/1.0 302 Redirect
+Connection: Close
+Location: https://usgs.gov/
+
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Feb 2021 00:20:01 GMT
+Strict-Transport-Security: max-age=31536000;
+Location: https://www.usgs.gov/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: close
+Server: nginx
+Date: Wed, 24 Feb 2021 00:16:33 GMT
+Set-Cookie: AWSALB=M2MeooeCod8SOWuyToOgw1bfX88te0z4i9lYVh7nztpUPF9tGMNYrQZap8OoQDLuxwWnP11e1FNm9B8jbPt/r6yWRH3Mg0djI//cbo2afMO1vekm6QnMfHXFLX0n; Expires=Wed, 03 Mar 2021 00:16:33 GMT; Path=/
+Set-Cookie: AWSALBCORS=M2MeooeCod8SOWuyToOgw1bfX88te0z4i9lYVh7nztpUPF9tGMNYrQZap8OoQDLuxwWnP11e1FNm9B8jbPt/r6yWRH3Mg0djI//cbo2afMO1vekm6QnMfHXFLX0n; Expires=Wed, 03 Mar 2021 00:16:33 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: AWSALB=HlU1+gGghWqY9aGrfVLM6b7bJsuBNw/qGE8cPvhL/R+lj9mYRa4A0KrLOtSThBYxmSMD12mmgLE/DifF72KQXzanfZJLiGmAZovAXTIHZ+y3Wlq9+IrQl6pMZWIc; Expires=Wed, 03 Mar 2021 00:05:56 GMT; Path=/
+Set-Cookie: AWSALBCORS=HlU1+gGghWqY9aGrfVLM6b7bJsuBNw/qGE8cPvhL/R+lj9mYRa4A0KrLOtSThBYxmSMD12mmgLE/DifF72KQXzanfZJLiGmAZovAXTIHZ+y3Wlq9+IrQl6pMZWIc; Expires=Wed, 03 Mar 2021 00:05:56 GMT; Path=/; SameSite=None
+X-Drupal-Cache: MISS
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <https://www.usgs.gov/>; rel="canonical",<https://www.usgs.gov/>; rel="shortlink"
+Cache-Control: max-age=300
+Expires: Wed, 24 Feb 2021 00:21:33 GMT
+Last-Modified: Wed, 24 Feb 2021 00:05:56 GMT
+X-Proxy-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+ETag: "1614125156-0"
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 f44c8fed96046735d6f7ada758945c4f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: 4E1ILt3u7yMzBo2YR5vtg6WTAkHmdtX4n8QWsH3_4Fzk4_dmeejgDA==
+Age: 208
+

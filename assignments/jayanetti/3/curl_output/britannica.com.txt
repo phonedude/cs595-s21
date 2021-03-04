@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sun, 28 Feb 2021 22:22:22 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://britannica.com:443/
+
+HTTP/2 301 
+date: Sun, 28 Feb 2021 22:22:22 GMT
+content-type: text/html; charset=iso-8859-1
+location: https://www.britannica.com/
+server: Apache/2.4.25 (Debian) mod_jk/1.2.46
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:22:23 GMT
+content-type: text/html;charset=UTF-8
+content-length: 147297
+server: Apache/2.4.25 (Debian) mod_jk/1.2.46
+x-tserver: ip-10-145-21-143/127.0.1.1
+set-cookie: bcomID=-7941541344379411711; Domain=britannica.com; Expires=Wed, 26-Feb-2031 22:22:22 GMT; Path=/
+set-cookie: SessionAuth=+q1gFmf4X7hKkBzZ5QERjDv+5yB95Fx0PkoZArJnZdCXFntm0+6mHYy4hGan9nxd; Domain=britannica.com; Path=/
+set-cookie: subreturn=https%3A%2F%2Fwww.britannica.com%2F; Domain=britannica.com; Path=/
+set-cookie: webstats="referer_page=https%3A%2F%2Fwww.britannica.com%2F"; Version=1; Domain=britannica.com; Path=/
+set-cookie: __mendel=%7B%27pagesViewed%27%3A1%2C%27surveyShown%27%3Afalse%7D; Domain=britannica.com; Path=/
+content-language: en-US
+x-wserver: 10.145.21.143 (mendel-south-us)
+vary: User-Agent
+

@@ -1,0 +1,57 @@
+HTTP/1.1 301 TLS Redirect
+Date: Sun, 28 Feb 2021 22:26:52 GMT
+Server: Varnish
+X-Varnish: 108314082
+X-Cache: cp1081 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=28-Feb-2021;Path=/;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=28-Feb-2021;Path=/;Domain=.wiktionary.org;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+X-Client-IP: 2600:8805:1408:e800:b187:2fc2:caf6:1ad0
+Location: https://wiktionary.org/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 301 
+date: Sat, 27 Feb 2021 01:07:49 GMT
+server: mw1369.eqiad.wmnet
+location: https://www.wiktionary.org/
+cache-control: max-age=2592000
+expires: Mon, 29 Mar 2021 01:07:49 GMT
+content-length: 235
+content-type: text/html; charset=iso-8859-1
+vary: X-Forwarded-Proto
+age: 163143
+x-cache: cp1079 hit, cp1075 hit/154
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=28-Feb-2021;Path=/;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=28-Feb-2021;Path=/;Domain=.wiktionary.org;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+x-client-ip: 2600:8805:1408:e800:b187:2fc2:caf6:1ad0
+set-cookie: GeoIP=US:VA:Norfolk:36.92:-76.21:v4; Path=/; secure; Domain=.wiktionary.org
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 21:24:59 GMT
+cache-control: s-maxage=86400, must-revalidate, max-age=3600
+server: ATS/8.0.8
+etag: W/"7bdc-5bad197160b5f"
+last-modified: Mon, 08 Feb 2021 11:37:09 GMT
+content-type: text/html
+vary: Accept-Encoding
+age: 3713
+x-cache: cp1079 hit, cp1075 hit/89
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=28-Feb-2021;Path=/;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=28-Feb-2021;Path=/;Domain=.wiktionary.org;HttpOnly;secure;Expires=Thu, 01 Apr 2021 12:00:00 GMT
+x-client-ip: 2600:8805:1408:e800:b187:2fc2:caf6:1ad0
+set-cookie: GeoIP=US:VA:Norfolk:36.92:-76.21:v4; Path=/; secure; Domain=.wiktionary.org
+accept-ranges: bytes
+content-length: 31708
+

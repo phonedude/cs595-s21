@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Mar 2021 06:00:15 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com https://*-yahoo-com.cdn.ampproject.org https://*-yahoo-com-0.cdn.ampproject.org https://*-yahoo-com.bing-amp.com https://*-yahoo-com-0.bing-amp.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=68jcak5g3rl3f&partner=;
+Location: https://finance.yahoo.com/
+Content-Length: 8
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=15552000
+x-frame-options: SAMEORIGIN
+content-security-policy: sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation;
+content-type: text/html; charset=utf-8
+date: Tue, 02 Mar 2021 05:48:56 GMT
+x-envoy-upstream-service-time: 101
+server: ATS
+Cache-Control: max-age=0, private
+Expires: -1
+Age: 679
+Connection: keep-alive
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+

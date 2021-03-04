@@ -1,0 +1,1361 @@
+{
+  "academia.edu": {
+    "status-code": "200",
+    "number-of-cookies": 10,
+    "cookie-parameters": {
+      "0": {},
+      "1": {},
+      "2": {},
+      "3": {},
+      "4": {
+        "path": "/",
+        "secure": "y"
+      },
+      "5": {
+        "path": "/",
+        "secure": "y"
+      },
+      "6": {
+        "path": "/",
+        "secure": "y"
+      },
+      "7": {
+        "path": "/",
+        "secure": "y",
+        "HttpOnly": "y"
+      },
+      "8": {},
+      "9": {}
+    }
+  },
+  "accounts.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "adobe.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "adweek.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "amazon.ca": {
+    "status-code": "503",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "amazon.co.jp": {
+    "status-code": "503",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "amazon.de": {
+    "status-code": "503",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "answers.com": {
+    "status-code": "200",
+    "number-of-cookies": 8,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/\n"
+      },
+      "1": {
+        "Path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "2": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "3": {
+        "path": "/",
+        "httponly": "y",
+        "samesite": "lax\n"
+      },
+      "4": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "5": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "6": {
+        "path": "/\n"
+      },
+      "7": {
+        "path": "/\n"
+      }
+    }
+  },
+  "bbc.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "blog.fc2.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "path": "/\n"
+      }
+    }
+  },
+  "booking.com": {
+    "status-code": "200",
+    "number-of-cookies": 3,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "path": "/"
+      },
+      "2": {
+        "path": "/",
+        "Secure": "y",
+        "HTTPOnly": "y",
+        "SameSite": "None\n"
+      }
+    }
+  },
+  "books.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "bp.blogspot.com": {
+    "status-code": "000",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "bp3.blogger.com": {
+    "status-code": "400",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "brandbucket.com": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      },
+      "1": {
+        "path": "/\n"
+      },
+      "2": {
+        "path": "/\n"
+      },
+      "3": {
+        "path": "/\n"
+      }
+    }
+  },
+  "britannica.com": {
+    "status-code": "200",
+    "number-of-cookies": 5,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/\n"
+      },
+      "1": {
+        "Path": "/\n"
+      },
+      "2": {
+        "Path": "/\n"
+      },
+      "3": {
+        "Path": "/\n"
+      },
+      "4": {
+        "Path": "/\n"
+      }
+    }
+  },
+  "ca.gov": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "calameo.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "cambridge.org": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      }
+    }
+  },
+  "cloudflare.com": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "None\n"
+      },
+      "2": {
+        "SameSite": "Lax",
+        "path": "/",
+        "HttpOnly": "y"
+      },
+      "3": {
+        "path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "None\n"
+      }
+    }
+  },
+  "de.wikipedia.org": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "1": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "3": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "4": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "5": {
+        "Path": "/",
+        "secure": "y"
+      }
+    }
+  },
+  "deezer.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "dropbox.com": {
+    "status-code": "200",
+    "number-of-cookies": 14,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "1": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "3": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "4": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "5": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "6": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "7": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "8": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "9": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "10": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "11": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "12": {
+        "httponly": "y",
+        "Path": "/",
+        "secure": "y"
+      },
+      "13": {
+        "Path": "/",
+        "secure": "y"
+      }
+    }
+  },
+  "ebay.com": {
+    "status-code": "301",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "ed.gov": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "en.wikipedia.org": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "1": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "3": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "4": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "5": {
+        "Path": "/",
+        "secure": "y"
+      }
+    }
+  },
+  "europa.eu": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "fandom.com": {
+    "status-code": "200",
+    "number-of-cookies": 3,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "2": {
+        "path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      }
+    }
+  },
+  "fb.me": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "secure": "y",
+        "httponly": "y"
+      },
+      "1": {
+        "path": "/",
+        "secure": "y",
+        "httponly": "y"
+      }
+    }
+  },
+  "finance.yahoo.com": {
+    "status-code": "404",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      }
+    }
+  },
+  "forbes.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "foxnews.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "get.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "ggpht.com": {
+    "status-code": "000",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "godaddy.com": {
+    "status-code": "000",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "gofundme.com": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "path": "/"
+      },
+      "2": {
+        "path": "/"
+      },
+      "3": {
+        "path": "/"
+      },
+      "4": {
+        "path": "/"
+      },
+      "5": {
+        "path": "/"
+      }
+    }
+  },
+  "goo.gl": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "google.co.in": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "google.de": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "google.es": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "google.nl": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "googleblog.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "gooyaabitemplates.com": {
+    "status-code": "406",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "greenpeace.org": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      },
+      "1": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      }
+    }
+  },
+  "groups.yahoo.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "harvard.edu": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "hm.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "huffpost.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "ig.com.br": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax",
+        "Secure": "y"
+      }
+    }
+  },
+  "instagram.com": {
+    "status-code": "429",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "HttpOnly": "y",
+        "Path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "3": {
+        "HttpOnly": "y",
+        "Path": "/",
+        "Secure": "y"
+      },
+      "4": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "5": {
+        "Path": "/",
+        "Secure": "y"
+      }
+    }
+  },
+  "iso.org": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "lifehacker.com": {
+    "status-code": "200",
+    "number-of-cookies": 3,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "2": {
+        "path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      }
+    }
+  },
+  "linkedin.com": {
+    "status-code": "200",
+    "number-of-cookies": 5,
+    "cookie-parameters": {
+      "0": {
+        "SameSite": "None",
+        "Path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "SameSite": "None",
+        "Path": "/",
+        "Secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "Secure": "y",
+        "SameSite": "None\n"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "None\n"
+      },
+      "4": {
+        "Path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      }
+    }
+  },
+  "lycos.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "mail.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "mail.ru": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "microsoft.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "msn.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "my.yahoo.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "myspace.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "namesilo.com": {
+    "status-code": "503",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "None\n"
+      }
+    }
+  },
+  "networkadvertising.org": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "news.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "2": {
+        "path": "/",
+        "HttpOnly": "y"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y"
+      }
+    }
+  },
+  "newscientist.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "nokia.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/\n"
+      },
+      "1": {
+        "path": "/\n"
+      }
+    }
+  },
+  "nps.gov": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "offset.com": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "Lax\n"
+      },
+      "1": {
+        "Path": "/"
+      },
+      "2": {
+        "Path": "/"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y",
+        "SameSite": "None\n"
+      },
+      "4": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "Lax\n"
+      },
+      "5": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "Secure": "y",
+        "SameSite": "Lax\n"
+      }
+    }
+  },
+  "orange.fr": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "people.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "php.net": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "path": "/"
+      }
+    }
+  },
+  "picasa.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "plos.org": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "policies.google.com": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "rediff.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "researchgate.net": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "secure": "y",
+        "httponly": "y"
+      },
+      "2": {
+        "path": "/",
+        "secure": "y",
+        "httponly": "y"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "reuters.com": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/rcom-betaus/",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "rt.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "shutterstock.com": {
+    "status-code": "406",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "stanford.edu": {
+    "status-code": "200",
+    "number-of-cookies": 1,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "secure": "y",
+        "HttpOnly": "y"
+      }
+    }
+  },
+  "steamcommunity.com": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "surveymonkey.com": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "1": {
+        "Path": "/",
+        "secure": "y",
+        "samesite": "none\n"
+      },
+      "2": {
+        "Path": "/",
+        "secure": "y",
+        "samesite": "none\n"
+      },
+      "3": {
+        "Path": "/",
+        "httponly": "y",
+        "secure": "y",
+        "samesite": "none\n"
+      },
+      "4": {
+        "Path": "/",
+        "secure": "y",
+        "samesite": "none\n"
+      },
+      "5": {
+        "Path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      }
+    }
+  },
+  "terra.com.br": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "Secure": "y"
+      }
+    }
+  },
+  "thenextweb.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      },
+      "1": {
+        "path": "/\n"
+      }
+    }
+  },
+  "theverge.com": {
+    "status-code": "200",
+    "number-of-cookies": 2,
+    "cookie-parameters": {
+      "0": {
+        "path": "/"
+      },
+      "1": {
+        "Path": "/",
+        "SameSite": "Lax",
+        "Secure": "y"
+      }
+    }
+  },
+  "thoughtco.com": {
+    "status-code": "200",
+    "number-of-cookies": 3,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/"
+      },
+      "1": {
+        "Path": "/"
+      },
+      "2": {
+        "Path": "/"
+      }
+    }
+  },
+  "tinyurl.com": {
+    "status-code": "200",
+    "number-of-cookies": 10,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      },
+      "1": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "2": {
+        "path": "/",
+        "httponly": "y",
+        "samesite": "lax\n"
+      },
+      "3": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "4": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "5": {
+        "path": "/",
+        "HttpOnly": "y",
+        "SameSite": "Lax\n"
+      },
+      "6": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "7": {
+        "path": "/",
+        "httponly": "y",
+        "samesite": "lax\n"
+      },
+      "8": {
+        "path": "/",
+        "samesite": "lax\n"
+      },
+      "9": {
+        "path": "/",
+        "samesite": "lax\n"
+      }
+    }
+  },
+  "transandfiestas.ga": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "twitch.tv": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "usgs.gov": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/\n"
+      },
+      "1": {
+        "Path": "/",
+        "SameSite": "None",
+        "Secure": "y"
+      },
+      "2": {
+        "Path": "/\n"
+      },
+      "3": {
+        "Path": "/",
+        "SameSite": "None\n"
+      }
+    }
+  },
+  "vk.com": {
+    "status-code": "418",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "walmart.com": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y",
+        "SameSite": "None\n"
+      },
+      "2": {
+        "path": "/",
+        "SameSite": "Strict\n"
+      },
+      "3": {
+        "Path": "/"
+      }
+    }
+  },
+  "washingtonpost.com": {
+    "status-code": "200",
+    "number-of-cookies": 5,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "secure": "y",
+        "SameSite": "None\n"
+      },
+      "1": {
+        "path": "/",
+        "secure": "y",
+        "SameSite": "None\n"
+      },
+      "2": {
+        "path": "/"
+      },
+      "3": {
+        "path": "/",
+        "SameSite": "None",
+        "secure": "y"
+      },
+      "4": {
+        "path": "/",
+        "SameSite": "None",
+        "secure": "y"
+      }
+    }
+  },
+  "whitehouse.gov": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "wiktionary.org": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "1": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "secure": "y"
+      },
+      "3": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "4": {
+        "Path": "/",
+        "HttpOnly": "y",
+        "secure": "y"
+      },
+      "5": {
+        "Path": "/",
+        "secure": "y"
+      }
+    }
+  },
+  "wired.com": {
+    "status-code": "200",
+    "number-of-cookies": 11,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "SameSite": "Strict",
+        "Secure": "y"
+      },
+      "2": {
+        "Path": "/",
+        "Samesite": "None",
+        "Secure": "y"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y"
+      },
+      "4": {
+        "SameSite": "Strict",
+        "Secure": "y"
+      },
+      "5": {
+        "path": "/",
+        "Secure": "y",
+        "SameSite": "None"
+      },
+      "6": {
+        "path": "/",
+        "Secure": "y",
+        "httponly": "y",
+        "SameSite": "None"
+      },
+      "7": {
+        "path": "/"
+      },
+      "8": {
+        "path": "/"
+      },
+      "9": {
+        "path": "/"
+      },
+      "10": {
+        "Path": "/",
+        "Samesite": "None",
+        "Secure": "y"
+      }
+    }
+  },
+  "wordpress.org": {
+    "status-code": "200",
+    "number-of-cookies": 0,
+    "cookie-parameters": {}
+  },
+  "youtu.be": {
+    "status-code": "200",
+    "number-of-cookies": 6,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "2": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      },
+      "4": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "5": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      }
+    }
+  },
+  "youtube.com": {
+    "status-code": "200",
+    "number-of-cookies": 5,
+    "cookie-parameters": {
+      "0": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "1": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "2": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y"
+      },
+      "3": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      },
+      "4": {
+        "Path": "/",
+        "Secure": "y",
+        "HttpOnly": "y",
+        "SameSite": "none\n"
+      }
+    }
+  },
+  "zdnet.com": {
+    "status-code": "200",
+    "number-of-cookies": 4,
+    "cookie-parameters": {
+      "0": {
+        "path": "/",
+        "Secure": "y"
+      },
+      "1": {
+        "path": "/",
+        "Secure": "y"
+      },
+      "2": {
+        "path": "/",
+        "Secure": "y"
+      },
+      "3": {
+        "path": "/",
+        "Secure": "y"
+      }
+    }
+  }
+}

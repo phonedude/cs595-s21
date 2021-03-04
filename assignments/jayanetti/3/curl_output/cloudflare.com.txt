@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:22:34 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sun, 28 Feb 2021 23:22:34 GMT
+Location: https://www.cloudflare.com/
+cf-request-id: 088c558adf0000c075053bf000000001
+Set-Cookie: __cf_bm=ae2c1107309e3165b7714e4c042d15fbe92cb205-1614550954-1800-ARay1jqkkKkzMyEiDIdNYaDw2tbBb5W2FM3kORw87+dtoqI4WW7X9aLrwXbZyuAV3F3BUShSDfcEf2PbbCidAHM=; path=/; expires=Sun, 28-Feb-21 22:52:34 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"max_age":604800,"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=PqLDA4wYZ6Jv2LaMqwjKO0wgG4kjir6SBEycH4mt%2BMq0FaFcOxpq8EQpyydJqRv2hjdo7mfVWuv6wpQ%2FVOD%2F39DA39WP%2F8ve6dbf8bISYiRdq%2FpsPuQI8kBUBQ%3D%3D"}]}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 628d8b8afd71c075-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:22:35 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d737a4339fa7c26179ba86ce89aa4a50e1614550954; expires=Tue, 30-Mar-21 22:22:34 GMT; path=/; domain=.www.cloudflare.com; HttpOnly; SameSite=Lax; Secure
+cf-ray: 628d8b8ba846c07a-ORF
+cache-control: public, max-age=30
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+cf-cache-status: EXPIRED
+cf-request-id: 088c558b470000c07aea090000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=02d819bfd63ce52d67785a442fe9ed3887a6ee7b-1614550955-1800-AdkkLSZip8is5mPoL5mgYY6nBEpi8Ehd9XyZRTpVlkl4ACJ2tC/m511fz9mS8GNtWA==; path=/; expires=Sun, 28-Feb-21 22:52:35 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+set-cookie: __cflb=02DiuJFZNR1vT983reJ7dGD57ieW7F4Q7LqPYBLnj7ikL; SameSite=Lax; path=/; expires=Mon, 01-Mar-21 21:22:35 GMT; HttpOnly
+set-cookie: __cf_bm=5fa102bfaa2bb5ffaa6cad57e009a06f9c03c4ab-1614550955-1800-AUXIqswIrfEZHRrulD8Ygldcp69C2s0eSMw+0Ex/lzCvawCnkNadTwJnptoW3A+aiQhbAh9hMqM2HXIqp/P4aBBv5uP7mt82D5md0XGTFyjt; path=/; expires=Sun, 28-Feb-21 22:52:35 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+report-to: {"max_age":604800,"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=mSVvhEvXJbF9uecZzmZ8lqn5VRBoCm39Uub2xDBtawOQnH3KGwCw7ww3gfy6xHTffcmAYHMWhSMSvPc89hPaUmhwGRSVJWm5VywcNGiybUnia7nxJytM2Sr%2F4DuwpjA%3D"}]}
+nel: {"max_age":604800,"report_to":"cf-nel"}
+server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
