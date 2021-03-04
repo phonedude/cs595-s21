@@ -3,14 +3,23 @@ This file is my summary of assignment 3. I used a linux bash shell to loop a cur
 Mean: 1.35 Max: 7 Min: 0 Med:0
 
 Cookie Results 
-# of Cookies: 135
+---------------------
+Number of Cookies: 135
+
 HttpOnly: 64
+
 SameSite: 44
+
 Lax: 18
+
 None: 18
+
 Strict: 1
+
 Secure:58
+
 Path: 91
+
 Path without /: 0
 
                                                                                 Table
