@@ -20,6 +20,6 @@
 
 ## Summary of 99 Websites
 
-Site|Terminating Status Code|Number of Cookies|HttpOnly|Secure|SameSite|Strict|Lax|None|Path|Path Not /
-----|-----------------------|-----------------|--------|------|--------|------|---|----|----|
-4shared.com|200|1|0|0|0|0|0|0|1|0
+Site|Terminating Status Code|Number of Cookies|HttpOnly|Secure|SameSite|Strict|Lax|None|Path|Path Not /|
+----|-----------------------|-----------------|--------|------|--------|------|---|----|----|---|
+4shared.com|200|1|0|0|0|0|0|0|1|0|
