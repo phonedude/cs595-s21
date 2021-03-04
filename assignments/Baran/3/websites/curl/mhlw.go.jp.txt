@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.mhlw.go.jp/
+Date: Thu, 04 Mar 2021 20:14:35 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://www.mhlw.go.jp/index.html
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:36 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Content-Length: 100067
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 04 Mar 2021 20:14:36 GMT
+Connection: keep-alive
+

@@ -1,0 +1,2 @@
+Set-Cookie: idzone=AFB1Rkm3k6uG3pNBLsCDEGqAqvkY9Wy9I7F5zhtu6u0-Fzh_8ImSK9ithhRadv-cihJHeJ1JHcdSW4cXisP5WeeXuJaCM0_3FdDGh2MhQgLDhEI2_EkqIbXQA8RxiUhP6XUH; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+Set-Cookie: izclientid=YxFMLAK145ZFDlkTWbkAAy8k%2C1615493697; expires=Tue, 31-Aug-2021 20:14:57 GMT; Max-Age=15552000; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None

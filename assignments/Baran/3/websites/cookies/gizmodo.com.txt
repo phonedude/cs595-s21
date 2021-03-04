@@ -1,0 +1,7 @@
+Set-Cookie: geocc=US;path=/;
+set-cookie: geocc=US;path=/;
+set-cookie: KinjaBucket=a;path=/;Max-Age=31536000;domain=gizmodo.com;SameSite=None;Secure;
+set-cookie: KinjaSetBucket=a|1614888600|rtJFAPzpIzvYrNHYEX4C+PYM+oZdCWsJZAFp8nWS/Qo=;path=/;Max-Age=300;SameSite=None;Secure;
+set-cookie: geocc=US;path=/;
+set-cookie: KinjaBucket=a;path=/;Max-Age=31536000;domain=gizmodo.com;SameSite=None;Secure;
+set-cookie: KinjaSetBucket=a|1614888600|rtJFAPzpIzvYrNHYEX4C+PYM+oZdCWsJZAFp8nWS/Qo=;path=/;Max-Age=300;SameSite=None;Secure;

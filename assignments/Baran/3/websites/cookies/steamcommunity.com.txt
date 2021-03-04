@@ -1,0 +1,2 @@
+Set-Cookie: sessionid=8514a68af7e66b005f9bb89c; Path=/; Secure; SameSite=None
+Set-Cookie: steamCountry=US%7C5a439b6997c58040c07df492c0012df6; Path=/; Secure; SameSite=None

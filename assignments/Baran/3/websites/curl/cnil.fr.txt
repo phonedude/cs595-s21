@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.cnil.fr/
+
+HTTP/1.1 200 OK
+date: Thu, 04 Mar 2021 20:02:23 GMT
+server: Apache
+cache-control: public, max-age=900
+x-drupal-cache: HIT
+content-language: fr
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+link: <https://www.cnil.fr/fr>; rel="canonical",<https://www.cnil.fr/fr>; rel="shortlink"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie,Accept-Encoding
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+x-content-type-options: nosniff
+last-modified: Thu, 04 Mar 2021 18:31:26 GMT
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+x-varnish: 35001811 34839071
+age: 704
+via: 1.1 varnish-v4
+etag: W/"1614882686-1"
+x-cache: HIT
+x-cache-hits: 78
+

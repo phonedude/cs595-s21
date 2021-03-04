@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.quora.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 04 Mar 2021 20:15:00 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5536-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614888900.174741,VS0,VE0
+
+HTTP/2 403 
+content-type: text/html
+etag: "600a2e1e-b04"
+server: nginx
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-q-stat: ,6a859d29701e49fed84f211e8a050bfa,10.0.0.149,43684,108.17.156.215,,331807141960,1,1614888900.228,0.000,,.,0,0,,,,,,,154,77,10,35796,,,,,,-,
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 20:15:00 GMT
+via: 1.1 varnish
+x-served-by: cache-wdc5528-WDC
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614888900.222401,VS0,VE6
+content-length: 2820
+

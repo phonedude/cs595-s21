@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 04 Mar 2021 20:15:19 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.usgs.gov/
+X-Cache: Redirect from cloudfront
+Via: 1.1 7e9d74c81117937f0703aa3977d2d999.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: cYcRMjQXVUP6ykHjgHP6E1AuX6TzR-JBObAOXX9FQZ1yDniUGvuy6g==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+date: Thu, 04 Mar 2021 20:13:40 GMT
+set-cookie: AWSALB=b0zqo5nvInndHYMo0znbBwLFHcPousv81BaezLPIrIeTkObX42t7JxAhCR6rdbgwqFJKtWi7/CMaRvSh+bF51PapDisOylSKRd9N3h108CWE43LGGVDXE6VimO/q; Expires=Thu, 11 Mar 2021 20:13:40 GMT; Path=/
+set-cookie: AWSALBCORS=b0zqo5nvInndHYMo0znbBwLFHcPousv81BaezLPIrIeTkObX42t7JxAhCR6rdbgwqFJKtWi7/CMaRvSh+bF51PapDisOylSKRd9N3h108CWE43LGGVDXE6VimO/q; Expires=Thu, 11 Mar 2021 20:13:40 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=KgU5avedKOBspeIJGuvT+C3nE6r4pHbrhfbM3lacDY2FeD27klTFYiiSJLoH7Wt5VesgPv7XS1rtg3rIA/E8PzmnseP/gzJVThuPnEcWkA6z6U/MmKmXV21DEzNl; Expires=Thu, 11 Mar 2021 20:07:02 GMT; Path=/
+set-cookie: AWSALBCORS=KgU5avedKOBspeIJGuvT+C3nE6r4pHbrhfbM3lacDY2FeD27klTFYiiSJLoH7Wt5VesgPv7XS1rtg3rIA/E8PzmnseP/gzJVThuPnEcWkA6z6U/MmKmXV21DEzNl; Expires=Thu, 11 Mar 2021 20:07:02 GMT; Path=/; SameSite=None
+x-drupal-cache: MISS
+content-language: en
+x-generator: Drupal 7 (http://drupal.org)
+link: <https://www.usgs.gov/>; rel="canonical",<https://www.usgs.gov/>; rel="shortlink"
+cache-control: max-age=300
+expires: Thu, 04 Mar 2021 20:18:40 GMT
+last-modified: Thu, 04 Mar 2021 20:07:02 GMT
+x-proxy-cache: HIT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+etag: W/"1614888422-1"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 148f45d892bd2198be5295012ed59888.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: td1xy8U3_cBLIi7t8pSOCDOM2ywOiYE4_HJlZan-PTP1KeN8Pe_lcQ==
+age: 99
+

@@ -1,0 +1,9 @@
+Set-Cookie: _pxhd=f8a533a46dc264a6e738a760b89ffa602264410e26b5ddc7009e9561dea4355a:3c4ab3d1-7d26-11eb-8082-abbda406fa7c; Expires=Fri, 04 Mar 2022 20:14:33 GMT; path=/; 
+set-cookie: vis=6e9cbef82a0f32dd-53663afac18f2154-9709b302931e6506v1; path=/; expires=Mon, 04 Mar 2041 20:14:34 GMT; secure
+set-cookie: lang=en; path=/; secure
+set-cookie: last_page=https%3A%2F%2Fwww.kickstarter.com%2F; path=/; expires=Thu, 04 Mar 2021 20:44:34 GMT; HttpOnly; secure
+set-cookie: woe_id=R1FjQ05xdnJNSTM1UTUybGQyZzNKZz09LS1WcVVVOG5NektXTTBXZlZFdWRSWkVRPT0%3D--fd4c62c865267be13be09e7844c59b4c82212ad7; path=/; expires=Fri, 05 Mar 2021 20:14:34 GMT; secure
+set-cookie: optimizely_current_variations=%7B%7D; path=/; secure
+set-cookie: _ksr_session=RkdnUkZYUStLY2QrN0Z2ckJ1RnNvUFpWc2VCQ0gyd3BGd0RERzk1Zk96TzlGWDZkZU9oQ1lPREJyMDZYVCtnYjRYa2hKM1YzbHJ4dmtiWllidXowb3NoUDdpZDc3WU5nSjJxbE90aTRNK0dFN21iRitwVGxRRXhFdUJOOWsrRndqVWNkRm5PYzBVcGVBSmp0RXZTdWpBPT0tLXZiTFhtSDAyU0lGdkNJUlp0RzgvYnc9PQ%3D%3D--bf884596311196137a629f9ceb71733783fea123; path=/; secure; HttpOnly
+set-cookie: request_time=Thu%2C+04+Mar+2021+20%3A14%3A34+-0000; path=/; secure
+set-cookie: _pxhd=fd0e01964042ca28f6664cf6bfa1045376b56068cdb9a6f4aceb6e841e5d3fa5:3c56e8d0-7d26-11eb-b2ee-13dbb2245961; Expires=Fri, 04 Mar 2022 20:14:34 GMT; path=/;

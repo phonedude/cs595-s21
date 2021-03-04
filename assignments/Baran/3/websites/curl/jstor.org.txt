@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: Apache/2.4.29 (Ubuntu)
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: AccessSession=H4sIAAAAAAAAAJ2RS0_cMBSF9_yKKGs88uv60V0IVVshsSnqpkLo-saGoAFGkwQJIf57PYln0JSyaZSNv3N8fHz9elJVdd_V1ZeqhhBt8oCKG6tNEi4p1AAiRg35V_XpzkzF3SMxROSw4PuCxVdlLPeNMOfQCt-aRjXnHnJODgVT3Nvi5ppIhCRVl4I2oLx0ANqg9JqCw7C4p6nYlYXQeeeYBUxMo1YsRApMcmvIBTTRlQNwGu92WxKuhziTZ1wvKcII7Xy-ozJOzFK_WapztxJ2JcCspNjndA_943HQMDwdg5GO10g0Djv0u3rN6_cBC865n3MzK21qvQexAO91UMoDSx6BaS85cw4jk75LTjhKqsP9nvFlE-dN37ZP0-YQfcBnOPS0aFl6O_1HIfV3IfmhUHTcdpFYUjYwTRYYkpOMk3C5IgWO_D8LVdfLSMfDw-Tv_WHW-JkwfSLgOG7n2ZeLtu187GWzr9JezeC53972jz3ehIh0d_ProP9c9B9X35uLZu548vYHkc1eICUDAAA; Path=/; SameSite=Lax; Secure
+Set-Cookie: AccessSessionSignature=9ff5dab277fd772da82e25c3ec664647e6be21af23930cf6e7d4cb24314c38e6; Path=/; SameSite=Lax; Secure
+Set-Cookie: AccessSessionTimedSignature=dd27c9618d6e922e984dc9a1af695f9243cdb584785e1465af6016c8b5b311dc; Path=/; SameSite=Lax; Secure
+Set-Cookie: UUID=375bd988-75af-4a43-becb-2076c8ba6e85; expires=Sun, 03 Mar 2024 20:14:33 GMT; Max-Age=94608000; Path=/; SameSite=None; Secure
+Set-Cookie: csrftoken=Qe2F8wX6p93e14hIExx1MBwnl3cxyJ6s4p0lNfSg5etCb88A0TY0FXTgr4L2fgbx; expires=Thu, 03 Mar 2022 20:14:33 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+Set-Cookie: ReferringRequestId=search:0c87141abb8694919f70608d5d1315bd; Path=/; SameSite=Lax; Secure
+Content-Type: text/html; charset=utf-8
+X-JSTOR-Restarts: 0
+Accept-Ranges: bytes
+Content-Length: 29536
+Date: Thu, 04 Mar 2021 20:14:33 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+X-Served-By: cache-wdc5581-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614888874.626592,VS0,VE148
+Vary: Cookie,Accept-Encoding,Fastly-SSL,Origin,X-Requested-Host
+

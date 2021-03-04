@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 04 Mar 2021 20:14:01 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.arstechnica.com:443/
+
+HTTP/2 301 
+date: Thu, 04 Mar 2021 20:14:01 GMT
+content-type: text/html
+content-length: 170
+location: http://arstechnica.com/
+server: nginx/1.17.10
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 04 Mar 2021 20:14:01 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://arstechnica.com:443/
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 20:14:01 GMT
+content-type: text/html; charset=UTF-8
+server: nginx/1.17.10
+x-powered-by: PHP/7.3.27
+link: <https://arstechnica.com/wp-json/>; rel="https://api.w.org/"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+content-security-policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: data:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+

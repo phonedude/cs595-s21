@@ -1,0 +1,5 @@
+Set-Cookie: nyt-gdpr=0; Expires=Fri, 05 Mar 2021 02:14:56 GMT; Path=/; Domain=.nytimes.com
+set-cookie: nyt-a=F12R6VdOVd_fKKWWKMSqxK; Expires=Fri, 04 Mar 2022 20:14:56 GMT; Path=/; Domain=.nytimes.com; SameSite=none; Secure
+set-cookie: nyt-gdpr=0; Expires=Fri, 05 Mar 2021 02:14:56 GMT; Path=/; Domain=.nytimes.com
+set-cookie: nyt-purr=cfhhcfhhhck; Expires=Fri, 04 Mar 2022 20:14:56 GMT; Path=/; Domain=.nytimes.com; SameSite=Lax; Secure
+set-cookie: nyt-geo=US; Expires=Fri, 05 Mar 2021 02:14:56 GMT; Path=/; Domain=.nytimes.com

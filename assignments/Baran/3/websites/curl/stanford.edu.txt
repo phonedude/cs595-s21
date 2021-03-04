@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 162
+Content-Type: text/html
+Date: Thu, 04 Mar 2021 20:15:14 GMT
+Location: https://www.stanford.edu/
+Server: nginx
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 20:15:15 GMT
+content-type: text/html; charset=UTF-8
+content-length: 12414
+vary: Accept-Encoding
+vary: Accept-Encoding
+set-cookie: wordpress_google_apps_login=01111889eece3d3f195514d016f56f22; path=/; secure; HttpOnly
+link: <https://www.stanford.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.stanford.edu/wp-json/wp/v2/pages/64>; rel="alternate"; type="application/json"
+link: <https://www.stanford.edu/>; rel=shortlink
+x-frame-options: SAMEORIGIN
+vary: Accept-Encoding
+x-powered-by: WP Engine
+x-cacheable: NO:Set Known Cookie
+cache-control: max-age=0, must-revalidate, private
+x-cache: MISS
+x-cache-group: normal
+accept-ranges: bytes
+

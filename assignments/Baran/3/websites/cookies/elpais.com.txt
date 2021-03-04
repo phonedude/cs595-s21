@@ -1,0 +1,10 @@
+Set-Cookie: hpage=2; path=/; domain=elpais.com; expires=Fri, 04 Mar 2022 20:14:25 GMT;
+Set-Cookie: eptz=US; path=/; domain=elpais.com;
+set-cookie: hpage=2; path=/; domain=elpais.com; expires=Fri, 04 Mar 2022 20:14:25 GMT;
+set-cookie: eptz=US; path=/; domain=elpais.com;
+set-cookie: arc-geo={"georegion":"288","countrycode":"US","regioncode":"VA","timezone":"EST","continent":"NA"}; expires=Thu, 04-Mar-2021 20:29:26 GMT; path=/
+set-cookie: eptz=US; path=/; domain=.elpais.com
+set-cookie: hpage=2; expires=Fri, 04-Mar-2022 20:14:26 GMT; path=/; domain=.elpais.com
+set-cookie: arc-geo={"georegion":"288","countrycode":"US","regioncode":"VA","timezone":"EST","continent":"NA"}; expires=Thu, 04-Mar-2021 20:29:26 GMT; path=/
+set-cookie: eptz=US; path=/; domain=.elpais.com
+set-cookie: hpage=2; expires=Fri, 04-Mar-2022 20:14:26 GMT; path=/; domain=.elpais.com

@@ -1,0 +1,2 @@
+Set-Cookie: ealocale=en-us; expires=Fri, 04-Mar-2022 20:14:11 GMT; path=/; domain=.ea.com; secure
+set-cookie: ealocale=en-us; expires=Fri, 04-Mar-2022 20:14:11 GMT; path=/; domain=.ea.com; secure

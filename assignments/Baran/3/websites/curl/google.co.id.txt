@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 04 Mar 2021 20:14:29 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Thu, 04 Mar 2021 20:14:29 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-03-04-20; expires=Sat, 03-Apr-2021 20:14:29 GMT; path=/; domain=.google.co.id; Secure
+Set-Cookie: NID=210=0-peMi-1yBn_hZrDOMQguy_6kYbBM72KC7cXxZS2H4q1kvZlSxGeN3T4ChmmOprfdpHuza7TiG3lKdnA-KE8czYzMvDbwCWkOQscRuIrsTiHYVTvEs5FlUhnN2on7eW2stbgt6IgExOH_sItbbQ8LYlADWwF1mK1Q6dZwfmrKpI; expires=Fri, 03-Sep-2021 20:14:29 GMT; path=/; domain=.google.co.id; HttpOnly
+

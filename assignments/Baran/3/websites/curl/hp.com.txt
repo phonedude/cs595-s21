@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0, max-age=7200
+Location: http://www-redirect.ext.hp.com
+Expires: Thu, 04 Mar 2021 22:14:31 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Thu, 04 Mar 2021 20:14:31 GMT
+X-Varnish: 632452605
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Origin: g2t3077.austin.hp.com
+X-Cache: MISS
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www8.hp.com/us/en/home.html
+Cache-Control: max-age=0
+Expires: Thu, 04 Mar 2021 20:14:31 GMT
+Date: Thu, 04 Mar 2021 20:14:31 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: Apache
+content-security-policy: upgrade-insecure-requests
+last-modified: Thu, 04 Mar 2021 20:00:22 GMT
+access-control-allow-headers: Access-Control-Allow-Origin, Origin, X-Requested-With, Content-Type, Accept
+access-control-allow-methods: GET, OPTIONS, POST, PUT, DELETE
+access-control-allow-origin: *
+access-control-max-age: 3600
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=UTF-8
+cache-control: max-age=2723
+expires: Thu, 04 Mar 2021 20:59:54 GMT
+date: Thu, 04 Mar 2021 20:14:31 GMT
+

@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 20:14:57 GMT
+Server: Apache
+Location: https://www.orange.fr/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 20:14:57 GMT
+Server: Apache
+Cache-Control: no-cache, max-age=0, no-store, private
+Location: https://www.orange.fr/portail
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 20:14:57 GMT
+Server: Apache
+Cache-Control: no-cache, max-age=0, no-store, private
+X-Request-Id: 4a71a9fa-7d26-11eb-a42b-000000000539
+Set-Cookie: idzone=AFB1Rkm3k6uG3pNBLsCDEGqAqvkY9Wy9I7F5zhtu6u0-Fzh_8ImSK9ithhRadv-cihJHeJ1JHcdSW4cXisP5WeeXuJaCM0_3FdDGh2MhQgLDhEI2_EkqIbXQA8RxiUhP6XUH; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+Set-Cookie: izclientid=YxFMLAK145ZFDlkTWbkAAy8k%2C1615493697; expires=Tue, 31-Aug-2021 20:14:57 GMT; Max-Age=15552000; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+X-Frame-Options: sameorigin
+Content-Type: text/html; charset=UTF-8
+

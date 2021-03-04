@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.welt.de/
+Date: Thu, 04 Mar 2021 20:15:20 GMT
+Connection: keep-alive
+Set-Cookie: kameleoonVisitorCode=8154e99a7dcc5cc2; expires=Sat, 19-Mar-2022 20:15:20 GMT
+X-N: S
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+etag: "hash3408125347834211237"
+cache-control: max-age=90, stale-while-revalidate=9, stale-if-error=864000
+date: Thu, 04 Mar 2021 20:15:20 GMT
+set-cookie: kameleoonVisitorCode=23ab353c7d420100; expires=Sat, 19-Mar-2022 20:15:20 GMT
+
