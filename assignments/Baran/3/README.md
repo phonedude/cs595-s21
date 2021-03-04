@@ -3,7 +3,7 @@ Assignment Overview
 websites/cookies: 
 Holds the parsed set-cookie info for further analysis
 
-websites/curls: 
+websites/curl: 
 Holds the raw curl output for parsing
 
 script.sh:
