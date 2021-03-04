@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 405 Method Not Allowed
+Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp

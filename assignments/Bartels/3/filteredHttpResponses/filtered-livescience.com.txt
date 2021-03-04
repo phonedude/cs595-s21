@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: FTR_Country_Code=US; path=/; domain=livescience.com
+Set-Cookie: enhanced-sticky-site-nav_1607436916=2; Path=/; Expires=Sun, 28 Feb 2021 20:14:51 GMT; httpOnly

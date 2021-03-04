@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.co.uk/
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 26 Feb 2021 20:13:38 GMT
+Expires: Sun, 28 Mar 2021 20:13:38 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 221
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 26 Feb 2021 20:13:38 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 26 Feb 2021 20:13:38 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-02-26-20; expires=Sun, 28-Mar-2021 20:13:38 GMT; path=/; domain=.google.co.uk; Secure
+Set-Cookie: NID=210=NDoY6j3AvCKIs-uoO5LEkCnpxC_IqJczjlsjSj61C4ySrvg7t7D0Bh93lg28lS6MONsIWy17z2h2CJ_6SzYzFAbeFKfudHn-2UrLanH9y2NKFwTqJAUfMY-zjsVAoBJOCvpg9_rrjxpVxOE7rKfz4xRKYo5yku5lZxF6fG-KI4Y; expires=Sat, 28-Aug-2021 20:13:38 GMT; path=/; domain=.google.co.uk; HttpOnly
+

@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Location: https://www.dotdash.com/
+Server: Apache/2.4.46 (Amazon) OpenSSL/1.0.2k-fips
+Via: 1.1 varnish, 1.1 varnish
+Content-Length: 232
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:12:53 GMT
+Age: 171491
+Connection: keep-alive
+cache-control: max-age=3600
+X-Served-By: cache-bwi5138-BWI, cache-wdc5551-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 4
+X-Timer: S1614370374.538974,VS0,VE0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 59441
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.dotdash.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.dotdash.com/>; rel=shortlink
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:12:53 GMT
+Age: 347694
+cache-control: max-age=3600
+X-Served-By: cache-sea4474-SEA, cache-lga21971-LGA
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 2
+

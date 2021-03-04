@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://twitch.tv/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:39 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5553-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.twitch.tv/
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5556-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/html
+Set-Cookie: server_session_id=c89bcf8cfe49466c9f25956887591a62; domain=.twitch.tv; path=/; secure; samesite=none
+Set-Cookie: unique_id=xkBSbh9fXa528sBAe7MyC8n71xjOwL5n; expires=Sat, 26 Mar 2022 20:15:39 GMT; domain=.twitch.tv; path=/; secure; samesite=none
+Set-Cookie: unique_id_durable=xkBSbh9fXa528sBAe7MyC8n71xjOwL5n; expires=Sat, 26 Mar 2022 20:15:39 GMT; domain=.twitch.tv; path=/; secure; samesite=none; httponly
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Cache-Control: private, max-age=0
+Date: Fri, 26 Feb 2021 20:15:39 GMT
+Set-Cookie: twitch.lohp.countryCode=US; domain=.twitch.tv; expires=Wed, 23 Mar 2022 20:15:39 GMT;
+Vary: Accept-Encoding
+

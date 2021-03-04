@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Fri, 26 Feb 2021 20:13:14 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://amazon.co.jp/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Fri, 26 Feb 2021 20:13:14 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.co.jp/
+
+HTTP/1.1 405 Method Not Allowed
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Server: Server
+Date: Fri, 26 Feb 2021 20:13:14 GMT
+x-amz-rid: YCVTAJSER0F7FA7QCDF2
+Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Cache: Error from cloudfront
+Via: 1.1 d64082f0604a4e84007fec84d28e9f33.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C3
+X-Amz-Cf-Id: CGKysG7QoEIi9NBVcIxHoLQK8VamtpkCEgtWc9jCX8mQe7SH9CcrRg==
+

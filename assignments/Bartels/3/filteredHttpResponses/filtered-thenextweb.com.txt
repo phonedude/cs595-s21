@@ -1,0 +1,5 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=d1b958a5322dd733d3e0d5c99dea7129b1614370533; expires=Sun, 28-Mar-21 20:15:33 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+Set-Cookie: __cfduid=d2928246bd017ccd52d5564a1d21992a31614370533; expires=Sun, 28-Mar-21 20:15:33 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+Set-Cookie: PHPSESSID=ttmqdsifsbg8op3hfjo409eajn; path=/

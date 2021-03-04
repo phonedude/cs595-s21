@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:26 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.slideshare.net/
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:26 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://www.slideshare.net/
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:15:27 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: nginx
+Status: 200 OK
+X-Request-UUID: 2f5Pl0tYWjAUsfUnBDoorw==
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-FRUC-Version: FRUC
+X-ss-make-cacheable: true
+X-Bench-Route: main/index
+X-XSS-Protection: 1; mode=block
+Cache-Control: max-age=600, public
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "606a84dfb4fd59913399942f6d3935e9"
+Set-Cookie: language=**; path=/
+Set-Cookie: flash=---%250Asig%253A%2B9b09d559b726d2a8fc5d37ef45370889fc541aff%250Adata%253A%2B%2522---%255Cnvals%253A%255Cn%2B%2B%253Anotice%253A%2B%255Cn%2B%2B%253Awarning%253A%2B%255Cn%2B%2B%253Amessage%253A%2B%255Cn%2B%2B%253Asuccess%253A%2B%255Cn%2B%2B%253Aerror%253A%250A%2B%2B%255Cn%2B%2B%253Apermanent%253A%2B%255Cn%2B%2B%253Amodal_notice%253A%2B%255Cn%2B%2B%253Adwnldloop%253A%2B%255Cn%2B%2B%253Aunverdwnld%253A%2B%255Cnused%253A%2B%2521ruby%252Fobject%253ASet%255Cn%250A%2B%2B%255C%2Bhash%253A%2B%257B%257D%255Cn%2522%250A; path=/
+X-Request-Id: 52326282c6cc9ded3ead477f86943f49
+X-Runtime: 0.563537
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+

@@ -1,0 +1,3 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=d7ecf6fdea8ab2d206c752c3d57579ed61614370508; expires=Sun, 28-Mar-21 20:15:08 GMT; path=/; domain=.plesk.com; HttpOnly; SameSite=Lax; Secure

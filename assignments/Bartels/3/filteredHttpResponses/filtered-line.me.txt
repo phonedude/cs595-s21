@@ -1,0 +1,4 @@
+HTTP/1.1 302 Moved Temporarily
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: ldsuid=9c9ef2bec74357fd89cf11b143e0a0b4; path=/; expires=Thu, 27-May-21 20:14:50 GMT

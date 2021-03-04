@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:20 GMT
+Server: Apache/2.4.6 (CentOS)
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src self
+Referrer-Policy: same-origin
+X-Served-By: 10.56.18.30
+Location: http://www.cointernet.com.co/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: dewbvip133=ffffffff09300c0f45525d5f4f58455e445a4a4229a0;path=/;httponly
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 162
+Content-Type: text/html
+Date: Fri, 26 Feb 2021 20:13:20 GMT
+Location: https://www.cointernet.com.co/
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+X-Server: WS-PR-WEB-Wordpress-EFS7-22-216
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 26 Feb 2021 20:13:20 GMT
+Link: <https://www.cointernet.com.co/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.cointernet.com.co/>; rel=shortlink
+Server: nginx
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Server: WS-PR-WEB-Wordpress-EFS7-23-45
+Connection: keep-alive
+

@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved
+Date: Fri, 26 Feb 2021 20:13:40 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+Last-Modified: Fri, 26 Feb 2021 12:22:43 GMT
+Location: https://home.pl/
+Server: IdeaWebServer/v0.80
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:13:41 GMT
+Content-Type: text/html
+Content-Length: 179986
+Connection: keep-alive
+Last-Modified: Fri, 26 Feb 2021 12:22:43 GMT
+Server: IdeaWebServer/v0.80
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+

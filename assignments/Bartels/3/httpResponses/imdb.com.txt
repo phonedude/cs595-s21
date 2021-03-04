@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:14:44 GMT
+Server: Server
+Cache-Control: max-age=2592000
+Location: https://imdb.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 302 Found
+Server: Server
+Date: Fri, 26 Feb 2021 20:14:44 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Location: https://www.imdb.com/
+
+HTTP/1.1 200 OK
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 265702
+Connection: keep-alive
+Server: Server
+Date: Fri, 26 Feb 2021 20:14:45 GMT
+x-amz-rid: G4C9CGRQ555XY2Z5AYZP
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Cache: Miss from cloudfront
+Via: 1.1 cb0868a0a661911b98247aaff77bc898.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD50-C2
+X-Amz-Cf-Id: MnDcQbQ2vkAvWlBKd6--4mP_2HEWn3CbLmA--Cx3ajIgdfjUY4uN7A==
+

@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 26 Feb 2021 20:15:32 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://telegraph.co.uk/
+X-Cache: Redirect from cloudfront
+Via: 1.1 12f59ea0cc8b3c4c54373b702216110b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: kP2z0Jpoh2P2ibhnIXmlInWWiiJd9Ogn-_kMB3q9BhTaeQs3fmInMQ==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Fri, 26 Feb 2021 08:57:01 GMT
+Location: https://www.telegraph.co.uk/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 7610b91e2653cd801af5fb6517906ed5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: Xe6aJnyQxmmG0zGDhJB9TJkXiaRp782IYTxfpWfSr8VXfrHJ9spzHg==
+Age: 40712
+
+HTTP/1.1 200 OK
+Server: openresty/1.15.8.2
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self' pulse.telegraph.co.uk;
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy-Report-Only: default-src https: data: blob: android-webview-video-poster: wss: 'unsafe-inline' 'unsafe-eval'; report-uri /csp-reports/;
+Expires: Fri, 26 Feb 2021 20:15:32 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Fri, 26 Feb 2021 20:15:32 GMT
+Connection: keep-alive
+

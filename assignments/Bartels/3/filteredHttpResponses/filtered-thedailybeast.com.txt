@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=d535868ea172777b7a9995b2b4f6e45811614370532; expires=Sun, 28-Mar-21 20:15:32 GMT; path=/; domain=.thedailybeast.com; HttpOnly; SameSite=Lax
+Set-Cookie: __tdbbrowser=d335ddb2-2269-4e27-8681-e2446d1a6b98; path=/; expires=Mon, 24 Feb 2031 20:15:33 GMT; samesite=lax; httponly
+Set-Cookie: __tdbbrowser.sig=xyjiz8Z-SbZIeN0iHtJe07OBcwQ; path=/; expires=Mon, 24 Feb 2031 20:15:33 GMT; samesite=lax; httponly
+Set-Cookie: kppid=o1ZgEVJ8nSs; path=/; expires=Wed, 25 Aug 2021 20:15:33 GMT; domain=thedailybeast.com
+Set-Cookie: kppid.sig=Frt1MKOmCooRHQyK1R2nPd8ABR8; path=/; expires=Wed, 25 Aug 2021 20:15:33 GMT; domain=thedailybeast.com
+Set-Cookie: __tdbsesh=eyJub3dJbk1pbnV0ZXMiOjI2OTA2MTc1LCJzZXNzaW9uSWQiOiI0OTlmYjliMS1iZjY3LTQxZDAtOGQ5NC1jMWU3MDQ1NzY1ZjIiLCJkZnBCdWNrZXRJZCI6MTZ9; path=/; expires=Fri, 26 Feb 2021 20:45:33 GMT; samesite=lax; httponly
+Set-Cookie: __tdbsesh.sig=t2TRJB9ZIq9u5yirtL91EZsyrRo; path=/; expires=Fri, 26 Feb 2021 20:45:33 GMT; samesite=lax; httponly

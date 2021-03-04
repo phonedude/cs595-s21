@@ -1,0 +1,56 @@
+HTTP/1.0 302 Moved Temporarily
+Location: http://www.Princeton.EDU/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:09 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 234
+Connection: close
+Set-Cookie: __cfduid=d4d51baee1df7fe05d64512e8925db0501614370509; expires=Sun, 28-Mar-21 20:15:09 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
+X-Content-Type-Options: nosniff
+Location: https://www.princeton.edu/
+Cache-Control: max-age=900
+Expires: Fri, 26 Feb 2021 20:26:33 GMT
+X-Request-ID: v-d242c510-786e-11eb-8ab5-138c9f9060d0
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 6
+CF-Cache-Status: EXPIRED
+cf-request-id: 0881942a4f0000c06b978de000000001
+Server: cloudflare
+CF-RAY: 627c5623b80fc06b-ORF
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:15:09 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Set-Cookie: __cfduid=d4d51baee1df7fe05d64512e8925db0501614370509; expires=Sun, 28-Mar-21 20:15:09 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
+Cache-Control: max-age=60, public
+X-Drupal-Dynamic-Cache: MISS
+Link: <https://www.princeton.edu/>; rel="canonical", <https://www.princeton.edu/>; rel="shortlink"
+Link: <https://www.princeton.edu/node/141>; rel="revision"
+X-UA-Compatible: IE=edge
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 26 Feb 2021 20:14:52 GMT
+ETag: W/"1614370492"
+Vary: Cookie,Accept-Encoding
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-XSS-Protection: 1
+X-Drupal-Cache: MISS
+X-Request-ID: v-48d45a40-786f-11eb-beaa-b317b8d18264
+X-AH-Environment: prod
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 4
+CF-Cache-Status: EXPIRED
+cf-request-id: 0881942b1b0000c06b712a8000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5624f8f8c06b-ORF
+

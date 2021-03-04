@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:22 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 26 Feb 2021 21:15:22 GMT
+Location: https://sedo.com/
+cf-request-id: 0881945c040000c075030c2000000001
+Server: cloudflare
+CF-RAY: 627c56733f7ec075-ORF
+
+HTTP/1.1 302 Moved Temporarily
+Date: Fri, 26 Feb 2021 20:15:22 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=dd153e1269c49709a7353785c6f29bc051614370522; expires=Sun, 28-Mar-21 20:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+set-cookie: session=9ef526ebf3d36b9e0f729e2af003a509; expires=Mon, 01-Mar-2021 20:15:22 GMT; Max-Age=259200; path=/; secure; HttpOnly
+pragma: no-cache
+cache-control: no-store, no-cache, must-revalidate
+access-control-allow-origin: *
+x-ua-compatible: IE=edge
+x-content-type-options: nosniff
+x-sedo-request-id: ID-5f849887db-lcfcb-7509f30ecad2997d788fc0fbd9cfb5d5
+x-cache-miss-from: marketplace-classic-598d488569-rs9xt
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+location: /us/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881945c790000c0983e8d1000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5673fd8cc098-ORF
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:15:26 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=dd153e1269c49709a7353785c6f29bc051614370522; expires=Sun, 28-Mar-21 20:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Vary: Accept-Encoding
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+x-sedo-request-id: ID-5f849887db-lcfcb-deb8c435c076b0ffc6a626049e68ce58
+age: 21019
+content-language: en
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881945e400000c0984312e000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5676cf50c098-ORF
+

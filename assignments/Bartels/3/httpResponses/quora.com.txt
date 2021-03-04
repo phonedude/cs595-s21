@@ -1,0 +1,36 @@
+HTTP/1.1 308 Permanent Redirect
+Content-Length: 164
+Content-Type: text/html
+Date: Fri, 26 Feb 2021 20:15:10 GMT
+Location: https://quora.com/
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Q-Stat: ,1d7a0b2528f855f02aaf68af379c1578,10.0.0.35,15146,68.10.204.79,,145272490595,1,1614370510.135,0.000,,.,0,0,,,,,,,307,153,10,35796,,,,,,-,
+Connection: keep-alive
+
+HTTP/1.1 308 Permanent Redirect
+Content-Length: 164
+Content-Type: text/html
+Date: Fri, 26 Feb 2021 20:15:10 GMT
+Location: https://www.quora.com/
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Q-Stat: ,9185046b86cc9b67bb9d254cb879370b,10.0.0.35,28894,68.10.204.79,,277110494247,1,1614370510.239,0.000,,.,0,0,,,,,,,137,68,10,35796,,,,,,-,
+Connection: keep-alive
+
+HTTP/1.1 403 Forbidden
+Connection: keep-alive
+Content-Length: 2820
+Content-Type: text/html
+ETag: "5f777ce3-b04"
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Q-Stat: ,a52dd5415fb06a412fc332e79be42cda,10.0.0.217,44604,68.10.204.79,,118809789353,1,1614370510.351,0.000,,.,0,0,,,,,,,282,141,10,35796,,,,,,-,
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5577-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614370510.350656,VS0,VE1
+

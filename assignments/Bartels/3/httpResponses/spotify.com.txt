@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+location: https://www.spotify.com/
+date: Fri, 26 Feb 2021 20:15:29 GMT
+server: envoy
+transfer-encoding: chunked
+Via: 1.1 google
+
+HTTP/1.1 301 Moved Permanently
+date: Fri, 26 Feb 2021 20:15:30 GMT
+content-type: text/html
+Content-Length: 162
+location: https://www.spotify.com/us/
+set-cookie: sp_m=us; Path=/; Domain=.spotify.com; Max-Age=115516800; Expires=Fri, 25 Oct 2024 20:15:30 GMT; Secure; HttpOnly; SameSite=Lax
+sp-trace-id: a68f0d9211708a37
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+vary: Accept-Encoding
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear
+
+HTTP/1.1 200 OK
+date: Fri, 26 Feb 2021 20:15:30 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding,Accept-Encoding,Accept-Encoding
+x-powered-by: Next.js
+cache-control: s-maxage=31536000, stale-while-revalidate
+set-cookie: sp_m=us; Path=/; Domain=.spotify.com; Max-Age=115516800; Expires=Fri, 25 Oct 2024 20:15:30 GMT; Secure; HttpOnly; SameSite=Lax
+set-cookie: sp_t=9f7de922-773d-42ac-b43e-ffb32f611f1e; Path=/; Domain=.spotify.com; Max-Age=31536000; Expires=Sat, 26 Feb 2022 20:15:30 GMT; Secure
+set-cookie: sp_new=1; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Sat, 27 Feb 2021 20:15:30 GMT; Secure
+set-cookie: sp_landing=https%3A%2F%2Fwww.spotify.com%2Fus%2F; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Sat, 27 Feb 2021 20:15:30 GMT; Secure; HttpOnly
+content-security-policy: base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none'; script-src 'nonce-67c759061e134e6ca7ca6d9c66fc6c35' 'strict-dynamic' 'unsafe-inline' 'unsafe-eval' https:
+x-frame-options: deny
+report-to: { "group": "csp-endpoint", "max_age": 86400, "endpoints": [{ "url": "/api/concierge/csp/report-to" }] }
+x-join-the-band: https://www.spotify.com/jobs/
+sp-trace-id: d3afa40467c1516a
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Transfer-Encoding: chunked
+Alt-Svc: clear
+
