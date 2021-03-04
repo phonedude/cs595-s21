@@ -23,8 +23,11 @@ Path: 91
 Path without /: 0
 
                                                     Tables             
-                                                       ![A3_1](https://user-images.githubusercontent.com/77942643/110030102-4c18ce00-7d03-11eb-9585-6387a88a4a8e.PNG)
-                         
-                                                     ![A3_2](https://user-images.githubusercontent.com/77942643/110030119-50dd8200-7d03-11eb-8172-2c5d5d0b2656.PNG)
-                                                      ![A3_3](https://user-images.githubusercontent.com/77942643/110030134-55099f80-7d03-11eb-9270-c3a829dccee4.PNG)
+![A3_1](https://user-images.githubusercontent.com/77942643/110030750-1a543700-7d04-11eb-87c4-16c4d4275798.PNG)
+
+![A3_2](https://user-images.githubusercontent.com/77942643/110030767-1de7be00-7d04-11eb-9322-41934f3af165.PNG)
+
+![A3_3](https://user-images.githubusercontent.com/77942643/110030790-217b4500-7d04-11eb-8c47-37403e5f3795.PNG)
+
+
 
