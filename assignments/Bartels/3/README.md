@@ -73,7 +73,7 @@ line.me|200|1|0|0|0|0|0|0|1|0|
 live.com|440|3|0|3|0|0|0|0|3|0|
 livescience.com|200|2|1|0|0|0|0|0|2|0|
 lycos.com|200|0|0|0|0|0|0|0|0|0|
-mariott.com|200|2|0|2|2|0|0|2|2|0|
+marriott.com|200|2|0|2|2|0|0|2|2|0|
 medium.com|200|5|4|3|3|0|1|2|5|0|
 megaupload.com|Did not resolve|0|0|0|0|0|0|0|0|0|
 my.yahoo.com|200|0|0|0|0|0|0|0|0|0|
