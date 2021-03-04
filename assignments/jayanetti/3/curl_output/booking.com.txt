@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+server: nginx
+date: Sun, 28 Feb 2021 22:22:10 GMT
+location: https://booking.com/
+content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
+x-xss-protection: 1; mode=block
+
+HTTP/1.1 301 Moved Permanently
+server: nginx
+date: Sun, 28 Feb 2021 22:22:10 GMT
+location: https://www.booking.com/
+nel: {"report_to":"default","max_age":604800}
+report-to: {"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default","max_age":604800}
+set-cookie: _pxhd=2be3c934f7c83483b687e45b7b41466e82021baf5e0fbd057ae68b8bd8249972%3A668c9a71-7a13-11eb-b6ee-a9a73bb8ce39; path=/; expires=Mon, 28-Feb-2022 22:22:10 GMT
+strict-transport-security: max-age=604800
+content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=b6099d499cc4005d&e=UmFuZG9tSVYkc2RlIyh9YdPFJGDFjZSqK4Z-4dNTMVuBu77w9s3Zhe9JJsY9VaQ8GOKn8SEIBj8&f=0&s=0; frame-ancestors 'none';
+x-xss-protection: 1; mode=block
+
+HTTP/1.1 200 OK
+server: nginx
+date: Sun, 28 Feb 2021 22:22:11 GMT
+content-type: text/html; charset=UTF-8
+nel: {"report_to":"default","max_age":604800}
+report-to: {"group":"default","max_age":604800,"endpoints":[{"url":"https://nellie.booking.com/report"}]}
+set-cookie: _pxhd=d64b45b0b332966a78125e940fef32591ba0892d460393b118e651cefb07d2d5%3A66e9fcb0-7a13-11eb-8ddc-71543191b6dd; path=/; expires=Mon, 28-Feb-2022 22:22:11 GMT
+set-cookie: bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLblgO%2Fz4BDP5vH0ERdyZ5HrBm0jbY840L7svD3JlJ1iVmoFwuxc9v3TtIel2Y8kEyBGa4%2BCk9IGc9HrkzuJeAVkApVtOMCdpjGbZT5xsa%2BWbmDHZSlb2qKI4Fx3JFgUdtBY7dtSrsDObEMuXTZEgPGhjUOvWcea5oG; domain=.booking.com; path=/; expires=Fri, 27-Feb-2026 22:22:11 GMT; Secure; HTTPOnly; SameSite=None
+strict-transport-security: max-age=604800
+x-content-type-options: nosniff
+x-recruiting: Like HTTP headers? Come write ours: https://careers.booking.com
+x-xss-protection: 1; mode=block
+

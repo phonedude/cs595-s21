@@ -1,0 +1,52 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:26:03 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sun, 28 Feb 2021 23:26:03 GMT
+Location: https://tinyurl.com/
+cf-request-id: 088c58bb910000c0752abdd000000001
+Server: cloudflare
+CF-RAY: 628d90a5ba69c075-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 302 
+date: Sun, 28 Feb 2021 22:26:04 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d12b7a6739513c58b4d74b5b66ef424f91614551163; expires=Tue, 30-Mar-21 22:26:03 GMT; path=/; domain=.tinyurl.com; HttpOnly; SameSite=Lax
+x-powered-by: PHP/7.3.27
+cache-control: max-age=600, public
+location: https://tinyurl.com/app
+content-language: en
+x-frame-options: SAMEORIGIN
+set-cookie: XSRF-TOKEN=eyJpdiI6Imt3MExGcHdVcVI0T0w2NUZlcElpUmc9PSIsInZhbHVlIjoiTUVkcGhPeWErTFAwSDZcL1l5cnVpM0ZpY1wvbUNRSHZ6Q3dDTUp1K0RCZTdRQ0VPakNOWlVXOFF0NDhCM05mK3RnR0RDNDBPaXIrN0ZpeXpWQkxJRGNZVjJxaXoxM29qZ1lNVnlQOUo5MUo3RUQ0SHpFV3dhU29SdHduWm15NGhReiIsIm1hYyI6ImUxODZiNGZiM2I1ZmI0OTJkNDI2M2M0NGNhODU0NDE2MjdjN2M1OTM3ZjhiY2M2MzRmMDI2NzI4MTZkODcxZGEifQ%3D%3D; expires=Mon, 01-Mar-2021 00:26:04 GMT; Max-Age=7200; path=/; domain=.tinyurl.com; samesite=lax
+set-cookie: tinyurl_session=eyJpdiI6IjRXb29pd1wvV2dxam5rS2MxR1ZhSHRBPT0iLCJ2YWx1ZSI6IjY1WEk3VzJLb2tWN3grQ0c0am9saUV2M1ZlWEZVeHY3NDZuMGp0UFViTTlkY2YwakRUQTBaajZ3U2tQOGtpRFhiSENlSzgxcE9QbVFveVwvZDFjMmFiNmpSZ0J5dGlGN1dkZFwvajlSM2puV0V1bkJEZ290OTdHdDUzbDZyVmlnMWciLCJtYWMiOiJmNjNhNWYwNzE5MDc3ZjFlNzEyMTg0NzQyYTgzMzc1Yzg5ZjczMzUzNDcyMzMyZGUzNjJhYmY2YzAyZDlkNzk0In0%3D; expires=Mon, 01-Mar-2021 00:26:04 GMT; Max-Age=7200; path=/; domain=.tinyurl.com; httponly; samesite=lax
+set-cookie: tinyUUID=03c188212d22000000000000fd71e053; expires=Fri, 27-Feb-2026 22:26:04 GMT; Max-Age=157680000; path=/; domain=.tinyurl.com; samesite=lax
+set-cookie: early-access=yes%7C2021-02-28T22%3A26%3A04.077%2B00%3A00; expires=Fri, 27-Feb-2026 22:26:04 GMT; Max-Age=157680000; path=/; domain=.tinyurl.com; samesite=lax
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cf-cache-status: DYNAMIC
+cf-request-id: 088c58bbdc0000c070262ea000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d90a62eebc070-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:26:04 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=db4e143a519a8272044a923ae39889dca1614551164; expires=Tue, 30-Mar-21 22:26:04 GMT; path=/; domain=.tinyurl.com; HttpOnly; SameSite=Lax
+x-powered-by: PHP/7.3.27
+cache-control: no-cache, private
+content-language: en
+x-frame-options: SAMEORIGIN
+set-cookie: XSRF-TOKEN=eyJpdiI6InBFdVJaV1VVcnVCOStvUkp1VWc2c2c9PSIsInZhbHVlIjoiaEU0Snk5MHpMMENIc2dhM1FvMUV4K1FBd2NHK1VheE5cL0tEblVTcUtHbmFqRnZaSnlWUlRXazhIRlwvWTJQMFpSd2dLVFlBYVRGSmlTQnYwcEhEMmRIbFZiYTNWNzU0Zk8wUStRVlVpQkUrcE9aclFNSjY4ME9QT3RESmN5bTVcL0oiLCJtYWMiOiI3ZmU0ZDNlMmRhZjVmMWJkZWQwMGE3Mzg4YjUwOTU3ZWU2OTQ2NTk1MGZhZjk1ZTU0ODY0NmNjZWM4NjRjMzg3In0%3D; expires=Mon, 01-Mar-2021 00:26:04 GMT; Max-Age=7200; path=/; domain=.tinyurl.com; samesite=lax
+set-cookie: tinyurl_session=eyJpdiI6ImFmQmFMOWRPbzZIXC9UVHk5UklQRVpnPT0iLCJ2YWx1ZSI6IlwvbVBhTzE2a2szU3F4T0lWaUdVQVhzYzhsNEFwTVNiQnFCNTIrNTlRZXJ6aDhreDcxT2hRWjRVcjNoUTA2NjNKZnNLY2VEUFRWcTlXakdcL2NFXC95d0hDRjNYNTRJM21lVGMyT3R1ZTF6MnVDVjVwdEU0OEZ2OTNoVlJBMmZneEZcLyIsIm1hYyI6IjIwYTE3MjFlNTQyNDc0ODMyODJmMjU1NTQ0NTA4OWE2MGExZGI3YjBmNTVkYWRlZGE0YmE5OTQyYzljMzYzZjcifQ%3D%3D; expires=Mon, 01-Mar-2021 00:26:04 GMT; Max-Age=7200; path=/; domain=.tinyurl.com; httponly; samesite=lax
+set-cookie: tinyUUID=03c1882601ed0000000000009786db1e; expires=Fri, 27-Feb-2026 22:26:04 GMT; Max-Age=157680000; path=/; domain=.tinyurl.com; samesite=lax
+set-cookie: early-access=yes%7C2021-02-28T22%3A26%3A04.394%2B00%3A00; expires=Fri, 27-Feb-2026 22:26:04 GMT; Max-Age=157680000; path=/; domain=.tinyurl.com; samesite=lax
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cf-cache-status: DYNAMIC
+cf-request-id: 088c58bd210000c07009a62000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d90a83837c070-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

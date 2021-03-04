@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: Microsoft-Azure-Application-Gateway/v2
+Date: Sun, 28 Feb 2021 22:22:23 GMT
+Content-Type: text/html
+Content-Length: 195
+Connection: keep-alive
+Location: https://www.ca.gov/
+
+HTTP/2 200 
+content-type: text/html
+last-modified: Sat, 16 Jan 2021 00:37:16 GMT
+etag: "0462abd9febd61:0"
+x-powered-by: ASP.NET
+x-azure-ref: 0bToCYAAAAADhafzLr1aQRbZ+NAccdTpmQ0hHRURHRTE2MDcAY2EzM2EyMjgtOTllZi00YzdiLWFhYzctYTRjMGJlOTBkOWNk
+date: Sun, 28 Feb 2021 22:22:24 GMT
+strict-transport-security: max-age=86400
+

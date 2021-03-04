@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 28 Feb 2021 22:21:48 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://amazon.co.jp/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 28 Feb 2021 22:21:48 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.co.jp/
+
+HTTP/2 503 
+content-type: text/html
+content-length: 2153
+server: Server
+date: Sun, 28 Feb 2021 22:21:54 GMT
+x-amz-rid: ECXSSF6P3D2QQQ272PJX
+vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+last-modified: Wed, 30 Sep 2020 23:54:00 GMT
+etag: "869-5b0909d09d600"
+accept-ranges: bytes
+x-cache: Error from cloudfront
+via: 1.1 738984066968793a5714282f49fe0ab9.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C3
+x-amz-cf-id: TEEcwrwwymwgoEdNETaZvw3Tk8HJ1Qsf-Dh5z-vl2YAoPqjftl-mzQ==
+

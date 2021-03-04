@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 28 Feb 2021 22:25:22 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://researchgate.net/
+
+HTTP/2 301 
+server: nginx
+date: Sun, 28 Feb 2021 22:25:22 GMT
+content-type: text/html
+content-length: 162
+location: https://www.researchgate.net/
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:25:22 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+set-cookie: __cfduid=d1087b2ab383e06a0821f896f6513da601614551122; expires=Tue, 30-Mar-21 22:25:22 GMT; path=/; domain=.researchgate.net; HttpOnly; SameSite=Lax; Secure
+cache-control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
+x-correlation-id: rgreq-ae9d677d112d84302e33e2e4ebc010cb
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+x-ua-compatible: IE=Edge
+x-frame-options: SAMEORIGIN
+p3p: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+set-cookie: did=onCznxEx11ZD8hcUMC5vk6L4n776wW2vMXy8d85Ij6YC8P8zLVXROWZyvUvXTJQA; expires=Mon, 28-Feb-2022 22:25:22 GMT; Max-Age=31536000; path=/; domain=.www.researchgate.net; secure; httponly
+set-cookie: ptc=RG1.4652881845599399487.1614551122; expires=Tue, 28-Feb-2023 22:25:22 GMT; Max-Age=63072000; path=/; domain=.www.researchgate.net; secure; httponly
+set-cookie: sid=Z9L2dO6Qa5eTA9alef3F0L5cKZ1wLwVmKDi4x1ZUoyPkZAR2DvdjqzH1NcYvwtz1ZWBrIqjz8d6ITJOlzK18LnPCXbQX9f88V1c3sYaBUM3QywkcDWGnK7q8NJGQ15kq; Path=/; Domain=.www.researchgate.net; Secure; HttpOnly
+cf-cache-status: DYNAMIC
+cf-request-id: 088c581bba0000c075330ae000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d8fa5ff8fc075-ORF
+
