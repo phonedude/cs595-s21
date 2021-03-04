@@ -14,4 +14,4 @@ output file for the script in table form
 
 YT Video: https://www.youtube.com/watch?v=WDR4xrkPZ9o
 
-* Result: table.tsv
+* Results: table.tsv
