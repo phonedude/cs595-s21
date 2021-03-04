@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 23 Feb 2021 23:55:53 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://metro.co.uk/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 23 Feb 2021 23:55:53 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 225967
+Connection: keep-alive
+X-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+Link: <https://metro.co.uk/wp-json/>; rel="https://api.w.org/"
+X-rq: dca5 109 143 3117
+Cache-Control: max-age=300, must-revalidate
+Age: 212
+X-Cache: hit
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000
+

@@ -1,0 +1,35 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Fri, 26 Feb 2021 20:14:48 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: http://line.me/en/
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 26 Feb 2021 20:14:49 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: https://line.me/en/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 26 Feb 2021 20:14:50 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 225667
+Connection: keep-alive
+Accept-Ranges: bytes
+Last-Modified: Thu, 18 Feb 2021 03:06:03 GMT
+x-amz-meta-s3cmd-attrs: atime:1613617562/ctime:1613617562/gid:0/gname:root/md5:df2a5e9e61e22d13f6695ad1baafb529/mode:33188/mtime:1613617562/uid:0/uname:root
+Strict-Transport-Security: max-age=15768000
+Cache-Control: public,max-age=300
+ETag: "df2a5e9e61e22d13f6695ad1baafb529"
+Vary: Origin
+X-Cache: Hit from cloudfront
+Via: 1.1 72711b2cc7430cc0fad0de77b6848988.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: NRT57-C3
+X-Amz-Cf-Id: vMpeMz6wsnZURaAEg76Ux6Nw8OJtV32JOL-QE512nodQiWkrtbAtQg==
+Age: 94
+Set-Cookie: ldsuid=9c9ef2bec74357fd89cf11b143e0a0b4; path=/; expires=Thu, 27-May-21 20:14:50 GMT
+

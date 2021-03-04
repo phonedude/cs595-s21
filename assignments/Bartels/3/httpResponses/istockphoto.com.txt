@@ -1,0 +1,55 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 26 Feb 2021 20:14:45 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://istockphoto.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 427271f19372c1be0d143a1d4c76a128.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: LMUavLNC7dwlFLjd7RgKxXj7pQKHYyeO89lYEIpdAjCHw2oVObAgCw==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Fri, 26 Feb 2021 20:14:45 GMT
+location: https://www.istockphoto.com/
+selected-fe: istock_frontend
+X-Cache: Miss from cloudfront
+Via: 1.1 4f9e9e3e8a2a5cea2848aac8473267f2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: x7giS2-CFsHCdHSpF5nDtBFdPP0fpzJyf_BDraTieLYhx5kohd3KkQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Date: Fri, 26 Feb 2021 20:14:45 GMT
+server: nginx/1.18.0
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"93d520c43553ef9e0f32ec817dd2ba7f"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: unisess=V3k0eFAvVklTU09OeGRYeWp6UXpQb1RJdVI0cDZxQmlpeEJla2hjcURLSnNpSkRLVStqSWZTTDRDV24rWjIwalYwWWJvRS9pVmlLMWRTamlvd2o3b2c9PS0tQlM4bzB4U3FtTGdYS0FLRDI2QjRtdz09--cfca702c4b3c487d4cff37719d7d484c521dd06f; path=/; HttpOnly
+set-cookie: vis=vid=0fd7d7f7-61df-4343-9c9a-73c6f9819e89; domain=.istockphoto.com; path=/; expires=Tue, 26 Feb 2041 20:14:45 -0000
+set-cookie: uac=t=2KzxXdU6E2Lfv9TwZ7GaVhHNQWgBuaQSm%2Bfgs7Wmy%2Fure8UiGLC2CAfWkE9OPe%2FFJfXeFSvT%2Bhapiqc9j5HhrRagUx5LQxMPP7FjCY5eNQV36kpY%2BO%2Bc9XKxNb%2B7EC713c%2FJqbhkvE8ms%2B2ILBE%2BILGjnh5p7jgldJU9nOBGFP4%3D%7C77u%2Femk0cy9WbUE0UmZRUzdZMzJUcngKNDQxCgpOdWdhRXc9PQpQdThhRXc9PQowCgoKMAo0NDEKCjQ0MQowCjBmZDdkN2Y3LTYxZGYtNDM0My05YzlhLTczYzZmOTgxOWU4OQoK%7C3%7C4%7C1&d; domain=.istockphoto.com; path=/; expires=Tue, 26 Feb 2041 20:14:45 -0000
+set-cookie: giu=nv=1&lv=2021-02-26T20%3A14%3A45Z; domain=.istockphoto.com; path=/; expires=Tue, 26 Feb 2041 20:14:45 -0000
+set-cookie: csrf=t=tWWzQsgsiBYLy0qKxzvU84HSTiLK7r3soG3ObtfAguE%3D; domain=.istockphoto.com; path=/; expires=Tue, 26 Feb 2041 20:14:45 -0000
+x-request-id: 0A330338-D9B0_0A33A42F-01BB_603956B5_5319E5-4CB0-353
+x-runtime: 0.067499
+x-backend: app_landing
+x-proxy-build: 931098
+x-timing-wait: 103/0/0/70
+giproxy-languageonlypath: 
+giproxy-truncatedpath: /
+selected-fe: istock_frontend
+X-Cache: Miss from cloudfront
+Via: 1.1 924c3fd5fff04ef5cac09fbfc470e619.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD50-C2
+X-Amz-Cf-Id: lXrY41qqrO7fe7dSPgaLYVnRNDEkDOgBg-qRM25Qm2qsk6ecb6A35g==
+

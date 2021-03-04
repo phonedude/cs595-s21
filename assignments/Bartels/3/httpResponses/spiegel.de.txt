@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.spiegel.de/
+Date: Fri, 26 Feb 2021 20:15:28 GMT
+Via: 1.1 google
+Transfer-Encoding: chunked
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0,s-maxage=90
+Content-Length: 938799
+Content-Type: text/html; charset=utf-8
+Date: Fri, 26 Feb 2021 20:14:41 GMT
+Vary: X-Forwarded-Proto, X-Authorized-Sppur, Accept-Encoding
+X-Cache: HIT
+X-Cache-Grace: 3600.000
+Via: 1.1 google
+Alt-Svc: clear
+

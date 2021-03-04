@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 https://www.wired.com/
+HTTP/1.1 200 OK
+set-cookie: pay_ent_smp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJ1cmxzIjpbXSwiY250IjowLCJtYXgiOjQsImV4cCI6MjAyMTAyfQ.QBqqRcwPrDuJZA1hk5_eVo1S2U8EA8bYYkJ_rqc4XRc; Path=/; Expires=Sun, 27 Feb 2022 02:15:50 GMT; Domain=wired.com; Secure;
+set-cookie: pay_events=grant-new-smp; Max-Age=20; SameSite=Strict; Secure;
+Set-Cookie: CN_xid=192050e1-6189-439a-befe-9828c019fa03; Expires=Wed, 25 Aug 2021 20:15:50 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=192050e1-6189-439a-befe-9828c019fa03; Expires=Mon, 24 Feb 2031 20:15:50 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Fri, 26 Feb 2021 20:16:05 GMT; path=/;
+Set-Cookie: CN_segments=co.w2108; Expires=Wed, 25 Aug 2021 20:15:50 GMT; path=/;
+Set-Cookie: CN_geo_country_code=US; Expires=Wed, 25 Aug 2021 20:15:50 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
+Set-Cookie: CN_geo_country_code=US; Expires=Wed, 25 Aug 2021 20:15:50 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
+set-cookie: pay_ent_smp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJ1cmxzIjpbXSwiY250IjowLCJtYXgiOjQsImV4cCI6MjAyMTAyfQ.QBqqRcwPrDuJZA1hk5_eVo1S2U8EA8bYYkJ_rqc4XRc; Path=/; Expires=Sun, 27 Feb 2022 02:15:50 GMT; Domain=wired.com; Secure;
+set-cookie: pay_events=grant-new-smp; Max-Age=20; SameSite=Strict; Secure;
+Set-Cookie: CN_xid=21916b66-b5d4-4e85-942e-d4996414e84e; Expires=Wed, 25 Aug 2021 20:15:50 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=21916b66-b5d4-4e85-942e-d4996414e84e; Expires=Mon, 24 Feb 2031 20:15:50 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Fri, 26 Feb 2021 20:16:05 GMT; path=/;
+Set-Cookie: CN_segments=co.w2108; Expires=Wed, 25 Aug 2021 20:15:50 GMT; path=/;
+Set-Cookie: verso_bucket=728; Expires=Sat, 26 Feb 2022 20:15:50 GMT; path=/;
+Set-Cookie: CN_geo_country_code=US; Expires=Wed, 25 Aug 2021 20:15:50 GMT; Path=/; Domain=wired.com; Samesite=None; Secure

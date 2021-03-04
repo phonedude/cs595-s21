@@ -1,0 +1,3 @@
+HTTP/1.1 302 Found
+HTTP/1.1 200 OK
+Set-Cookie: wordpress_google_apps_login=8234372c595e15efcbf368dc606af771; path=/; secure; HttpOnly

@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 26 Feb 2021 20:15:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Keep-Alive: timeout=40
+Location: https://www.rambler.ru/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 26 Feb 2021 20:15:19 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 596977
+Connection: keep-alive
+Keep-Alive: timeout=40
+Vary: Accept-Encoding
+X-Powered-By: Express
+X-App-Version: 1.209.1
+x-dbg-geo: 3269
+Set-Cookie: spa_primeHideButton=1%3A0%2B0%3A100; Max-Age=15552000; Domain=.rambler.ru; Path=/; Expires=Wed, 25 Aug 2021 20:15:19 GMT
+Set-Cookie: spv_primeHideButton=0; Max-Age=15552000; Domain=.rambler.ru; Path=/; Expires=Wed, 25 Aug 2021 20:15:19 GMT
+Set-Cookie: split-v2=3; Max-Age=2592000; Domain=.rambler.ru; Path=/; Expires=Sun, 28 Mar 2021 20:15:19 GMT
+x-dbg-cset: _www.rambler.ru::1.209.1::/::0::0::1::3::4::19.6888521359509::false::false::false::3269::false::false::0::new_dd2::false
+x-dbg-ckey: 3883c612e4fb66d965bd714a9c34ea2a
+X-Redis-Cache: MISS
+ETag: W/"91bf1-HCrKXt0jySusjTiX+a171QpPBmE"
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: ruid=vAsAANdWOWCSAVezAcizegB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/; Secure; SameSite=None
+P3P: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
+

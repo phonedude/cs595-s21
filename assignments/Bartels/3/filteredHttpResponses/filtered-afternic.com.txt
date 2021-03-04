@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: PHPSESSID=n250qt6bnp0g5o41t7775oqv70; path=/; HttpOnly; Secure
+Set-Cookie: AFTERNICSERVERID=www10; path=/

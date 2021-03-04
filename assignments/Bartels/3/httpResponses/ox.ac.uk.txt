@@ -1,0 +1,60 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://ox.ac.uk/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:05 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5536-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614370505.347945,VS0,VE0
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.ox.ac.uk/
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Platform-Cluster: z2uh6ocdweans-master-7rqtwti
+X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
+X-Request-Id: vuulelbolmsvcuxmoceds7g5
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:05 GMT
+Age: 360
+X-Served-By: cache-lcy19266-LCY, cache-wdc5558-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 93894
+Cache-Control: public, max-age=1800
+Content-Language: en
+Content-Security-Policy: default-src * 'self' 'unsafe-inline' 'unsafe-eval'  data:;; frame-ancestors 'self' canvas.ox.ac.uk; report-uri /report-csp-violation
+Content-Type: text/html; charset=utf-8
+Etag: "1614369769-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 26 Feb 2021 20:02:49 GMT
+Link: <https://www.ox.ac.uk/>; rel="canonical",<https://www.ox.ac.uk/>; rel="shortlink"
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Drupal-Cache: HIT
+X-Platform-Cluster: z2uh6ocdweans-master-7rqtwti
+X-Platform-Processor: nyyaffsw6pbmph2vbnhbx26g24
+X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
+X-Request-Id: lwvuk4iurs65jfzgtxi5fxl4
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:05 GMT
+Age: 72
+X-Served-By: cache-lcy19237-LCY, cache-wdc5554-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+Vary: Cookie, Accept-Encoding
+Strict-Transport-Security: max-age=300
+

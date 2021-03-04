@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Location: https://vimeo.com/
+Expires: Mon, 24 Feb 2031 20:15:39 GMT
+X-BApp-Server: pweb-v8598-wz76z
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Varnish-Cache: 0
+X-VServer: infra-webproxy-a-16
+X-Vimeo-DC: ge
+Content-Length: 3
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:39 GMT
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-bwi5141-BWI, cache-wdc5544-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1614370540.736397,VS0,VE22
+Vary: User-Agent
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 33343
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Expires: Fri, 26 Feb 2021 08:15:39 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-UA-Compatible: IE=edge
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy-Report-Only: default-src https: data: blob: wss: 'unsafe-inline' 'unsafe-eval'; report-uri /_csp
+X-BApp-Server: pweb-v8599-nxspf
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Varnish-Cache: 0
+X-VServer: infra-webproxy-a-16
+X-Vimeo-DC: ge
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:40 GMT
+Age: 0
+X-Served-By: cache-bwi5146-BWI, cache-wdc5536-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1614370540.855688,VS0,VE158
+Vary: User-Agent,Accept-Encoding
+

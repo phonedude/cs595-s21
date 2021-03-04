@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: 1P_JAR=2021-02-26-20; expires=Sun, 28-Mar-2021 20:13:38 GMT; path=/; domain=.google.com.br; Secure
+Set-Cookie: NID=210=1w0qLDUIpz5Dia7J49r2Jruqk9y3RWVfcxLjvX_RYl9iEbBSk4mE6LtMvMI_skPiwGI2Um-qOGOW7L_wtJClBiLilThJQbtQbs-IQPeRy3b-L8vxIVs1akcukvTHOY2ahNnrgzQ0iLNb_UYafQbBLlQfwoqtj_LQBGmLGMhLZP0; expires=Sat, 28-Aug-2021 20:13:38 GMT; path=/; domain=.google.com.br; HttpOnly

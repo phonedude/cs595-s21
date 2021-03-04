@@ -1,0 +1,26 @@
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: http://www.bing.com/
+Server: Microsoft-IIS/10.0
+X-MSEdge-Ref: Ref A: 0D968EA453CA441F9EEA4E6913F9C5B0 Ref B: ASHEDGE1508 Ref C: 2021-02-23T23:11:47Z
+Date: Tue, 23 Feb 2021 23:11:46 GMT
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: MUID=03E57A770E3369C41AEB75900F61687C; domain=.bing.com; expires=Sun, 20-Mar-2022 23:11:47 GMT; path=/
+Set-Cookie: MUIDB=03E57A770E3369C41AEB75900F61687C; expires=Sun, 20-Mar-2022 23:11:47 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=27AEA0292CAB6BC70F73AFCE2DF96A31; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=.bing.com; expires=Sun, 20-Mar-2022 23:11:47 GMT; path=/; HttpOnly
+Set-Cookie: SRCHD=AF=NOFORM; domain=.bing.com; expires=Thu, 23-Feb-2023 23:11:47 GMT; path=/
+Set-Cookie: SRCHUID=V=2&GUID=51008E4153D147108C33E9D26150A64F&dmnchg=1; domain=.bing.com; expires=Thu, 23-Feb-2023 23:11:47 GMT; path=/
+Set-Cookie: SRCHUSR=DOB=20210223; domain=.bing.com; expires=Thu, 23-Feb-2023 23:11:47 GMT; path=/
+Set-Cookie: _SS=SID=27AEA0292CAB6BC70F73AFCE2DF96A31; domain=.bing.com; path=/
+Set-Cookie: ULC=; domain=.bing.com; expires=Mon, 22-Feb-2021 23:11:47 GMT; path=/
+Set-Cookie: _HPVN=CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0wMi0yM1QwMDowMDowMFoiLCJJb3RkIjowLCJEZnQiOm51bGwsIk12cyI6MCwiRmx0IjowLCJJbXAiOjF9; domain=.bing.com; expires=Thu, 23-Feb-2023 23:11:47 GMT; path=/
+X-MSEdge-Ref: Ref A: 869EBF8A239A43F5B0EB56855A54DB70 Ref B: BL2EDGE1506 Ref C: 2021-02-23T23:11:47Z
+Date: Tue, 23 Feb 2021 23:11:46 GMT
+

@@ -1,0 +1,35 @@
+amazon.co.jp.txtSet-Cookie: PHPSESSID=elkha1bpt7nsrlq5n5l7dopqj0; path=/; HttpOnly; Secure
+billboard.com.txtSet-Cookie: client_id=EC20C1E98F512403ACC95877633937CB9757A804E52C45C5176B30DBA079AD92; domain=.bandcamp.com; path=/; expires=Sun, 23 Feb 2031 23:01:16 -0000; secure; HttpOnly; SameSite=None
+bing.com.txtSet-Cookie: __cf_bm=9a748aca1c3dbb6cd6aaf1bcfa95f297a68a4833-1614121638-1800-AcFadglB19pxjkUvA9Isj5HIyjoXA2Zan6c04vkE8+kSgtSolKmfmaZEEfns3XC5UQxFQk1zY6WlD7kDDbntHnBUOGTen9ohdC6tLDFZNF5a; path=/; expires=Tue, 23-Feb-21 23:37:18 GMT; domain=.billboard.com; HttpOnly; SameSite=None
+bing.com.txtSet-Cookie: __cfduid=d8d41c6526dc953fe1fbb486fb11511831614121638; expires=Thu, 25-Mar-21 23:07:18 GMT; path=/; domain=.billboard.com; HttpOnly; SameSite=Lax; Secure
+bing.com.txtSet-Cookie: __cf_bm=a66b296ff45fa60396363e8fc91381cf6b2169b8-1614121638-1800-AaAZ3x/yPY9Gw+NTgpTVMkWopfJHBqrIXECjhuyaM8NUg3yDwVi3u1FJliu5T1W0JA==; path=/; expires=Tue, 23-Feb-21 23:37:18 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+bing.com.txtSet-Cookie: __cf_bm=529df50af09d54ba830e13cd16fa3fc0501effea-1614121638-1800-Ab53MIQdkwAhC1kMFNtaNNIMslnJ9WJN65Uh8HSnds18E6PGSuZkbyWLf4cbB0KVd7IyH9xshwUoH0oZmA8SzIxyCv/Wy9ERK4jlW4z2zFE5; path=/; expires=Tue, 23-Feb-21 23:37:18 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+cloudflare.com.txtSet-Cookie: __cfduid=d70686c58bbfdd51833bfa750db4d0ade1614123062; expires=Thu, 25-Mar-21 23:31:02 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax
+cloudflare.com.txtSet-Cookie: __cf_bm=56c4b8b291f091ceecb847fdc614f2c5b5dc3b1f-1614123062-1800-AfMtMH9A3ytQJPErsEfFn3tA1zA81eNubw9GvktP5VQktI0iGGkY//a47Y4ol7m/eK31zBeDgh3vUrbBqXl55tU=; path=/; expires=Wed, 24-Feb-21 00:01:02 GMT; domain=.chaturbate.com; HttpOnly; SameSite=None
+cloudflare.com.txtSet-Cookie: __cfduid=d29adb2268fc3180a07b93eb69b4f7b521614123062; expires=Thu, 25-Mar-21 23:31:02 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax
+cloudflare.com.txtSet-Cookie: __cf_bm=f670e5e2bf82d59d07e4234fcdad1aa04fb9a977-1614123062-1800-AenaQ6VoBgVaiHgjAZOyve8n4uVGM/esy2/gDiJb+/Fcsejduo31G28jWIKomAM/YzXaVOUkMPtk7KR68kPjH/w=; path=/; expires=Wed, 24-Feb-21 00:01:02 GMT; domain=.chaturbate.com; HttpOnly; Secure; SameSite=None
+cnet.com.txtSet-Cookie: __cf_bm=0be317e8776d4c2a362ffd377ef120bcdb43cdab-1614123087-1800-AbYZtAt1cwsu85pQLC+k+zXGF89vVC8rPb5oEzi2HAWWNgrvIxzlctcHRX5Y6FiOsnZh+wn1036jVbAbTLhaLHY=; path=/; expires=Wed, 24-Feb-21 00:01:27 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+cnet.com.txtSet-Cookie: __cfduid=d019ab4a7a02780814b12c1fde09fb47d1614123087; expires=Thu, 25-Mar-21 23:31:27 GMT; path=/; domain=.www.cloudflare.com; HttpOnly; SameSite=Lax; Secure
+cnet.com.txtSet-Cookie: __cf_bm=4c1c60748791ff98ee573f04984c8901546d14f2-1614123087-1800-AXj57rmsgNzKo6TMNLclgJveY6sTm4aXBeSBpDkb32qlwFAzMzOp9XNls3DyKRmnFA==; path=/; expires=Wed, 24-Feb-21 00:01:27 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+cnet.com.txtSet-Cookie: __cf_bm=a3904aa45e470c94222a6f6782bf9c02f13ce860-1614123087-1800-AREyEPJ+BQBzQif6p1jbtbt0HLa44Ter8sHl2rN7TtMXH9fXfmfu7UVEswdyiFrISSmTO/uUgNKeGpue4tK599fiQu/lcpKZjgY1EhXcBEWF; path=/; expires=Wed, 24-Feb-21 00:01:27 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+discord.gg.txtSet-Cookie: __cfduid=ddb9d5a8cb1b40af3abd70c9af2dbc96d1614123244; expires=Thu, 25-Mar-21 23:34:04 GMT; path=/; domain=.digg.com; HttpOnly; SameSite=Lax; Secure
+disqus.com.txtSet-Cookie: __cfduid=d9d5957132aa90d33837411be3f6ad5141614123369; expires=Thu, 25-Mar-21 23:36:09 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax
+disqus.com.txtSet-Cookie: __cfduid=d9707d831b00d128f1f8107b85b2e33391614123369; expires=Thu, 25-Mar-21 23:36:09 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax
+disqus.com.txtSet-Cookie: __cfduid=dc5d0bf9ccf52a7829990131a75c61fe81614123370; expires=Thu, 25-Mar-21 23:36:10 GMT; path=/; domain=.discord.com; HttpOnly; SameSite=Lax; Secure
+engadget.com.txtSet-Cookie: visid_incap_121505=ieRAXeQ9R1uqPKqaM6ETAAuSNWAAAAAAQUIPAAAAAABfmkSUrJcvQHemEDCm652N; expires=Wed, 23 Feb 2022 17:38:43 GMT; HttpOnly; path=/; Domain=.economist.com
+engadget.com.txtSet-Cookie: visid_incap_121505=bK8QX9BWR/yr0Axz9SFypAuSNWAAAAAAQUIPAAAAAADLUfgRCE3mkC6xAvZ818Vm; expires=Wed, 23 Feb 2022 17:39:04 GMT; HttpOnly; path=/; Domain=.economist.com
+finance.yahoo.com.txtSet-Cookie: S=feedburner-control-panel=gsylDMZw741i9LWnj1PF8i-b5-HceprP; Path=/; HttpOnly; Priority=LOW
+id.wikipedia.org.txtSet-Cookie: __cfduid=dd6a8ac28060f2f427263e8ef4827d7801614124213; expires=Thu, 25-Mar-21 23:50:13 GMT; path=/; domain=.hugedomains.com; HttpOnly; SameSite=Lax
+livescience.com.txtSet-Cookie: last_page=https%3A%2F%2Fwww.kickstarter.com%2F; path=/; expires=Wed, 24 Feb 2021 00:23:41 GMT; HttpOnly; secure
+metro.co.uk.txtSet-Cookie: __cfduid=df1b8cfed7e410eebe3cc4c8b596f264f1614124499; expires=Thu, 25-Mar-21 23:54:59 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+metro.co.uk.txtSet-Cookie: __cfduid=d69c1a9803fba52cd7dbeb9f89ed0ce101614124499; expires=Thu, 25-Mar-21 23:54:59 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+oup.com.txtSet-Cookie: idzone=AFdImC2lTxVZmBjNhbns6yWakR1cskoQWOtjAnBF9hN2WbUTolXj34a85PdSuyupwzsiBRUMifC5VwFmbMzhJXwr67qpFGCSX3Er6zoZ6OpTdKGTsG3YS9ArHjUd9-l-K_9dIr8CQmFD-RA; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+oup.com.txtSet-Cookie: izclientid=FAphZJ--7xdCp1Z5LzcAK6ty%2C1614729580; expires=Sun, 22-Aug-2021 23:59:40 GMT; Max-Age=15552000; path=/; domain=orange.fr; secure; HttpOnly; SameSite=None
+scoop.it.txtSet-Cookie: __cfduid=de0f7f157cd957b8331cd0d089a3eae6e1614125676; expires=Fri, 26-Mar-21 00:14:36 GMT; path=/; domain=.sciencedirect.com; HttpOnly; SameSite=Lax; Secure
+scoop.it.txtSet-Cookie: __cf_bm=0950aed25cfdce58b4125942a0ec1cd17850b045-1614125676-1800-AWDCTfVRwNcqwqWeyk5aBvefx1z1i2KfYVtP5LMB1JaVoQLRZ3skFAYhR+QB3Sd3b54NJtD5rcQ5DUy9TL+Ol3M=; path=/; expires=Wed, 24-Feb-21 00:44:36 GMT; domain=.sciencedirect.com; HttpOnly; SameSite=None
+so-net.ne.jp.txtSet-Cookie: __cfduid=d65d7b92f9fb75a56e80f5297f20addb71614125722; expires=Fri, 26-Mar-21 00:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+so-net.ne.jp.txtSet-Cookie: __cfduid=d1c7bb799a287370bfe262c986f054aa91614125723; expires=Fri, 26-Mar-21 00:15:23 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+tmz.com.txtSet-Cookie: __cfduid=dc95df8775359a39f231ffa44ba80e7191614125922; expires=Fri, 26-Mar-21 00:18:42 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+tmz.com.txtSet-Cookie: __cfduid=d4b29696b386008fe8e8197e986c2d6c21614125923; expires=Fri, 26-Mar-21 00:18:43 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+yadi.sk.txtSet-Cookie: xing_csrf_checksum=vrtOnLWBkxyMofjfR3ONMbKS48wXj0Gy4Ejatu4wmCY; Path=/; HttpOnly; Secure; SameSite=Lax
+yadi.sk.txtSet-Cookie: visitor_id=876f5bff-eb98-427c-9797-c6b13ac2c9ea; Max-Age=63072000; Domain=xing.com; Path=/; Expires=Fri, 24 Feb 2023 00:23:39 GMT; HttpOnly; Secure; SameSite=Lax

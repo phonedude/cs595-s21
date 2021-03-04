@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:18 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 26 Feb 2021 21:13:18 GMT
+Location: https://change.org/
+cf-request-id: 08819277810000c06b8f967000000001
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 627c536bfc1fc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:18 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Set-Cookie: __cfduid=df019f0f1304d253df9a50de7792ad40f1614370398; expires=Sun, 28-Mar-21 20:13:18 GMT; path=/; domain=.change.org; HttpOnly; SameSite=Lax; Secure
+Location: https://www.change.org/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819277ff0000c08940b77000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 627c536cc8e7c089-ORF
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:13:19 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=dcc66a5a3695266e7df72aa94eaa44afc1614370398; expires=Sun, 28-Mar-21 20:13:18 GMT; path=/; domain=.change.org; HttpOnly; SameSite=Lax; Secure
+x-request-id: 74b8643b-df5a-4740-b7f1-8c3ff71bbf03
+cache-control: no-cache
+Set-Cookie: _change_session=0a66b5b8284cb14fe7a048d0b6a8d16d; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _change_lang=%7B%22locale%22%3A%22en-US%22%2C%22countryCode%22%3A%22US%22%7D; Max-Age=86400; Path=/; Expires=Sat, 27 Feb 2021 20:13:19 GMT; Secure; SameSite=Strict
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://d18kwxxua7ik1y.cloudfront.net https://d22r54gnmuhwmk.cloudfront.net https://assets.change.org https://static.change.org https://assets-fe.change.org https://change-production.s3.amazonaws.com https://change-public-stuff.s3.amazonaws.com https://www.google.ca https://www.googleadservices.com https://www.youtube.com https://*.doubleclick.net https://*.google.com https://*.googleapis.com https://*.googletagmanager.com https://*.google-analytics.com https://*.gstatic.com https://*.recaptcha.net https://*.ytimg.com https://*.facebook.com https://*.facebook.net https://*.fbcdn.net fbrpc://* fb-messenger://* https://*.twitter.com https://*.twimg.com https://*.ads-twitter.com https://vk.com https://*.vk.com https://ajax.cdnjs.com https://cdnjs.cloudflare.com https://service.force.com https://change.my.salesforce.com https://help.change.org https://*.salesforceliveagent.com https://*.braintreegateway.com https://*.paypalobjects.com https://*.paypal.com *.optimizely.com optimizely.s3.amazonaws.com cdn-assets-prod.s3.amazonaws.com https://px-cdn.net https://*.px-cloud.net https://*.hotjar.com:* https://*.hotjar.io wss://*.hotjar.com https://p2a.co https://public.profitwell.com https://code.jquery.com https://js.stripe.com https://cdn.embedly.com https://player.vimeo.com https://bat.bing.com https://soundcloud.com https://w.soundcloud.com https://www.instagram.com https://www.flickr.com https://*.staticflickr.com https://*.voteamerica.com https://*.jotform.com https://actionnetwork.org; connect-src 'self' blob: https://*.change.org https://change-production.s3.amazonaws.com https://*.googleapis.com https://*.google-analytics.com https://*.doubleclick.net https://*.facebook.com https://*.facebook.net fbrpc://* fb-messenger://* https://*.twitter.com https://*.vk.com https://*.braintreegateway.com https://*.paypal.com *.optimizely.com optimizely.s3.amazonaws.com cdn-assets-prod.s3.amazonaws.com https://*.px-client.net https://*.px-cloud.net https://pxchk.net https://*.hotjar.com:* https://*.hotjar.io wss://*.hotjar.com https://*.profitwell.com https://api.stripe.com https://api.soundcloud.com https://api.airbrake.io https://www.voteamerica.com https://actionnetwork.org; font-src 'self' data: https://assets.change.org https://static.change.org https://d18kwxxua7ik1y.cloudfront.net https://d22r54gnmuhwmk.cloudfront.net https://fonts.gstatic.com https://*.hotjar.com https://*.hotjar.io; img-src * blob: data:; form-action 'self';
+X-Frame-Options: sameorigin
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+Permissions-Policy: fullscreen=(), geolocation=(*), microphone=(), camera=()
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819279e80000c070089ee000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 627c536fd864c070-ORF
+

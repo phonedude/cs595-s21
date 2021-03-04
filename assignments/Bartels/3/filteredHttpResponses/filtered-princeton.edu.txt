@@ -1,0 +1,5 @@
+HTTP/1.0 302 Moved Temporarily
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=d4d51baee1df7fe05d64512e8925db0501614370509; expires=Sun, 28-Mar-21 20:15:09 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
+Set-Cookie: __cfduid=d4d51baee1df7fe05d64512e8925db0501614370509; expires=Sun, 28-Mar-21 20:15:09 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax

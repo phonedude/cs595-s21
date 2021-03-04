@@ -1,0 +1,24 @@
+HTTP/1.1 307 Temporary Redirect
+Location: https://europa.eu/
+Cache-Control: no-cache
+Pragma: no-cache
+X-XSS-Protection: 1
+Content-Type: text/html; charset=utf-8
+Proxy-Connection: close
+Connection: close
+Content-Length: 683
+
+HTTP/1.1 200 OK
+Date: Sun, 28 Feb 2021 22:23:10 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 11701
+Last-Modified: Mon, 16 Sep 2019 16:52:17 GMT
+ETag: "2db5-592ae6d2a3240"
+Accept-Ranges: bytes
+Age: 0
+X-FPFIS: 568011589
+Cache-Control: s-maxage=0
+Server: Europa
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+

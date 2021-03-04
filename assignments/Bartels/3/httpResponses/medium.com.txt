@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:14:53 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 60316
+Connection: keep-alive
+Set-Cookie: __cfduid=d56bce2d78f17dbf6a4e1be5be5923fae1614370492; expires=Sun, 28-Mar-21 20:14:52 GMT; path=/; domain=.medium.com; HttpOnly; SameSite=Lax
+CF-Ray: 627c55bbf939c066-ORF
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+ETag: W/"eb9c-lxnCxMBJcvwUGlnoSxcDsDZMACQ"
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088193e97e0000c0668899f000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+medium-fulfilled-by: valencia/main-20210225-233849-d3aaadbd63, lite/main-20210226-181337-5ab46592a5, rito/main-20210226-152728-14e82a6e3c
+X-Content-Type-Options: nosniff
+x-envoy-upstream-service-time: 355
+x-frame-options: allow-from medium.com
+Set-Cookie: uid=lo_4c89493870d5; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:52 GMT; HttpOnly; Secure
+Set-Cookie: sid=1:Ot+lnwygvwWHfL0fmj9nNBlhH7gBUsc9jDIdqsQkS3posscj1stv/IrkCl/8MvLW; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:53 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: optimizelyEndUserId=lo_4c89493870d5; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:53 GMT; Secure; SameSite=None
+Set-Cookie: __cfruid=bdf1629aae197d3d8d32bd10df8743c4c69a4e89-1614370493; path=/; domain=.medium.com; HttpOnly
+Server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

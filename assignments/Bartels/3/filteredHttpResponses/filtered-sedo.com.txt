@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 302 Moved Temporarily
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=dd153e1269c49709a7353785c6f29bc051614370522; expires=Sun, 28-Mar-21 20:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+set-cookie: session=9ef526ebf3d36b9e0f729e2af003a509; expires=Mon, 01-Mar-2021 20:15:22 GMT; Max-Age=259200; path=/; secure; HttpOnly
+Set-Cookie: __cfduid=dd153e1269c49709a7353785c6f29bc051614370522; expires=Sun, 28-Mar-21 20:15:22 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly

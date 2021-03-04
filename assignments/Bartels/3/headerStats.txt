@@ -1,0 +1,2079 @@
+filtered-4shared.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-abc.net.au.txt
+Terminating status code:
+200
+Number of Cookies:
+6
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+6
+Number of paths other than /:
+0
+filtered-about.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-aboutads.info.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-abril.com.br.txt
+Terminating status code:
+301
+Number of Cookies:
+142
+Number of HttpOnly cookies:
+142
+Number of Secure cookies:
+95
+Number of SameSite cookies:
+47
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+47
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+142
+Number of paths other than /:
+0
+filtered-afternic.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-aliexpress.com.txt
+Terminating status code:
+200
+Number of Cookies:
+10
+Number of HttpOnly cookies:
+4
+Number of Secure cookies:
+5
+Number of SameSite cookies:
+5
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+5
+Number of cookies that set path:
+10
+Number of paths other than /:
+0
+filtered-amazon.co.jp.txt
+Terminating status code:
+405
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-apache.org.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-billboard.com.txt
+Terminating status code:
+200
+Number of Cookies:
+6
+Number of HttpOnly cookies:
+4
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+4
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+1
+Number of None SameSite cookies:
+3
+Number of cookies that set path:
+6
+Number of paths other than /:
+0
+filtered-bitly.com.txt
+Terminating status code:
+405
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-blog.fc2.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-books.google.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-bp0.blogger.com.txt
+Terminating status code:
+400
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-change.org.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+4
+Number of SameSite cookies:
+4
+Number of Strict SameSite cookies:
+1
+Number of Lax SameSite cookies:
+3
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-cisco.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-cointernet.com.co.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-coursera.org.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-de.wikipedia.org.txt
+Terminating status code:
+200
+Number of Cookies:
+8
+Number of HttpOnly cookies:
+6
+Number of Secure cookies:
+8
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+8
+Number of paths other than /:
+0
+filtered-detik.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-disney.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-doubleclick.net.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ebay.co.uk.txt
+Terminating status code:
+301
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-economist.com.txt
+Terminating status code:
+200
+Number of Cookies:
+11
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+11
+Number of paths other than /:
+0
+filtered-evernote.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-fandom.com.txt
+Terminating status code:
+200
+Number of Cookies:
+3
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+3
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+3
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-feedburner.google.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-finance.yahoo.com.txt
+Terminating status code:
+404
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-foursquare.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ft.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-gmail.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-godaddy.com.txt
+Terminating status code:
+200
+Number of Cookies:
+7
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+7
+Number of paths other than /:
+0
+filtered-google.co.uk.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-google.com.br.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-google.it.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-gooyaabitemplates.com.txt
+Terminating status code:
+406
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-home.pl.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-huffpost.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ibm.com.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+2
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-icann.org.txt
+Terminating status code:
+301
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ikea.com.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-imdb.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-istockphoto.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-it.wikipedia.org.txt
+Terminating status code:
+200
+Number of Cookies:
+8
+Number of HttpOnly cookies:
+6
+Number of Secure cookies:
+8
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+8
+Number of paths other than /:
+0
+filtered-ja.wikipedia.org.txt
+Terminating status code:
+200
+Number of Cookies:
+8
+Number of HttpOnly cookies:
+6
+Number of Secure cookies:
+8
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+8
+Number of paths other than /:
+0
+filtered-lefigaro.fr.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-lemonde.fr.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-line.me.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-live.com.txt
+Terminating status code:
+440
+Number of Cookies:
+3
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-livescience.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-lycos.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-marriott.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+2
+Number of SameSite cookies:
+2
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+2
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-medium.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+4
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+3
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+1
+Number of None SameSite cookies:
+2
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-megaupload.com.txt
+Terminating status code:
+
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-my.yahoo.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-myaccount.google.com.txt
+Terminating status code:
+200
+Number of Cookies:
+3
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-namecheap.com.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+2
+Number of SameSite cookies:
+3
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+1
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-namesilo.com.txt
+Terminating status code:
+503
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+4
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+4
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+2
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-netvibes.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+1
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+1
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-news.google.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+2
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-newscientist.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-nokia.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-nps.gov.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+1
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+1
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-opera.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ovh.co.uk.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ox.ac.uk.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-pbs.org.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-photobucket.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-photos1.blogger.com.txt
+Terminating status code:
+404
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-pixabay.com.txt
+Terminating status code:
+403
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+4
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+4
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+2
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-plesk.com.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+1
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+1
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-princeton.edu.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+2
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-pt.wikipedia.org.txt
+Terminating status code:
+200
+Number of Cookies:
+8
+Number of HttpOnly cookies:
+6
+Number of Secure cookies:
+8
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+8
+Number of paths other than /:
+0
+filtered-quora.com.txt
+Terminating status code:
+403
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-rakuten.co.jp.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-rambler.ru.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+1
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+1
+Number of cookies that set path:
+4
+Number of paths other than /:
+0
+filtered-ria.ru.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-sapo.pt.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-sedo.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+5
+Number of Secure cookies:
+5
+Number of SameSite cookies:
+2
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-slideshare.net.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-smh.com.au.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-spiegel.de.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-spotify.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+5
+Number of SameSite cookies:
+2
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-stanford.edu.txt
+Terminating status code:
+200
+Number of Cookies:
+1
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+1
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+1
+Number of paths other than /:
+0
+filtered-storage.canalblog.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-support.google.com.txt
+Terminating status code:
+200
+Number of Cookies:
+2
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+2
+Number of paths other than /:
+0
+filtered-telegraph.co.uk.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-thedailybeast.com.txt
+Terminating status code:
+200
+Number of Cookies:
+7
+Number of HttpOnly cookies:
+5
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+5
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+5
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+7
+Number of paths other than /:
+0
+filtered-thenextweb.com.txt
+Terminating status code:
+200
+Number of Cookies:
+3
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+2
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+2
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-transandfiestas.ga.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-twitch.tv.txt
+Terminating status code:
+200
+Number of Cookies:
+4
+Number of HttpOnly cookies:
+1
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+3
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+3
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-vimeo.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-w3.org.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-washingtonpost.com.txt
+Terminating status code:
+200
+Number of Cookies:
+5
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+4
+Number of SameSite cookies:
+4
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+4
+Number of cookies that set path:
+5
+Number of paths other than /:
+0
+filtered-wired.com.txt
+Terminating status code:
+200
+Number of Cookies:
+16
+Number of HttpOnly cookies:
+2
+Number of Secure cookies:
+11
+Number of SameSite cookies:
+9
+Number of Strict SameSite cookies:
+2
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+7
+Number of cookies that set path:
+14
+Number of paths other than /:
+0
+filtered-www.blogger.com.txt
+Terminating status code:
+200
+Number of Cookies:
+3
+Number of HttpOnly cookies:
+3
+Number of Secure cookies:
+3
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+3
+Number of paths other than /:
+0
+filtered-www.over-blog.com.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-yale.edu.txt
+Terminating status code:
+200
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0
+filtered-ytimg.com.txt
+Terminating status code:
+
+Number of Cookies:
+0
+Number of HttpOnly cookies:
+0
+Number of Secure cookies:
+0
+Number of SameSite cookies:
+0
+Number of Strict SameSite cookies:
+0
+Number of Lax SameSite cookies:
+0
+Number of None SameSite cookies:
+0
+Number of cookies that set path:
+0
+Number of paths other than /:
+0

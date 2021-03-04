@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 0
+Content-Type: text/html
+Location: https://www.thefreedictionary.com
+Date: Wed, 24 Feb 2021 00:18:19 GMT
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 121732
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+Expires: -1
+Last-Modified: Tue, 23 Feb 2021 05:00:00 GMT
+Date: Wed, 24 Feb 2021 00:18:20 GMT
+

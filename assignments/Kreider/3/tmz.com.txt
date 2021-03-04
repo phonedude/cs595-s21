@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Date: Wed, 24 Feb 2021 00:18:55 GMT
+Server: Apache
+Location: https://www.tmz.com/
+X-Cache: Miss from cloudfront
+Via: 1.1 04a5cc1918053ba9703475b3376f46db.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: txddnq8PFha9QoKghYyMLF-7Fo3BXMTibBeOhvVv8yGJV7LmmmnwQg==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Wed, 24 Feb 2021 00:18:55 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.14
+Cache-Control: max-age=30, public, s-maxage=60
+Link: <https://imagez.tmz.com>; rel="preconnect"; crossorigin="anonymous",<https://static.tmz.com>; rel="preconnect"; crossorigin="anonymous"
+x-fpc-key: 9e4e124dd26ff10f21514103a1262bfd855aed20a2e0b371a6cd3c6d983d027d
+x-fpc: hit
+Content-Security-Policy: upgrade-insecure-requests;
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: unsafe-url
+Vary: CloudFront-Viewer-Country
+X-Cache: Miss from cloudfront
+Via: 1.1 cb19960e48e57443d56ab67d0048d850.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: _o2bSEMkl-muRmyoThs5DXZtQULrgZGhSFOBFd-nx3gYP6K3JoPAcA==
+Age: 14
+

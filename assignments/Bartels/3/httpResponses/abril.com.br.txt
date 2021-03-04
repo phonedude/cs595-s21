@@ -1,0 +1,884 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 26 Feb 2021 20:12:54 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://abril.com.br/
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 26 Feb 2021 20:12:54 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Safe-Redirect-Manager: true
+X-Redirect-By: WordPress
+Location: https://assine.abril.com.br/?redirect=abrilcom
+X-rq: dca6 82 116 3139
+Age: 0
+X-Cache: miss
+Strict-Transport-Security: max-age=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:56 GMT
+Server: Apache
+Location: http://www.assine.abril.com.br/?redirect=abrilcom
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:45 GMT;path=/;secure;httponly
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:56 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 26 Feb 2021 21:12:56 GMT
+Location: https://www.assine.abril.com.br/?redirect=abrilcom
+cf-request-id: 08819223160000c07ad30a4000000001
+Server: cloudflare
+CF-RAY: 627c52e4ff1fc07a-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:58 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dc73fb58b85610e3eb2ce37d4016df4b31614370376; expires=Sun, 28-Mar-21 20:12:56 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=C83D8F615BDABBD7618353DAE0468E47.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:47 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192236f0000c06b8f960000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52e57a72c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:58 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d070b598ae4593577e01f067ce000dd5a1614370378; expires=Sun, 28-Mar-21 20:12:58 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=3B4544010C79DCF3F195866E7493B700.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:47 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881922a350000c06b8d9e4000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52f059a2c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:59 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d070b598ae4593577e01f067ce000dd5a1614370378; expires=Sun, 28-Mar-21 20:12:58 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=4762C39D8E18BBF743669E6430A02EDC.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:48 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881922b020000c06b6ea4e000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52f19a72c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:59 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=da1e948d356df359d8a6df3252006330d1614370379; expires=Sun, 28-Mar-21 20:12:59 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=86CB286D0D791951B4D2E822CD3114A6.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:48 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881922d660000c06b71007000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52f56c00c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:12:59 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=da1e948d356df359d8a6df3252006330d1614370379; expires=Sun, 28-Mar-21 20:12:59 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=36FD893C8B3C334B5EA36783380F8B4E.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:49 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881922e450000c06b64a5f000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52f6dc90c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:00 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=da1e948d356df359d8a6df3252006330d1614370379; expires=Sun, 28-Mar-21 20:12:59 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=75E3307FD70BD9CB697FB8266F69A307.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:49 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819230780000c06b70bca000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52fa5f7ac06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:01 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dec78e2d8061d354f9a37dd7d5a9e422e1614370380; expires=Sun, 28-Mar-21 20:13:00 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=B7BB0294383F4FB501782813E0D9333A.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:50 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819232fc0000c06b7ca25000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c52fe6a96c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:01 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d244d198a26f32c6beb88dcf47d0500f21614370381; expires=Sun, 28-Mar-21 20:13:01 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=9A00BB9D5B80AA9B1D2B0B3E1BABB05A.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:50 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192351d0000c06b87152000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5301cdb8c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:02 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d244d198a26f32c6beb88dcf47d0500f21614370381; expires=Sun, 28-Mar-21 20:13:01 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=7FD22CB3511A9ABC31AE9B9FF92BFA85.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:51 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819237630000c06b7903f000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5305685ac06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:02 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d7774e73e347375c6c5e1717e3df9d4b91614370382; expires=Sun, 28-Mar-21 20:13:02 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=81327907E579EEB945C763F15D653232.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:52 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819239ca0000c06b973a1000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53094a7cc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:03 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d7774e73e347375c6c5e1717e3df9d4b91614370382; expires=Sun, 28-Mar-21 20:13:02 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=42FEDF70EF5EC8824B4851EE2AA19A6A.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:52 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881923c310000c06b871ab000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c530d1cc6c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:03 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d0dc1eb3639a07344362bc246c3f65ac11614370383; expires=Sun, 28-Mar-21 20:13:03 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=15E84B79B018E2050AAC2D214F679B1F.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:52 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881923cfb0000c06b65015000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c530e5d67c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:03 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d0dc1eb3639a07344362bc246c3f65ac11614370383; expires=Sun, 28-Mar-21 20:13:03 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=7D67C2708AB668A778620815CEFEA789.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:53 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881923f1b0000c06b70887000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5311cefcc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:03 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d0dc1eb3639a07344362bc246c3f65ac11614370383; expires=Sun, 28-Mar-21 20:13:03 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=7D771358A8F9DFA53FCB38B15430B57C.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:53 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881923fc70000c06b871cc000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5312df80c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:04 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d0dc1eb3639a07344362bc246c3f65ac11614370383; expires=Sun, 28-Mar-21 20:13:03 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=9E5EBF4883157416E9ED0BDAC79B1A53.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:53 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192405d0000c06b632de000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5313c828c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:04 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d25cd3412737f409ddfa58ab810639e4d1614370384; expires=Sun, 28-Mar-21 20:13:04 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=EF208EB5B823E80B23E884E1F5847DB8.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:53 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819241650000c06b632e9000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53156900c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:04 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d25cd3412737f409ddfa58ab810639e4d1614370384; expires=Sun, 28-Mar-21 20:13:04 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=9DCFF6F4BE9C3F72C2A096270882F670.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:53 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192422f0000c06b97afb000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5316b9a7c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:05 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d25cd3412737f409ddfa58ab810639e4d1614370384; expires=Sun, 28-Mar-21 20:13:04 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=987CE8644A77E929900BA4332BB87B87.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:54 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819242fc0000c06b641bd000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5317fa43c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:05 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dd86c4d6069d30c0c1d74f820f56b725b1614370385; expires=Sun, 28-Mar-21 20:13:05 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=29B5EA14A6A168CCAB21EAC301605D87.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:54 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819245660000c06b6eb84000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c531bdc41c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:05 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dd86c4d6069d30c0c1d74f820f56b725b1614370385; expires=Sun, 28-Mar-21 20:13:05 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=74FDA5FC8B7CE87863F728DC88B4D01D.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:54 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819246320000c06b7f8c2000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c531d1cecc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:06 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dd86c4d6069d30c0c1d74f820f56b725b1614370385; expires=Sun, 28-Mar-21 20:13:05 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=DCF343166663DAD444E0B4D1F36A3501.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:55 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819246c60000c06b64b9a000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c531e0d5ac06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:06 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=de1e008fb5631fa915de98c9779a0ad2e1614370386; expires=Sun, 28-Mar-21 20:13:06 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=D167AECA9841A282ED3DFA69145EC265.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:55 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819248e80000c06b641fc000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53217f40c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:06 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=de1e008fb5631fa915de98c9779a0ad2e1614370386; expires=Sun, 28-Mar-21 20:13:06 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=12DBA39D34910F7B23D9341131DEA5C9.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:55 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819249a20000c06b7115d000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53228817c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:06 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=de1e008fb5631fa915de98c9779a0ad2e1614370386; expires=Sun, 28-Mar-21 20:13:06 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=FF9F4D21CA0CF9BEFFE699C1DBCA2A4A.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:56 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881924a9d0000c06b79110000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5324291ec06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:07 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=de1e008fb5631fa915de98c9779a0ad2e1614370386; expires=Sun, 28-Mar-21 20:13:06 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=317D92CA78DEF8216AF5A2F54445EA19.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:56 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881924b640000c06b90beb000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532569b5c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:07 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dac3488d636f32cc41dfd8e5bb1d2ffa31614370387; expires=Sun, 28-Mar-21 20:13:07 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=D81A0F57BFF0FAD4A0ED62500E9842AC.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:56 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881924dd60000c06b8fb60000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53295befc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:07 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dac3488d636f32cc41dfd8e5bb1d2ffa31614370387; expires=Sun, 28-Mar-21 20:13:07 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=A7043F0316C725E44BD80BC7666F3E97.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:57 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881924ea60000c06b6989c000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532aacb1c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:07 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dac3488d636f32cc41dfd8e5bb1d2ffa31614370387; expires=Sun, 28-Mar-21 20:13:07 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=F9AAE63F36439C11180FE2A30C3B5438.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:57 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881924f630000c06b90816000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532bdd4fc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=dac3488d636f32cc41dfd8e5bb1d2ffa31614370387; expires=Sun, 28-Mar-21 20:13:07 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=D1888E3D23F1303BEF8711E9D78E1DF3.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:57 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819250050000c06b6c085000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532ccdcdc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d06e941f72596c6800564da05567047211614370388; expires=Sun, 28-Mar-21 20:13:08 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=D50655EA75BAF77BC6C1AC7EB247A364.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:57 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819251000000c06b8fb83000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532e6ea2c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d06e941f72596c6800564da05567047211614370388; expires=Sun, 28-Mar-21 20:13:08 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=B58F502AC5EC6C47B4067E969E2821E5.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:57 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819251940000c06b6e809000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c532f5f21c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d06e941f72596c6800564da05567047211614370388; expires=Sun, 28-Mar-21 20:13:08 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=2F908FE514B9E72FF4012E50CF22CF81.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:58 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819252990000c06b711bd000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5330f816c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d06e941f72596c6800564da05567047211614370388; expires=Sun, 28-Mar-21 20:13:08 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=B4966F51C98289E43D058B72ABEE2138.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:58 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819253680000c06b698cf000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c533238b9c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:09 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d3ee0a3d88c0ec3641a58f0d218ab49221614370389; expires=Sun, 28-Mar-21 20:13:09 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=5288B5ADDB101DCE27F2479DA2436909.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:58 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192543a0000c06b8a2b2000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5333898cc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:09 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d3ee0a3d88c0ec3641a58f0d218ab49221614370389; expires=Sun, 28-Mar-21 20:13:09 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=E273AC87EB85EF272F3B0B7AB0D42F17.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:58 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819254ff0000c06b6483a000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5334ca28c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:09 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d3ee0a3d88c0ec3641a58f0d218ab49221614370389; expires=Sun, 28-Mar-21 20:13:09 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=5AD8BF245F3E16FFAD36BCCFDB4027D0.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:58 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819255d40000c06b8b0f2000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53362acdc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:09 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d3ee0a3d88c0ec3641a58f0d218ab49221614370389; expires=Sun, 28-Mar-21 20:13:09 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=7AB858CAC3CD90257D5F7FA47A8834D6.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:59 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819256990000c06b872b4000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53375b4ac06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:10 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d3ee0a3d88c0ec3641a58f0d218ab49221614370389; expires=Sun, 28-Mar-21 20:13:09 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=63AB7274C91BEA530CB1AE54963CB120.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:59 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088192576b0000c06b97bd7000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5338abf9c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:10 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d80da44119c5b33e874959ed0509bb1ad1614370390; expires=Sun, 28-Mar-21 20:13:10 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=07C345161EC570E897DAC63F3C668CBB.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:59 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819258360000c06b64857000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5339fcc6c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:10 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d80da44119c5b33e874959ed0509bb1ad1614370390; expires=Sun, 28-Mar-21 20:13:10 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=AEDACF9700AE7CC5801912F2DA131FB6.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:59 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819259000000c06b791af000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c533b3d9ec06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:10 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d80da44119c5b33e874959ed0509bb1ad1614370390; expires=Sun, 28-Mar-21 20:13:10 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=74392FE202911DB1F29730AFD9A58992.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:01:59 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819259cf0000c06b970fe000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c533c7e8fc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:10 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d80da44119c5b33e874959ed0509bb1ad1614370390; expires=Sun, 28-Mar-21 20:13:10 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=4E148A1070C3895E2D13215D1431FDFC.JBPRD02; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:00 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925a6f0000c06b7ab26000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c533d7f6fc06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:11 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d80da44119c5b33e874959ed0509bb1ad1614370390; expires=Sun, 28-Mar-21 20:13:10 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=35A3690B595C1D601395F44A6F31FDC1.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:00 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925b680000c06b8fbf8000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c533f0835c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:11 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d32d89f0130f1f49f20ed24075a0929b21614370391; expires=Sun, 28-Mar-21 20:13:11 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=8390F934604CC7FE7C4402B385EECA1F.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:00 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925c2f0000c06b7122e000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c534048d4c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:11 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d32d89f0130f1f49f20ed24075a0929b21614370391; expires=Sun, 28-Mar-21 20:13:11 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=EC66473E20F5E1FB932B0C7B787CD161.JBPRD06; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:00 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925cfc0000c06b7ab44000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c534199b0c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:11 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d32d89f0130f1f49f20ed24075a0929b21614370391; expires=Sun, 28-Mar-21 20:13:11 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=1EAA311B013EB873739BBC8230361DFC.JBPRD07; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:00 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925dd20000c06b7c81b000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c5342ea73c06b-ORF
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:11 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 38
+Connection: keep-alive
+Set-Cookie: __cfduid=d32d89f0130f1f49f20ed24075a0929b21614370391; expires=Sun, 28-Mar-21 20:13:11 GMT; path=/; domain=.abril.com.br; HttpOnly; SameSite=Lax; Secure
+Location: /portal/home.action
+X-UA-Compatible: IE=edge
+Set-Cookie: JSESSIONID=C64AA0A444EA788D7B326349665F5D84.JBPRD01; Path=/;HttpOnly
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1a45525d5f4f58455e445a4a423660;expires=Fri, 26-Feb-2021 21:02:01 GMT;path=/;secure;httponly
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0881925e970000c06b9782f000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 627c53442b2cc06b-ORF
+

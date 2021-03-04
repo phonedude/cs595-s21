@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 231
+Connection: keep-alive
+Date: Tue, 25 Aug 2020 14:52:43 GMT
+Location: https://www.smh.com.au/
+Server: Apache/2.4.7 (Ubuntu)
+X-Cache: Hit from cloudfront
+Via: 1.1 b940a336a13496ed7f3754168211e15b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: 0lU_4fEkU6a0w5sXdym4FAVDikbD9kH9ZiSpwGALxrUQOlhC4NgJWQ==
+Age: 16003364
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 1552032
+Cache-Control: public, max-age=20, no-transform
+Content-Security-Policy: frame-ancestors 'self' *.ffxblue.com.au *.ffx.io *.smh.com.au *.theage.com.au *.brisbanetimes.com.au *.watoday.com.au *.cdn.ampproject.org; upgrade-insecure-requests
+Content-Security-Policy-Report-Only: child-src blob: data: https:; connect-src https: wss:; default-src blob: data: https: 'report-sample' 'unsafe-eval' 'unsafe-inline'; font-src data: https:; form-action https:; frame-src data: https:; img-src blob: data: https:; media-src blob: data: https:; object-src https:; script-src https: 'unsafe-eval' 'unsafe-inline'; style-src https: 'unsafe-inline'; report-uri https://csp.ffx.io/
+Content-Type: text/html; charset=utf-8
+ETag: W/"17aea0-IQNv4h1N5Co2xRC6uiXhLEJh53s"
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+uber-trace-id: 2f24655b2f1420c:2f24655b2f1420c:0:0
+X-Frame-Options: sameorigin
+X-Varnish-Grace: none(fetch fresh)
+X-XSS-Protection: 1; mode=block
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:15:28 GMT
+Age: 6
+X-Served-By: cache-syd10155-SYD, cache-wdc5532-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+Vary: Accept-Encoding, app-vary, app-vary
+
