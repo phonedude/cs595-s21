@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 229
+Connection: keep-alive
+Date: Tue, 23 Feb 2021 23:03:41 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16 OpenSSL/1.0.2k-fips
+Location: https://www.espn.com/
+Via: 1.1 varnish-v4, 1.1 c9bc0840da506c3f9fd4715a063463a7.cloudfront.net (CloudFront)
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: nqYtulK2PH-bfq7tbFDcOsjs5GueskzPaOCuOU7NTwivENliJD3pXQ==
+Age: 2184
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Tue, 23 Feb 2021 23:40:06 GMT
+Access-Control-Allow-Origin: *
+Content-Security-Policy: frame-ancestors  'self' *.espn.com:* *.espnqa.com:* *.espnsb.com *.espn.co.uk *.espndeportes.espn.com *.espn.com.br *.espn.com.mx *.espn.com.ve *.espn.com.ar *.espn.com.co *.espnfc.com.au *.espn.com.au *.espn.in *.espn.com.sg *.espn.cl *.espn.com.pe *.espn.com.gt *.espn.com.do *.espn.com.ec *.espn.com.uy *.espn.com.pa *.espn.co.cr http://*.espnqa.com:* http://*.espn.com:*
+ETag: W/"1848fa6ce5bcf038ae98d2df6090bf17ec3f9db8"
+Via: 1.1 varnish-v4, 1.1 32c5b7040885724e78019cc31f0ef3e9.cloudfront.net (CloudFront)
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Set-Cookie: country=us; path=/;
+Set-Cookie: edition-view=espn-en-us; path=/; Expires=Tue, 02 Mar 2021 23:40:06 GMT;
+Set-Cookie: edition=espn-en-us; path=/; Expires=Tue, 02 Mar 2021 23:40:06 GMT;
+Set-Cookie: connectionspeed=full; path=/; Expires=Tue, 02 Mar 2021 23:40:06 GMT;
+Set-Cookie: region=unknown; path=/; Expires=Tue, 02 Mar 2021 23:40:06 GMT;
+Set-Cookie: _dcf=1; path=/; Expires=Tue, 02 Mar 2021 23:40:06 GMT;
+Set-Cookie: SWID=939D3804-337A-4408-C4F7-1D63FD8E173C; path=/; Expires=Sat, 23 Feb 2041 23:40:06 GMT; domain=espn.com;
+Cache-Control: max-age=0, must-revalidate
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: 1_NWG162p1nIM5WHu6qBEHtw5rBO3Fk2pKyJyM5gM1Ss45YlGBF5ig==
+

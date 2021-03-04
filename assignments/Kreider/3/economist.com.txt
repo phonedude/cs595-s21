@@ -1,0 +1,49 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.economist.com/
+Content-Length: 0
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 23 Feb 2021 23:38:52 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.economist.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 bd6463e19d96dd4ec7d842710b075951.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD51-C2
+X-Amz-Cf-Id: 0sNAllipkavbhFdV6MwKtoJRKe5FUdam_c6Byp9hvQFzB6v7lEPAGA==
+Set-Cookie: visid_incap_121505=ieRAXeQ9R1uqPKqaM6ETAAuSNWAAAAAAQUIPAAAAAABfmkSUrJcvQHemEDCm652N; expires=Wed, 23 Feb 2022 17:38:43 GMT; HttpOnly; path=/; Domain=.economist.com
+Set-Cookie: nlbi_121505=NJ+AKg/9owaklfEDntKrYQAAAABmK3VaOEmNDvMo7i6/+MY9; path=/; Domain=.economist.com
+Set-Cookie: incap_ses_261_121505=ERlWM0hUKkw9y4F4hEKfAwuSNWAAAAAAofjjFUMgxdWvLwohk9ocRg==; path=/; Domain=.economist.com
+X-CDN: Imperva
+X-Iinfo: 2-36889178-36889179 NNNN CT(0 -1 0) RT(1614123531555 2) q(0 0 0 0) r(0 0) U5
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 185135
+Connection: keep-alive
+Vary: Accept-Encoding
+Date: Tue, 23 Feb 2021 23:38:52 GMT
+X-Economist-Env: ecs
+Cache-Control: public,must-revalidate,max-age=300,s-maxage=600
+Set-Cookie: economist_has_visited_app_before=true; Path=/; expires=Sun, 23 May 2021 23:32:44 GMT;
+ETag: "2d32f-SKBDFhF7RZlaAXGrmLBvCYgQ4xI"
+X-Amz-Cf-Pop: IAD66-C2
+Set-Cookie: geo_country=US;Domain=.economist.com;Path=/;
+Set-Cookie: geo_region=NA;Domain=.economist.com;Path=/;
+X-Journey: NewEconomistSite
+Set-Cookie: rvjourney=NewEconomistSite/50/50/NewEconomistSite;Domain=.economist.com;Path=/;Max-Age=63072000
+Set-Cookie: rvuuid=4f1bb1e91f619cee6567e019a5102659;Domain=.economist.com;Path=/;Max-Age=2147483647
+X-Cache: Miss from cloudfront
+Via: 1.1 81ba239f918c2c88c443afb9bffa9d8f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD51-C2
+X-Amz-Cf-Id: PP16IkLDB8KKEPltTWoyuLvvDPrVGLiuDF8d-SGpiXbok6GYbVB-UQ==
+Age: 368
+Set-Cookie: visid_incap_121505=bK8QX9BWR/yr0Axz9SFypAuSNWAAAAAAQUIPAAAAAADLUfgRCE3mkC6xAvZ818Vm; expires=Wed, 23 Feb 2022 17:39:04 GMT; HttpOnly; path=/; Domain=.economist.com
+Set-Cookie: nlbi_121505=8egtTDNzRgYlVpEgntKrYQAAAAANwIukdjmVer1/D2T8t/wg; path=/; Domain=.economist.com
+Set-Cookie: incap_ses_261_121505=g4kfcRO3Ty+cy4F4hEKfAwuSNWAAAAAArX9K6nhj+iHrqXc39Zjl4Q==; path=/; Domain=.economist.com
+X-CDN: Imperva
+X-Iinfo: 5-73154956-73151595 PNNN RT(1614123531647 79) q(0 0 0 -1) r(0 0) U5
+

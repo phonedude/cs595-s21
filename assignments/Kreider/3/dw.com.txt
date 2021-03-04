@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.dw.com/
+
+HTTP/1.1 302 Moved Temporarily
+Location: https://www.dw.com/en/top-stories/s-9097
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Onion-Location: https://www.dwnewsvdyyiamwnp.onion/
+Access-Control-Allow-Origin: *
+Date: Tue, 23 Feb 2021 23:37:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-UA-Compatible: IE=EmulateIE8; IE=EmulateIE9; IE=EmulateIE10; IE=Edge
+Content-Type: text/html;charset=UTF-8
+Onion-Location: https://www.dwnewsvdyyiamwnp.onion/en/top-stories/s-9097
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=30
+Date: Tue, 23 Feb 2021 23:37:47 GMT
+Connection: keep-alive
+

@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 23 Feb 2021 23:53:41 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5568-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614124421.198285,VS0,VE0
+Strict-Transport-Security: max-age=31557600
+Location: https://www.kickstarter.com/
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Server: nginx
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+ETag: W/"70b2fa4aff2baee1e5397c9ae40236a5"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: vis=56275415039f5da0-d14631566623afa3-6163d5f1ce5ed6f6v1; path=/; expires=Sat, 23 Feb 2041 23:53:41 GMT; secure
+Set-Cookie: lang=en; path=/; secure
+Set-Cookie: last_page=https%3A%2F%2Fwww.kickstarter.com%2F; path=/; expires=Wed, 24 Feb 2021 00:23:41 GMT; HttpOnly; secure
+Set-Cookie: woe_id=OFZ0Q1M4ZXJDTCtMZmZIV0lROC9xQT09LS03Q2krVGdhQVBXV095b0VDRlZKQTdRPT0%3D--eb02b0935cf0cc9b29b03ed91b3eb4de5b8de4b0; path=/; expires=Wed, 24 Feb 2021 23:53:41 GMT; secure
+Set-Cookie: optimizely_current_variations=%7B%7D; path=/; secure
+Set-Cookie: _ksr_session=VDB2cTNKdEowZW9TSHgwSWhCTTVycVdlNTRmbWtOVmF4SVdBU0NPVjVzcUhEZFdhNE5wN2NTS3JvMy96S2EzMFFZbGJIVW1OQkp6ZlBrM0JkdTR2aWtPemp6Zk1IeFN6SHBlaGlTUVl3K1ArMzVPQS9SWnhrQXZNR2txQW5wM3NFY245b3BkUmtEcmsxRWxxZU1QUmpnPT0tLVphRUQyOVFjZWNQTUEyKzB6SzlOa0E9PQ%3D%3D--eacd1f75715d58415e7f8ae9f559aaeefbd44f60; path=/; secure; HttpOnly
+Set-Cookie: request_time=Tue%2C+23+Feb+2021+23%3A53%3A42+-0000; path=/; secure
+X-Request-Id: 39400a38-37fb-4816-b53d-728dceba8711
+X-Runtime: 0.847082
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Tue, 23 Feb 2021 23:53:42 GMT
+Via: 1.1 varnish
+Set-Cookie: _pxhd=ec8180da637b324d7b427c7b37acdedfb40ca889a2f2342ceefc2ae6f8524e54:5b157f70-7632-11eb-951a-b9fec0be8413; Expires=Wed, 23 Feb 2022 23:53:42 GMT; path=/;
+X-Served-By: cache-wdc5769-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+

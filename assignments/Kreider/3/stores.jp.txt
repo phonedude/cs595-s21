@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Feb 2021 00:16:29 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://stores.jp/
+
+HTTP/1.1 200 OK
+Date: Wed, 24 Feb 2021 00:16:30 GMT
+Content-Type: text/html
+Content-Length: 126359
+Connection: keep-alive
+Server: nginx
+Last-Modified: Tue, 09 Feb 2021 03:49:24 GMT
+ETag: "60220644-1ed97"
+Accept-Ranges: bytes
+

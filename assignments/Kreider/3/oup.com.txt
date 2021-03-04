@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:59:55 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Server: Apache/2.4.46 ()
+Location: http://global.oup.com
+
+HTTP/1.1 302 Moved Temporarily
+Server: awselb/2.0
+Date: Tue, 23 Feb 2021 23:59:56 GMT
+Content-Type: text/html
+Content-Length: 110
+Connection: keep-alive
+Location: https://global.oup.com:443/
+
+HTTP/1.1 302 Found
+Date: Tue, 23 Feb 2021 23:59:56 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+Server: Apache
+Location: //global.oup.com?cc=us
+Set-Cookie: AWSALB=OHEvpwNpZSv/MqOXpcEUN9sOtvF+duICEgz9SdfGm01kZ595SPD3MF4cK9j6lOldaA1Rd7RBbgn5/JJvWi+B0c46cRf21j32zXg8TY8w1O0NFN3Dtmvg5nWKaznV; Expires=Tue, 02 Mar 2021 23:59:56 GMT; Path=/
+Set-Cookie: AWSALBCORS=OHEvpwNpZSv/MqOXpcEUN9sOtvF+duICEgz9SdfGm01kZ595SPD3MF4cK9j6lOldaA1Rd7RBbgn5/JJvWi+B0c46cRf21j32zXg8TY8w1O0NFN3Dtmvg5nWKaznV; Expires=Tue, 02 Mar 2021 23:59:56 GMT; Path=/; SameSite=None
+Set-Cookie: JSESSIONID=4EA8D7F4F8DC1644725449D6D7DB4B49; Path=/; HttpOnly
+X-Cache: MISS
+Vary: User-Agent
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 23:59:56 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+Server: Apache
+Last-Modified: Fri, 19 Feb 2021 10:25:41 GMT
+Expires: Tue, 23 Feb 2021 23:59:56 GMT
+Cache-Control: max-age=0, must-revalidate, s-maxage=0, proxy-revalidate, private
+Content-Language: und
+Set-Cookie: AWSALB=OvpNwjvZRHhcaS+hSsNMVqe3tyO5RQnnalrWrFDuUebk0UTqsXNc9DkpvaDWOR9TixirZWUvxEBTly2Xwn9kWHaLMwfN+HB3OqCJzQQb7IhcnZcUAPq+E2DB9p8M; Expires=Tue, 02 Mar 2021 23:59:56 GMT; Path=/
+Set-Cookie: AWSALBCORS=OvpNwjvZRHhcaS+hSsNMVqe3tyO5RQnnalrWrFDuUebk0UTqsXNc9DkpvaDWOR9TixirZWUvxEBTly2Xwn9kWHaLMwfN+HB3OqCJzQQb7IhcnZcUAPq+E2DB9p8M; Expires=Tue, 02 Mar 2021 23:59:56 GMT; Path=/; SameSite=None
+Set-Cookie: JSESSIONID=0EC73BE88E783BD3D8ADA42BD209EC4E; Path=/; HttpOnly
+X-Cache: MISS
+Vary: User-Agent
+

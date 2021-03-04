@@ -1,0 +1,62 @@
+HTTP/1.1 301 Moved Permanently
+Location: /fb/a/home
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 23 Feb 2021 23:42:01 GMT
+Expires: Tue, 23 Feb 2021 23:42:01 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Location: https://www.google.com/accounts/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=gsylDMZw741i9LWnj1PF8i-b5-HceprP
+Date: Tue, 23 Feb 2021 23:42:01 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: S=feedburner-control-panel=gsylDMZw741i9LWnj1PF8i-b5-HceprP; Path=/; HttpOnly; Priority=LOW
+Transfer-Encoding: chunked
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 23 Feb 2021 23:42:02 GMT
+Location: https://accounts.google.com/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=gsylDMZw741i9LWnj1PF8i-b5-HceprP
+Content-Length: 357
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: DENY
+x-auto-login: realm=com.google&args=service%3Dfeedburner%26continue%3Dhttps%253A%252F%252Ffeedburner.google.com%252Ffb%252Fa%252Fmyfeeds
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 23 Feb 2021 23:42:02 GMT
+Content-Length: 65810
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src 'nonce-GXFbS/2NJvot+6mdzP/fdw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: __Host-GAPS=1:qQT7MkaUNsJgjX0Gl4mJqcyrGwUl-g:iH3pDr2P50ddrSlH;Path=/;Expires=Thu, 23-Feb-2023 23:42:02 GMT;Secure;HttpOnly;Priority=HIGH
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

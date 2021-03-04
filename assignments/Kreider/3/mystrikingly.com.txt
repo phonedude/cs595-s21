@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:57:19 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 24 Feb 2021 00:57:19 GMT
+Location: https://www.strikingly.com
+cf-request-id: 0872ec7cf90000ea6aff820000000001
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=u9ZP38O4GFytLkPo0DYK0HMK7JYCyRpxyyhf0DdlTgaO85TdBtfMQe0yXtF8KIhwqkurqxgslf%2B%2BQvFSzjHe8dzJ%2FykNzBa3sQneV5ze9sb%2F"}],"group":"cf-nel","max_age":604800}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 6264e374cd3bea6a-IAD
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 75128
+Connection: keep-alive
+Date: Tue, 23 Feb 2021 10:12:05 GMT
+Server: openresty
+Cache-Control: max-age=0, private, must-revalidate
+ETag: W/"0e62e64b2fa75ebdffcda88178849402"
+Set-Cookie: XSRF-TOKEN=E9%2BAPhtKkDG7DvLjTG%2BoU7ssCymGDjlXFal0mUwUgTGsP4hsmfHD6jbAPhLNHRKZkNZr6JmxJfPzd2oWNQfGJg%3D%3D; path=/
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Request-Id: 0d42bba9d38d0690c9b3e72bba913cef
+X-Runtime: 0.709934
+X-XSS-Protection: 1; mode=block
+X-Cache: Hit from cloudfront
+Via: 1.1 9a4c760031a0dcc526cc9dcd0d0940eb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: SZbE6YpVP6aJMryCnfhV2THW1qRO1N7iYIQ5wEwP6bEafM7T3hw4Uw==
+

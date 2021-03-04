@@ -1,0 +1,56 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 24 Feb 2021 00:21:00 GMT
+Content-Type: text/html
+Connection: keep-alive
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 24 Feb 2021 00:21:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+Location: http://weibo.com/us
+DPOOL_HEADER: mweibo-10-73-13-69.tc.intra.weibo.cn
+LB_NODE: mweibo-10-22-254-46.xxg.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-ffbfd95c5-pw752
+LB: 47.254.92.5
+LB_NODE: layer7-001.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 24 Feb 2021 00:21:00 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 24 Feb 2021 00:21:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+Location: https://weibo.com/us?ssl_rnd=1614126060.7792
+Set-Cookie: login_sid_t=b17cf4038cbcb0cab8a4bd157683c0f4; path=/; domain=.weibo.com
+Set-Cookie: cross_origin_proto=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.weibo.com
+DPOOL_HEADER: mweibo-10-73-19-64.tc.intra.weibo.cn
+LB_NODE: layer7-rpc-002.mweibo.dbl.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-ffbfd95c5-khw5f
+LB: 47.254.92.5
+LB_NODE: layer7-002.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+
+HTTP/1.1 200 OK
+Date: Wed, 24 Feb 2021 00:21:01 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 24 Feb 2021 00:21:01 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+Set-Cookie: login_sid_t=3d8f1dc77e72320292d007b4946badec; path=/; domain=.weibo.com
+Set-Cookie: cross_origin_proto=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.weibo.com
+DPOOL_HEADER: mweibo-10-73-15-203.tc.intra.weibo.cn
+LB_NODE: mweibo-10-13-173-183.bx.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-ffbfd95c5-dr5ll
+LB: 47.254.92.5
+LB_NODE: layer7-002.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+

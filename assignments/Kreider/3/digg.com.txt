@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:34:03 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 24 Feb 2021 00:34:03 GMT
+Location: https://digg.com/
+cf-request-id: 0872d7319f0000ea2423862000000001
+Server: cloudflare
+CF-RAY: 6264c16298abea24-IAD
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 23:34:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=ddb9d5a8cb1b40af3abd70c9af2dbc96d1614123244; expires=Thu, 25-Mar-21 23:34:04 GMT; path=/; domain=.digg.com; HttpOnly; SameSite=Lax; Secure
+Expect-CT: max-age=0
+Set-Cookie: diggSession=eyJjc3JmU2VjcmV0IjoicWkwWUxnZEdLM0lEREVNTHlpM25BcVJvIn0=; path=/; expires=Thu, 25 Feb 2021 23:34:06 GMT; httponly
+Set-Cookie: diggSession.sig=zPtyXVkMGcIjvtCtXKc24nsuru8; path=/; expires=Thu, 25 Feb 2021 23:34:06 GMT; httponly
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0872d732020000745154335000000001
+Server: cloudflare
+CF-RAY: 6264c1633a7d7451-IAD
+
