@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.afternic.com/
+Connection: close
+
+HTTP/1.1 200 OK
+Server: Apache/2.2.27 (CentOS)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Date: Fri, 26 Feb 2021 20:13:13 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: PHPSESSID=n250qt6bnp0g5o41t7775oqv70; path=/; HttpOnly; Secure
+Set-Cookie: AFTERNICSERVERID=www10; path=/
+

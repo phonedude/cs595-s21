@@ -1,0 +1,3 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: critical-home-free-desktop=36acbaa8edd0a300ab12344088c670d2; expires=Sun, 28-Mar-2021 20:14:47 GMT; Max-Age=2592000; path=/; secure

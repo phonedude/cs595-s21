@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://lefigaro.fr/
+Date: Fri, 26 Feb 2021 20:14:46 GMT
+Connection: keep-alive
+X-Left-TTL: -1614370487
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.lefigaro.fr/
+Date: Fri, 26 Feb 2021 20:14:46 GMT
+Connection: keep-alive
+X-Left-TTL: -1614370487
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+x-premium: 0
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Link: <https://static.lefigaro.fr/figconsent/figconsent-v2-short-ttl.js>; rel="preload"; as="script",<https://static.lefigaro.fr/header/js/figh-index.c0d9bb.js>; rel="preload"; as="script",<https://static.lefigaro.fr/common/fonts/SourceSansPro/sourcesanspro-semibold.woff2>; rel="preload"; as="font"; crossorigin="anonymous",<https://static.lefigaro.fr/common/fonts/SourceSansPro/sourcesanspro-regular.woff2>; rel="preload"; as="font"; crossorigin="anonymous",<https://static.lefigaro.fr/common/fonts/NotoSerif/notoserif-bold.woff2>; rel="preload"; as="font"; crossorigin="anonymous",<https://static.lefigaro.fr>; rel="preconnect",<https://i.f1g.fr>; rel="preconnect",<https://collector.appconsent.io>; rel="preconnect",<https://www.googletagmanager.com>; rel="dns-prefetch",<https://cdn.appconsent.io>; rel="dns-prefetch"
+Edge-Cache-Tag-Truncated: 1
+X-Real-Age: 234
+X-shard-entry: proxy1
+X-shard-target: proxy2
+Expires: Fri, 26 Feb 2021 20:14:47 GMT
+Cache-Control: max-age=0, no-cache, private
+Pragma: no-cache
+Date: Fri, 26 Feb 2021 20:14:47 GMT
+Connection: keep-alive
+X-Left-TTL: 60
+

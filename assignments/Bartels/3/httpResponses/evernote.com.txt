@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://evernote.com/
+Date: Fri, 26 Feb 2021 20:13:34 GMT
+Via: 1.1 google
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Set-Cookie: web50017PreUserGuid=684a4c18-24c1-4a82-b48a-3905d8096d0e; Path=/; Domain=evernote.com; Max-Age=31536000; Secure
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Cloud-Trace-Context: 1364cdd5eb02cd3f9af6630647de610a
+Date: Fri, 26 Feb 2021 20:13:34 GMT
+Server: Google Frontend
+Transfer-Encoding: chunked
+Expires: Fri, 26 Feb 2021 20:13:34 GMT
+Cache-Control: private
+X-App-Server: corpab-t6lb-haproxy-gsck/be_corpsite_gae/li_corpsite_gae
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: clear
+

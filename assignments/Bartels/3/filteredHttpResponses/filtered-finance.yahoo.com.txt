@@ -1,0 +1,3 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 404 Not Found
+set-cookie: B=5vll4k9g3iljg&b=3&s=bs; expires=Fri, 26-Feb-2022 20:13:36 GMT; path=/; domain=.yahoo.com

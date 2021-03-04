@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://foursquare.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:13:36 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5560-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 114281
+x-amz-id-2: xVq2SIEITB8cHwOs8I7DKcuLXSkGjVSzCCYjQGzF6NBv/z8VG2io1Mdz6GKHqbBcwB9WIFkc7lA=
+x-amz-request-id: 4492DBC2BB8CC03A
+Last-Modified: Fri, 26 Feb 2021 20:08:59 GMT
+ETag: "dd1ffa36b0818b61209c51e816a8fbfc"
+Content-Type: text/html
+Server: AmazonS3
+log-origin: name=F_static_site_s3_bucket
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:13:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5566-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+

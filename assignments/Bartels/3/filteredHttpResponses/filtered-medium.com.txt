@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=d56bce2d78f17dbf6a4e1be5be5923fae1614370492; expires=Sun, 28-Mar-21 20:14:52 GMT; path=/; domain=.medium.com; HttpOnly; SameSite=Lax
+Set-Cookie: uid=lo_4c89493870d5; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:52 GMT; HttpOnly; Secure
+Set-Cookie: sid=1:Ot+lnwygvwWHfL0fmj9nNBlhH7gBUsc9jDIdqsQkS3posscj1stv/IrkCl/8MvLW; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:53 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: optimizelyEndUserId=lo_4c89493870d5; Path=/; Domain=medium.com; Expires=Sat, 26 Feb 2022 20:14:53 GMT; Secure; SameSite=None
+Set-Cookie: __cfruid=bdf1629aae197d3d8d32bd10df8743c4c69a4e89-1614370493; path=/; domain=.medium.com; HttpOnly

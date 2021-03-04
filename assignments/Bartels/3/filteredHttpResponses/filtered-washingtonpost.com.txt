@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: wp_devicetype=0; expires=Sun, 28-Mar-2021 20:15:49 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: wp_country=US; expires=Fri, 26-Feb-2021 21:15:49 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: rplampr=0a|20181213; expires=Sat, 26-Feb-2022 20:15:49 GMT; path=/; domain=.washingtonpost.com
+Set-Cookie: wp_ak_subs=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_v_m=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure

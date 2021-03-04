@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:14:53 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store, no-cache
+Content-Type: text/html
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=my&region=US&lang=en-US&device=desktop&yrid=&partner=;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-my"
+Location: https://my.yahoo.com/
+Content-Length: 8
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:14:54 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Cache-Control: no-store, no-cache, max-age=0, private
+Content-Type: text/html
+Content-Language: en
+Expires: -1
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=my&region=US&lang=en-US&device=desktop&yrid=&partner=;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Length: 12
+

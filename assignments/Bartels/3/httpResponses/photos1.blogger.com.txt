@@ -1,0 +1,10 @@
+HTTP/1.1 404 Not Found
+Content-Type: image/gif
+Date: Fri, 26 Feb 2021 20:15:07 GMT
+Expires: Fri, 26 Feb 2021 20:20:07 GMT
+Cache-Control: public, max-age=300
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 43
+X-XSS-Protection: 0
+

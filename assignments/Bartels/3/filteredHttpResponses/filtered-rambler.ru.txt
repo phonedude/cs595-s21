@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: spa_primeHideButton=1%3A0%2B0%3A100; Max-Age=15552000; Domain=.rambler.ru; Path=/; Expires=Wed, 25 Aug 2021 20:15:19 GMT
+Set-Cookie: spv_primeHideButton=0; Max-Age=15552000; Domain=.rambler.ru; Path=/; Expires=Wed, 25 Aug 2021 20:15:19 GMT
+Set-Cookie: split-v2=3; Max-Age=2592000; Domain=.rambler.ru; Path=/; Expires=Sun, 28 Mar 2021 20:15:19 GMT
+Set-Cookie: ruid=vAsAANdWOWCSAVezAcizegB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/; Secure; SameSite=None

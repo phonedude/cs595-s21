@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:14:55 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://www.namecheap.com/
+Server: namecheap-nginx
+Strict-Transport-Security: max-age=16000000
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:14:55 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=dbf3ad99be29ef39fc931cdbab6e694031614370495; expires=Sun, 28-Mar-21 20:14:55 GMT; path=/; domain=.namecheap.com; HttpOnly; SameSite=Lax; Secure
+CF-Ray: 627c55cb7f4dc075-ORF
+Cache-Control: public, max-age=14400
+Expires: Sat, 27 Feb 2021 00:14:55 GMT
+Strict-Transport-Security: max-age=16000000; includeSubDomains
+Vary: Accept-Encoding
+CF-Cache-Status: EXPIRED
+cf-request-id: 088193f32d0000c07535288000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+Set-Cookie: __cflb=02DiuJ7dRDeDqrVicRhJfEhLW5wFTC2gsZDMWwDjTnaLk; SameSite=Lax; path=/; expires=Sat, 27-Feb-21 19:14:55 GMT; HttpOnly
+Set-Cookie: x-ab-promoted-home-search-button=1;expires=Sun, 28 Mar 2021 20:14:55 GMT
+Set-Cookie: __cfruid=b7de972be2baddb0109dd6fa0d6bfa549141e92b-1614370495; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+

@@ -1,0 +1,3 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: web50017PreUserGuid=684a4c18-24c1-4a82-b48a-3905d8096d0e; Path=/; Domain=evernote.com; Max-Age=31536000; Secure

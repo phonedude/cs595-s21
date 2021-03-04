@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Location: https://ft.com
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:13:36 GMT
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://www.ft.com
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:13:36 GMT
+Strict-Transport-Security: max-age=63072000; preload
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 183920
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Etag: W/"2ce70-pN0huBfJt9QDQbRJgCQqvw3/xKQ"
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:13:37 GMT
+Vary: ft-flags, ft-anonymous-user, ft-edition, accept, et-app, FT-Site, FT-Regional-News, Accept-Encoding, FT-Site, FT-Regional-News
+Cache-Control: private, max-age=0, no-cache
+Set-Cookie: FTAllocation=2282c032-a3ee-462a-a2ce-95c68855c190; Expires=Sat, 26 Feb 2022 20:13:37 GMT; Domain=.ft.com; Path=/
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+

@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:15:08 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Location: https://www.plesk.com/
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:15:08 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d7ecf6fdea8ab2d206c752c3d57579ed61614370508; expires=Sun, 28-Mar-21 20:15:08 GMT; path=/; domain=.plesk.com; HttpOnly; SameSite=Lax; Secure
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src https:; frame-src https: 'self' 'unsafe-inline' 'unsafe-eval'; script-src https: 'self' 'unsafe-inline' 'unsafe-eval'; connect-src 'self' https: wss: *.hotjar.com; img-src https: 'self' data:; style-src https: 'unsafe-inline'; font-src https: 'unsafe-inline' data:;
+X-Frame-Options: SAMEORIGIN
+Link: <https://www.plesk.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.plesk.com/>; rel=shortlink
+Vary: Accept-Encoding
+X-LiteSpeed-Cache: hit
+X-Powered-By: PleskLin
+X-Turbo-Charged-By: LiteSpeed
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08819427340000c07ad0892000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 627c561eb8d0c07a-ORF
+

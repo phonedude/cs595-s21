@@ -1,0 +1,5 @@
+# Assignment 1 Documentation
+
+I started by creating my personal directory and my directory for assignment 1.  Then I created empty html, javascript, and README files using the `touch` command.  I wrote the html files first because I have prior experience writing html.  I started the javascript file (`server.js`) by only performing an `app.get` on `Logan.html`; this file is based on the `bank-01.js` file in the `code` directory.  Since I installed node.js and express on Windows, I used Windows Powershell to start the server by issuing the command `node server.js` (the YouTube video shows `node .\server.js` because I used `Tab` to autocomplete the command.  Once the server was up, and I confirmed `Logan.html` displayed correctly, I added the other two files (`Grimm.html` and `Longmire.html`) to the javascript file in two different `get` methods.  Then I used OBS Studio to record myself viewing the files, starting the server, and loading each path in my Firefox browser.
+
+The YouTube video can be found here: https://youtu.be/kpTsROzqh7Y

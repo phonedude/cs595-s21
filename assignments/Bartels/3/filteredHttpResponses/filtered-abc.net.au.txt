@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 302 Moved Temporarily
+HTTP/1.1 200 OK
+Set-Cookie: ABCGuestID=23.50.51.140.77771614370373129; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.abc.net.au
+Set-Cookie: ABC_LD=int; path=/; domain=.abc.net.au
+Set-Cookie: ABC_FF=desktop; expires=Fri, 26-Feb-2021 22:12:53 GMT; path=/
+Set-Cookie: ABCGuestID=23.50.51.140.77771614370373328; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.abc.net.au
+Set-Cookie: ABC_LD=int; path=/; domain=.abc.net.au
+Set-Cookie: ABC_FF=desktop; expires=Fri, 26-Feb-2021 22:12:53 GMT; path=/
