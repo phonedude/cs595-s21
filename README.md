@@ -82,6 +82,8 @@ his course materials (although any errors are mine).
    * [Class slides](https://docs.google.com/presentation/d/1amxk2d59TCL0ya3ZffxS9qe3J8pn_TOStDL70kbyoas/edit)
 
 * Week 07 - March 4 - Fingerprinting and Privacy
+   * [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
+   * [Class slides](https://web.stanford.edu/class/cs253/lectures/Lecture%2008.pdf)
 
 
 * Week 08 - March 11 - UI Denial-of-service, Phishing, Side Channels
