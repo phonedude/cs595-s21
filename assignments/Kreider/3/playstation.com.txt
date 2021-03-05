@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Wed, 24 Feb 2021 00:03:05 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://playstation.com:443/
+Set-Cookie: NSC_tpoztdfb-310+311+263+200-91=ffffffff3701e27045525d5f4f58455e445a4a423660;path=/;httponly
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Wed, 24 Feb 2021 00:03:05 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.playstation.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.playstation.com/en-us/
+Expires: Wed, 24 Feb 2021 00:03:05 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 24 Feb 2021 00:03:05 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=utf-8
+ETag: "2c5c6-5bc07cf3ea493-gzip"
+Last-Modified: Tue, 23 Feb 2021 21:43:31 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload;
+X-Content-Type-Options: nosniff
+X-Dispatcher: dispatcher2uswest1
+X-Frame-Options: SAMEORIGIN
+X-Vhost: publish
+Expires: Wed, 24 Feb 2021 00:03:05 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 24 Feb 2021 00:03:05 GMT
+Connection: keep-alive
+

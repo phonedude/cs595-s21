@@ -1,0 +1,11 @@
+HTTP/1.1 301 TLS Redirect
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: WMF-Last-Access=26-Feb-2021;Path=/;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=26-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access=26-Feb-2021;Path=/;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=26-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: GeoIP=US:VA:Virginia_Beach:36.73:-76.04:v4; Path=/; secure; Domain=.wikipedia.org
+Set-Cookie: WMF-Last-Access=26-Feb-2021;Path=/;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=26-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+Set-Cookie: GeoIP=US:VA:Virginia_Beach:36.73:-76.04:v4; Path=/; secure; Domain=.wikipedia.org

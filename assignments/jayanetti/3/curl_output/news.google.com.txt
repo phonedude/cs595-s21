@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sun, 28 Feb 2021 22:24:51 GMT
+Location: https://news.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=210=sZ4ujOT9oI3MzBsnSL13eya5L6pJwrTh2RVJZmqWh_aRUDoktPlDeD1GDtOwt02rv0rDhlZac2D5-BcAViwSq9gj1B5CXEsUHX5ls2XD5FcxgH1MM1PfCiY6o4btvm_S0VshH_EUBQEUGG0CU0bDU84XxG3GkhuZGKnvlphQh0k; expires=Mon, 30-Aug-2021 22:24:51 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 28 Feb 2021 22:24:51 GMT
+location: https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+cross-origin-resource-policy: same-site
+content-security-policy: script-src 'nonce-r58RkBFS5C4oKLCNCaTruQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=b_1za1Hy85bzgxT2AQEG6wZ4go1kabPcC-D6zs-NQnobb6uAueAbRFMZYN8lEu5_lAHW7aGxhggJlQDaNhTM7K5Qix8Ze3MQv6i5UYVpn0NVdCGoEE_v7TKFunvRSmfaM8bKtiThUSYkd3XEk7PLyQbni6vOXOW22brHplT55RA; expires=Mon, 30-Aug-2021 22:24:51 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: GN_PREF=W251bGwsIkNBSVNEQWl6c1BDQkJoQ1EyTWpUQVEiXQo_; Expires=Mon, 30-Aug-2021 10:24:51 GMT; Path=/; Secure
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 28 Feb 2021 22:24:51 GMT
+content-length: 1645786
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-vUmQNtCkTp9xhAhHupnk6w' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=FDHed6_cAjOZQYy18sY0sIwJcH9kZ8Wr0J8HfdLG-HZ1g0WfDZ0mgwuyZB5SKMJ9c673r-WpZ-3ibe-9QPkC-hS2BYoVWzNadwHh3FQrcCVkDbbK4nVBnGjDEncSnE1sKqz1iA02IpvpCGfvSX64zpK8XarJ1B0xO96FvsXSx5Y; expires=Mon, 30-Aug-2021 22:24:51 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: GN_PREF=W251bGwsIkNBSVNEQWl6c1BDQkJoRDRsdFRsQVEiXQo_; Expires=Mon, 30-Aug-2021 10:24:51 GMT; Path=/; Secure
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

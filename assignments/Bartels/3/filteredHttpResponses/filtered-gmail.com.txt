@@ -1,0 +1,5 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 302 Found
+HTTP/1.1 302 Moved Temporarily
+HTTP/1.1 200 OK
+Set-Cookie: __Host-GAPS=1:iU9BdH2cTZxD6cPdkQkAAm-C8bY_Tg:j56T6yxFGqG2dSBq;Path=/;Expires=Sun, 26-Feb-2023 20:13:37 GMT;Secure;HttpOnly;Priority=HIGH

@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.facebook.com/
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: r8dH3NRsvezXi3ryPAJehfIemv7dpMDJaUBpmFM/Rpi7sqV6dO3lJmQYuDU3MAMONlJlo0XUog2ZR8naeP3Y1g==
+Date: Thu, 04 Mar 2021 20:14:26 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/2 200 
+x-frame-options: DENY
+x-xss-protection: 0
+x-content-type-options: nosniff
+strict-transport-security: max-age=15552000; preload
+set-cookie: fr=1iZePQKa0YEzRGQJr..BgQT-i.82.AAA.0.0.BgQT-i.AWXgYiMggqA; expires=Wed, 02-Jun-2021 20:14:25 GMT; Max-Age=7775999; path=/; domain=.facebook.com; secure; httponly
+set-cookie: sb=oj9BYIMAoJOCWbg0sd2guhAH; expires=Sat, 04-Mar-2023 20:14:26 GMT; Max-Age=63072000; path=/; domain=.facebook.com; secure; httponly
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Accept-Encoding
+pragma: no-cache
+x-fb-rlafr: 0
+content-type: text/html; charset="utf-8"
+x-fb-debug: p70WNhWcpXENAasA6m+XVXno8WRmSLM8AviXq97ykE6J59C2cOAgA+CIXbiBomkeAI64lJ5E+f+Txazk3x6Vvg==
+date: Thu, 04 Mar 2021 20:14:26 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+

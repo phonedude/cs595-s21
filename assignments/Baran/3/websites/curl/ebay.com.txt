@@ -1,0 +1,395 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.com/
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 0
+Date: Thu, 04 Mar 2021 20:14:17 GMT
+Connection: keep-alive
+
+HTTP/2 302 
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://www.ebay.com/n/error
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 61
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:17 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.com/n/error
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 0
+Date: Thu, 04 Mar 2021 20:14:17 GMT
+Connection: keep-alive
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 52
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:18 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*yurk7%28rbpv6710-177fee073ab-0xe5
+Last-Modified: Thu, 4 Mar 2021 19:32:21 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:18 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 48
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:18 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*7t%7C%7Fs%28rbpv6710-177fee07500-0xf4
+Last-Modified: Thu, 4 Mar 2021 19:41:07 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:18 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 60
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:19 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*7t%7C%7Fs%28rbpv6710-177fee07676-0xfb
+Last-Modified: Thu, 4 Mar 2021 19:41:07 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:19 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 65
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:19 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ckuvcwbbc*w%3Cq%7Dq%28rbpv6762-177fee077d4-0x119
+Last-Modified: Thu, 4 Mar 2021 19:15:14 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:19 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 54
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:19 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*tn4%3F%60%28rbpv6710-177fee07921-0xe0
+Last-Modified: Thu, 4 Mar 2021 19:31:50 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:19 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 50
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:20 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*ombl%3B%28rbpv6710-177fee07a78-0xf6
+Last-Modified: Thu, 4 Mar 2021 19:42:57 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:19 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 47
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:20 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*tn4%3F%60%28rbpv6710-177fee07bd6-0xea
+Last-Modified: Thu, 4 Mar 2021 19:31:50 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:20 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 63
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:20 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*yurk7%28rbpv6710-177fee07d2c-0xe6
+Last-Modified: Thu, 4 Mar 2021 19:32:21 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:20 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 50
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:21 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*ombl%3B%28rbpv6710-177fee07e7b-0xf9
+Last-Modified: Thu, 4 Mar 2021 19:42:57 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:20 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 44
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:21 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*ombl%3B%28rbpv6710-177fee07fc1-0xf3
+Last-Modified: Thu, 4 Mar 2021 19:42:57 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:21 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 48
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:21 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*yurk7%28rbpv6710-177fee08113-0x106
+Last-Modified: Thu, 4 Mar 2021 19:32:21 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:21 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 47
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:22 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*tn4%3F%60%28rbpv6710-177fee08263-0xf5
+Last-Modified: Thu, 4 Mar 2021 19:31:50 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:21 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 52
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:22 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*7t%7C%7Fs%28rbpv6710-177fee083ab-0xef
+Last-Modified: Thu, 4 Mar 2021 19:41:07 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:22 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 70
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:22 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*ui3i5%28rbpv6710-177fee0851e-0xeb
+Last-Modified: Thu, 4 Mar 2021 20:08:46 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:22 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 43
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:23 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*7t%7C%7Fs%28rbpv6710-177fee0865d-0xfa
+Last-Modified: Thu, 4 Mar 2021 19:41:07 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:23 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 46
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 20:14:23 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Cumjcwbbc*7t%7C%7Fs%28rbpv6710-177fee087ad-0xef
+Last-Modified: Thu, 4 Mar 2021 19:41:07 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 20:14:23 GMT
+Server: ebay server
+

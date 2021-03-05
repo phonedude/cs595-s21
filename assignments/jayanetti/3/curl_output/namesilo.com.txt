@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:24:45 GMT
+Connection: keep-alive
+Set-Cookie: __cfduid=df78e02da3111242f43203e6efd7059241614551085; expires=Tue, 30-Mar-21 22:24:45 GMT; path=/; domain=.namesilo.com; HttpOnly; SameSite=Lax; Secure
+Cache-Control: max-age=3600
+Expires: Sun, 28 Feb 2021 23:24:45 GMT
+Location: https://www.namesilo.com/
+cf-request-id: 088c5789d90000c0702d367000000001
+Set-Cookie: __cf_bm=636f69d005f71d71036fe90e49b2b6b7be19f1e5-1614551085-1800-AQi1cs0xxR8H69AbUwMum8zLVm8KJGz3j/PhPWgXxVFiLmvb9AsLma9956seF3rDV/MGxjohkt7LRkg1W+xg4dcZ17TgIkKMEB5EhCRwb3Qp; path=/; expires=Sun, 28-Feb-21 22:54:45 GMT; domain=.namesilo.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 628d8ebc89a8c070-ORF
+
+HTTP/2 503 
+date: Sun, 28 Feb 2021 22:24:45 GMT
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+set-cookie: __cfduid=df78e02da3111242f43203e6efd7059241614551085; expires=Tue, 30-Mar-21 22:24:45 GMT; path=/; domain=.namesilo.com; HttpOnly; SameSite=Lax; Secure
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+cf-request-id: 088c578a4a0000c0702607a000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: __cf_bm=da45f364e9a4c21277f97945689ee914946dd6cc-1614551085-1800-AegUmVL+L/1mWQlUo4KkngJgfuFUeW7tF3QlSjEPYtV2Ir4UdIYj+T/1YAezm622wO6SOx4MjGrpEvJLcRogvVyxdfvezVGxAoc+DzZ8thow; path=/; expires=Sun, 28-Feb-21 22:54:45 GMT; domain=.namesilo.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 628d8ebd4a00c070-ORF
+

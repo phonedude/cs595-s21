@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: http://www.pbs.org/
+X-PBS-fwsrvname: fwcacheproxy1
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Server: nginx
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Location: https://www.pbs.org/
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: DENY
+X-Cache-FS-Status: MISS
+X-PBS-fwsrvname: fwcacheproxy10
+X-Cache: Miss from cloudfront
+Via: 1.1 ec809871438c11b540493503de981369.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD50-C2
+X-Amz-Cf-Id: FfEZLorFzIh20j79JcPVPWfMn6u6SNzIiQnpBYtS0DLZDMGBz-9mLA==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 192086
+Connection: keep-alive
+Server: nginx
+Date: Fri, 26 Feb 2021 20:15:06 GMT
+Vary: Accept-Encoding
+Expires: Fri, 26 Feb 2021 20:17:58 GMT
+Cache-Control: max-age=600
+Vary: Cloudfront-Viewer-Country, Cookie
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: DENY
+ETag: "eab2322cb0ebfe308b9409f943747d99"
+X-Cache-FS-Status: HIT
+X-PBS-fwsrvname: fwcacheproxy10
+X-Cache: Miss from cloudfront
+Via: 1.1 6f18ca2e5109f8aa7cd1212932dc4e9b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD50-C2
+X-Amz-Cf-Id: cJemEzzEUbPx7mFjJgzytgamUYrdzpUgeVHUU4hnHKWBWPaxRIlpYA==
+

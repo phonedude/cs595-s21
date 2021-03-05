@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently 
+Connection: close
+Content-Type: text/html
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://www.rt.com/
+Content-Length: 181
+
+HTTP/2 200 
+server: nginx
+date: Sun, 28 Feb 2021 22:25:37 GMT
+content-type: text/html; charset=UTF-8
+cache-control: no-cache,no-store,max-age=0
+x-4vcta: H134U
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+

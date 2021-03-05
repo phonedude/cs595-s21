@@ -1,0 +1,2 @@
+Set-Cookie: geo=US; path=/; domain=.apple.com
+set-cookie: geo=US; path=/; domain=.apple.com

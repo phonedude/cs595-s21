@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: visid_incap_121505=/c3VtEzbQJ2Cyvx3P6IvGW1WOWAAAAAAQUIPAAAAAABMhUrboStXq8/fNeNv4ZTt; expires=Fri, 25 Feb 2022 21:33:16 GMT; HttpOnly; path=/; Domain=.economist.com
+Set-Cookie: nlbi_121505=x9UWR4hibiJr9xdMntKrYQAAAAAeFGrkv183EbzfKAKwRH7t; path=/; Domain=.economist.com
+Set-Cookie: incap_ses_1346_121505=zx8qYvW7+iwLsPCt/POtEm1WOWAAAAAAn64WBqPA8mKtJEEnPYwUWA==; path=/; Domain=.economist.com
+Set-Cookie: economist_has_visited_app_before=true; Path=/; expires=Wed, 26 May 2021 20:12:56 GMT;
+Set-Cookie: geo_country=US;Domain=.economist.com;Path=/;
+Set-Cookie: geo_region=NA;Domain=.economist.com;Path=/;
+Set-Cookie: rvjourney=NewEconomistSite/50/50/NewEconomistSite;Domain=.economist.com;Path=/;Max-Age=63072000
+Set-Cookie: rvuuid=be4d3353c64cb9ac2b6554c133a4d70f;Domain=.economist.com;Path=/;Max-Age=2147483647
+Set-Cookie: visid_incap_121505=yQrThux4S9+FcV+gmXl4O21WOWAAAAAAQUIPAAAAAAAYA1dDfjibV7ZnQrcxE1qz; expires=Fri, 25 Feb 2022 21:33:16 GMT; HttpOnly; path=/; Domain=.economist.com
+Set-Cookie: nlbi_121505=2htyVTUWaDNTxgdantKrYQAAAAC8Tlv/Ulb3u8hcKiJx+NNs; path=/; Domain=.economist.com
+Set-Cookie: incap_ses_1346_121505=vmQdWeKnsRNAsPCt/POtEm1WOWAAAAAAcjNTGA83LRvdYYuH+ANsMw==; path=/; Domain=.economist.com

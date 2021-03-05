@@ -1,0 +1,55 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-length: 0
+Location: https://ovh.com/
+Date: Wed, 24 Feb 2021 00:00:55 GMT
+X-CDN-Pop: syd
+X-CDN-Pop-IP: 139.99.128.192/26
+X-Request-ID: 30081174
+X-Cacheable: Cacheable
+X-IPLB-Request-ID: 4778BE49:D7C3_C61B5C01:0050_60359736_948847:2C724
+X-IPLB-Instance: 37295
+
+HTTP/1.1 302 Found
+Date: Wed, 24 Feb 2021 00:00:57 GMT
+Content-Length: 0
+Cache-Control: no-cache
+Location: https://www.ovh.com/
+X-IPLB-Request-ID: 8B6380C4:8EA4_C063418B:01BB_60359738_CF4E:AB2B
+X-IPLB-Instance: 20734
+X-CDN-Pop: syd
+X-CDN-Pop-IP: 139.99.128.192/26
+X-Request-ID: 1057587219
+X-Cacheable: Cacheable
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+Date: Wed, 24 Feb 2021 00:00:58 GMT
+X-Cacheable: Not cacheable: not http 200
+X-CDN-Pop: syd
+X-CDN-Pop-IP: 139.99.128.192/26
+Content-Type: text/html; charset=utf-8
+X-Request-ID: 972949048
+Location: https://www.ovh.com/world/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 24 Feb 2021 00:01:00 GMT
+Content-Type: text/html
+Last-Modified: Tue, 23 Feb 2021 15:35:23 GMT
+Vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Toujours-Debout-Location: GRA
+X-Toujours-Debout-Branch: B
+X-IPLB-Request-ID: 8B6380C4:8EB0_C063418B:01BB_6035973B_100BD:299BB
+X-IPLB-Instance: 20733
+X-CDN-Pop: syd
+X-CDN-Pop-IP: 139.99.128.192/26
+X-Request-ID: 972949050
+X-Cacheable: Cacheable
+Accept-Ranges: bytes
+Connection: keep-alive
+

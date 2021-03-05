@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.elsevier.com/
+Via: 1.1 squizedge.net
+Server: openresty
+X-Cache: MISS from squizedge.net
+Date: Thu, 04 Mar 2021 20:14:26 GMT
+Set-Cookie: elsevier_user_country=US; Domain=www.elsevier.com; Path=/
+X-Request-ID: 53ccc8f9-bc25-415a-9ad7-ad2fd019abf4
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+vary: Accept-Encoding
+x-cache: HIT from squizedge.net
+cache-control: max-age=0, private
+date: Thu, 04 Mar 2021 20:13:58 GMT
+x-content-type-options: nosniff
+age: 28
+x-ua-compatible: IE=edge,chrome=1
+server: openresty
+via: 1.1 squizedge.net
+last-modified: Thu, 04 Mar 2021 14:09:03 GMT
+x-upgrade-enabled: off
+x-frame-options: SAMEORIGIN
+set-cookie: elsevier_user_country=US; Domain=www.elsevier.com; Path=/
+x-request-id: 759a4fb9-8269-47ed-aaf3-0cdd1210ee7a
+

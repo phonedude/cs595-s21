@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 04 Mar 2021 20:15:14 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.shutterstock.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 6d4ee90b03b8194eed74421e603ee2a8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: 2CASOv0ci6aKTxzIEFvGvn2_WkzeQ36qbK51HWW9tm0coFnt-Cd5Pg==
+
+HTTP/2 406 
+content-type: text/html
+content-length: 160
+date: Thu, 04 Mar 2021 20:15:14 GMT
+server: openresty
+x-cache: Error from cloudfront
+via: 1.1 aa0ac259128059e949248e63a3b6767e.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: HzxAT0WfuBuJ5RkcZz4Fxcm1W40Lo_En9sC13FygnetyU-H4DMCC0A==
+

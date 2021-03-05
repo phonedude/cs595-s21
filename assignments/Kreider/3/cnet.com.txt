@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Tue, 23 Feb 2021 23:31:46 GMT
+Location: https://www.cnet.com/
+Server: nginx
+Via: 1.1 google
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 334602
+Content-Type: text/html; charset=UTF-8
+X-TX-ID: bb435279-6ac1-488a-ad89-712261cfeb00
+Last-Modified: Tue, 23 Feb 2021 23:30:47 GMT
+Content-Security-Policy: frame-ancestors 'self' *.cnet.com *.ampproject.org *.amp.cloudflare.com *.bing-amp.com www.google.com; default-src https: blob: about: 'unsafe-inline' 'unsafe-eval' *.rvapps.io; font-src https: blob: data:; img-src https: data: blob: android-webview-video-poster: about:; form-action https:; block-all-mixed-content; media-src https: blob: data:;
+X-FRAME-OPTIONS: SAMEORIGIN
+Access-Control-Allow-Origin: https://www.cnet.com
+Date: Tue, 23 Feb 2021 23:31:46 GMT
+Cache-Control: max-age=300, private
+Expires: Tue, 23 Feb 2021 23:35:47 GMT
+Set-Cookie: fly_geo={"countryCode": "us"}; max-age=604800; path=/; domain=.cnet.com; Secure;
+Set-Cookie: fly_device=desktop; max-age=604800; path=/; domain=.cnet.com; Secure;
+Set-Cookie: fly_zip=23669; max-age=604800; path=/; domain=.cnet.com; Secure;
+Vary: Accept-Encoding, User-Agent
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Accept-Ranges: bytes
+

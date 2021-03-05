@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: nok_ip_locale=US; expires=Sun, 28-Mar-2021 20:14:59 GMT; path=/
+Set-Cookie: nok_ip_region=americas; path=/

@@ -1,0 +1,55 @@
+HTTP/1.1 301 TLS Redirect
+Date: Mon, 22 Feb 2021 03:39:01 GMT
+Server: Varnish
+X-Varnish: 291851235
+X-Cache: cp1083 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=22-Feb-2021;Path=/;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=22-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+X-Client-IP: 2600:8805:1701:42f0:68b8:9a60:adee:686e
+Location: https://m.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 301 
+date: Mon, 22 Feb 2021 01:22:48 GMT
+server: mw1275.eqiad.wmnet
+location: https://www.wikipedia.org/
+content-length: 234
+content-type: text/html; charset=iso-8859-1
+vary: X-Forwarded-Proto
+age: 8172
+x-cache: cp1079 miss, cp1075 hit/33
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=22-Feb-2021;Path=/;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+set-cookie: WMF-Last-Access-Global=22-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+x-client-ip: 2600:8805:1701:42f0:68b8:9a60:adee:686e
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.23:v4; Path=/; secure; Domain=.wikipedia.org
+
+HTTP/2 200 
+date: Mon, 22 Feb 2021 02:02:17 GMT
+cache-control: s-maxage=86400, must-revalidate, max-age=3600
+server: ATS/8.0.8
+etag: W/"10d32-5bad197160b5f"
+last-modified: Mon, 08 Feb 2021 11:37:09 GMT
+content-type: text/html
+vary: Accept-Encoding
+age: 5803
+x-cache: cp1079 hit, cp1075 hit/37193
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=22-Feb-2021;Path=/;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+set-cookie: WMF-Last-Access-Global=22-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 26 Mar 2021 00:00:00 GMT
+x-client-ip: 2600:8805:1701:42f0:68b8:9a60:adee:686e
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.23:v4; Path=/; secure; Domain=.wikipedia.org
+accept-ranges: bytes
+content-length: 68914
+

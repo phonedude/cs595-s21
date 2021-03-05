@@ -1,0 +1,4 @@
+Set-Cookie: _lbz=0; expires=Fri, 04-Mar-2022 20:14:05 GMT; domain=.chicagotribune.com
+Set-Cookie: _lb=1; expires=Thu, 04-Mar-2021 20:29:05 GMT; path=/; domain=.chicagotribune.com
+set-cookie: _lbz=0; expires=Fri, 04-Mar-2022 20:14:06 GMT; domain=.chicagotribune.com
+set-cookie: _lb=1; expires=Thu, 04-Mar-2021 20:29:06 GMT; path=/; domain=.chicagotribune.com

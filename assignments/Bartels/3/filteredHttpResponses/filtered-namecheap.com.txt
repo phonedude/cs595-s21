@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: __cfduid=dbf3ad99be29ef39fc931cdbab6e694031614370495; expires=Sun, 28-Mar-21 20:14:55 GMT; path=/; domain=.namecheap.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: __cflb=02DiuJ7dRDeDqrVicRhJfEhLW5wFTC2gsZDMWwDjTnaLk; SameSite=Lax; path=/; expires=Sat, 27-Feb-21 19:14:55 GMT; HttpOnly
+Set-Cookie: x-ab-promoted-home-search-button=1;expires=Sun, 28 Mar 2021 20:14:55 GMT
+Set-Cookie: __cfruid=b7de972be2baddb0109dd6fa0d6bfa549141e92b-1614370495; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None

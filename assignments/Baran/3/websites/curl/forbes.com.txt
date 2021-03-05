@@ -1,0 +1,54 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://www.forbes.com/
+Accept-Ranges: bytes
+Date: Thu, 04 Mar 2021 20:14:27 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5733-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614888868.589767,VS0,VE0
+X-Country-Code: US
+X-Postal-Code: 23455
+X-Region: VA
+X-City-Code: virginia beach
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: upgrade-insecure-requests
+state: HIT-SYNTH
+
+HTTP/2 200 
+server: rhino-core-shield
+content-type: text/html; charset=utf-8
+cache-control: public, max-age=300
+x-envoy-upstream-service-time: 829
+x-envoy-decorator-operation: dns-proxy-resolver-internal.dnsresolver.svc.cluster.local:80/*
+backend: dnsresolver
+x-backend: simple-site-prod
+x-yourttl: 300.000
+x-cicero-cache: HIT 9
+via: 1.1 google, 1.1 google, 1.1 varnish
+x-fastly-backend: 24YyrkkiTBhSwXWzJgvwW6--F_GCP_Cicero_Varnish
+x-fastlyttl: 300.000
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 20:14:27 GMT
+age: 44
+x-served-by: cache-wdc5730-WDC
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1614888868.664387,VS0,VE1
+vary: Accept-Encoding, Accept-Encoding, X-is-EU, X-Device, canary, X-Is-Ad-Light, x-malcolm, X-is-EU, X-Device, x-backend, canary, X-Is-Ad-Light
+x-country-code: US
+x-postal-code: 23455
+x-region: VA
+x-city-code: virginia beach
+x-frame-options: SAMEORIGIN
+access-control-allow-credentials: true
+content-security-policy: upgrade-insecure-requests
+x-device: pc
+state: HIT-CLUSTER
+content-length: 414228
+

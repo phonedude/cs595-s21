@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://support.google.com/
+Date: Fri, 26 Feb 2021 20:15:31 GMT
+Expires: Fri, 26 Feb 2021 20:15:31 GMT
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+Content-Length: 224
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 26 Feb 2021 20:15:32 GMT
+Expires: Fri, 26 Feb 2021 20:15:32 GMT
+Cache-Control: private, max-age=0
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-syTRcuZXGmLZlr7uERZh' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=210=IKXDVMcq0oH-RgHl9WSZZj4wYTGs_lQndnrOTYjSJa0E-qJqzohYhuN8ABgQzZ04bwD6hlXcsxdEj-DmL_fjY2viQ0T55DWRL79ecIR1kFaINGkrhXlk4OStTBwHXjxccMi5pcob_OBUV6rsyeZFTlqdS4whYwxBeXhUfgxhUGI; expires=Sat, 28-Aug-2021 20:15:32 GMT; path=/; domain=.google.com; HttpOnly
+Set-Cookie: NID=210=IKXDVMcq0oH-RgHl9WSZZj4wYTGs_lQndnrOTYjSJa0E-qJqzohYhuN8ABgQzZ04bwD6hlXcsxdEj-DmL_fjY2viQ0T55DWRL79ecIR1kFaINGkrhXlk4OStTBwHXjxccMi5pcob_OBUV6rsyeZFTlqdS4whYwxBeXhUfgxhUGI; expires=Sat, 28-Aug-2021 20:15:32 GMT; path=/; domain=.google.com; HttpOnly
+Transfer-Encoding: chunked
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Accept-Encoding
+

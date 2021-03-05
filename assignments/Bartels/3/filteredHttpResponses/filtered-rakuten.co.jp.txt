@@ -1,0 +1,4 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: Apache=76d79b08.5bc42ed3639ef; path=/; expires=Sat, 26-Feb-22 20:15:17 GMT
+Set-Cookie: wPzd=lng%3DNA%3Acnt%3DJP; expires=Sat, 26-Feb-2022 20:15:17 GMT; path=/; domain=www.rakuten.co.jp

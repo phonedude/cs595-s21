@@ -1,0 +1,23 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.15.9
+Date: Thu, 04 Mar 2021 20:14:07 GMT
+Content-Type: text/html
+Content-Length: 145
+Connection: keep-alive
+Location: https://www.cocolog-nifty.com/
+
+HTTP/1.1 200 OK
+Server: nginx/1.15.9
+Date: Thu, 04 Mar 2021 20:14:08 GMT
+Content-Type: text/html
+Content-Length: 24446
+Last-Modified: Wed, 03 Feb 2021 01:42:10 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: "6019ff72-5f7e"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options:: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' 'unsafe-inline' https://maxcdn.bootstrapcdn.com/ ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://code.jquery.com/ https://apis.google.com/ https://ajax.googleapis.com/ www.googletagmanager.com tagmanager.google.com https://www.google-analytics.com/ https://cdn.jsdelivr.net/ info.cocolog-nifty.com tag.nifty.com https://cdn.treasuredata.com/ https://in.treasuredata.com/ https://rt.rtoaster.jp/ ; connect-src 'self' 'unsafe-inline' updates.cocolog-nifty.com; style-src 'self' 'unsafe-inline' *; img-src *; font-src 'self' https://cdn.jsdelivr.net/ https://fonts.gstatic.com/ ;
+Accept-Ranges: bytes
+

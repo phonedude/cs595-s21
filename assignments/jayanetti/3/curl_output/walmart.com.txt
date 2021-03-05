@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Content-Length: 54
+Content-Type: text/html; charset=utf-8
+Location: https://www.walmart.com/
+Via: HTTP/1.1 odnd
+Date: Sun, 28 Feb 2021 22:26:20 GMT
+Set-Cookie: TS011baee6=0130aff232350cd9b02f2b28138ba911b9e9cba41dfc949258858d0225d8cbe35ff531be3b3a0b0e6c4130082f5d249eabcb1a968c; Path=/
+
+HTTP/2 307 
+accept-ranges: bytes
+content-length: 21
+content-type: text/plain; charset=utf-8
+location: /blocked?url=Lw==&uuid=fb8a3c40-7a13-11eb-86a8-d1f57fb3d8ef&vid=&g=a
+expires: Sun, 28 Feb 2021 22:26:20 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 28 Feb 2021 22:26:20 GMT
+set-cookie: TS01b0be75=01538efd7c859605a41717c95b9822757a37ff843f15ed3cc8caba96839ccadab2e2d7d6856ae66f71e1db405de482914834b91f22; Path=/; Domain=.www.walmart.com
+cache-status: Miss
+origin-ex: 
+origin-cc: max-age=0, no-cache, no-store
+set-cookie: akavpau_p8=1614551780~id=6892a8e67bcf0d692150b6af9b4ce7ad; Path=/; Secure; SameSite=None
+x-ak-protocol: h2
+set-cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1614551180781@firstcreate:1614551180781"; Max-Age=315360000; domain=walmart.com; path=/; SameSite=Strict
+
+HTTP/2 200 
+accept-ranges: bytes
+content-length: 14776
+content-type: text/html; charset=utf-8
+expires: Sun, 28 Feb 2021 22:26:20 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 28 Feb 2021 22:26:20 GMT
+set-cookie: TS01b0be75=01538efd7cf773468ac30408ad1daa46120f8b62666ba65a799e9aa82e5908339487208c530db3f2e749727a45aa48091ee5d903dd; Path=/; Domain=.www.walmart.com
+cache-status: Miss
+origin-ex: 
+origin-cc: 
+x-ak-protocol: h2
+

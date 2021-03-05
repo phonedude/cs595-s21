@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.irs.gov/
+Cache-Control: max-age=86400
+Expires: Fri, 05 Mar 2021 20:14:33 GMT
+Date: Thu, 04 Mar 2021 20:14:33 GMT
+Connection: keep-alive
+Set-Cookie: bm_sz=2A5BBF8BC7CA36D62A2B443D6D6E1F20~YAAQi5cwF9Wut7V3AQAA4a3g/gvLvtjwAxKeudSVUpyC1UBNddsxpK4dWWRewlWEZa62I/9Cey9DVCjI0sdw7L2aWwOaAdd/SW27g9yaJEdR2s0fg4fwUdVwVPV0W3ZIrEK28u7ydIMO5y8krSNb1CqTf+jHJS/XZNpSMhgqrtHH6ocZtNySYxyB2WDD; Domain=.irs.gov; Path=/; Expires=Fri, 05 Mar 2021 00:14:33 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=AFEFD559E7D35F5519D5B547FE1FCFCA~-1~YAAQi5cwF9aut7V3AQAA4a3g/gXkzcpoyi5RiaZOgaPBrow69LIsUpbqvrd+q8iqD4AwC+Wldjwib4mj3Vs1QGwJC203/OyQYDj/ricNiipkqPgzafOhVdfdc0FQuR6uC+6mZuQ4Y9gzc8+nLFQCeQBPfgVGCX0qKmAwKAWy8m8zRXoko+cF2Rw6zWeOHd1mFmuWn+O5D2XEFn1ZQ6zdensUji/NTqQ/1643PzlRSsCy7XC0fBAA4rXw+YPZUILV2cLlUcBvQtUYrctmkQlXFD+41UNYTHKPiGi6k7WvnFsPjaiU64iVFb+42uCVoCsWzCgddUn+qnU0ZfMOE3E/IEg=~-1~-1~-1; Domain=.irs.gov; Path=/; Expires=Fri, 04 Mar 2022 20:14:33 GMT; Max-Age=31536000
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-drupal-dynamic-cache: MISS
+link: <https://www.irs.gov/>; rel="shortlink", <https://www.irs.gov/>; rel="canonical"
+link: <https://www.irs.gov/node/58476>; rel="alternate"; hreflang="en"
+link: <https://www.irs.gov/es/node/58476>; rel="alternate"; hreflang="es"
+link: <https://www.irs.gov/zh-hans/node/58476>; rel="alternate"; hreflang="zh-hans"
+link: <https://www.irs.gov/zh-hant/node/58476>; rel="alternate"; hreflang="zh-hant"
+link: <https://www.irs.gov/ko/node/58476>; rel="alternate"; hreflang="ko"
+link: <https://www.irs.gov/ru/node/58476>; rel="alternate"; hreflang="ru"
+link: <https://www.irs.gov/vi/node/58476>; rel="alternate"; hreflang="vi"
+link: <https://www.irs.gov/ht/node/58476>; rel="alternate"; hreflang="ht"
+link: <https://www.irs.gov/node/58476>; rel="revision"
+x-ua-compatible: IE=edge
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+last-modified: Thu, 04 Mar 2021 14:58:24 GMT
+etag: "1614869904"
+x-generator: Drupal 8 (https://www.drupal.org)
+x-drupal-cache: HIT
+x-request-id: v-1a055dd8-7cfa-11eb-83f0-538a5cb3f303
+x-ah-environment: prod
+x-cache-hits: 49
+x-age: 800
+cache-control: public, max-age=86400
+expires: Fri, 05 Mar 2021 20:14:33 GMT
+date: Thu, 04 Mar 2021 20:14:33 GMT
+strict-transport-security: max-age=31536000
+set-cookie: bm_sz=18A849D5C1AB9C7BCFB3228290215D6B~YAAQi5cwF9eut7V3AQAAQa7g/gt616XxL08KtGVfQMfHgFcd0TTKMNED8Nml6demB32VgRovhWA8dQtBQoR78309PdR9yYeBBd8AZhqrirQvo+NotIhkDgeRn8ChF+2IOOXXmj3B+FkyirFPw18gbrn2fP6osgiPvpmVdXTDKDNdUVmdYbQfcWgxhCdh; Domain=.irs.gov; Path=/; Expires=Fri, 05 Mar 2021 00:14:33 GMT; Max-Age=14400; HttpOnly
+set-cookie: _abck=A6378A571E3A8DD4B87BE4400EEE98B9~-1~YAAQi5cwF9iut7V3AQAAQa7g/gUsyERLvGKqwXcAW8CAloyX47SZCuz0bwPtDwxX2r0TagZP89poL3Q5f5DnIXde754CTBnA09fJgy8uaZmmt9DGbZMODOFYhq0t6Dzt49doaGMOO7rIE5QNfw69Z0ehRky/fVM69DsgNN7pFPyxIDZkz1A/koASBro1mf2m1+lYyaTLcQzNR1/HrBRcD420O5LROXD1e4J12q4MyLYu4CVao5rwyzt3mXTr4zAnwTjRWrXvNKuW6L9sZzJwc1nwpgICJmjJ6n3TIf8M0jFEhOKz40+UaFutUftedy7BAQbBmmDpgDmd6oEFaP0THUy40JaQa1JoMzPbC56xL/A1iOmfAPo=~-1~-1~-1; Domain=.irs.gov; Path=/; Expires=Fri, 04 Mar 2022 20:14:33 GMT; Max-Age=31536000; Secure
+

@@ -1,0 +1,34 @@
+HTTP/1.1 301 TLS Redirect
+Date: Thu, 04 Mar 2021 20:15:20 GMT
+Server: Varnish
+X-Varnish: 361179394
+X-Cache: cp1075 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+X-Client-IP: 108.17.156.215
+Location: https://www.wikimedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:26:04 GMT
+cache-control: s-maxage=3600, must-revalidate, max-age=0
+server: ATS/8.0.8
+etag: W/"1d27-5a4d026140f85"
+last-modified: Mon, 04 May 2020 10:39:42 GMT
+content-type: text/html
+vary: Accept-Encoding
+age: 2955
+x-cache: cp1079 hit, cp1075 hit/178
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 108.17.156.215
+set-cookie: GeoIP=US:VA:Virginia_Beach:36.88:-76.15:v4; Path=/; secure; Domain=.wikimedia.org
+accept-ranges: bytes
+content-length: 7463
+

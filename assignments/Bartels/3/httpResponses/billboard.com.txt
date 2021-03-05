@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 26 Feb 2021 20:13:15 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 26 Feb 2021 21:13:15 GMT
+Location: https://www.billboard.com/
+cf-request-id: 0881926eb70000c0753531f000000001
+Set-Cookie: PGMINFO=cc:us-ip:2600:8805:5800:28:29c0:cfa5:7485:ebdf; Max-Age=3600; Path=/; Domain=.billboard.com
+Set-Cookie: __cf_bm=9c4c314051a99d199ea5df1ecfbdcbfbad2df85a-1614370395-1800-AdQqWscEjBCy1x8v8kvP2L5x46W07QeMLDjaYsHEuiQUUa6wY0uVBIJMsSgZgSCvA5Wek4ggHwPORPFKzc2BGztSIItxXNhAw8tdEE+Q3igi; path=/; expires=Fri, 26-Feb-21 20:43:15 GMT; domain=.billboard.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 627c535dffa7c075-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Fri, 26 Feb 2021 20:13:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=df73f6f09e2f1394d42c0980a0055079a1614370395; expires=Sun, 28-Mar-21 20:13:15 GMT; path=/; domain=.billboard.com; HttpOnly; SameSite=Lax; Secure
+CF-Ray: 627c535ea84bc089-ORF
+Age: 426
+Cache-Control: public, max-age=120, s-maxage=1200
+Vary: accept-encoding
+CF-Cache-Status: HIT
+cf-request-id: 0881926f2d0000c0894e347000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: PGMINFO=cc:us-ip:2600:8805:5800:28:29c0:cfa5:7485:ebdf; Max-Age=3600; Path=/; Domain=.billboard.com
+Set-Cookie: __cf_bm=dce9f29e4e9febd090707c222b483a606f28c148-1614370395-1800-Aa9EbxI2cE6T8+3HEPVmHWMVKymn+NTLcF3KKTAvSSaq0ujNoTy8xv8/LLiVF0QvHw==; path=/; expires=Fri, 26-Feb-21 20:43:15 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cf_bm=9e3594665d3ed839718983b37c9f6217790ba20d-1614370395-1800-ATvLoz3LYqGc6CgSMKGF3/sF5Ng+FyOz8izQCU77eBeOj0+XTpqG1jERb+OFXM3kYwPNgMAa5meWmkI8rtt11uTxqtGSnRXlrFdE3IfRAMB7; path=/; expires=Fri, 26-Feb-21 20:43:15 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

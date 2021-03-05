@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 26 Feb 2021 20:15:40 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://washingtonpost.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 a805f3562e8099c23b78cf69c21f7835.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C1
+X-Amz-Cf-Id: b8ItzNU0ObHhhSoMFQRUl_hiXzWdxPzcVSGPysKatRIYUeddNuVNlQ==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Fri, 26 Feb 2021 20:11:44 GMT
+Location: https://www.washingtonpost.com/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 3b8e0d5ce152e011bcc1dba2235e26b8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C1
+X-Amz-Cf-Id: jy9AbH2XssvxZLLoarVtdORZrza4CJhHke-OG_t0JCPyOl4aHwVB1w==
+Age: 237
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Server: openresty
+fusion-content-id: undefined
+fusion-content-source: undefined
+fusion-template-id: page/pMEVjk1OZnv23s
+fusion-component-id: undefined
+fusion-deployment-id: 379
+ETag: W/"111cb1-ziNQdNKFhbuTLxFkN/MiCyqBjNk"
+Fusion-Source: lambda
+Last-Modified: Friday, 26-Feb-2021 20:14:52 GMT
+X-Served-By: pf
+X-Origin-Cache: HIT
+Cache-Control: max-age=60
+Expires: Fri, 26 Feb 2021 20:16:49 GMT
+Date: Fri, 26 Feb 2021 20:15:49 GMT
+Connection: keep-alive
+Set-Cookie: wp_devicetype=0; expires=Sun, 28-Mar-2021 20:15:49 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: wp_country=US; expires=Fri, 26-Feb-2021 21:15:49 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: rplampr=0a|20181213; expires=Sat, 26-Feb-2022 20:15:49 GMT; path=/; domain=.washingtonpost.com
+Set-Cookie: wp_ak_subs=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_v_m=0|20210217; expires=Mon, 3-May-2021 19:19:29 GMT; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Content-Security-Policy: upgrade-insecure-requests
+

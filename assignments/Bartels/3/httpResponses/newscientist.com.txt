@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.newscientist.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:14:58 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5574-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 126538
+Cache-Control: max-age=1, public, s-maxage=86400
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+X-Frame-Options: DENY
+X-NS-Authorization: no-auth
+Accept-Ranges: bytes
+Date: Fri, 26 Feb 2021 20:14:58 GMT
+Via: 1.1 varnish
+Age: 3599
+X-Is-SSL: yes
+X-Served-By: cache-wdc5540-WDC
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1614370499.956685,VS0,VE1
+Vary: X-NS-Authorization,Accept-Encoding
+Strict-Transport-Security: max-age=31557600
+

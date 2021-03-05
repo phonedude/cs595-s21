@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Tue, 23 Feb 2021 23:33:38 GMT
+Location: https://dailymotion.com/
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Strict-Transport-Security: max-age=31708800; includeSubDomains
+Date: Tue, 23 Feb 2021 23:33:38 GMT
+Location: https://www.dailymotion.com/
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Content-Security-Policy-Report-Only: default-src https: blob: wss: data: android-webview-video-poster: android-webview: chrome-extension: safari-extension: 'unsafe-eval' 'unsafe-inline'; report-uri https://www.dailymotion.com/content_security_policy_report_uri
+Server: DMS/1.0.42
+NEL: {"report_to":"telemetry","max_age":7776000,"include_subdomains":true,"failure_fraction":1.0}
+Vary: X-DM-SSL
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: upgrade-insecure-requests
+Report-To: {"group":"telemetry","max_age":7776000,"endpoints":[{"url":"https://telemetry.dailymotion.com/"}],"include_subdomains":true}
+Strict-Transport-Security: max-age=31708800; includeSubDomains
+Date: Tue, 23 Feb 2021 23:33:39 GMT
+Server-Timing: total;dur=138, dc;desc="ix7"
+Keep-Alive: timeout=60, max=4998
+Timing-Allow-Origin: *
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+Set-Cookie: ts=832557; expires=Wed, 23-Mar-2022 23:33:40 GMT; Max-Age=33955200; path=/; domain=.dailymotion.com; Secure; SameSite=none;
+Set-Cookie: v1st=BE9928B4A112127CDC56D6D079CB9025; expires=Fri, 25 Mar 2022 23:33:39 GMT; max-age=34128000; path=/; Secure; SameSite=None; domain=.dailymotion.com
+Expect-Ct: max-age=0, report-uri="https://www.dailymotion.com/content_security_policy_report_uri"
+Referrer-Policy: no-referrer-when-downgrade
+

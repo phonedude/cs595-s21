@@ -1,0 +1,4 @@
+set-cookie: csrftoken=008d035fd2f909c20f6db4378d95163a; path=/; expires=Fri, 04 Mar 2022 20:14:58 GMT; secure
+set-cookie: _pinterest_sess=TWc9PSZTR1lodDVlYkFMeFg2V2NYRGsxMTBaeHBtWHlVTVE3aUlJME50NFl6MkNQLzVEaGZtZjNpZHFZak10bk5zeUYwMCtVVjJlaEdkbWVDOVk2OXpOb1l5bitXV24wY2JVSUJRejVkejJiK3F1MnY5aGNiZ0RPVEJ2ZDNnK1RUcU55ZDBFUWdYZkxreTFhVmM0SWVUN1NReWc9PSZmVjFGMDZ3ckNISWxXR01nN1IvbXA5YnBCeHM9; path=/; expires=Sun, 27 Feb 2022 20:14:58 GMT; samesite=none; secure; httponly
+set-cookie: _auth=0; path=/; expires=Sun, 27 Feb 2022 20:14:58 GMT; secure; httponly
+set-cookie: _routing_id="5163eb31-1c64-4e88-89fb-50190de42f9b"; Max-Age=86400; Path=/; HttpOnly

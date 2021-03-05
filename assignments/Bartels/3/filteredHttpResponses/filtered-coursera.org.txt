@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
+Set-Cookie: CSRF3-Token=1615234401.obhBqucDl67jAZvZ; Max-Age=864000; Expires=Mon, 08 Mar 2021 20:13:21 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: __204u=3617723555-1614370401022; Max-Age=31536000; Expires=Sat, 26 Feb 2022 20:13:21 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: CSRF3-Token=1615234401.jCsHdglYBlb5S4xq; Max-Age=864000; Expires=Mon, 08 Mar 2021 20:13:21 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: __204u=5734471955-1614370401145; Max-Age=31536000; Expires=Sat, 26 Feb 2022 20:13:21 GMT; Path=/; Domain=.coursera.org

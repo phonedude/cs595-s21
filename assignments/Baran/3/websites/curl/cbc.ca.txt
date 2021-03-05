@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.cbc.ca/
+Date: Thu, 04 Mar 2021 20:14:03 GMT
+Connection: keep-alive
+Set-Cookie: akaas_feed=2147483647~rv=30~id=f6f36cd916dbb4df924067589e2fabb8; path=/
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-url: /
+x-origin-server: ocelot_prod1_ip-10-9-34-226.ca-central-1.compute.internal_cache
+x-edgeconnect-cache-status: 1
+cache-control: max-age=35
+date: Thu, 04 Mar 2021 20:14:03 GMT
+set-cookie: akaas_feed=2147483647~rv=7~id=f09278bad58856d1af894a6ea37278bf; path=/; Secure; SameSite=None
+
