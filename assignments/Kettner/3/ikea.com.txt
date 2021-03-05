@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 22:16:39 GMT
+Last-Modified: Wed, 03 Mar 2021 22:16:39 GMT
+Accept-Ranges: none
+Connection: close
+Content-type: text/html
+Location: http://www.ikea.com/
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.ikea.com/
+Cache-Control: private, max-age=600
+Expires: Wed, 03 Mar 2021 22:26:39 GMT
+Date: Wed, 03 Mar 2021 22:16:39 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: bm_sz=A1493924E970AD806B8A8795C7A82759~YAAQOyvorNC7+c13AQAAUBoq+gqfy0UDOxD2LfhWgtUkXL57Z7PeE03pCe94y6YBNaF54PHezrWzp17yAErMBvkGDC9CPb1eY3OGBqmzwOl9zjKDg0a+DVNJJYSqqnw0ZI5H5QuQh193ldoBJ/WuIULKBFMlYO4WS+pyGBNrUBsS7I/g2iXPhZ2zYn2vNQ==; Domain=.ikea.com; Path=/; Expires=Thu, 04 Mar 2021 02:16:39 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=42B53FE98681588E7AED857163DECDDF~-1~YAAQOyvorNG7+c13AQAAUBoq+gU1j3CvLavWOUrQO3TL25xK+m5e7tPpps6czjHsvuX4IytcwnGh6QoRDeJQ/rcAl/2QqpgCrWUgFHWSKYbyGeL3ZK74ujrD60vm4e+CNYl2vhvf33fl3gkTgCqL8NjuhpcuizzH9XbCN0IpgSsyX0Z4ntS0hcs8yVjWVG8Vc1FhW9KpCsTZT+xGIZivrjjExmIXVvSMVt1lehMJ5T23eCiUbW2bZNfHpTPFDv8rsZghv8knDev9oFUgKzLOoky1GSvesAq26zmH+MFISzPIhoHIco9+s81yjfBweRatP/HXw2yuZFNpMpg1s3Npvjwa~-1~-1~-1; Domain=.ikea.com; Path=/; Expires=Thu, 03 Mar 2022 22:16:39 GMT; Max-Age=31536000
+
+HTTP/1.1 200 OK
+Content-Length: 73918
+Content-Type: text/html
+Last-Modified: Tue, 02 Mar 2021 08:15:10 GMT
+Accept-Ranges: bytes
+ETag: "0x8D8DD534C1C1F02"
+x-ms-request-id: 8a3da463-f01e-004f-2a3c-0f52f2000000
+x-ms-version: 2018-03-28
+MPULSE_ORIGIN_TIME: 327
+MPULSE_CDN_CACHE: REVALIDATE
+Cache-Control: private, max-age=600
+Expires: Wed, 03 Mar 2021 22:26:39 GMT
+Date: Wed, 03 Mar 2021 22:16:39 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Server: IKEA Server
+Set-Cookie: bm_sz=23528D3B465774814C9887EB4861B7FD~YAAQPSvorBqqte13AQAAwBoq+go6cleuaHCdPnpDgPjgrFMGUZnQCyaGTuwB60PGNpaqRscSE20PStI8cJ8Sxo8j9E1T4BMAU+v49csUFPFg3sLnTSfJ2/3tcmM7Uh6PKMaWDuZMgMo16ic1NSDkj+LBi5JMzj4eQhImXi0JN99Ku+Rig6yqRaFD2QPibg==; Domain=.ikea.com; Path=/; Expires=Thu, 04 Mar 2021 02:16:39 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=2995F80C8EAE689CC6BDDA8D34E494C2~-1~YAAQPSvorBuqte13AQAAwBoq+gX4rCYuQ26oCRAVr9X5ntncPU6/OC3IZzWiM1gNVfQwN4buaiNcGMiJVknZKdzp+Y54asw0V7GpENnaxKpp6GcZzy95SfT9UPfBcIrQhdFO+UFJhM3W8mjzVprhxmwGnF5f0kyBWTlYEmr7P8zYrHe3LO01a2n5zCKNPKRe5wfvALSt2xqB3XoPZNXhBAcgrX6ZH/4fIqUq+AmF6cjU+wNySZlKvhMdewKkO3HRQtgY0tnoEJsh9hx9FuZVvqxwm1M8fiBhs6n8CtyvjGZqLLtEJdVHRbytaoaXtRTws67jewlI16N7qp0Q0fHuTS7cLMTAAWtNpko6ovpedX4ieugNVoLK~-1~-1~-1; Domain=.ikea.com; Path=/; Expires=Thu, 03 Mar 2022 22:16:39 GMT; Max-Age=31536000; Secure
+

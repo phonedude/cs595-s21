@@ -1,0 +1,66 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-a-6b4c66d56-xg42w
+X-Styx-Req-Id: 6df65498-7c12-11eb-9efc-9a5139b97a55
+Cache-Control: public, max-age=86400
+Content-Length: 162
+Date: Thu, 04 Mar 2021 02:24:53 GMT
+Connection: keep-alive
+X-Served-By: cache-mdw17348-MDW, cache-wdc5554-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 1
+X-Timer: S1614824693.392364,VS0,VE1
+Vary: Cookie, Cookie
+Age: 54278
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 0
+Cache-Control: public, max-age=1209600
+Content-Type: text/html; charset=UTF-8
+Location: https://www.utexas.edu/
+Server: nginx
+Strict-Transport-Security: max-age=31622400
+X-Pantheon-Styx-Hostname: styx-fe4-a-695744c5c6-fzqrp
+X-Styx-Req-Id: d45f5570-7735-11eb-af57-f22b7822ecaa
+Date: Thu, 04 Mar 2021 02:24:53 GMT
+X-Served-By: cache-mdw17363-MDW, cache-wdc5539-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 1
+X-Timer: S1614824693.486103,VS0,VE2
+Vary: Cookie, Cookie
+Age: 588829
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 62604
+Cache-Control: public, max-age=300
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Etag: W/"1614821603-0"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Thu, 04 Mar 2021 01:33:23 GMT
+Link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-7f6f7b5944-mtcn8
+X-Styx-Req-Id: 54c86f2c-7c90-11eb-bd9c-5249581fb07e
+Age: 203
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Thu, 04 Mar 2021 02:24:53 GMT
+X-Served-By: cache-mdw17382-MDW, cache-wdc5550-WDC, cache-wdc5530-WDC
+X-Cache: HIT, MISS, MISS
+X-Cache-Hits: 1, 0, 0
+X-Timer: S1614824694.613441,VS0,VE26
+Vary: Accept-Encoding, Cookie, Cookie, Cookie
+

@@ -1,0 +1,45 @@
+HTTP/1.1 308 Permanent Redirect
+Retry-After: 0
+Content-Type: text/html
+Content-Length: 247
+Accept-Ranges: bytes
+Date: Wed, 03 Mar 2021 22:32:10 GMT
+Connection: close
+Location: https://pinterest.com/
+
+HTTP/1.1 308 Permanent Redirect
+Connection: close
+Content-Length: 247
+Retry-After: 0
+Content-Type: text/html
+Location: https://www.pinterest.com/
+Accept-Ranges: bytes
+Date: Wed, 03 Mar 2021 22:32:10 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+HTTP/1.1 200 OK
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+Vary: User-Agent, Accept-Encoding
+x-ua-compatible: IE=edge
+p3p: CP="This is not a P3P policy. See https://www.pinterest.com/_/_/help/articles/pinterest-and-p3p for more info."
+Content-Security-Policy: script-src 'nonce-ddd5849b37e0d988d52f1d4fe3140239' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline'; connect-src 'self' *.pinimg.com *.pinterest.com accounts.google.com *.branch.io *.facebook.com *.dropboxapi.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org pinterest-aberdeen.s3.amazonaws.com pinterest-anaheim.s3.amazonaws.com pinterest-media-upload.s3.amazonaws.com pinterest-media-upload.s3-accelerate.amazonaws.com pinterest-poughkeepsie.s3.amazonaws.com pinterest-waterloo.s3.amazonaws.com pinterest-waterloo.s3.us-east-1.amazonaws.com pinterest-plymouth.s3.amazonaws.com *.cedexis.com *.cedexis-radar.net blob: *.bugsnag.com; media-src 'self' *.pinimg.com blob: data:; object-src 'self'; form-action 'self'; worker-src 'self' blob: https://www-pinterest-com.cdn.ampproject.org 'unsafe-inline'; base-uri 'none'; report-uri /_/_/csp_report/?rid=8513683029921132; frame-ancestors 'self'
+content-security-policy-report-only: script-src 'nonce-ddd5849b37e0d988d52f1d4fe3140239' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline' , script-src 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline'; frame-src self *.google.com *.pinimg.com *.pinterest.com *.pinterdev.com *.facebook.com player.grabnetworks.com www.kickstarter.com staging.slideshare.com player.anyclip.com verify.vote.org movieclips.com scache.vevo.com *.adyen.com www.voteplz.org player.hulu.com www.crackle.com www.dailymotion.com cache.vevo.com www.slideshare.net crackle.com embed.5min.com embed.ted.com register.vote.org absentee.vote.org www.crunchyroll.com videoplayer.vevo.com w.soundcloud.com embed-ssl.ted.com *.youtube.com *.ytimg.com player.vimeo.com calendly.com vine.co scache.vevo.com bid.g.doubleclick.net *.fls.doubleclick.net pinterest-waterloo.s3.amazonaws.com pinlogs.s3.amazonaws.com pinterest-hilo.s3.amazonaws.com advertising-delivery-metric-reports.s3.amazonaws.com *.cdn.ampproject.or; report-uri /_/_/csp_report/?reportonly
+x-frame-options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Link: <https://i.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://s.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://v.pinimg.com>; rel=preconnect; crossorigin=anonymous
+x-envoy-upstream-service-time: 66
+pinterest-generated-by: coreapp-webapp-prod-0a011b29
+pinterest-version: cb358ac
+referrer-policy: origin
+x-pinterest-rid: 8513683029921132
+Date: Wed, 03 Mar 2021 22:32:11 GMT
+Content-Length: 1
+Connection: keep-alive
+Set-Cookie: csrftoken=94ddf8c77de7053d6cd3ab547a246ddb; path=/; expires=Thu, 03 Mar 2022 22:32:11 GMT; secure
+Set-Cookie: _pinterest_sess=TWc9PSZob0M5K0d0ZVJpRnZNREJ6Z1JaTlhHMVE4V0JXTG5IOCtoQ3gzRXQrSmF6aHlnVDNhcnFrcnhqQ1dpdnBoSDFZL293ZENjYnk2ZmlWZjg5VDNydGpRS2NPNXJVNnRZYnd0Y3pEdnFTd2h2OG13UUk3azJIK2lkT1pzWkxtN3dlUk9ZaHFzdGJGWURlcE0yUVFuQU95QXc9PSZxSDB0RithMGFUS3o1WkZMTWxjNVI1Y0pydm89; path=/; expires=Sat, 26 Feb 2022 22:32:11 GMT; domain=.pinterest.com; samesite=none; secure; httponly
+Set-Cookie: _auth=0; path=/; expires=Sat, 26 Feb 2022 22:32:11 GMT; domain=.pinterest.com; secure; httponly
+Set-Cookie: _routing_id="069a557e-7018-4d9a-9ec2-c586d1db3262"; Max-Age=86400; Path=/; HttpOnly
+X-CDN: akamai
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+

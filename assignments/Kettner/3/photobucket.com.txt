@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Wed, 03 Mar 2021 22:31:40 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://photobucket.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 9317f1a4c7320bdeb8f38066b985748b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: 3eYql7h_jviyUjJaq_nEAlrZ72GnMLXV5nOy24X0uCGbBNdVzLtuVA==
+

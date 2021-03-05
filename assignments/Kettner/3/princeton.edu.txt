@@ -1,0 +1,26 @@
+HTTP/1.0 302 Moved Temporarily
+Location: http://www.Princeton.EDU/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 22:33:13 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 234
+Connection: close
+Set-Cookie: __cfduid=dccd3eeac0a64630b39273e4bb06bdb181614810793; expires=Fri, 02-Apr-21 22:33:13 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
+X-Content-Type-Options: nosniff
+Location: https://www.princeton.edu/
+Cache-Control: max-age=900
+Expires: Wed, 03 Mar 2021 22:35:01 GMT
+X-Request-ID: v-989858d0-7c6e-11eb-bc9e-7370cb91e68f
+Age: 590
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 5
+CF-Cache-Status: HIT
+cf-request-id: 089bd25f0f0000292ef82e5000000001
+Server: cloudflare
+CF-RAY: 62a65344eb1c292e-IAD
+

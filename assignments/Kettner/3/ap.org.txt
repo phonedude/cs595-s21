@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.ap.org/
+Expires: Wed, 03 Mar 2021 21:57:17 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 03 Mar 2021 21:57:17 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Wed, 03 Mar 2021 21:57:17 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.ap.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 5bbbde7889bb9c7247f5924a32d2fdf1.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: aVjO3I01MI-a0SudKZZzPDg6C7R2JffICPKMR0mxXxtPPnUJzUa_7w==
+

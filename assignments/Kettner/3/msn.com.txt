@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 142
+Content-Type: text/html; charset=UTF-8
+Location: http://www.msn.com/
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Wed, 03 Mar 2021 22:21:58 GMT
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, no-transform
+Pragma: no-cache
+Content-Length: 49086
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Vary: User-Agent
+Set-Cookie: PreferencesMsn=eyJIb21lUGFnZSI6eyJTdHJpcGVzIjpbXSwiTWVTdHJpcGVNb2R1bGVzIjpbXSwiTWFya2V0Q29uZmlndXJhdGlvbiI6eyJNYXJrZXQiOiJlbi11cyIsIlN1cHByZXNzUHJvbXB0IjpmYWxzZSwiUHJlZmVycmVkTGFuZ3VhZ2VDb2RlIjoiZW4tdXMiLCJDb3VudHJ5Q29kZSI6IlVTIn19LCJFeHBpcnlUaW1lIjo2Mzc4MTk0MjkxOTE1MTEyNjEsIlZlcnNpb24iOjF90; domain=msn.com; expires=Thu, 03-Mar-2022 22:21:59 GMT; path=/; HttpOnly
+Set-Cookie: marketPref=en-us; domain=msn.com; expires=Thu, 03-Mar-2022 22:21:59 GMT; path=/; HttpOnly
+Set-Cookie: RecentStocks=; domain=msn.com; path=/; secure; HttpOnly
+Set-Cookie: anoncknm=; domain=msn.com; path=/; secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 5.2
+X-AppVersion: 20210228_31905537
+X-Activity-Id: 779c55f6-016b-4b4d-a703-3097d583d9c7
+X-Az: {did:a50ac9605f704ff085607b853101e440, rid: 58, sn: eastus-prod-hp, dt: 2021-03-03T08:53:40.1236176Z, bt: 2021-03-01T03:05:50.2347217Z}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1.0}
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+X-UA-Compatible: IE=Edge;chrome=1
+X-Content-Type-Options: nosniff
+X-FRAME-OPTIONS: SAMEORIGIN
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-XSS-Protection: 1
+X-MSEdge-Ref: Ref A: 779C55F6016B4B4DA7033097D583D9C7 Ref B: BL2EDGE1915 Ref C: 2021-03-03T22:21:59Z
+Set-Cookie: _EDGE_S=F=1; path=/; httponly; domain=msn.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Mon, 28-Mar-2022 22:21:59 GMT; domain=msn.com
+Set-Cookie: MUID=3BE62116E4D8624D042F2EF9E5DC6382; samesite=none; path=/; secure; expires=Mon, 28-Mar-2022 22:21:59 GMT; domain=msn.com
+Date: Wed, 03 Mar 2021 22:21:58 GMT
+

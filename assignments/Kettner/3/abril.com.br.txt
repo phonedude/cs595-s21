@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 03 Mar 2021 21:54:41 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://abril.com.br/
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 03 Mar 2021 21:54:42 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Safe-Redirect-Manager: true
+X-Redirect-By: WordPress
+Location: https://assine.abril.com.br/?redirect=abrilcom
+X-rq: dca6 82 116 3139
+Age: 0
+X-Cache: miss
+Strict-Transport-Security: max-age=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 21:54:43 GMT
+Server: Apache
+Location: http://www.assine.abril.com.br/?redirect=abrilcom
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: NSC_wt_qse_bttjof.bcsjm.dpn.cs_443=ffffffffaf1c3a1d45525d5f4f58455e445a4a423660;expires=Wed, 03-Mar-2021 22:43:28 GMT;path=/;secure;httponly
+
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 21:54:43 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 03 Mar 2021 22:54:43 GMT
+Location: https://www.assine.abril.com.br/?redirect=abrilcom
+cf-request-id: 089baf1f960000f0bd3e27b000000001
+Server: cloudflare
+CF-RAY: 62a61adf5a57f0bd-IAD
+

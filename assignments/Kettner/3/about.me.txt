@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 21:52:39 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 03 Mar 2021 22:52:39 GMT
+Location: https://about.me/
+cf-request-id: 089bad38db0000741de217a000000001
+Server: cloudflare
+CF-RAY: 62a617d49a70741d-IAD
+
+HTTP/1.1 200 OK
+Date: Wed, 03 Mar 2021 21:52:39 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d81ae7f867b19bcd0926358aebe40d5511614808359; expires=Fri, 02-Apr-21 21:52:39 GMT; path=/; domain=.about.me; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: authtkt=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: aboutme_anon_id=25bbddb7-35ac-4456-a259-0c897f98c2c3; Max-Age=31536000; Domain=.about.me; Path=/; Expires=Thu, 03 Mar 2022 21:52:39 GMT; HttpOnly
+Set-Cookie: session=eyJmdW5uZWxzIjp7InRzIjoxNjE0ODA4MzU5LCJ0dGwiOjg2NDAwLCJmdW5uZWxzIjp7IjIwMTgwMjA3X2RvbWFpbl9zZWFyY2giOnsiY2hvaWNlIjoiY29udHJvbCJ9LCIyMDE4MTIwNl9ob21lcGFnZSI6eyJjaG9pY2UiOiJleHBlcmltZW50In0sIjIwMTkwMTE2X2hvbWVwYWdlIjp7ImNob2ljZSI6ImV4cGVyaW1lbnQifX19LCJfYXV0aGVudGljYXRpb25fdG9rZW4iOiI1MTY2ODgzMjQ4NzE4MTI0MjkwNDg4NDg4NDM0MDUxOCJ9; path=/; domain=about.me; samesite=lax; httponly
+Set-Cookie: session.sig=L-dkA60ur3n1YRTcmUQ-nqjsjXg; path=/; domain=about.me; samesite=lax; httponly
+X-Frame-Options: DENY
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 089bad3966000024d24217a000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 62a617d56afe24d2-IAD
+

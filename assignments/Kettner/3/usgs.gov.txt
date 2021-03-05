@@ -1,0 +1,10 @@
+HTTP/1.0 302 Redirect
+Connection: Close
+Location: https://usgs.gov/
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 02:20:38 GMT
+Strict-Transport-Security: max-age=31536000;
+Location: https://www.usgs.gov/
+Content-Type: text/html; charset=iso-8859-1
+

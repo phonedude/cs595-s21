@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 22:08:08 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Server: nginx
+Location: https://com.com/
+
+HTTP/1.1 200 OK
+Date: Wed, 03 Mar 2021 22:08:08 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: nginx
+Cache-Control: no-cache
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjI5VXdGYjBOTkpHN0Rtdk01dHp0NVE9PSIsInZhbHVlIjoieUsyMjRDdEg5UXFncGNuY3l3a3BkcWluMzhhVEJhbnJcL3VDaUQrcWlkb1Y0Q1BjZFZJN0ZxbnFcL1Y0ZWtKSTBLXC95dENEWVwvWkF4MVR3UFFKelo1XC83dz09IiwibWFjIjoiZGE4OGNlZTU2OTE0YzlhMTU4YmEzMDZlZGFkZjJmZjNkODYyNzkzNzk3NmQ2OTNmZGY3YWUzYjQ5YTM1ZTE1YSJ9; expires=Thu, 04-Mar-2021 00:08:08 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6Imcyc1JZMW50TDBqTnpsTmRpQWxIM3c9PSIsInZhbHVlIjoiOHl6dmtYK3N0Qm1BaW4xUjhCVG1uKzJTZVwvUzNKaTM2Z0wzVklKcFNKVDdpc3YyZmJmaHdyclRzSE1IdEtOVW9sdFF1b3J6NFhKVUg0aFFoZHVtVUFBPT0iLCJtYWMiOiIyYzRlMTkwMGQ1Nzc3Yjk5MjI1NmJlYWViNjhiNmZiNjg3YjcyNDdkMGYwOTM5YjE4MTM1YjQ1NmQwMzg3OTU5In0%3D; expires=Thu, 04-Mar-2021 00:08:08 GMT; Max-Age=7200; path=/; HttpOnly
+

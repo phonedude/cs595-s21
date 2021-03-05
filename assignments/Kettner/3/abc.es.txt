@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.abc.es/
+Date: Wed, 03 Mar 2021 21:48:34 GMT
+Connection: keep-alive
+Vary: User-Agent,Cookie
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+request-id: 1614808101-1175-a3fe04cb-2865-4240-b0ff-afb6daa06908
+Cache-Control: private, must-revalidate, max-age=0
+Expires: Wed, 03 Mar 2021 21:48:34 GMT
+Date: Wed, 03 Mar 2021 21:48:34 GMT
+Connection: keep-alive
+Vary: User-Agent,Cookie
+

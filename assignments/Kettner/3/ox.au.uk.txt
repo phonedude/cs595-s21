@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Date: Wed, 03 Mar 2021 22:31:18 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1614810678.8628664; expires=Sat, 01-Mar-2031 22:31:18 GMT; Max-Age=315360000
+Location: http://ww25.ox.au.uk/?subid1=20210304-0931-1891-91dc-015b78c038b8
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 03 Mar 2021 22:31:18 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Adblock-Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_fvghQfvDFvxezj5C+gHNNi0KgahK01315Xm97qlRLmH6Sp+oJagqnYsUEwxWcvcO1Qlv9oWX5n4rJkQB2tUQ6A==
+

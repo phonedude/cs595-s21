@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Wed, 03 Mar 2021 21:51:30 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://abcnews.go.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 97971aa6c140e2dfc8adaee6c929eedc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C3
+X-Amz-Cf-Id: MbfRgAS4bXI1jbxgJ4DSWpgx3D_YlbBBnkse-rceh11W-qtRBS3bnw==
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Wed, 03 Mar 2021 21:50:41 GMT
+Via: 1.1 varnish-v4, 1.1 f7a968b55c3516da72549b98f99704a4.cloudfront.net (CloudFront)
+Cache-Control: max-age=51
+Accept-Ranges: bytes
+Set-Cookie: region=unknown; path=/; Expires=Wed, 10 Mar 2021 21:50:41 GMT;
+Set-Cookie: _dcf=1; path=/; Expires=Wed, 10 Mar 2021 21:50:41 GMT;
+ETag: W/"GLjmM4qNZ0fqKSzqjPrSGA=="
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: IAD89-C3
+X-Amz-Cf-Id: Kqo50PYs35W1tH_cPbOy_sXM_qQknWRYoZv3wPjGek5zBy5VTX3ePw==
+Age: 50
+

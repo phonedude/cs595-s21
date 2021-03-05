@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 03 Mar 2021 22:10:19 GMT
+Content-Type: text/html
+Content-Length: 169
+Location: https://www.elmundo.es/
+Referrer-Policy: unsafe-url
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 400285
+Content-Type: text/html; charset=iso-8859-15
+Expires: Wed, 03 Mar 2021 22:09:57 GMT
+Cache-Control: s-maxage=60
+Referrer-Policy: unsafe-url
+Surrogated-Key: 6666cd76f96956469e7be39d750cc7d9
+x-backend: CONTENT
+Accept-Ranges: bytes
+Date: Wed, 03 Mar 2021 22:10:19 GMT
+Age: 23
+X-Served-By: cache-ams21070-AMS, cache-wdc5553-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1614809420.765354,VS0,VE121
+Vary: Accept-Encoding, User-Agent
+

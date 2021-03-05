@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 03 Mar 2021 22:18:07 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.iubenda.com/
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.iubenda.com/
+Date: Wed, 03 Mar 2021 22:18:07 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+X-Frame-Options: SAMEORIGIN
+Location: https://www.iubenda.com/en/
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: 664f87dc2ec3c1b9b7b6371ce60fcc5a
+X-Runtime: 0.022093
+X-Rack-Cache: miss
+X-Page-Speed: Pagespeed
+Date: Wed, 03 Mar 2021 22:18:07 GMT
+Connection: keep-alive
+Set-Cookie: _iubenda_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJWUwYmRlZWNhM2ZhYjAwYTVkMWM5OGRmYmIxZTVlNzk4BjsAVEkiEHBpd2lrX3F1ZXVlBjsAVFsA--e09c8a1f7f5872f1681d8b52b2ad6a0f0341d20a; domain=www.iubenda.com; path=/; secure; HttpOnly
+Set-Cookie: discount_code=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+ETag: W/"64a835e2c02bcf4901895f81bc08080a"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: 9528846c055661abbc1b923bdc37b0a8
+X-Runtime: 0.077975
+X-Rack-Cache: miss
+X-Page-Speed: Pagespeed
+Date: Wed, 03 Mar 2021 22:18:09 GMT
+Connection: keep-alive
+Set-Cookie: _iubenda_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFVEkiJWQxZTVmMGQxMDAzN2YzY2RkODc5ZmE2OWZiZGJhZTg3BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTFIUTRVREJOTUtSMzlOS0F6V3lVZWJyTVl0U3BFZVdYNlZ6MzhzbzhWcFk9BjsARkkiCmZsYXNoBjsAVG86JUFjdGlvbkRpc3BhdGNoOjpGbGFzaDo6Rmxhc2hIYXNoCToKQHVzZWRvOghTZXQGOgpAaGFzaH0ARjoMQGNsb3NlZEY6DUBmbGFzaGVzewc6CmFsZXJ0MDoMc3VjY2VzczA6CUBub3cw--d2ed560b99c1d31681ec24466a2fc92d4c88a7d2; domain=www.iubenda.com; path=/; secure; HttpOnly
+Set-Cookie: discount_code=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+
