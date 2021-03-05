@@ -1,0 +1,30 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 04 Mar 2021 20:15:13 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Location: https://www.sapo.pt/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 04 Mar 2021 20:15:13 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 613799
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-store
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: microphone 'none' ; camera 'none' ;
+Content-Security-Policy: default-src https: blob: ; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline' ; img-src https: data: ; media-src blob: https: ; upgrade-insecure-requests; block-all-mixed-content; connect-src https: wss://messaging.insurads.com;
+X-Server: Bardenas Reales
+X-Server-RequestTime: "0.000000"
+X-NCache: hit
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content
+Referrer-Policy: origin-when-cross-origin
+

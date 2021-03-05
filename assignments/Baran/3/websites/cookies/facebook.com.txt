@@ -1,0 +1,2 @@
+set-cookie: fr=1iZePQKa0YEzRGQJr..BgQT-i.82.AAA.0.0.BgQT-i.AWXgYiMggqA; expires=Wed, 02-Jun-2021 20:14:25 GMT; Max-Age=7775999; path=/; domain=.facebook.com; secure; httponly
+set-cookie: sb=oj9BYIMAoJOCWbg0sd2guhAH; expires=Sat, 04-Mar-2023 20:14:26 GMT; Max-Age=63072000; path=/; domain=.facebook.com; secure; httponly

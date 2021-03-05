@@ -1,0 +1,12 @@
+Set-Cookie: CN_xid=797a0960-3d69-44c4-8f7e-7f0a9b617ac4; Expires=Tue, 31 Aug 2021 20:14:37 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=797a0960-3d69-44c4-8f7e-7f0a9b617ac4; Expires=Sun, 02 Mar 2031 20:14:37 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Thu, 04 Mar 2021 20:14:52 GMT; path=/;
+Set-Cookie: CN_segments=co.w2109; Expires=Tue, 31 Aug 2021 20:14:37 GMT; path=/;
+Set-Cookie: CN_geo_country_code=US; Expires=Tue, 31 Aug 2021 20:14:37 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure
+Set-Cookie: CN_xid=f6d099cb-867f-4bac-ad48-7fbc8a250c24; Expires=Tue, 31 Aug 2021 20:14:56 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=f6d099cb-867f-4bac-ad48-7fbc8a250c24; Expires=Sun, 02 Mar 2031 20:14:56 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Thu, 04 Mar 2021 20:15:11 GMT; path=/;
+Set-Cookie: CN_segments=co.w2109; Expires=Tue, 31 Aug 2021 20:14:56 GMT; path=/;
+Set-Cookie: verso_bucket=518; Expires=Fri, 04 Mar 2022 20:14:56 GMT; path=/;
+set-cookie: pay_ent_smp=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlciI6MX0.eyJ1cmxzIjpbXSwiY250IjowLCJtYXgiOjQsImV4cCI6MjAyMTAzfQ.OdzPQ-Z41fnhRiJItWoyXaxoJnImkWRoiehqytjFHW0; Path=/; Expires=Sat, 05 Mar 2022 02:14:56 GMT; Domain=newyorker.com; Secure;
+Set-Cookie: CN_geo_country_code=US; Expires=Tue, 31 Aug 2021 20:14:56 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure

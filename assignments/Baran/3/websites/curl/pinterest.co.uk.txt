@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.pinterest.co.uk/
+Date: Thu, 04 Mar 2021 20:14:58 GMT
+Connection: keep-alive
+X-CDN: akamai
+
+HTTP/2 200 
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+vary: User-Agent, Accept-Encoding
+x-ua-compatible: IE=edge
+p3p: CP="This is not a P3P policy. See https://www.pinterest.com/_/_/help/articles/pinterest-and-p3p for more info."
+content-security-policy: script-src 'nonce-d4e6208837bb6f21a9f73c55a02ce160' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline'; connect-src 'self' *.pinimg.com *.pinterest.com accounts.google.com *.branch.io *.facebook.com *.dropboxapi.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org pinterest-aberdeen.s3.amazonaws.com pinterest-anaheim.s3.amazonaws.com pinterest-media-upload.s3.amazonaws.com pinterest-media-upload.s3-accelerate.amazonaws.com pinterest-poughkeepsie.s3.amazonaws.com pinterest-waterloo.s3.amazonaws.com pinterest-waterloo.s3.us-east-1.amazonaws.com pinterest-plymouth.s3.amazonaws.com *.cedexis.com *.cedexis-radar.net blob: *.bugsnag.com; media-src 'self' *.pinimg.com blob: data:; object-src 'self'; form-action 'self'; worker-src 'self' blob: https://www-pinterest-com.cdn.ampproject.org 'unsafe-inline'; base-uri 'none'; report-uri /_/_/csp_report/?rid=1777697773110148; frame-ancestors 'self'
+content-security-policy-report-only: script-src 'nonce-d4e6208837bb6f21a9f73c55a02ce160' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline' , script-src 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline'; frame-src self *.google.com *.pinimg.com *.pinterest.com *.pinterdev.com *.facebook.com player.grabnetworks.com www.kickstarter.com staging.slideshare.com player.anyclip.com verify.vote.org movieclips.com scache.vevo.com *.adyen.com www.voteplz.org player.hulu.com www.crackle.com www.dailymotion.com cache.vevo.com www.slideshare.net crackle.com embed.5min.com embed.ted.com register.vote.org absentee.vote.org www.crunchyroll.com videoplayer.vevo.com w.soundcloud.com embed-ssl.ted.com *.youtube.com *.ytimg.com player.vimeo.com calendly.com vine.co scache.vevo.com bid.g.doubleclick.net *.fls.doubleclick.net pinterest-waterloo.s3.amazonaws.com pinlogs.s3.amazonaws.com pinterest-hilo.s3.amazonaws.com advertising-delivery-metric-reports.s3.amazonaws.com *.cdn.ampproject.or; report-uri /_/_/csp_report/?reportonly
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=utf-8
+link: <https://i.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://s.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://v.pinimg.com>; rel=preconnect; crossorigin=anonymous
+x-envoy-upstream-service-time: 89
+pinterest-generated-by: coreapp-webapp-prod-0a03a955
+pinterest-version: b30baba
+referrer-policy: origin
+x-pinterest-rid: 1777697773110148
+date: Thu, 04 Mar 2021 20:14:58 GMT
+content-length: 1
+set-cookie: csrftoken=008d035fd2f909c20f6db4378d95163a; path=/; expires=Fri, 04 Mar 2022 20:14:58 GMT; secure
+set-cookie: _pinterest_sess=TWc9PSZTR1lodDVlYkFMeFg2V2NYRGsxMTBaeHBtWHlVTVE3aUlJME50NFl6MkNQLzVEaGZtZjNpZHFZak10bk5zeUYwMCtVVjJlaEdkbWVDOVk2OXpOb1l5bitXV24wY2JVSUJRejVkejJiK3F1MnY5aGNiZ0RPVEJ2ZDNnK1RUcU55ZDBFUWdYZkxreTFhVmM0SWVUN1NReWc9PSZmVjFGMDZ3ckNISWxXR01nN1IvbXA5YnBCeHM9; path=/; expires=Sun, 27 Feb 2022 20:14:58 GMT; samesite=none; secure; httponly
+set-cookie: _auth=0; path=/; expires=Sun, 27 Feb 2022 20:14:58 GMT; secure; httponly
+set-cookie: _routing_id="5163eb31-1c64-4e88-89fb-50190de42f9b"; Max-Age=86400; Path=/; HttpOnly
+x-cdn: akamai
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+

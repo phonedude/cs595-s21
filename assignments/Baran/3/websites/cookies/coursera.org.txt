@@ -1,0 +1,2 @@
+set-cookie: CSRF3-Token=1615752850.FQ1eHdPs8jnyLZvy; Max-Age=864000; Expires=Sun, 14 Mar 2021 20:14:10 GMT; Path=/; Domain=.coursera.org
+set-cookie: __204u=4595590341-1614888850087; Max-Age=31536000; Expires=Fri, 04 Mar 2022 20:14:10 GMT; Path=/; Domain=.coursera.org

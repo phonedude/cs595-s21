@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+X-Served-From: Show Services
+Expires: Thu, 04 Mar 2021 20:14:31 GMT
+Cache-Control: max-age=10
+X-XSS-Protection: 1; mode=block
+X-Request-ID: 19fdcac1-daeb-4d39-8662-e0b52871e1de
+Location: https://www.globo.com/
+Content-Security-Policy: upgrade-insecure-requests
+Date: Thu, 04 Mar 2021 20:14:21 GMT
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+X-Mobile: desktop
+Age: 6
+Vary: X-Forwarded-Proto, Accept-Encoding, User-Agent, Wall-Subscription-Level
+X-Bip: 145674912 ra03 11 13
+Via: 2.0 CachOS
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 20:14:28 GMT
+content-type: text/html; charset=UTF-8
+x-served-from: Show Services
+expires: Thu, 04 Mar 2021 20:14:37 GMT
+cache-control: max-age=10
+x-xss-protection: 1; mode=block
+x-request-id: 515afaec-7bbe-442a-9363-f6eb7076685a
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-mobile: desktop
+show-page-version: 0
+age: 1
+vary: X-Forwarded-Proto, Accept-Encoding, User-Agent, Wall-Subscription-Level
+x-bip: 882124134 ra11 03 04
+via: 2.0 CachOS
+accept-ranges: bytes
+x-thanos: 0AB5D02E
+
