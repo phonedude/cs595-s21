@@ -1,0 +1,2990 @@
+URL: https://alibaba.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:12:58 GMT
+content-type: text/html
+content-length: 278
+location: https://www.alibaba.com/?__redirected__=1
+server: Tengine
+set-cookie: ali_apache_id=11.180.13.171.1614885178624.505929.6; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+eagleid: 0bb40dab16148851786236478edac3
+server-timing: rt;dur=0.002,eagleid;desc=0bb40dab16148851786236478edac3
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+server: Apache-Coyote/1.1
+p3p: CP="CAO PSA OUR"
+cache-control: s-maxage=3600
+resin-trace: ali_resin_trace=aisn_homepage_version=null|septemberPromotion=null
+content-language: en-US
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+eagleid: 0b58dd4716148843542064247ea878
+server-timing: rt;dur=0.347,eagleid;desc=0b58dd4716148843542064247ea878
+date: Thu, 04 Mar 2021 19:12:58 GMT
+object-status: ttl=3600,age=824
+edge-type: akamai
+
+URL: https://android.com
+HTTP/2 302 
+location: https://www.android.com/
+cache-control: private
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 19:12:58 GMT
+server: sffe
+content-length: 221
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-length: 183799
+cross-origin-resource-policy: cross-origin
+date: Thu, 04 Mar 2021 19:12:58 GMT
+expires: Thu, 04 Mar 2021 19:12:58 GMT
+cache-control: private, max-age=0
+last-modified: Tue, 23 Feb 2021 14:45:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://answers.yahoo.com
+HTTP/2 404 
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'none'
+content-type: text/html; charset=utf-8
+content-length: 149
+set-cookie: B=dms4vmlg42c9q&b=3&s=1k; expires=Thu, 04-Mar-2022 19:12:58 GMT; path=/; domain=.yahoo.com
+date: Thu, 04 Mar 2021 19:12:58 GMT
+x-envoy-upstream-service-time: 3
+server: ATS
+age: 0
+
+URL: https://aol.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:12:59 GMT
+p3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+cache-control: max-age=3600, public
+location: https://www.aol.com/
+content-type: text/html; charset=UTF-8
+age: 0
+strict-transport-security: max-age=31536000
+server: ATS
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+x-frame-options: DENY
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+
+HTTP/2 404 
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+content-length: 9
+etag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+set-cookie: B=32bdhrtg42c9r&b=3&s=ef; expires=Thu, 04-Mar-2022 19:12:59 GMT; path=/; domain=.yahoo.com
+content-security-policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;
+cache-control: no-cache, no-store, private, must-revalidate
+date: Thu, 04 Mar 2021 19:12:59 GMT
+x-envoy-upstream-service-time: 9
+server: ATS
+age: 0
+
+URL: https://berkeley.edu
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:12:59 GMT
+Server: Apache/2.4
+Location: https://www.berkeley.edu/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:00 GMT
+content-type: text/html; charset=UTF-8
+server: Apache/2.4
+x-powered-by: PHP/5.4.16
+cache-control: max-age=300
+expires: Thu, 04 Mar 2021 19:18:00 GMT
+x-frame-options: deny
+content-security-policy: frame-ancestors *.berkeley.edu berkeley.edu ;
+vary: User-Agent
+
+URL: https://biglobe.ne.jp
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:01 GMT
+Server: httpd
+Location: https://www.biglobe.ne.jp/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:13:01 GMT
+Server: Apache
+Set-Cookie: btop_pg=; expires=Fri, 31-Dec-1999 23:59:59 GMT;path=/;
+Accept-Ranges: none
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-cache
+Expires: -1
+Content-Length: 90819
+Content-Type: text/html
+
+URL: https://billboard.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:02 GMT
+cache-control: max-age=3600
+expires: Thu, 04 Mar 2021 20:13:02 GMT
+location: https://www.billboard.com/
+cf-request-id: 08a04172440000e10ecc18c000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: PGMINFO=cc:us-ip:128.82.18.1; Max-Age=3600; Path=/; Domain=.billboard.com
+set-cookie: __cf_bm=a42216b384acefdaf53e4e9d9155e6d79f43bd25-1614885182-1800-AR5C6U9PG+4pPBGC04BLqXck505zJFpZRTqlmJtAYD9TL4DTvksdQIuVhh2HwmWM6wLAGQFaiC+SgOJqX+xwIJHy7L1FRSyq+W06lZfiC1gS; path=/; expires=Thu, 04-Mar-21 19:43:02 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 62ad6b639f65e10e-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:02 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=dc5cfbd6bb667fff70e05238f57c325ac1614885182; expires=Sat, 03-Apr-21 19:13:02 GMT; path=/; domain=.billboard.com; HttpOnly; SameSite=Lax; Secure
+cf-ray: 62ad6b640f24ea38-IAD
+age: 1188
+cache-control: public, max-age=120, s-maxage=1200
+vary: accept-encoding
+cf-cache-status: HIT
+cf-request-id: 08a04172850000ea3807309000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: PGMINFO=cc:us-ip:128.82.18.1; Max-Age=3600; Path=/; Domain=.billboard.com
+set-cookie: __cf_bm=2aaf4a4098c23d55fb018bca3518f76899d771f2-1614885182-1800-AbsSU+GCfrEAt2S4rZjx0PjhGX8uc9MjjgibksV7CmN1dAWrU7S4xhFvo8xSdyixOg==; path=/; expires=Thu, 04-Mar-21 19:43:02 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+set-cookie: __cf_bm=ba9ae609fcbfa4ca33a21a470c6a7f1932967295-1614885182-1800-AXjan7ktveUA84VGOmUcWCG1HzjILKHuGDLHLM6C5/LPVjwVb77nVw5snZQcFBq0UNn5TI+e/2B3yhfVKE8Z+uiXzHqJtlXVLWV/vIpDEnXP; path=/; expires=Thu, 04-Mar-21 19:43:02 GMT; domain=.billboard.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+URL: https://bit.ly
+HTTP/2 302 
+server: nginx
+date: Thu, 04 Mar 2021 19:13:02 GMT
+content-type: text/html
+content-length: 154
+location: https://bitly.com/
+via: 1.1 google
+alt-svc: clear
+
+HTTP/2 405 
+server: nginx
+date: Thu, 04 Mar 2021 19:13:02 GMT
+content-type: text/html; charset=UTF-8
+content-length: 109
+strict-transport-security: max-age=31536000
+via: 1.1 google
+alt-svc: clear
+
+URL: https://box.com
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:02 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.box.com
+Strict-Transport-Security: max-age=31536000
+
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:13:02 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 254482
+Connection: keep-alive
+Accept-Ranges: bytes
+Age: 12375
+Cache-Control: max-age=86400, public
+Content-language: en
+ETag: W/"1614872806"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Thu, 04 Mar 2021 15:46:46 GMT
+Link: <https://www.box.com/>; rel="shortlink", <https://www.box.com/home>; rel="canonical"
+Link: <https://www.box.com/home>; rel="alternate"; hreflang="en"
+Link: <https://www.box.com/en-gb/home>; rel="alternate"; hreflang="en-gb"
+Link: <https://www.box.com/en-ca/home>; rel="alternate"; hreflang="en-ca"
+Link: <https://www.box.com/en-au/home>; rel="alternate"; hreflang="en-au"
+Link: <https://www.box.com/en-in/home>; rel="alternate"; hreflang="en-in"
+Link: <https://www.box.com/en-nl/home>; rel="alternate"; hreflang="en-nl"
+Link: <https://www.box.com/en-se/home>; rel="alternate"; hreflang="en-se"
+Link: <https://www.box.com/fr-fr/home>; rel="alternate"; hreflang="fr"
+Link: <https://www.box.com/de-de/home>; rel="alternate"; hreflang="de"
+Link: <https://www.box.com/it-it/home>; rel="alternate"; hreflang="it"
+Link: <https://www.box.com/ja-jp/home>; rel="alternate"; hreflang="ja-jp"
+Link: <https://www.box.com/ko-kr/home>; rel="alternate"; hreflang="ko-kr"
+Link: <https://www.box.com/es-419/home>; rel="alternate"; hreflang="es"
+Link: <//cdn03.boxcdn.net>; rel=preconnect; crossorigin
+Link: <//cdn03.boxcdn.net>; rel=dns-prefetch
+Strict-Transport-Security: max-age=31536000
+Vary: Cookie,Accept-Encoding
+X-AH-Environment: prod
+X-Cache: HIT
+X-Cache-Hits: 130497
+X-Content-Type-Options: nosniff
+x-dns-prefetch-control: on
+X-Frame-Options: SAMEORIGIN
+X-Request-ID: v-d34cd6bc-7d00-11eb-bb4f-fb89a99f8867
+X-UA-Compatible: IE=edge
+X-XSS-Protection: 1; mode=block
+
+URL: https://bp0.blogger.com
+HTTP/2 400 
+vary: Origin
+access-control-allow-origin: *
+timing-allow-origin: *
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 19:13:02 GMT
+server: fife
+content-length: 1555
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://bp1.blogger.com
+HTTP/2 400 
+vary: Origin
+access-control-allow-origin: *
+timing-allow-origin: *
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 19:13:02 GMT
+server: fife
+content-length: 1555
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://bp3.blogger.com
+HTTP/2 400 
+vary: Origin
+access-control-allow-origin: *
+timing-allow-origin: *
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 19:13:02 GMT
+server: fife
+content-length: 1555
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://calendar.google.com
+HTTP/2 404 
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:13:03 GMT
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+
+URL: https://cambridge.org
+
+URL: https://cbc.ca
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.cbc.ca/
+date: Thu, 04 Mar 2021 19:13:24 GMT
+set-cookie: akaas_feed=2147483647~rv=18~id=acd58a29093937e05dc345c080129e64; path=/; Secure; SameSite=None
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-url: /
+x-origin-server: ocelot_prod1_ip-10-9-34-226.ca-central-1.compute.internal_cache
+x-edgeconnect-midmile-rtt: 0
+x-edgeconnect-origin-mex-latency: 17
+x-edgeconnect-cache-status: 1
+cache-control: max-age=48
+date: Thu, 04 Mar 2021 19:13:24 GMT
+set-cookie: akaas_feed=2147483647~rv=33~id=37f2afc0efb903c843aa0ae193dfeedd; path=/; Secure; SameSite=None
+
+URL: https://cisco.com
+HTTP/1.1 301 Moved permanently
+Location: https://www.cisco.com/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/2 200 
+server: Apache
+etag: "1373a-5bcba6563bb18"
+cdchost: wemxweb-publish-prod1-05
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-test-debug: nURL=www.cisco.com,realm=0,isRealm=0,realmDomain=0,shortrealm=0,upgradeTest=1
+content-type: text/html
+expires: Thu, 04 Mar 2021 19:13:24 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Thu, 04 Mar 2021 19:13:24 GMT
+link: </etc/designs/cdc/dmr/text/base-v2.min.css>; rel=preload; as=style,</etc/designs/cdc/dmr/libs/base.min.css>; rel=preload; as=style,</etc/designs/cdc/clientlibs/responsive/css/cisco-sans.min.css>; rel=preload; as=style,</etc/designs/cdc/clientlibs/responsive/css/responsive.min.css>; rel=preload; as=style,</c/dam/cdc/t/ctm-core.js>; rel=preload; as=script,</c/dam/cdc/j/personalization-init.js>; rel=preload; as=script,</etc/designs/cdc/clientlibs/responsive/js/foundation.min.js>; rel=preload; as=script,</etc/designs/cdc/clientlibs/responsive/js/responsive.min.js>; rel=preload; as=script, </etc/designs/cdc/dmr/libs/base.min.js>; rel=preload; as=script, </etc/designs/cdc/dmr/icons/dm-font-icons/dm-icons.woff2>; rel=preload; as=font/woff2, </c/dam/assets/fonts/cisco-sans/CiscoSansTTRegular.woff2>; rel=preload; as=font/woff2, </c/dam/assets/dmr/button/button-icons.svg>; rel=preload; as=image
+content-security-policy: upgrade-insecure-requests; frame-ancestors *.cisco.com *.jasper.com *.ciscospark.com *.ciscolive.com  http://cisco.lookbookhq.com https://cisco.lookbookhq.com testcisco.marketing.adobe.com cisco.marketing.adobe.com ciscosales.my.salesforce.com test.salesforce.com zedo.com hindustantimes.com economictimes.indiatimes.com *.webex.com *.cdw.com *.cdwg.com *.cdw.ca *.meraki-go.com http://ciscopartners.lookbookhq.com https://ciscopartners.lookbookhq.com ciscolearningsystem.com ciscocustomer.lookbookhq.com cisco.lookbookhq.com ccsmedia.com *.itquotes.ie dteonline.com ampito-cisco.com arkphire.com *.insight.com *.ccsmedia.com *.ebuyer.com *.lambda-tek.com *.storm-technologies.com *.vohkus.com *.bechtle.com *.rainfocus.com *.broadbandbuyer.com *.hardware.com shop.redpontem.com;
+strict-transport-security: max-age=31536000
+
+URL: https://cloudflare.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:24 GMT
+cache-control: max-age=3600
+expires: Thu, 04 Mar 2021 20:13:24 GMT
+location: https://www.cloudflare.com/
+cf-request-id: 08a041ca5f0000f464d83bd000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: __cf_bm=b1a78da198f242ff192e05deec2a9a011d72a484-1614885204-1800-AT9bzqLQYraz15fkmVc4nXUmJCROyBR4TeA/QiW2j4TxE1TeM2Jyrqj5QPVzrjRjmt4U22KhR6EGIjA5KRm9Xe4=; path=/; expires=Thu, 04-Mar-21 19:43:24 GMT; domain=.cloudflare.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=mhGPt4ZRFCM%2F4cct%2BQ7AoTXSdOpGlt9lfehJtzhtrook0TwlEPQRTYXG7pM4AKe9z1UNyilj4CQeSrX%2F4l%2BObQi1Lt6xPcXjjgiX9rd%2FYQ%3D%3D"}],"max_age":604800,"group":"cf-nel"}
+nel: {"report_to":"cf-nel","max_age":604800}
+strict-transport-security: max-age=15780000; includeSubDomains
+server: cloudflare
+cf-ray: 62ad6bf09bc2f464-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:24 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=dbc3d215cfd91951c8ffaee045dffb0ad1614885204; expires=Sat, 03-Apr-21 19:13:24 GMT; path=/; domain=.www.cloudflare.com; HttpOnly; SameSite=Lax; Secure
+cf-ray: 62ad6bf0ebbf0de2-IAD
+age: 3
+cache-control: public, max-age=30
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+cf-cache-status: HIT
+cf-request-id: 08a041ca9600000de23c8d0000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=6d81ae850aa3f3fdf990c8c6029c6d015eb66e5e-1614885204-1800-ARF4Jt4yo/LGXDgSoS9OLMwnzUaEn5UyViMSdHfitoHPsDArhML0sxQ7LNYBZCtssA==; path=/; expires=Thu, 04-Mar-21 19:43:24 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+set-cookie: __cf_bm=8d5a4ff877fd88afbbf281af1723ce8ed49022a5-1614885204-1800-AUzgKiC7qjBBFpJcQEMmZVvnRgR31YKWGk3hABUOCxvwyZvIv61tLk7N3AzCPWrxDUQYZVR64Im/6TXZl9ntud6pwzT3m7sLuG6OKDZsnrFK; path=/; expires=Thu, 04-Mar-21 19:43:24 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=v3m6EIlhsE4J3wbIBY6ltxg4XFkSMNGNIZjnHsfCgWQKFkMGJVdOPGcDW4qPXht2nptEcWrgIjeGrBiaw2Ds8xxjN1cw%2BdWWcDJW%2BmxmgG%2BWmDQ%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"max_age":604800,"report_to":"cf-nel"}
+server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+URL: https://cnet.com
+HTTP/2 301 
+content-length: 178
+content-type: text/html
+date: Thu, 04 Mar 2021 19:13:24 GMT
+location: https://www.cnet.com/
+server: nginx
+via: 1.1 google
+alt-svc: clear
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-tx-id: d62b9257-2c9f-4931-948b-232879830e66
+last-modified: Thu, 04 Mar 2021 19:08:30 GMT
+content-security-policy: frame-ancestors 'self' *.cnet.com *.ampproject.org *.amp.cloudflare.com *.bing-amp.com www.google.com; default-src https: blob: about: 'unsafe-inline' 'unsafe-eval' *.rvapps.io; font-src https: blob: data:; img-src https: data: blob: android-webview-video-poster: about:; form-action https:; block-all-mixed-content; media-src https: blob: data:;
+x-frame-options: SAMEORIGIN
+access-control-allow-origin: https://www.cnet.com
+date: Thu, 04 Mar 2021 19:13:24 GMT
+cache-control: max-age=300, private
+expires: Thu, 04 Mar 2021 19:13:30 GMT
+set-cookie: fly_geo={"countryCode": "us"}; max-age=604800; path=/; domain=.cnet.com; Secure;
+set-cookie: fly_device=desktop; max-age=604800; path=/; domain=.cnet.com; Secure;
+set-cookie: fly_zip=23529; max-age=604800; path=/; domain=.cnet.com; Secure;
+vary: Accept-Encoding, User-Agent
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ranges: bytes
+content-length: 334749
+
+URL: https://cnil.fr
+HTTP/1.1 301 Moved Permanently
+date: Thu, 04 Mar 2021 19:13:18 GMT
+server: Apache
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+location: https://www.cnil.fr/
+content-length: 228
+content-type: text/html; charset=iso-8859-1
+x-varnish: 39414248 40576504
+age: 7
+via: 1.1 varnish-v4
+x-cache: HIT
+x-cache-hits: 1
+
+HTTP/1.1 200 OK
+date: Thu, 04 Mar 2021 19:01:47 GMT
+server: Apache
+cache-control: public, max-age=900
+x-drupal-cache: MISS
+x-content-type-options: nosniff
+content-language: fr
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+link: <https://www.cnil.fr/fr>; rel="canonical",<https://www.cnil.fr/fr>; rel="shortlink"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie,Accept-Encoding
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+last-modified: Thu, 04 Mar 2021 18:31:26 GMT
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+x-varnish: 24260393 19774489
+age: 698
+via: 1.1 varnish-v4
+etag: W/"1614882686-1"
+x-cache: HIT
+x-cache-hits: 76
+
+URL: https://columbia.edu
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:25 GMT
+Server: Apache
+Location: http://www.columbia.edu/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServer~CUIT~www.columbia.edu-443-pool=1781021568.47873.0000; expires=Fri, 05-Mar-2021 01:13:25 GMT; path=/; Httponly; Secure
+
+HTTP/1.0 302 Found
+Location: https://www.columbia.edu
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:13:05 GMT
+Server: Apache
+Content-language: en
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Thu, 04 Mar 2021 19:13:05 GMT
+ETag: "1614885185"
+Content-Type: text/html; charset=UTF-8
+Age: 20
+X-Varnish-Cache: HIT (11)
+X-Cache-Control: max-age=300, public
+Cache-Control: no-store,no-cache,private
+Accept-Ranges: bytes
+Connection: close
+
+URL: https://corriere.it
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:26 GMT
+Location: https://www.corriere.it/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+Vary: User-Agent
+Referrer-Policy: unsafe-url
+Connection: keep-alive
+
+HTTP/2 200 
+cache-control: max-age=10,public
+edge-control: !no-store, max-age=10
+x-rcs-cachezone: cache-client
+access-control-allow-origin: *
+content-type: text/html; charset=ISO-8859-1
+referrer-policy: unsafe-url
+via: 1.1 varnish, 1.1 varnish
+x-unique-id: a11ecedb-6e38-484d-8906-44e3e2370d9f
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:26 GMT
+age: 2
+x-served-by: cache-ams21028-AMS, cache-dca17760-DCA
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+x-timer: S1614885206.444806,VS0,VE113
+x-unique-id: a11ecedb-6e38-484d-8906-44e3e2370d9f
+vary: Accept-Encoding
+content-length: 551685
+
+URL: https://creativecommons.org
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:27 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=de2eeabcf7542154effbdce83e95009891614885206; expires=Sat, 03-Apr-21 19:13:26 GMT; path=/; domain=.creativecommons.org; HttpOnly; SameSite=Lax
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+link: <https://creativecommons.org/wp-json/>; rel="https://api.w.org/", <https://creativecommons.org/wp-json/wp/v2/pages/48812>; rel="alternate"; type="application/json", <https://creativecommons.org/>; rel=shortlink
+set-cookie: PHPSESSID=shkok5r2ictufhj5d2cfoo3ig2; path=/
+vary: Accept-Encoding
+referrer-policy: 
+x-varnish: 608773534
+age: 0
+via: 1.1 varnish (Varnish/5.0)
+strict-transport-security: max-age=15768000
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+cf-request-id: 08a041d27a0000e0d62927d000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6bfd9e91e0d6-IAD
+
+URL: https://dailymail.co.uk
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.dailymail.co.uk/ushome/index.html
+Date: Thu, 04 Mar 2021 19:13:27 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: AkamaiGHost
+mime-version: 1.0
+content-type: text/html
+content-length: 298
+expires: Thu, 04 Mar 2021 19:13:27 GMT
+date: Thu, 04 Mar 2021 19:13:27 GMT
+set-cookie: x-loc=none; path=/
+content-security-policy-report-only: block-all-mixed-content; report-uri https://mol.report-uri.io/r/default/csp/reportOnly
+vary: User-Agent
+
+URL: https://digg.com
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:27 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d3cc0e6d34e791cedb6aab5aaead63fdd1614885207; expires=Sat, 03-Apr-21 19:13:27 GMT; path=/; domain=.digg.com; HttpOnly; SameSite=Lax; Secure
+x-dns-prefetch-control: off
+expect-ct: max-age=0
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=15552000; includeSubDomains
+x-download-options: noopen
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+x-xss-protection: 0
+set-cookie: diggSession=eyJjc3JmU2VjcmV0IjoiZjZ4Uklud0ZKWHp5emtvYW5qdnZaazJFIn0=; path=/; expires=Sat, 06 Mar 2021 19:13:27 GMT; httponly
+set-cookie: diggSession.sig=rOreXEDqz_LjWsiPQGD2hpbr3yI; path=/; expires=Sat, 06 Mar 2021 19:13:27 GMT; httponly
+cf-cache-status: DYNAMIC
+cf-request-id: 08a041d5d20000959033b2b000000001
+server: cloudflare
+cf-ray: 62ad6c02ef329590-IAD
+
+URL: https://docs.google.com
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://docs.google.com/&followup=https://docs.google.com/&emr=1
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+cross-origin-resource-policy: same-site
+content-security-policy: script-src 'nonce-zrwDcPL19kndJI7jvtq8nQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DocsHomeRedirectHttp/cspreport;worker-src 'self'
+date: Thu, 04 Mar 2021 19:13:27 GMT
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=SY6GBo9o3rTVLfzJj9ZDRZtV8Tx1zn4Jwlj5sH3YfJGcciOcpw3iygxOtp6bRn66MZNekDHcPb_3CzzSGjdYQMRmD-htvSsLrdNO-014FDlUqXpDD7GcAdHBG_RXBHNz1UflxnXcME8s7ZrJvAUABz_h8q8ztTRhanz5n1yNkcw; expires=Fri, 03-Sep-2021 19:13:27 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: DENY
+x-auto-login: realm=com.google&args=continue%3Dhttps%253A%252F%252Fdocs.google.com%252F
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:13:28 GMT
+content-length: 68788
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-ujvziLy52CrDNzh/WZdPcg' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:p-4FoS4LqrANjpGNJsn2optmsyloDQ:tJCpFpVhreRzIqua;Path=/;Expires=Sat, 04-Mar-2023 19:13:28 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://doubleclick.net
+HTTP/2 301 
+location: https://marketingplatform.google.com/about/enterprise/
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 19:13:28 GMT
+expires: Thu, 04 Mar 2021 19:43:28 GMT
+cache-control: public, max-age=1800
+server: sffe
+content-length: 251
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-length: 130244
+cross-origin-resource-policy: cross-origin
+date: Thu, 04 Mar 2021 19:13:28 GMT
+expires: Thu, 04 Mar 2021 19:13:28 GMT
+cache-control: private, max-age=3000
+last-modified: Mon, 30 Nov 2020 04:45:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://dw.com
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.dw.com/
+
+HTTP/2 302 
+location: https://www.dw.com/en/top-stories/s-9097
+content-type: text/html;charset=UTF-8
+content-length: 0
+onion-location: https://www.dwnewsvdyyiamwnp.onion/
+access-control-allow-origin: *
+date: Thu, 04 Mar 2021 19:13:29 GMT
+
+HTTP/2 200 
+x-ua-compatible: IE=EmulateIE8; IE=EmulateIE9; IE=EmulateIE10; IE=Edge
+content-type: text/html;charset=UTF-8
+onion-location: https://www.dwnewsvdyyiamwnp.onion/en/top-stories/s-9097
+access-control-allow-origin: *
+cache-control: max-age=30
+date: Thu, 04 Mar 2021 19:13:29 GMT
+
+URL: https://e-monsite.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:29 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d6e89e45991638aaf4f14c9c749ff34bc1614885209; expires=Sat, 03-Apr-21 19:13:29 GMT; path=/; domain=.e-monsite.com; HttpOnly; SameSite=Lax
+x-powered-by: PHP/7.4.12
+location: https://www.e-monsite.com/
+x-ems-server: 35
+x-frame-options: sameorigin
+cf-cache-status: DYNAMIC
+cf-request-id: 08a041dd020000f106d4069000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+report-to: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=KhDL6UWjHCLJ5a%2Bv3FE5HVkMbwYFRtTNAFOQBSXtpoGLP2bJ3ZoYF7tSZMVEsJJ1O3QCllGTpnCZNCThOfX2V4Isg%2BQXC228kZ6sUPAs"}],"group":"cf-nel"}
+nel: {"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 62ad6c0e6c11f106-IAD
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:30 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d5daf39a3dd9577cfa44a29eef25197811614885209; expires=Sat, 03-Apr-21 19:13:29 GMT; path=/; domain=.e-monsite.com; HttpOnly; SameSite=Lax
+cache-control: must-revalidate, no-cache, private
+x-powered-by: PHP/7.4.12
+pragma: no-cache
+expires: Sat, 26 Jul 1997 05:00:00 GMT
+vary: Accept-Encoding
+x-ems-server: 70
+x-frame-options: sameorigin
+cf-cache-status: DYNAMIC
+cf-request-id: 08a041debd0000387732930000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=VgmNCDGRfDYJ6%2F54DIkAhjoQjtDPw%2B8STVwdc%2BCCmfudRmyqPWmG%2F13dD4IReUbxM21V1fjbgaeu94Fuyl2pWtYrSnJeQfT6HOwekw2I0K%2FJ7A%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"max_age":604800,"report_to":"cf-nel"}
+server: cloudflare
+cf-ray: 62ad6c1129353877-IAD
+
+URL: https://ea.com
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.ea.com/
+cache-control: max-age=0
+expires: Thu, 04 Mar 2021 19:13:30 GMT
+date: Thu, 04 Mar 2021 19:13:30 GMT
+set-cookie: ealocale=en-us; expires=Fri, 04-Mar-2022 19:13:30 GMT; path=/; domain=.ea.com; secure
+x-l-path: inert
+x-environment-context: prod
+x-application-context: eacom
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=0
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+server: nginx
+last-modified: Thu, 04 Mar 2021 19:00:11 UTC
+cache-control: max-age=113
+expires: Thu, 04 Mar 2021 19:15:23 GMT
+date: Thu, 04 Mar 2021 19:13:30 GMT
+set-cookie: ealocale=en-us; expires=Fri, 04-Mar-2022 19:13:30 GMT; path=/; domain=.ea.com; secure
+vary: Accept-Encoding
+x-l-path: inert
+x-environment-context: prod
+x-application-context: eacom
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=0
+
+URL: https://ebay.co.uk
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.co.uk/
+
+HTTP/2 302 
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://www.ebay.com/n/error
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 37
+server: ebay-proxy-server
+x-ebay-pop-id: UFES1-AMS
+date: Thu, 04 Mar 2021 19:13:31 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.com/n/error
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 0
+Date: Thu, 04 Mar 2021 19:13:31 GMT
+Connection: keep-alive
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 20
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:31 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*7%3Dj%60d%28rbpv6770-177fea8d243-0xed
+Last-Modified: Thu, 4 Mar 2021 18:26:13 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:32 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 3
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:32 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*m2w%7D4%28rbpv6770-177fea8d413-0xf6
+Last-Modified: Thu, 4 Mar 2021 18:27:35 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:32 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 20
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:33 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*n1wvt%28rbpv6770-177fea8d66c-0x10f
+Last-Modified: Thu, 4 Mar 2021 18:48:08 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:33 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 24
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:34 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*sb%60%7Fw%28rbpv6770-177fea8d8d1-0xfc
+Last-Modified: Thu, 4 Mar 2021 18:30:17 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:33 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 27
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:34 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*7%3Dj%60d%28rbpv6770-177fea8da63-0x105
+Last-Modified: Thu, 4 Mar 2021 18:26:13 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:34 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 13
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:34 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*7%3Dj%60d%28rbpv6770-177fea8dca7-0x107
+Last-Modified: Thu, 4 Mar 2021 18:26:13 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:34 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 32
+server: ebay-proxy-server
+x-ebay-pop-id: UFES1-AMS
+date: Thu, 04 Mar 2021 19:13:35 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*r2%60i4%28rbpv6770-177fea8dde1-0x10a
+Last-Modified: Thu, 4 Mar 2021 18:32:11 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:34 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 4
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:35 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*mi03m%28rbpv6770-177fea8df06-0xee
+Last-Modified: Thu, 4 Mar 2021 18:35:15 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:35 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 17
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:36 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*mi03m%28rbpv6770-177fea8e02b-0xf5
+Last-Modified: Thu, 4 Mar 2021 18:35:15 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:35 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 13
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:36 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*n1wvt%28rbpv6770-177fea8e145-0x108
+Last-Modified: Thu, 4 Mar 2021 18:48:08 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:35 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 29
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:36 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*m2w%7D4%28rbpv6770-177fea8e26f-0xe9
+Last-Modified: Thu, 4 Mar 2021 18:27:35 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:36 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 23
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:37 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*mi03m%28rbpv6770-177fea8e398-0xfc
+Last-Modified: Thu, 4 Mar 2021 18:35:15 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:36 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 19
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:37 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*m2w%7D4%28rbpv6770-177fea8e4bc-0xee
+Last-Modified: Thu, 4 Mar 2021 18:27:35 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:36 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 20
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:37 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*mi03m%28rbpv6770-177fea8e5e2-0x103
+Last-Modified: Thu, 4 Mar 2021 18:35:15 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:37 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 27
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:37 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*mi03m%28rbpv6770-177fea8e707-0xf6
+Last-Modified: Thu, 4 Mar 2021 18:35:15 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:37 GMT
+Server: ebay server
+
+HTTP/2 302 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+location: http://pages.ebay.com/messages/page_not_responding.html
+content-length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 25
+server: ebay-proxy-server
+x-ebay-pop-id: UFES2-MRS-dweb-www2
+date: Thu, 04 Mar 2021 19:13:38 GMT
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+
+HTTP/1.1 301 Moved Permanently
+RlogId: t6fug%60f%3F%3Ctofcwbbc*sb%60%7Fw%28rbpv6770-177fea8e85b-0xe8
+Last-Modified: Thu, 4 Mar 2021 18:30:17 GMT
+location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Date: Thu, 04 Mar 2021 19:13:37 GMT
+Server: ebay server
+
+URL: https://elmundo.es
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:34 GMT
+Content-Type: text/html
+Content-Length: 169
+Location: https://www.elmundo.es/
+Referrer-Policy: unsafe-url
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html; charset=iso-8859-15
+expires: Thu, 04 Mar 2021 19:13:12 GMT
+cache-control: s-maxage=60
+referrer-policy: unsafe-url
+surrogated-key: 6666cd76f96956469e7be39d750cc7d9
+x-backend: CONTENT
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:39 GMT
+age: 27
+x-served-by: cache-ams21020-AMS, cache-dca17722-DCA
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+x-timer: S1614885219.884216,VS0,VE193
+vary: Accept-Encoding, User-Agent
+content-length: 413720
+
+URL: https://elpais.com
+HTTP/2 302 
+server: AkamaiGHost
+content-length: 0
+location: https://elpais.com/america/
+cache-control: private, max-age=0
+expires: Thu, 04 Mar 2021 19:13:39 GMT
+date: Thu, 04 Mar 2021 19:13:39 GMT
+set-cookie: arc-geo={"georegion":"252","countrycode":"US","regioncode":"GA","timezone":"EST","continent":"NA"}; expires=Thu, 04-Mar-2021 19:28:39 GMT; path=/
+set-cookie: eptz=US; path=/; domain=.elpais.com
+set-cookie: hpage=2; expires=Fri, 04-Mar-2022 19:13:39 GMT; path=/; domain=.elpais.com
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: openresty
+x-aws-lambda-call-status: 200
+etag: W/"bb5a5-FI7/fbNFxBIl/cPXP+ZzlIViJGM"
+last-modified: Thu, 04 Mar 2021 19:12:10 GMT
+cache-control: private, max-age=60
+expires: Thu, 04 Mar 2021 19:14:39 GMT
+date: Thu, 04 Mar 2021 19:13:39 GMT
+set-cookie: arc-geo={"georegion":"252","countrycode":"US","regioncode":"GA","timezone":"EST","continent":"NA"}; expires=Thu, 04-Mar-2021 19:28:39 GMT; path=/
+set-cookie: eptz=US; path=/; domain=.elpais.com
+set-cookie: hpage=2; expires=Fri, 04-Mar-2022 19:13:39 GMT; path=/; domain=.elpais.com
+
+URL: https://es.wikipedia.org
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:06:20 GMT
+server: mw1270.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://es.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+cache-control: s-maxage=1200, must-revalidate, max-age=0
+x-request-id: YEEvrFbj9zEcefrKtv6NgAAAAJE
+last-modified: Thu, 04 Mar 2021 19:06:20 GMT
+location: https://es.wikipedia.org/wiki/Wikipedia:Portada
+content-length: 0
+content-type: text/html; charset=utf-8
+age: 438
+x-cache: cp1079 miss, cp1079 hit/212
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 12:39:04 GMT
+server: mw1273.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://es.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+content-language: es
+vary: Accept-Encoding,Cookie,Authorization
+x-request-id: YEDU6AHtpOxccP@UmotjKwAAABc
+last-modified: Thu, 04 Mar 2021 12:38:58 GMT
+content-type: text/html; charset=UTF-8
+age: 23674
+x-cache: cp1075 miss, cp1079 hit/11698
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+accept-ranges: bytes
+content-length: 88556
+
+URL: https://europa.eu
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:13:39 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 11701
+Last-Modified: Mon, 16 Sep 2019 16:52:17 GMT
+ETag: "2db5-592ae6d2a3240"
+Accept-Ranges: bytes
+Age: 0
+X-FPFIS: 357468780
+Cache-Control: s-maxage=0
+Server: Europa
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+
+URL: https://fb.me
+HTTP/2 302 
+location: https://www.facebook.com/
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: rb/n0uzCySyPR0MnZPpW4oFE1VLsdufILvegemjWfdpqcdqOyz4aipXbkom0cNB33PURFvgiM6ImnMDb0IBnFg==
+content-length: 0
+date: Thu, 04 Mar 2021 19:13:39 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+HTTP/2 200 
+x-frame-options: DENY
+x-xss-protection: 0
+x-content-type-options: nosniff
+strict-transport-security: max-age=15552000; preload
+set-cookie: fr=1VLmudLIBvsenWHI2..BgQTFj.Na.AAA.0.0.BgQTFj.AWUgmIHgPZ8; expires=Wed, 02-Jun-2021 19:13:38 GMT; Max-Age=7775999; path=/; domain=.facebook.com; secure; httponly
+set-cookie: sb=YzFBYK4w1qiQbvjM1pr6rGwF; expires=Sat, 04-Mar-2023 19:13:39 GMT; Max-Age=63072000; path=/; domain=.facebook.com; secure; httponly
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Accept-Encoding
+pragma: no-cache
+x-fb-rlafr: 0
+content-type: text/html; charset="utf-8"
+x-fb-debug: r7qtnqoy0OycmWEvRnR2VIDCZlLs7aGG+VdFv0zh4nWMX1nIc4pnSyTcqQNuxADZo91vLTlGAKSX9aFr5NohPQ==
+date: Thu, 04 Mar 2021 19:13:39 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+URL: https://feedburner.com
+HTTP/2 301 
+location: /fb/a/home
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:13:40 GMT
+expires: Thu, 04 Mar 2021 19:13:40 GMT
+cache-control: private, max-age=0
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+
+HTTP/2 302 
+cache-control: private
+content-type: text/html; charset=UTF-8
+location: https://www.google.com/accounts/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=Kb3T0TjyUMv-x7Suf_FPVW_PuhW9gfpW
+date: Thu, 04 Mar 2021 19:13:40 GMT
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: S=feedburner-control-panel=Kb3T0TjyUMv-x7Suf_FPVW_PuhW9gfpW; Path=/; Secure; HttpOnly; Priority=LOW
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:13:40 GMT
+location: https://accounts.google.com/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=Kb3T0TjyUMv-x7Suf_FPVW_PuhW9gfpW
+content-length: 357
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: DENY
+x-auto-login: realm=com.google&args=service%3Dfeedburner%26continue%3Dhttps%253A%252F%252Ffeedburner.google.com%252Ffb%252Fa%252Fmyfeeds
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:13:40 GMT
+content-length: 66360
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-R5w6iprTA8aSWpwBLParig' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:xUItNq6skIKfyb7ZyBu4DNAQGC8IDA:wph5H0Vnq4MDJyOZ;Path=/;Expires=Sat, 04-Mar-2023 19:13:40 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://finance.yahoo.com
+HTTP/2 404 
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=15552000
+x-frame-options: SAMEORIGIN
+content-security-policy: sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=yahoofinance; report-to csp-endpoint;
+report-to: {"group":"csp-endpoint","max-age":10886400,"endpoints":[{"url":"https://csp.yahoo.com/beacon/csp?src=yahoofinance"}]}
+content-type: text/html; charset=utf-8
+etag: W/"40-YKh66hDlESqeLOhUXoS2pBzN8lk"
+set-cookie: B=865mi0lg42cb4&b=3&s=b4; expires=Thu, 04-Mar-2022 19:13:40 GMT; path=/; domain=.yahoo.com
+date: Thu, 04 Mar 2021 19:13:39 GMT
+x-envoy-upstream-service-time: 8
+server: ATS
+expires: -1
+cache-control: max-age=0, private
+age: 1
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+
+URL: https://forms.gle
+HTTP/2 400 
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-security-policy: script-src 'nonce-xQnS4L0+E2qbf5l2l+DXWw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DurableDeepLinkUi/cspreport;worker-src 'self'
+content-type: text/html; charset=utf-8
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+pragma: no-cache
+server: ESF
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:40 GMT
+x-served-by: cache-dca17760-DCA
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614885220.436293,VS0,VE205
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site, x-fh-requested-host, accept-encoding
+content-length: 9254
+
+URL: https://foursquare.com
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 114508
+x-amz-id-2: lgaRIBdcaZRa76i0lETdZI0eJm2zUCNQ84MbYt3i33qKoTXPh4+uchSAspsd/b52t0LsqRsdd7Y=
+x-amz-request-id: E8HSXQ75QSHP19NK
+Last-Modified: Thu, 04 Mar 2021 18:28:50 GMT
+ETag: "203b9a6d484502421d50c3810afd40a1"
+Content-Type: text/html
+Server: AmazonS3
+log-origin: name=F_static_site_s3_bucket
+Accept-Ranges: bytes
+Date: Thu, 04 Mar 2021 19:13:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dca17745-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+
+URL: https://fr.wikipedia.org
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:03:43 GMT
+server: mw1349.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://fr.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+cache-control: s-maxage=1200, must-revalidate, max-age=0
+x-request-id: YEEvDwKfAKgXa3RK9ZBU8AAAAAA
+last-modified: Thu, 04 Mar 2021 19:03:43 GMT
+location: https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
+content-length: 0
+content-type: text/html; charset=utf-8
+age: 597
+x-cache: cp1079 miss, cp1079 hit/295
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 16:23:01 GMT
+server: mw1273.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://fr.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+content-language: fr
+vary: Accept-Encoding,Cookie,Authorization
+x-request-id: YEEJZaC8tnDUZkMKQPJVBwAAAIw
+last-modified: Thu, 04 Mar 2021 16:22:58 GMT
+content-type: text/html; charset=UTF-8
+age: 10239
+x-cache: cp1085 miss, cp1079 hit/4272
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+accept-ranges: bytes
+content-length: 147927
+
+URL: https://ft.com
+HTTP/2 301 
+retry-after: 0
+location: https://www.ft.com
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:40 GMT
+strict-transport-security: max-age=63072000; preload
+content-length: 0
+
+HTTP/2 200 
+x-content-type-options: nosniff
+x-download-options: noopen
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+etag: W/"2d244-LD/Ngjw7YADnHcGji16RfsYl4nI"
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:41 GMT
+vary: ft-flags, ft-anonymous-user, ft-edition, accept, et-app, FT-Site, FT-Regional-News, Accept-Encoding, FT-Site, FT-Regional-News
+cache-control: private, max-age=0, no-cache
+set-cookie: FTAllocation=4ed5f8b8-0ba0-4f69-b332-170b3d78d888; Expires=Fri, 04 Mar 2022 19:13:41 GMT; Domain=.ft.com; Path=/
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+content-length: 184900
+
+URL: https://google.ru
+HTTP/2 301 
+location: https://www.google.ru/
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:13:41 GMT
+expires: Sat, 03 Apr 2021 19:13:41 GMT
+cache-control: public, max-age=2592000
+server: gws
+content-length: 219
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=windows-1251
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+date: Thu, 04 Mar 2021 19:13:41 GMT
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+expires: Thu, 04 Mar 2021 19:13:41 GMT
+cache-control: private
+set-cookie: 1P_JAR=2021-03-04-19; expires=Sat, 03-Apr-2021 19:13:41 GMT; path=/; domain=.google.ru; Secure
+set-cookie: NID=210=LDHBJKmknSr7MqO0HKJ85I01-nbzhVTWz3RCPiTNAGyDLNRNuzJVbglqI-ICmoI9ehKbwkaRS7rY0-z9mmfeHlSCyQjA4oNUZXRpd_n0OsNQgmbQt0yjbRfS1heyjPVPSlIJc_bbQRtePTrfEry1xliGGiwub091BFAcCyMncts; expires=Fri, 03-Sep-2021 19:13:41 GMT; path=/; domain=.google.ru; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://gravatar.com
+HTTP/2 302 
+server: nginx
+date: Thu, 04 Mar 2021 19:13:41 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+p3p: CP="CAO PSA"
+x-frame-options: SAMEORIGIN
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+last-modified: Thu, 04 Mar 2021 19:13:41 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+pragma: no-cache
+location: https://en.gravatar.com/
+
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 19:13:41 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+p3p: CP="CAO PSA"
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+last-modified: Thu, 04 Mar 2021 19:13:41 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+pragma: no-cache
+x-frame-options: SAMEORIGIN
+
+URL: https://harvard.edu
+HTTP/2 301 
+retry-after: 0
+server: Pantheon
+location: https://www.harvard.edu/
+x-pantheon-redirect: primary-domain-policy-doc
+date: Thu, 04 Mar 2021 19:13:41 GMT
+x-served-by: cache-dca17731-DCA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1614885222.677510,VS0,VE0
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=1200
+content-type: text/html; charset=UTF-8
+link: <https://www.harvard.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.harvard.edu/wp-json/wp/v2/pages/6392>; rel="alternate"; type="application/json"
+link: <https://www.harvard.edu/>; rel=shortlink
+server: nginx
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-fe1-b-d6bfff494-z65qs
+x-styx-req-id: db997e29-7d1c-11eb-8963-7e6759ed3c24
+date: Thu, 04 Mar 2021 19:13:41 GMT
+x-served-by: cache-mdw17343-MDW, cache-dca17741-DCA
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1614885222.739285,VS0,VE2
+vary: Accept-Encoding, Cookie, Cookie
+age: 375
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 163237
+
+URL: https://ieee.org
+HTTP/1.0 302 Found
+Location: https://www.ieee.org//
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.0 200 OK
+Cache-Control: no-cache="set-cookie"
+Content-Type: text/html;charset=utf-8
+Last-Modified: Thu, 04 Mar 2021 19:12:27 GMT
+X-Content-Type-Options: nosniff
+X-Dispatcher: dispatcher2useast1
+X-Frame-Options: SAMEORIGIN
+X-Vhost: www.ieee.org
+Date: Thu, 04 Mar 2021 19:13:41 GMT
+Connection: close
+Set-Cookie: AWSELB=55B9EFD71A621664217649CC5C38F09A66B8CD41093F0BE677C154DE9C3A182DFDDF69EB7F28D0BDD8F37BC44BF6E11D27425ADCEBBBACE6A1B563AE88175AB23C96A9E2BA;PATH=/;MAX-AGE=900
+Set-Cookie: AWSELBCORS=55B9EFD71A621664217649CC5C38F09A66B8CD41093F0BE677C154DE9C3A182DFDDF69EB7F28D0BDD8F37BC44BF6E11D27425ADCEBBBACE6A1B563AE88175AB23C96A9E2BA;PATH=/;MAX-AGE=900;SECURE;SAMESITE=None
+Set-Cookie: TS01247332=01c1c020dd832c0aa30cfc6d8ad9dcd16b2b53fc22015f6b224a77d9a50bbe68a2b32b41475ee83639207466a1b96449579c356e0c91f440ce94ef5ef8d1cda6cdb070c896224359c0708fb0914b05483acfa0489e; Path=/
+
+URL: https://ietf.org
+HTTP/1.1 302 Found
+Date: Thu, 04 Mar 2021 19:13:42 GMT
+Server: Apache
+Location: https://www.ietf.org/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:42 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d0b3f9593bd725bf284edd8b882f977e91614885222; expires=Sat, 03-Apr-21 19:13:42 GMT; path=/; domain=.ietf.org; HttpOnly; SameSite=Lax; Secure
+x-frame-options: ALLOW-FROM ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+vary: Cookie,Accept-Encoding
+expires: Thu, 04 Mar 2021 20:13:42 GMT
+cache-control: public, max-age=3600
+strict-transport-security: max-age=31536000; preload
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+access-control-allow-origin: *
+access-control-allow-headers: *
+cf-cache-status: HIT
+age: 2592
+cf-request-id: 08a0420fd10000380bec36d000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6c5fbede380b-IAD
+
+URL: https://imageshack.com
+HTTP/1.1 200 OK
+Server: nginx/1.2.8
+Date: Thu, 04 Mar 2021 19:13:42 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.2.9
+X-Frame-Options: SAMEORIGIN
+X-Varnish: 1894688810 1894688252
+Age: 44
+Via: 1.1 varnish
+X-Varnish-Hits: 32
+X-Varnish-IP: 208.94.3.34
+X-Varnish-Port: 17001
+Vary: Accept-Encoding, User-Agent
+
+URL: https://indiatimes.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.indiatimes.com/
+Cache-Control: max-age=0
+Expires: Thu, 04 Mar 2021 19:13:42 GMT
+Date: Thu, 04 Mar 2021 19:13:42 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+strict-transport-security: max-age=25920000; includeSubdomains
+strict-transport-security: max-age=25920000; includeSubdomains
+cache-control: max-age=674
+expires: Thu, 04 Mar 2021 19:24:57 GMT
+date: Thu, 04 Mar 2021 19:13:43 GMT
+
+URL: https://istockphoto.com
+HTTP/2 301 
+content-length: 0
+location: https://www.istockphoto.com/
+date: Thu, 04 Mar 2021 19:13:43 GMT
+selected-fe: istock_frontend
+x-cache: Miss from cloudfront
+via: 1.1 836d15812518886911b1ae2be813f462.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C1
+x-amz-cf-id: YoNeKsnb90bU5grRAlnF2ViHnRdXiUZkAfTP5J9lA7XcjoAUZLchpA==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Thu, 04 Mar 2021 19:13:43 GMT
+server: nginx/1.18.0
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"a00f504627d265673c0c9c35baf3a615"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: unisess=R3RSRkdmVGNPSm5SMS8xeStHY0EwMjVRWXBFSWRoT3RkZzNybHlNa1N1MnJkRkFneGRwZlBFTFNEUThiMERxbVVBaXZIN21MS1RMM1UvcXpoZDRONmc9PS0taWUzeXJWTEU3TEtOdGorSzNrMUQ2UT09--eed8447f0def703a8e6470a7ea2c0d1700d372b3; path=/; HttpOnly
+set-cookie: vis=vid=fec10ba0-19b2-4ff6-8987-64742dd34958; domain=.istockphoto.com; path=/; expires=Mon, 04 Mar 2041 19:13:43 -0000
+set-cookie: uac=t=FrGFt98WxXXi8OoiumdJMYQke0z6VDq%2FRoFFvmjPTtumoxAH5cXMQckECoCS8k%2Fbmm%2FKqgu2RT48Bmxqqe4j3%2FvUtoWShFC9yTnLsWs%2FP6RlKc6qGmoQScujeZFOAHIHNRpbyB89bEOYTh79Mq4sXJGOS%2BQLOl8EtZGSPNVN%2Fj8%3D%7C77u%2FS1lMWUh5RXpUNFRBVit5bWxGV3EKNDQxCgo1OElpRXc9PQo3OGtpRXc9PQowCgoKMAo0NDEKCjQ0MQowCmZlYzEwYmEwLTE5YjItNGZmNi04OTg3LTY0NzQyZGQzNDk1OAoK%7C3%7C4%7C1&d; domain=.istockphoto.com; path=/; expires=Mon, 04 Mar 2041 19:13:43 -0000
+set-cookie: giu=nv=1&lv=2021-03-04T19%3A13%3A43Z; domain=.istockphoto.com; path=/; expires=Mon, 04 Mar 2041 19:13:43 -0000
+set-cookie: csrf=t=232AW6D5u2R0yHJKEuQzR1A6DyUhizJ2t20ZSklJjSU%3D; domain=.istockphoto.com; path=/; expires=Mon, 04 Mar 2041 19:13:43 -0000
+x-request-id: 0A33039C-0E7A_0A33A42F-01BB_60413165_2CEC4-5A80-851
+x-runtime: 0.066415
+x-backend: app_landing
+x-proxy-build: 931098
+x-timing-wait: 23288/0/0/70
+giproxy-languageonlypath: 
+giproxy-truncatedpath: /
+selected-fe: istock_frontend
+x-cache: Miss from cloudfront
+via: 1.1 25d430acaef0ba8e2a9fff8bf278cedb.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C1
+x-amz-cf-id: y17NkhxKacWO0QpY7PE7iizLsrqqlOWbD_8aeSG7lyWJXUjb9VP0eQ==
+
+URL: https://ja.wikipedia.org
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:00:35 GMT
+server: mw1265.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+cache-control: s-maxage=1200, must-revalidate, max-age=0
+x-request-id: YEEuU@iIJXzmTsp4wXw2xAAAAI8
+last-modified: Thu, 04 Mar 2021 19:00:35 GMT
+location: https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+content-length: 0
+content-type: text/html; charset=utf-8
+age: 788
+x-cache: cp1079 miss, cp1079 hit/303
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 14:08:23 GMT
+server: mw1366.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+content-language: ja
+vary: Accept-Encoding,Cookie,Authorization
+x-request-id: YEDp12G9Z9q5CPjTk2a8eAAAAEM
+last-modified: Thu, 04 Mar 2021 14:08:20 GMT
+content-type: text/html; charset=UTF-8
+age: 18320
+x-cache: cp1075 miss, cp1079 hit/6623
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 05 Apr 2021 12:00:00 GMT
+x-client-ip: 128.82.18.1
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+set-cookie: GeoIP=US:VA:Norfolk:36.89:-76.30:v4; Path=/; secure; Domain=.wikipedia.org
+accept-ranges: bytes
+content-length: 100861
+
+URL: https://lemonde.fr
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:43 GMT
+via: 1.1 varnish
+x-served-by: cache-dca17773-DCA
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614885224.709689,VS0,VE1
+location: https://www.lemonde.fr/
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-protected-by: Sqreen
+set-cookie: critical-home-free-desktop=83859edf5f257f3f200d4c73fba90816; expires=Sat, 03-Apr-2021 19:13:44 GMT; Max-Age=2592000; path=/; secure
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+via: 1.1 google, 1.1 varnish, 1.1 varnish
+cache-control: private, max-age=0
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:13:44 GMT
+x-served-by: cache-cdg20736-CDG, cache-dca17763-DCA
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1614885224.956345,VS0,VE150
+vary: Accept-Encoding
+strict-transport-security: max-age=31557600
+
+URL: https://loc.gov
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:44 GMT
+content-type: text/html; charset=UTF-8
+content-length: 175132
+set-cookie: __cfduid=d26deb7f06605e55b7c033dc3e582d6c21614885224; expires=Sat, 03-Apr-21 19:13:44 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+x-frame-options: sameorigin
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=3600; preload
+x-content-type-options: nosniff
+etag: "06a43cfbe89793c5bb7af2ffdb60f5e6"
+expires: Thu, 04 Mar 2021 19:50:24 GMT
+access-control-allow-origin: *
+x-grace: none
+x-nearside-cache: HIT
+x-nearside-cache-hits: 703
+cache-control: no-transform, max-age=3600
+age: 0
+accept-ranges: bytes
+cf-cache-status: DYNAMIC
+cf-request-id: 08a04217010000ea92b80af000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6c6b3d02ea92-IAD
+
+URL: https://mail.ru
+HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 04 Mar 2021 19:13:44 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 308293
+Connection: keep-alive
+Set-Cookie: act=bded17fa644d46408f93aa8c839b7ab1; path=/; domain=.mail.ru; Secure; HttpOnly; SameSite=None
+Set-Cookie: mrcu=ACB4604131685D3BDDFD01125280; expires=Sun, 02 Mar 2031 19:13:44 GMT; path=/; domain=.mail.ru; Secure; HttpOnly; SameSite=None
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Wed, 04 Mar 2020 19:13:44 GMT
+Last-Modified: Thu, 04 Mar 2021 22:13:44 GMT
+Content-Security-Policy: default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleapis.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com *.vk.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net pagead2.googlesyndication.com; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net tpc.googlesyndication.com; report-uri https://cspreport.mail.ru/splash?v=19.11.20;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+X-Content-Type-Options: nosniff
+X-Host: lf28.m.smailru.net
+X-ETime: 0.013
+Content-Security-Policy-Report-Only: default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleapis.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com *.vk.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net pagead2.googlesyndication.com; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net tpc.googlesyndication.com; report-uri https://cspreport.mail.ru/splash?v=19.11.20;
+Strict-Transport-Security: max-age=16070400
+
+URL: https://metro.co.uk
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 19:13:46 GMT
+content-type: text/html; charset=UTF-8
+x-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+link: <https://metro.co.uk/wp-json/>; rel="https://api.w.org/"
+x-rq: dca5 109 85 3139
+cache-control: max-age=300, must-revalidate
+age: 0
+x-cache: miss
+vary: Accept-Encoding
+accept-ranges: bytes
+strict-transport-security: max-age=31536000
+
+URL: https://mhlw.go.jp
+
+URL: https://mozilla.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:46 GMT
+content-type: text/html
+content-length: 162
+location: https://www.mozilla.org/firefox
+strict-transport-security: max-age=60; includeSubDomains
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'none'
+
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:46 GMT
+content-type: text/html; charset=utf-8
+location: /en-US/firefox
+expires: Thu, 04 Mar 2021 19:13:46 GMT
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+via: 1.1 google
+cf-cache-status: MISS
+cf-request-id: 08a0421f8300000d868b82a000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6c78cd420d86-IAD
+
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:46 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+location: /en-US/firefox/
+cf-ray: 62ad6c796e8f0d86-IAD
+age: 4038
+etag: "d41d8cd98f00b204e9800998ecf8427e"
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+via: 1.1 google
+cf-cache-status: HIT
+cf-request-id: 08a0421fe500000d8697baa000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-backend-server: bedrock-prod-web-7cfc959d8b-2h4tm.iowa-a
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: cloudflare
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:46 GMT
+content-type: text/html; charset=utf-8
+content-length: 80114
+cf-ray: 62ad6c79af290d86-IAD
+accept-ranges: bytes
+age: 340
+cache-control: max-age=600
+etag: "0e107048b1de0fa4380dd874921a5fb5"
+expires: Thu, 04 Mar 2021 19:18:06 GMT
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+via: 1.1 google
+cf-cache-status: HIT
+cf-request-id: 08a042200a00000d86840ac000000001
+content-security-policy: child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' app.convert.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com data: mozilla.org firefox.com www.firefox.com www.googletagmanager.com www.google-analytics.com adservice.google.com adservice.google.de adservice.google.dk creativecommons.org cdn-3.convertexperiments.com logs.convertexperiments.com ad.doubleclick.net; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com www.googletagmanager.com www.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net https://accounts.firefox.com/ https://accounts.firefox.com.cn/; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-3.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-backend-server: bedrock-prod-web-74f5766f47-tkjlq.iowa-a
+x-clacks-overhead: GNU Terry Pratchett
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+server: cloudflare
+
+URL: https://mysql.com
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:13:46 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15768000
+Location: https://www.mysql.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:13:47 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15768000
+Set-Cookie: MySQL_S=iubrdmac7d7o7ecbn1gfbnq01sq8et0b; path=/; domain=mysql.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Cache-Control: no-cache, private
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+
+URL: https://namecheap.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:47 GMT
+content-type: text/html
+content-length: 166
+location: https://www.namecheap.com/
+server: namecheap-nginx
+strict-transport-security: max-age=16000000
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:13:47 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d50ee1db54c37175752f5df01f85275121614885227; expires=Sat, 03-Apr-21 19:13:47 GMT; path=/; domain=.namecheap.com; HttpOnly; SameSite=Lax; Secure
+cf-ray: 62ad6c82894bea18-IAD
+age: 44
+cache-control: public, max-age=14400
+expires: Thu, 04 Mar 2021 23:13:47 GMT
+strict-transport-security: max-age=16000000; includeSubDomains
+vary: Accept-Encoding
+cf-cache-status: HIT
+cf-request-id: 08a04225920000ea1870885000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: x-ab-promoted-home-search-button=1;expires=Sat, 03 Apr 2021 19:13:47 GMT
+set-cookie: __cfruid=bcfd9f95a6fa22d38b101d5508d5c162143e92ea-1614885227; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+
+URL: https://nydailynews.com
+
+URL: https://ok.ru
+HTTP/2 200 
+server: apache
+date: Thu, 04 Mar 2021 19:13:48 GMT
+content-type: text/html;charset=UTF-8
+vary: Accept-Encoding
+set-cookie: bci=60104782299062139; Domain=.ok.ru; Expires=Tue, 22-Mar-2089 22:27:55 GMT; Path=/; Secure; HttpOnly
+set-cookie: _statid=d67c1362-3037-4c7e-b539-9b62153d415c; Domain=.ok.ru; Expires=Tue, 22-Mar-2089 22:27:55 GMT; Path=/; Secure; HttpOnly
+content-security-policy: default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adsafeprotected.com *.serving-sys.com https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru *.googletagmanager.com connect.facebook.net;  worker-src blob: 'self';  connect-src * wss: blob:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;
+content-security-policy-report-only: default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;
+cache-control: no-cache
+cache-control: no-store
+pragma: no-cache
+expires: Mon, 26 Jul 1997 05:00:00 GMT
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=63072000;includeSubdomains;preload
+rendered-blocks: HtmlPage
+x-sct: true
+
+URL: https://over-blog-kiwi.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:13:48 GMT
+location: https://www.over-blog.com/
+content-length: 234
+content-type: text/html; charset=iso-8859-1
+age: 0
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 18:39:46 GMT
+cache-control: public, s-maxage=3600
+content-type: text/html; charset=UTF-8
+age: 2042
+accept-ranges: bytes
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+
+URL: https://paypal.com
+
+URL: https://picasa.google.com
+HTTP/2 200 
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-length: 14770
+content-security-policy-report-only: script-src 'nonce-HTExADnxXqXsVyW2-5nE3Q' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'
+cross-origin-resource-policy: cross-origin
+date: Thu, 04 Mar 2021 19:14:31 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+last-modified: Tue, 20 Oct 2020 16:00:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://rapidshare.com
+
+URL: https://rediff.com
+HTTP/1.0 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.rediff.com/
+Date: Thu, 04 Mar 2021 19:14:31 GMT
+Connection: keep-alive
+
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.rediff.com/
+Date: Thu, 04 Mar 2021 19:14:31 GMT
+Connection: close
+
+HTTP/1.0 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+Date: Thu, 04 Mar 2021 19:14:31 GMT
+Connection: close
+
+URL: https://rt.com
+HTTP/2 301 
+server: nginx
+date: Thu, 04 Mar 2021 19:14:31 GMT
+content-type: text/html
+content-length: 162
+location: https://www.rt.com/
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 19:14:31 GMT
+content-type: text/html; charset=UTF-8
+cache-control: no-cache,no-store,max-age=0
+x-4vcta: H10241U
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+
+URL: https://samsung.com
+
+URL: https://scoop.it
+HTTP/2 302 
+server: nginx
+date: Thu, 04 Mar 2021 19:14:32 GMT
+content-length: 0
+location: https://www.scoop.it
+cache-control: no-cache
+datacenter: ny8.nyc
+
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 19:14:32 GMT
+content-type: text/html;charset=UTF-8
+content-length: 28264
+vary: Accept-Encoding
+content-language: en
+x-frame-options: SAMEORIGIN
+cache-control: no-store
+pragma: no-cache
+p3p: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+p3p: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+set-cookie: userId=24548172-3028-44d7-999a-51b775d24465;Path=/;Domain=.scoop.it;Secure;SameSite=None;Expires=Sun, 02-Mar-2031 07:14:32 GMT
+set-cookie: hp=1;Path=/
+datacenter: ny8.nyc
+
+URL: https://snapchat.com
+HTTP/2 405 
+allow: GET
+content-type: text/html; charset=UTF-8
+x-cloud-trace-context: e76dd1a4213b3c2dc80ff4c85db0a5eb
+content-length: 188
+date: Thu, 04 Mar 2021 19:14:32 GMT
+server: Google Frontend
+
+URL: https://stores.jp
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:33 GMT
+content-type: text/html
+content-length: 128044
+server: nginx
+last-modified: Tue, 02 Mar 2021 08:28:18 GMT
+etag: "603df722-1f42c"
+accept-ranges: bytes
+
+URL: https://support.google.com
+HTTP/2 200 
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000; includeSubdomains
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:14:33 GMT
+expires: Thu, 04 Mar 2021 19:14:33 GMT
+cache-control: private, max-age=0
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-bV4/miUyDsTZGUQtEFhD' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe
+x-content-type-options: nosniff
+server: support-content-ui
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: NID=210=K1nRsvW01FGhSauvkmczGD7H2D6KUeVKi_tHUdq8buZyyw1ewlOl6QqkF8l4bhFGA_QbV9M0R21guc_dX3wuej19FRdAAgQpA_LgasH-0FURbo5xUXNZP4hfWb1EOB4ofGu1d9uW1L7lU1fLHFcOr2DeTPsLmoxmRTJ7AjEA9z4; expires=Fri, 03-Sep-2021 19:14:33 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: NID=210=K1nRsvW01FGhSauvkmczGD7H2D6KUeVKi_tHUdq8buZyyw1ewlOl6QqkF8l4bhFGA_QbV9M0R21guc_dX3wuej19FRdAAgQpA_LgasH-0FURbo5xUXNZP4hfWb1EOB4ofGu1d9uW1L7lU1fLHFcOr2DeTPsLmoxmRTJ7AjEA9z4; expires=Fri, 03-Sep-2021 19:14:33 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+
+URL: https://tabelog.com
+HTTP/1.1 200 OK
+Date: Thu, 04 Mar 2021 19:14:35 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+ETag: W/"264dc9340366de39655b10d3e1e1e5ee"
+Cache-Control: max-age=0
+Set-Cookie: _tabelog_session_id=08ae858afb1c2b2d416b0b7c50fbc6e8; domain=tabelog.com; path=/; expires=Fri, 05 Mar 2021 01:14:35 -0000; secure; HttpOnly
+Set-Cookie: mo_r=c7e3816d9446ce85747b0598a6065dd; domain=tabelog.com; path=/; secure; HttpOnly
+Set-Cookie: ma_k=25aadd5142ae5e0092c0ab8b46da07d4; domain=tabelog.com; path=/; expires=Mon, 04 Mar 2041 19:14:34 -0000; secure; HttpOnly
+Set-Cookie: do_i=635fe0769cfa5853229fc61175924dda; domain=tabelog.com; path=/; expires=Mon, 04 Mar 2041 19:14:34 -0000; secure
+Set-Cookie: ta_l=1; domain=tabelog.com; path=/; expires=Wed, 02 Jun 2021 19:14:34 -0000
+Vary: Accept-Encoding,User-Agent
+Expires: Thu, 04 Mar 2021 19:14:35 GMT
+
+URL: https://target.com
+HTTP/2 301 
+location: https://www.target.com
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:35 GMT
+via: 1.1 varnish
+age: 921
+x-served-by: cache-dca17769-DCA
+x-cache: HIT
+x-cache-hits: 3
+x-timer: S1614885275.489077,VS0,VE0
+content-length: 0
+
+HTTP/2 405 
+server: Varnish
+retry-after: 0
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:35 GMT
+clientgeo: US
+clientip: 128.82.18.1
+set-cookie: TealeafAkaSid=t8xLDG1KYKKDO8tqv0HDK78ba1Mzo5c6; Expires=Sat, 03 Apr 2021 19:14:35 GMT; Path=/; Domain=target.com;
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self' https://*.target.com;
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000; includeSubDomains
+content-length: 0
+
+URL: https://techcrunch.com
+HTTP/2 200 
+accept-ranges: bytes
+age: 117
+cache-control: max-age=300, must-revalidate
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:14:35 GMT
+ec-policy-id: 1172233
+host-header: a9130478a60e5f9135f765b23f26593b
+link: <https://techcrunch.com/wp-json/>; rel="https://api.w.org/"
+referrer-policy: no-referrer-when-downgrade
+server: nginx
+set-cookie: A1=d=AQABBJsxQWACENgtLkyRA-frnEoEW1OnmuQFEgEBAQGDQmBLYAAAAAAA_SMAAA&S=AQAAAkhwKs9ZtG3TSwYZpFWIJAk; Domain=.techcrunch.com; Expires=Fri, 04 Mar 2022 19:14:35 GMT; Max-Age=31536000; SameSite=Lax; Path=/; Secure; HttpOnly
+set-cookie: A3=d=AQABBJsxQWACENgtLkyRA-frnEoEW1OnmuQFEgEBAQGDQmBLYAAAAAAA_SMAAA&S=AQAAAkhwKs9ZtG3TSwYZpFWIJAk; Domain=.techcrunch.com; Expires=Fri, 04 Mar 2022 19:14:35 GMT; Max-Age=31536000; SameSite=None; Path=/; Secure; HttpOnly
+set-cookie: A1S=d=AQABBJsxQWACENgtLkyRA-frnEoEW1OnmuQFEgEBAQGDQmBLYAAAAAAA_SMAAA&S=AQAAAkhwKs9ZtG3TSwYZpFWIJAk; Domain=.techcrunch.com; SameSite=Lax; Path=/; Secure
+set-cookie: GUC=AQEBAQFgQoNgS0IcrgRC; Domain=.techcrunch.com; Expires=Fri, 04 Mar 2022 19:14:35 GMT; Max-Age=31536000; Path=/; Secure
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-cache: hit
+x-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+x-rq: dca5 96 191 3141
+content-length: 962549
+
+URL: https://thedailybeast.com
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:14:35 GMT
+cache-control: max-age=3600
+expires: Thu, 04 Mar 2021 20:14:35 GMT
+location: https://www.thedailybeast.com/
+cf-request-id: 08a042e03e00007441d59b1000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6dad3d587441-IAD
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:35 GMT
+content-length: 0
+set-cookie: __cfduid=df56375105bbc4862ff3cba4eed87f6921614885275; expires=Sat, 03-Apr-21 19:14:35 GMT; path=/; domain=.thedailybeast.com; HttpOnly; SameSite=Lax
+cf-ray: 62ad6dadbc33ea92-IAD
+set-cookie: __tdbbrowser=ff8d5660-6031-432a-88d9-f3450974562c; path=/; expires=Sun, 02 Mar 2031 19:14:35 GMT; samesite=lax; httponly
+strict-transport-security: max-age=15552000; includeSubDomains
+cf-cache-status: DYNAMIC
+cf-request-id: 08a042e0960000ea92d81f4000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: __tdbbrowser.sig=ya7WNGTCwKuuggJ1c1uQAjyzvDY; path=/; expires=Sun, 02 Mar 2031 19:14:35 GMT; samesite=lax; httponly
+set-cookie: kppid=CtWtGup0lyi; path=/; expires=Tue, 31 Aug 2021 19:14:35 GMT; domain=thedailybeast.com
+set-cookie: kppid.sig=XhMGDQ_8CL4CBgoNJKF1gHc_aTs; path=/; expires=Tue, 31 Aug 2021 19:14:35 GMT; domain=thedailybeast.com
+set-cookie: __tdbsesh=eyJub3dJbk1pbnV0ZXMiOjI2OTE0NzU0LCJzZXNzaW9uSWQiOiJhNzk0ZjA1Yi04NjRlLTRiNWMtYTg4ZS02Y2M2Yzc3MmViYWUiLCJkZnBCdWNrZXRJZCI6MTR9; path=/; expires=Thu, 04 Mar 2021 19:44:35 GMT; samesite=lax; httponly
+set-cookie: __tdbsesh.sig=Y5WpvP0twBS0oqwhQ_3plQXAArQ; path=/; expires=Thu, 04 Mar 2021 19:44:35 GMT; samesite=lax; httponly
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-powered-by: Express
+x-tdb-cache-scope: rev:22.4.286:gbp:desktop
+x-tdb-deployment: 22.4.286
+x-tdb-host: prod-tdb-79685d4779-76wsg
+x-tdb-revision: 73802d925cb9984ef7a7457618a533af851091bf
+x-xss-protection: 1; mode=block
+server: cloudflare
+
+URL: https://thefreedictionary.com
+HTTP/2 301 
+cache-control: private
+content-length: 0
+content-type: text/html
+location: https://www.thefreedictionary.com
+date: Thu, 04 Mar 2021 19:13:53 GMT
+
+HTTP/2 200 
+cache-control: no-cache
+pragma: no-cache
+content-length: 121397
+content-type: text/html; charset=utf-8
+content-language: en
+expires: -1
+last-modified: Thu, 04 Mar 2021 05:00:00 GMT
+date: Thu, 04 Mar 2021 19:14:35 GMT
+
+URL: https://theguardian.com
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.theguardian.com/
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:36 GMT
+via: 1.1 varnish
+x-served-by: cache-dca17744-DCA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1614885277.922900,VS0,VE0
+strict-transport-security: max-age=31536000
+content-length: 0
+
+HTTP/2 302 
+retry-after: 0
+location: /us
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:36 GMT
+set-cookie: GU_mvt_id=194610; expires=Wed, 02 Jun 2021 19:14:36 GMT; path=/; domain=.theguardian.com; Secure
+x-timer: S1614885277.961756,VS0,VE0
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri 'none'
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+x-gu-edition: us
+cache-control: max-age=0, no-transform
+set-cookie: GU_geo_continent=NA; path=/; Secure
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+etag: W/"hash2976558309843861889"
+link: <https://assets.guim.co.uk/stylesheets/70e480c91ab0bc7f3449f4c94740adbd/facia.garnett.css>; rel=preload; as=style; nopush,<https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?rum=0&features=es6,es7,es2017,default-3.6,HTMLPictureElement,IntersectionObserver,IntersectionObserverEntry,fetch&flags=gated&callback=guardianPolyfilled&unknown=polyfill&clearCache=5>; rel=preload; as=script; nopush,<https://assets.guim.co.uk/javascripts/5a9c907744b9e3c77d22/graun.standard.js>; rel=preload; as=script; nopush,<https://assets.guim.co.uk/javascripts/b95cc171fe1d9de926b6/graun.commercial.js>; rel=preload; as=script; nopush
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:37 GMT
+age: 28
+set-cookie: GU_mvt_id=204684; expires=Wed, 02 Jun 2021 19:14:37 GMT; path=/; domain=.theguardian.com; Secure
+x-timer: S1614885277.968986,VS0,VE435
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri 'none'
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+x-gu-edition: us
+cache-control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private, no-transform
+vary: Accept-Encoding,User-Agent
+set-cookie: GU_geo_continent=NA; path=/; Secure
+content-length: 929722
+
+URL: https://themeforest.net
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:37 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d3907d9939c2a7abe65d015291d6ac5db1614885277; expires=Sat, 03-Apr-21 19:14:37 GMT; path=/; domain=.themeforest.net; HttpOnly; SameSite=Lax
+vary: Accept-Encoding
+x-frame-options: DENY
+strict-transport-security: max-age=31536000
+x-download-options: noopen
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=1800, s-maxage=1800, stale-if-error=1800, stale-while-revalidate=60
+cf-cache-status: HIT
+age: 1530
+cf-request-id: 08a042e7290000384d58111000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6db83ac9384d-IAD
+
+URL: https://time.com
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 160111
+cache-control: max-age=30
+date: Thu, 04 Mar 2021 19:14:37 GMT
+server: nginx/1.18.0
+x-frame-options: sameorigin
+x-powered-by: TIME Element
+etag: W/"2716f-xdszKByTbH9U2L0f+BFLZlqxraM"
+vary: Accept-Encoding,Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 6115ccbf06ce7bea7cea8806dfa86752.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C3
+x-amz-cf-id: UrTG1ngulDYA-lkCQ1uD4CM2sdIVLXWZBGLI736iOf9ffST-qIw7ow==
+
+URL: https://tmz.com
+HTTP/2 301 
+content-type: text/html; charset=iso-8859-1
+location: https://www.tmz.com/
+date: Thu, 04 Mar 2021 19:14:37 GMT
+server: Apache
+x-cache: Miss from cloudfront
+via: 1.1 9cdf83ac92372e14c2c11c5760f6d17a.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C3
+x-amz-cf-id: 1glGxxxHVKAw2dWcjmv48Kyr0gqOwnwNj6HwW8FPtPf_Q4vttZGMkA==
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:14:35 GMT
+server: Apache
+x-powered-by: PHP/7.4.14
+cache-control: max-age=30, public, s-maxage=60
+link: <https://imagez.tmz.com>; rel="preconnect"; crossorigin="anonymous",<https://static.tmz.com>; rel="preconnect"; crossorigin="anonymous"
+x-fpc-key: 9e4e124dd26ff10f21514103a1262bfd855aed20a2e0b371a6cd3c6d983d027d
+x-fpc: hit
+content-security-policy: upgrade-insecure-requests;
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+referrer-policy: unsafe-url
+vary: CloudFront-Viewer-Country
+x-cache: Hit from cloudfront
+via: 1.1 2131ee05242e33f83980b2999cb3c57d.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C1
+x-amz-cf-id: ZEtbqUo-TjvbAE7w6iVmFPIfZyoMhnYjDE4tvcfQ38bHHdUmgy6QPw==
+age: 3
+
+URL: https://tools.google.com
+HTTP/2 302 
+location: https://www.google.com/chrome
+content-type: text/html; charset=UTF-8
+content-length: 211
+date: Thu, 04 Mar 2021 19:14:37 GMT
+expires: Thu, 04 Mar 2021 19:14:37 GMT
+cache-control: private, max-age=0
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 301 
+location: https://www.google.com/chrome/
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 04 Mar 2021 18:53:43 GMT
+expires: Thu, 04 Mar 2021 19:23:43 GMT
+server: sffe
+content-length: 227
+x-xss-protection: 0
+cache-control: public, max-age=1800
+age: 1254
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-length: 224499
+content-security-policy-report-only: script-src 'nonce-c8CdY2d5DzW0v1Ry5R3HVg' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/webmaster/chrome; base-uri 'none'
+cross-origin-resource-policy: cross-origin
+date: Thu, 04 Mar 2021 19:14:37 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+last-modified: Mon, 01 Mar 2021 15:00:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://tripadvisor.com
+HTTP/2 301 
+cache-control: no-cache,no-store,must-revalidate
+content-type: text/plain; charset=utf-8
+date: Thu, 04 Mar 2021 19:14:38 GMT
+expires: 0
+location: https://www.tripadvisor.com/
+pragma: no-cache
+server: envoy
+timing-allow-origin: https://www.tripadvisor.com
+x-ta-cdn-provider: Edgecast
+
+HTTP/2 200 
+server: envoy
+p3p: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DSP COR CAO PSA IDC ADM DEVi TAIi PSD IVAi IVDi CONi HIS CNT"
+link: <https://static.tacdn.com>;rel="preconnect";crossorigin
+link: <https://media-cdn.tripadvisor.com/media/>;rel="preconnect";crossorigin
+cache-control: no-cache,no-store,must-revalidate
+expires: 0
+pragma: no-cache
+content-length: 275194
+timing-allow-origin: https://www.tripadvisor.com
+vary: Accept-Encoding
+content-type: text/html;charset=UTF-8
+date: Thu, 04 Mar 2021 19:14:39 GMT
+
+URL: https://ucla.edu
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:14:39 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: https://www.ucla.edu/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=blucqht5c1snvmnebl70007d77; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, max-age=86400, public, must-revalidate, proxy-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Date: Thu, 04 Mar 2021 19:14:39 GMT
+Age: 1
+Connection: keep-alive
+X-Cache: HIT
+
+URL: https://ucoz.ru
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.8.1
+Date: Thu, 04 Mar 2021 19:14:36 GMT
+Content-Type: text/html
+Content-Length: 184
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: https://www.ucoz.ru/
+X-Frame-Options: SOMEORIGIN
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 04 Mar 2021 19:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2024
+Last-Modified: Mon, 08 Feb 2021 15:45:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=15
+ETag: "60215c8c-7e8"
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+
+URL: https://undeveloped.com
+HTTP/2 301 
+server: openresty/1.13.6.2
+date: Thu, 04 Mar 2021 19:14:11 GMT
+content-type: text/html
+content-length: 191
+location: https://dan.com/
+
+HTTP/2 200 
+server: openresty/1.13.6.2
+date: Thu, 04 Mar 2021 19:14:11 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"5fca20f626e29b9e4317143dee605bd0"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: bc9bd58fe1b6ef954d6d794db6d30e25e8ff50634d24346cf8006ef422e3c05c6e48b07678e34d08c97ad3f91012c80ac690b50f51fbd49b16e301de58d9c5ca=aaUOXjQbdkc7ZoWnULxtvsWW6KaMhoo4anPa30VFwGQLFzS2fe0WS2K2oF8sowbMWN%2FjKDUmKqn0vOR52u37XfbwF3Ltwuy9v%2Fc1B%2F%2FeBS89TqiEbnRl9eYyTYOBZpyHQs2sfyv56HVePMF7xxK%2Bm1O%2BjOTx7D8l%2Fc%2BMY1NtWOVRtJvpZG6lBR1vFEjFE%2Bw%2Ft0isd3huXbeCUgeIVTd%2FEzoP9nXh0nmBHi%2BgHSgSd0xng052JULtI3dzakpM6OWkWsJ6Tc6yT5icHm72sqlZrCARchxkVbf3jLP8%2F1IL3TV3WN2XFCvuk8I66nLK3Y4MwHbu6b3OQqqkm5k7Whs8futRQDlYmkfvz%2BaYikvC4CFJufF%2FRxyYqjqM6rS4ygkenl5JcLOZFSL7ASshdOcnq29jl0PZ4ZRk%2F3x6YDPZBpsTBO1%2BMwBt7w%3D%3D--hEYESWeF%2FOED2WJL--1Q6UPNu%2BdvMpxiL%2BK4oNIg%3D%3D; path=/; secure; HttpOnly
+x-request-id: 4157434e-052c-40f0-a51d-5debb45df64f
+x-runtime: 0.024838
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: frame-ancestors 'self';
+
+URL: https://uol.com.br
+HTTP/1.0 301 Moved Permanently
+Location: https://www.uol.com.br/
+Cache-Control: max-age=60
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+content-length: 454948
+date: Thu, 04 Mar 2021 19:14:42 GMT
+server: marrakesh 1.20.0
+content-security-policy: frame-ancestors 'self' *.intranet *.uolinc.com;
+cache-control: no-transform, max-age=10, must-revalidate, proxy-revalidate
+last-modified: Thu, 04 Mar 2021 19:14:26 GMT
+etag: a63d144cf5228fcef35ffdea7b3131cd
+expires: Thu, 04 Mar 2021 19:14:52 GMT
+vary: Accept-Encoding,Accept-Encoding,User-Agent
+x-cache: Hit from cloudfront
+via: 1.1 15cde442051269a0307a638d23683c8c.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C3
+x-amz-cf-id: -7_VMJCNiIoSikFFuEyXp9lrJx_aGZ-bHEMkY_bIc_SLAAOG2fGCrw==
+
+URL: https://usgs.gov
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 04 Mar 2021 19:14:43 GMT
+Strict-Transport-Security: max-age=31536000;
+Location: https://www.usgs.gov/
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+date: Thu, 04 Mar 2021 19:13:17 GMT
+set-cookie: AWSALB=iVZqSsRsZmlPtfbSDx0hxZp8tAhlp1OE45VahVYKBHRLGWjY1bMaCjfh8T8Zslj3POP64+pXZgy+pO+Uef8aRFkg2hVyZKL8L6dQt5ugEXPvFTL8CjWynROIu/WA; Expires=Thu, 11 Mar 2021 19:13:17 GMT; Path=/
+set-cookie: AWSALBCORS=iVZqSsRsZmlPtfbSDx0hxZp8tAhlp1OE45VahVYKBHRLGWjY1bMaCjfh8T8Zslj3POP64+pXZgy+pO+Uef8aRFkg2hVyZKL8L6dQt5ugEXPvFTL8CjWynROIu/WA; Expires=Thu, 11 Mar 2021 19:13:17 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=fBIvDEOtg2fNkca0nzreYcmR7COfrES5SVn58Vj8v0DMNZC945SrkLbQHSm+u7Sy2wOupGWBGiy0cr1B//z64OPDduwgtY0NbHG+G+LAz42o7OAvW1JGbPecmJNE; Expires=Thu, 11 Mar 2021 19:00:19 GMT; Path=/
+set-cookie: AWSALBCORS=fBIvDEOtg2fNkca0nzreYcmR7COfrES5SVn58Vj8v0DMNZC945SrkLbQHSm+u7Sy2wOupGWBGiy0cr1B//z64OPDduwgtY0NbHG+G+LAz42o7OAvW1JGbPecmJNE; Expires=Thu, 11 Mar 2021 19:00:19 GMT; Path=/; SameSite=None
+x-drupal-cache: MISS
+content-language: en
+x-generator: Drupal 7 (http://drupal.org)
+link: <https://www.usgs.gov/>; rel="canonical",<https://www.usgs.gov/>; rel="shortlink"
+cache-control: max-age=300
+expires: Thu, 04 Mar 2021 19:18:17 GMT
+etag: W/"1614884419-1"
+last-modified: Thu, 04 Mar 2021 19:00:19 GMT
+x-proxy-cache: HIT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 19ae496eb414e9373ed8ce49d0fdbba3.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C1
+x-amz-cf-id: 0gY_MwxDRd8w3N21luvAqleTsvY1E7mesDPZ7VNGtNEpVHPtpLMplQ==
+age: 86
+
+URL: https://vk.com
+HTTP/2 418 
+server: kittenx
+date: Thu, 04 Mar 2021 19:14:43 GMT
+content-length: 0
+x-frontend: front212403
+access-control-expose-headers: X-Frontend
+
+URL: https://vox.com
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: http://www.vox.com/
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:43 GMT
+via: 1.1 varnish
+x-served-by: cache-dca17770-DCA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1614885284.864849,VS0,VE0
+set-cookie: vmidv1=586c7bf6-ec75-4e58-94a8-ee8d5da54894;Expires=Tue, 03 Mar 2026 19:14:43 GMT;Domain=vox.com;Path=/;SameSite=Lax;Secure
+content-length: 0
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Server: nginx
+Location: https://www.vox.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 04 Mar 2021 19:14:43 GMT
+Via: 1.1 varnish
+Age: 2175
+Connection: keep-alive
+Set-Cookie: _chorus_geoip_continent=NA; expires=Fri, 05 Mar 2021 19:14:43 GMT; path=/;
+X-Served-By: cache-dca17758-DCA
+X-Cache: HIT
+X-Cache-Hits: 3
+X-Timer: S1614885284.887742,VS0,VE0
+Vary: X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+Set-Cookie: vmidv1=87161162-e2d0-4e4f-bf96-4a4809828f4c;Expires=Tue, 03 Mar 2026 19:14:43 GMT;Domain=www.vox.com;Path=/;SameSite=Lax;Secure
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: data: blob:; media-src https: data: blob:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+link: <https://concertads-configs.vox-cdn.com/sbn/vox/config.json>; rel=preload; as=fetch; crossorigin
+cache-control: max-age=0, public, must-revalidate
+etag: W/"2c8b65143332bdca789e567099aa1376"
+x-request-id: 269265f93018404f77f3a11a0f2d6421fe9bb58a
+x-runtime: 0.199096
+strict-transport-security: max-age=31556952; preload
+accept-ranges: bytes
+date: Thu, 04 Mar 2021 19:14:43 GMT
+via: 1.1 varnish
+age: 19
+set-cookie: _chorus_geoip_continent=NA; expires=Fri, 05 Mar 2021 19:14:43 GMT; path=/;
+x-served-by: cache-dca17776-DCA
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1614885284.946608,VS0,VE1
+vary: Accept-Encoding, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region, Origin, X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+set-cookie: vmidv1=1281dcb2-62b4-4866-9ac1-4772527bc556;Expires=Tue, 03 Mar 2026 19:14:43 GMT;Domain=www.vox.com;Path=/;SameSite=Lax;Secure
+content-length: 307036
+
+URL: https://wa.me
+HTTP/2 302 
+vary: Accept-Encoding
+pragma: no-cache
+location: https://api.whatsapp.com/
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+content-type: text/html; charset="utf-8"
+x-fb-debug: Fbe6mbMjdt0Qch1pgHQS/3XU4kmKNCfEwxhHGjCGGuCapmBe2Mg9mrAY7Ol5KIZ1cISdfBENLYuLIQL7Jz/ZJw==
+content-length: 0
+x-fb-trip-id: 1679558926
+date: Thu, 04 Mar 2021 19:14:44 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+HTTP/2 200 
+vary: Accept-Encoding
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+set-cookie: wa_lang_pref=en; expires=Thu, 11-Mar-2021 19:14:44 GMT; Max-Age=604800; path=/; domain=.whatsapp.com; secure; httponly
+set-cookie: wa_ul=04c6a9c1-929a-4eb0-9b58-b71ee37845e6; expires=Sat, 04-Mar-2023 19:14:44 GMT; Max-Age=63072000; path=/; domain=.whatsapp.com; secure; httponly
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+content-type: text/html; charset="utf-8"
+x-fb-debug: nk7U0eP3v9uldVa8nFgLzQF4h/e0lUtjm2qFPrsuM6kmrUm62WIkAbLFckNKjX9I25zGLd0EsfGbZZI3TsnXWw==
+x-fb-trip-id: 1679558926
+date: Thu, 04 Mar 2021 19:14:44 GMT
+alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+URL: https://walmart.com
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Content-Length: 54
+Content-Type: text/html; charset=utf-8
+Location: https://www.walmart.com/
+Via: HTTP/1.1 odnd
+Date: Thu, 04 Mar 2021 19:14:44 GMT
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+last-modified: Thu, 04 Mar 2021 19:06:47 GMT
+strict-transport-security: max-age=86400
+traceparent: 00-0066003000660038003300660033003-006600300066003-00
+x-envoy-upstream-service-time: 40
+x-frame-options: SAMEORIGIN
+x-tb: 1
+x-tb-optimization-total-bytes-saved: 711563
+wm_qos.correlation_id: f0f83f37-007-177fea2a4ca854,f0f83f37-007-177fea2a4cab54,f0f83f37-007-177fea2a4cab54
+expires: Thu, 04 Mar 2021 19:14:44 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Thu, 04 Mar 2021 19:14:44 GMT
+cache-status: Hit
+origin-ex: 
+origin-cc: 
+set-cookie: akavpau_p8=1614885884~id=657d4687973a7b1e2f2ab14d8c7cced1; Path=/; HttpOnly; Secure; SameSite=None
+x-ak-protocol: h2
+set-cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1614885284570@firstcreate:1614885284570"; Max-Age=315360000; domain=walmart.com; path=/; SameSite=Strict
+
+URL: https://weibo.com
+HTTP/2 302 
+date: Thu, 04 Mar 2021 19:14:45 GMT
+content-type: text/html
+location: http://weibo.com/us
+expires: Mon, 26 Jul 1997 05:00:00 GMT
+last-modified: Thu, 04 Mar 2021 19:14:45 GMT
+cache-control: no-cache, must-revalidate
+pramga: no-cache
+dpool_header: mweibo-10-13-41-147.bx.intra.weibo.cn
+lb_node: layer7-rpc-002.mweibo.tc.intra.weibo.cn
+lb_node: mapi-bypass-yf-ffbfd95c5-54jh2
+lb: 47.254.92.5
+lb_node: layer7-002.mweibo.abroad-usa.intra.weibo.cn
+lb: 47.254.92.5
+
+HTTP/1.1 302 Moved Temporarily
+Date: Thu, 04 Mar 2021 19:14:45 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Thu, 04 Mar 2021 19:14:45 GMT
+Cache-Control: no-cache, must-revalidate
+Pramga: no-cache
+Location: https://weibo.com/us?ssl_rnd=1614885285.6415
+Set-Cookie: login_sid_t=e459d985b86c85cc27f0c139a30d0eb4; path=/; domain=.weibo.com
+Set-Cookie: cross_origin_proto=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.weibo.com
+DPOOL_HEADER: mweibo-10-75-11-28.yf.intra.weibo.cn
+LB_NODE: mweibo-10-22-254-42.xxg.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-ffbfd95c5-54jh2
+LB: 47.254.92.5
+LB_NODE: layer7-001.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:46 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding
+expires: Mon, 26 Jul 1997 05:00:00 GMT
+last-modified: Thu, 04 Mar 2021 19:14:46 GMT
+cache-control: no-cache, must-revalidate
+pramga: no-cache
+set-cookie: login_sid_t=f39cfc57adb735be87004eade7f048c8; path=/; domain=.weibo.com
+set-cookie: cross_origin_proto=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.weibo.com
+dpool_header: mweibo-10-73-15-203.tc.intra.weibo.cn
+lb_node: mweibo-10-13-173-183.bx.intra.weibo.cn
+lb_node: mapi-bypass-yf-ffbfd95c5-khw5f
+lb: 47.254.92.5
+lb_node: layer7-001.mweibo.abroad-usa.intra.weibo.cn
+lb: 47.254.92.5
+
+URL: https://whitehouse.gov
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.whitehouse.gov/
+date: Thu, 04 Mar 2021 19:14:46 GMT
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+content-type: text/html; charset=utf-8
+
+HTTP/2 200 
+x-build-back-better: https://usds.gov/
+x-frame-options: DENY
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-type: text/html; charset=UTF-8
+date: Thu, 04 Mar 2021 19:14:46 GMT
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+
+URL: https://who.int
+HTTP/2 301 
+date: Thu, 04 Mar 2021 19:14:46 GMT
+cache-control: max-age=3600
+expires: Thu, 04 Mar 2021 20:14:46 GMT
+location: https://www.who.int/
+cf-request-id: 08a04309d20000ea5ef93be000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62ad6defbe89ea5e-IAD
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:46 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d4a95f3fc8107a1c21af77b179fc1b49d1614885286; expires=Sat, 03-Apr-21 19:14:46 GMT; path=/; domain=.who.int; HttpOnly; SameSite=Lax; Secure
+cf-ray: 62ad6df01f257493-IAD
+access-control-allow-origin: *
+cache-control: public, max-age=0, s-maxage=21600
+expires: Thu, 04 Mar 2021 19:14:46 GMT
+last-modified: Thu, 04 Mar 2021 18:54:14 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: HTTP_HOST,Accept-Encoding
+cf-cache-status: DYNAMIC
+access-control-expose-headers: Request-Context
+cf-request-id: 08a0430a0b00007493d10c1000000001
+content-security-policy: default-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com player.4am.ch polyfill.io services.arcgis.com www.googleadservices.com assets.sitescdn.net *.nativechat.com *.addthis.com static.hotjar.com app.powerbi.com dc.services.visualstudio.com wabi-north-europe-redirect.analysis.windows.net pbipdfapp.azurewebsites.net content.powerapps.com visuals.azureedge.net gis.azureedge.net pbi.azureedge.net *.who.int m.addthis.com liveapi-cached.yext.com covidfunding.eiu.com staging-dot-eiu-wellcome-7664.nw.r.appspot.com who-covid-answers.int.pagescdn.com who-answers.pagescdn.com liveapi.yext.com answers.yext-pixel.com westeurope.tts.speech.microsoft.com wabi-north-europe-redirect.analysis.windows.net pbipdfapp.azurewebsites.net who.cloudflareaccess.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com www.youtube.com public.tableau.com *.googleapis.com *.nativechat.com *.gstatic.com  www.google.com *.google-analytics.com apis.google.com *.sharethis.com connect.facebook.net ajax.aspnetcdn.com cdnjs.cloudflare.com www.clarity.ms https://www.youtube.com/iframe_api platform.twitter.com https://syndication.twitter.com/ https://s.ytimg.com https://publish.twitter.com *.twimg.com platform.linkedin.com http://platform.stumbleupon.com/1/widgets.js https://dec.azureedge.net/ munchkin.marketo.net *.eloqua.com js.hs-scripts.com js.hs-analytics.net *.en25.com cdn.ampproject.org s7.addthis.com kendo.cdn.telerik.com www.googletagmanager.com z.moatads.com v1.addthisedge.com cdnjs.cloudflare.com www.who.int polyfill.io kendo.cdn.telerik.com *.googletagmanager.com *.pingdom.net *.jwpcdn.com *.doubleclick.net assets.sitescdn.net whosearch.searchblox.com *.msecnd.net tagmanager.google.com static.hotjar.com covidfunding.eiu.com staging-dot-eiu-wellcome-7664.nw.r.appspot.com who-covid-answers.int.pagescdn.com who-answers.pagescdn.com script.hotjar.com assets.pinterest.com apps.who.int m.addthis.com npmcdn.com script.hotjar.com; style-src 'self' 'unsafe-inline' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com *.googleapis.com *.nativechat.com *.sharethis.com *.gstatic.com netdna.bootstrapcdn.com kendo.cdn.telerik.com cdnjs.cloudflare.com www.google.com https://dec.azureedge.net platform.twitter.com/css/ *.twimg.com use.fontawesome.com www.who.int player.4am.ch whosearch.searchblox.com tagmanager.google.com; font-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com fonts.gstatic.com kendo.cdn.telerik.com *.nativechat.com *.sharethis.com netdna.bootstrapcdn.com data: use.fontawesome.com www.who.int player.4am.ch whosearch.searchblox.com script.hotjar.com app.powerbi.com pbi.azureedge.net; img-src 'self' data: tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com *.gstatic.com *.googleapis.com *.nativechat.com *.sharethis.com *.google-analytics.com platform.tumblr.com www.clarity.ms web.facebook.com www.facebook.com https://delicious.com www.redditstatic.com www.linkedin.com https://syndication.twitter.com https://static.licdn.com/scds/common/u/images/apps/connect/sprites/sprite_connect_v14.png https://dec.azureedge.net https://apps.who.int https://*.dec.sitefinity.com pbs.twimg.com platform.twitter.com/css/ *.twimg.com data: blob: *.eloqua.com track.hubspot.com stats.g.doubleclick.net *.who.int yt3.ggpht.com i.ytimg.com addthis.com *.googleusercontent.com googletagmanager.com script.hotjar.com www.addthis.com log.pinterest.com whosearch.searchblox.com app.powerbi.com pbi.azureedge.net kendo.cdn.telerik.com; media-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com terrance.who.int data: blob: *.who.int; frame-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com who.maps.arcgis.com player.vimeo.com html5-player.libsyn.com *.nativechat.com public.tableau.com experience.arcgis.com www.facebook.com s7.addthis.com www.youtube.com platform.twitter.com *.who.int *.doubleclick.net docs.google.com syndication.twitter.com *.sitefinity.cloud player.4am.ch *.sharethis.mgr.consensu.org *.google.com vars.hotjar.com youtube-nocookie.com covidfunding.eiu.com staging-dot-eiu-wellcome-7664.nw.r.appspot.com who-covid-answers.int.pagescdn.com who-answers.pagescdn.com assets.pinterest.com www.youtube-nocookie.com vars.hotjar.com app.powerbi.com pbi.azureedge.net wabi-north-europe-g-primary-redirect.analysis.windows.net; frame-ancestors tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com app.powerbi.com pbi.azureedge.net *.who.int; child-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com https://platform.twitter.com/ https://syndication.twitter.com/ *.nativechat.com https://www.youtube.com/ https://player.vimeo.com/ https://w.soundcloud.com/ apis.google.com accounts.google.com staticxx.facebook.com www.facebook.com web.facebook.com badge.stumbleupon.com www.who.int; connect-src 'self' tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com stats.g.doubleclick.net accounts.google.com https://*.dec.sitefinity.com *.nativechat.com *.mktoresp.com *.who.int www.clarity.ms services.arcgis.com dc.services.visualstudio.com whosearch.searchblox.com *.google-analytics.com smartsuggest.searchblox.com m.addthis.com liveapi-cached.yext.com liveapi.yext.com answers.yext-pixel.com wss://westeurope.tts.speech.microsoft.com in.hotjar.com wss://*.hotjar.com *.hotjar.com vc.hotjar.io app.powerbi.com pbi.azureedge.net pbipdfapp.azurewebsites.net wabi-north-europe-redirect.analysis.windows.net; object-src tiles.arcgis.com www.arcgis.com services.arcgis.com utility.arcgisonline.com js.acrgis.com app.powerbi.com pbi.azureedge.net pbipdfapp.azurewebsites.net wabi-north-europe-redirect.analysis.windows.net;
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+referrer-policy: no-referrer-when-downgrade
+request-context: appId=cid-v1:7d90af53-a640-4c9a-9d36-1c3f84f71f51
+x-aspnet-version: 4.0.30319
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-instance-name: RD501AC5DD137F
+x-powered-by: ASP.NET
+x-xss-protection: 1; mode=block
+server: cloudflare
+
+URL: https://wsj.com
+HTTP/2 404 
+content-type: text/html; charset=UTF-8
+content-length: 802614
+date: Thu, 04 Mar 2021 19:13:10 GMT
+last-modified: Thu, 04 Mar 2021 19:12:07 GMT
+etag: "5c0121c98bd2d603c142b23de4634446"
+cache-control: public,max-age=60,s-maxage=60
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Error from cloudfront
+via: 1.1 88112861fcc652b3e20b1a8120ffdda0.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C3
+x-amz-cf-id: C2v3RurgSBmF0fXQ4xtwOczvxbhtUvgkCoR-JAOSLnB4AZ88CM7Dcg==
+age: 97
+
+URL: https://yadi.sk
+HTTP/1.1 302 Found
+Server: nginx
+Date: Thu, 04 Mar 2021 19:14:47 GMT
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://disk.yandex.com
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-qloud-router: sas8-9ff07984c632.qloud-c.yandex.net
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 04 Mar 2021 19:14:47 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 25454
+Connection: keep-alive
+Keep-Alive: timeout=120
+Set-Cookie: yandexuid=6059926701614885287; domain=.yandex.com; expires=Tue, 19 Jan 2038 03:14:07 GMT; path=/; Secure;
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'none'; script-src 'nonce-FrBolPkMZc+IBQpwBlMgkQ==' 'unsafe-inline' https://yastatic.net mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; style-src 'unsafe-inline' https://yastatic.net; img-src 'self' https://yastatic.net mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; font-src yastatic.net; connect-src yandex.ru mc.yandex.ru mc.yandex.com mc.webvisor.com mc.webvisor.org; child-src blob: mc.yandex.ru; frame-src blob: mc.yandex.ru;
+ETag: W/"636e-FDI/oEmqSXkQ8V/1yGrfOguqcXg"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-qloud-router: iva5-dc305c57dd9f.qloud-c.yandex.net
+
+URL: https://youtu.be
+HTTP/2 303 
+content-type: application/binary
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:14:48 GMT
+location: https://www.youtube.com/?feature=youtu.be
+content-length: 0
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+server: ESF
+x-xss-protection: 0
+set-cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 04-Mar-2021 19:44:48 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=TBQFVylj0mM; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_INFO1_LIVE=ecM7Ef2CMQQ; Domain=.youtube.com; Expires=Tue, 31-Aug-2021 19:14:48 GMT; Path=/; Secure; HttpOnly; SameSite=none
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:14:48 GMT
+content-length: 543814
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+server: ESF
+x-xss-protection: 0
+set-cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 04-Mar-2021 19:44:48 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=bLbr2WlU820; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_INFO1_LIVE=BxOMyVm0cCE; Domain=.youtube.com; Expires=Tue, 31-Aug-2021 19:14:48 GMT; Path=/; Secure; HttpOnly; SameSite=none
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://youtube.com
+HTTP/2 301 
+content-type: application/binary
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:14:48 GMT
+location: https://www.youtube.com/
+content-length: 0
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: ESF
+x-xss-protection: 0
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 04 Mar 2021 19:14:48 GMT
+content-length: 570138
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+server: ESF
+x-xss-protection: 0
+set-cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 04-Mar-2021 19:44:49 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=y0f-jOEywJo; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_INFO1_LIVE=2uZ42linGfQ; Domain=.youtube.com; Expires=Tue, 31-Aug-2021 19:14:49 GMT; Path=/; Secure; HttpOnly; SameSite=none
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+URL: https://zdnet.com
+HTTP/2 301 
+content-length: 178
+content-type: text/html
+date: Thu, 04 Mar 2021 19:14:49 GMT
+location: https://www.zdnet.com/
+server: nginx
+via: 1.1 google
+alt-svc: clear
+
+HTTP/2 200 
+content-security-policy: frame-ancestors 'self' *.zdnet.com *.ampproject.org *.amp.cloudflare.com; default-src https: blob: 'unsafe-inline' 'unsafe-eval' data:; font-src https: blob: data:; img-src https: data: android-webview-video-poster: blob:; form-action https:; block-all-mixed-content; media-src https: blob: data:;
+content-type: text/html; charset=UTF-8
+expect-ct: max-age=0, report-uri="https://7a8f8748a40805618a61b617481a6ebc.report-uri.com/r/d/ct/reportOnly"
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-tx-id: c204d292-31e2-442a-80d7-d2d145bb20c9
+x-xss-protection: 1; mode=block
+set-cookie: nemo_highlander=fd_preload:1:control; expires=Thu, 11-Mar-2021 15:00:00 GMT; path=/; domain=.zdnet.com; secure
+date: Thu, 04 Mar 2021 19:14:49 GMT
+via: 1.1 varnish
+cache-control: max-age=300, private
+expires: Thu, 04 Mar 2021 19:15:04 GMT
+set-cookie: fly_geo={"countryCode": "us"}; max-age=604800; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_device=desktop; max-age=604800; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_preferred_edition=us; path=/; domain=.zdnet.com; Secure;
+set-cookie: fly_default_edition=us; path=/; domain=.zdnet.com; Secure;
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ranges: bytes
+vary: Accept-Encoding, User-Agent
+content-length: 600312
+
+URL: https://zendesk.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 04 Mar 2021 19:14:49 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.zendesk.com/
+X-Content-Type-Options: nosniff
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 19:14:49 GMT
+content-type: text/html
+set-cookie: __cfduid=d58566379cf014975df091a694ddf27751614885289; expires=Sat, 03-Apr-21 19:14:49 GMT; path=/; domain=.www.zendesk.com; HttpOnly; SameSite=Lax
+last-modified: Thu, 04 Mar 2021 18:44:03 GMT
+vary: Accept-Encoding
+etag: W/"60412a73-1b817"
+content-security-policy: default-src * wss://*.zopim.com 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self' app.optimizely.com *.zendesk.com *.zendesk.co.jp *.zendesk.co.uk *.zendesk.com.br *.zendesk.com.mx *.zendesk.com.ru *.zendesk.de *.zendesk.es *.zendesk.fr *.zendesk.it *.zendesk.kr *.zendesk.nl; font-src * data:; img-src * data:; media-src * blob:; worker-src blob:;
+via: 1.1 vegur
+cf-cache-status: HIT
+age: 132
+cf-request-id: 08a043175c000027b1a919b000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+set-cookie: __cf_bm=a2714d861f5ec32085eda9a265b1ffdd4c54c98a-1614885289-1800-Aa4ku1eLZK2xRyZINVSCftRYev1OlARjHih7uAV7n2KbAUGzuMb/Wq3WJbSfn6LMXqTh35vpmidGffQuUIaSsmw=; path=/; expires=Thu, 04-Mar-21 19:44:49 GMT; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 62ad6e0569c427b1-IAD
+
