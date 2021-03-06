@@ -1,0 +1,28 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Mon, 01 Mar 2021 15:47:59 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Server: nginx
+Location: https://www.nikkei.com/
+Expires: Mon, 01 Mar 2021 15:53:59 GMT
+Cache-Control: max-age=360
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self'
+
+HTTP/2 200 
+link: </.resources/top/main.rev-30175086.module.js>;rel=preload;as=script;charset=UTF-8;
+link: </.resources/top/main.rev-63d6fc52.css>;rel=preload;as=style;charset=UTF-8;
+link: <https://r.nikkei.com/.resources/polyfill/v2/polyfill.min.js?version=3.52.1&features=default,es2015,es2016,es2017,es2018,es2019,IntersectionObserver,fetch,performance.now,MutationObserver>;rel=preload;as=script;charset=UTF-8;
+content-type: text/html; charset=utf-8
+etag: W/"6df54-bgC5Cl1mplUuqc/Yh3gjQl145Uo"
+nikkei-app-version: 0-0-7012
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:48:03 GMT
+set-cookie: atlasId=4klbnd1cfpticpeswd41v64u4-z4dprp7w_g6vz0l_eu6wbwdclv-sy-1wjv-4kx; Domain=.nikkei.com; Path=/; Max-Age=157680000; SameSite=Lax
+cache-control: no-cache,must-revalidate,proxy-revalidate
+referrer-policy: no-referrer-when-downgrade
+content-length: 450388
+

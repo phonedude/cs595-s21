@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.asahi.com/
+Date: Mon, 01 Mar 2021 14:55:59 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx
+content-type: text/html
+last-modified: Mon, 01 Mar 2021 14:45:18 GMT
+etag: W/"603cfdfe-c394"
+cache-control: max-age=5
+expires: Mon, 01 Mar 2021 14:56:04 GMT
+date: Mon, 01 Mar 2021 14:55:59 GMT
+x-n: S
+

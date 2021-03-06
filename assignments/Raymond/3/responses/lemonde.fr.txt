@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 15:39:28 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17758-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614613168.143526,VS0,VE1
+Location: https://www.lemonde.fr/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-protected-by: Sqreen
+set-cookie: critical-home-free-desktop=82df5a57775220f1074ff7a142bfd9da; expires=Wed, 31-Mar-2021 15:39:28 GMT; Max-Age=2592000; path=/; secure
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+via: 1.1 google, 1.1 varnish, 1.1 varnish
+cache-control: private, max-age=0
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:39:28 GMT
+x-served-by: cache-cdg20738-CDG, cache-bwi5082-BWI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1614613168.268158,VS0,VE149
+vary: Accept-Encoding
+strict-transport-security: max-age=31557600
+

@@ -1,0 +1,76 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 01 Mar 2021 14:49:15 GMT
+Location: https://adssettings.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=210=pLmqG5wrCYeXPtKMvpBSVMQRhZ2GYf098MR2js35MLKskmYdJz2Imrr02xZ-XkRFrcU5T2HMgC0TbW4em_PYkzPUhdW4YziLixcBVYIZ0YC_FzqzhQu6H2wrnNnzVoylD6FdSp1Am18CVXoIXgr1DsGL7tjio0hfxo43lVIyAEU; expires=Tue, 31-Aug-2021 14:49:15 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 01 Mar 2021 14:49:15 GMT
+location: https://www.google.com/ads/preferences?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw%3D%3D
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+content-security-policy: script-src 'nonce-Wj81Uxke+JUS9nJpuhHwgg' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AdsSettingsUi/cspreport;worker-src 'self'
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=SGohIls0s8xy7mjpXWbS30U3ChjPqahOZNxaSEXmAZXBheZPZG1stwRoBcDclRmaTNfuailJVl5JZovuH53_uvmGCAVdz-GsEyH_4RIH8Dx6H0prHnpexbatLYyJV7dDRC4H-GWDTvLqM4d7aWSTUuWhqDDMaLF5K8HdWetR1jY; expires=Tue, 31-Aug-2021 14:49:15 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 302 
+location: https://www.google.com/ads/preferences/checkgoog?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw==&hl=en
+date: Mon, 01 Mar 2021 14:49:15 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: content-ads-prefmgr
+content-length: 321
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: pm_sess=ACi0TCiszxj18gTo5eFpb-_u8VCtvl-awKJUH1QNYEoMDc1Mgv79PXfq1fD814AIIMsRMW0YgKWv; expires=Mon, 01-Mar-2021 15:19:15 GMT; path=/ads/preferences; domain=.google.com; Secure
+set-cookie: pm_sess=ACi0TCiszxj18gTo5eFpb-_u8VCtvl-awKJUH1QNYEoMDc1Mgv79PXfq1fD814AIIMsRMW0YgKWv; expires=Mon, 01-Mar-2021 15:19:15 GMT; path=/anonymous; domain=.google.com; Secure
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 302 
+location: https://www.google.com/ads/preferences/html/blocked-cookies.html
+cache-control: private
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Mon, 01 Mar 2021 14:49:15 GMT
+server: content-ads-prefmgr
+content-length: 261
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html
+last-modified: Mon, 12 Jun 2017 11:45:51 GMT
+date: Mon, 01 Mar 2021 14:49:15 GMT
+expires: Mon, 01 Mar 2021 14:49:15 GMT
+cache-control: private, max-age=3600
+x-content-type-options: nosniff
+server: content-ads-prefmgr
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+accept-ranges: none
+vary: Accept-Encoding
+

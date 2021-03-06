@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.news.com.au/
+Date: Mon, 01 Mar 2021 15:45:38 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.news.com.au/
+Cache-Control: max-age=0
+Expires: Mon, 01 Mar 2021 15:45:38 GMT
+Date: Mon, 01 Mar 2021 15:45:38 GMT
+Connection: keep-alive
+X-ARRRG1: /blaize/decision-engine?path=http%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.theaustralian.newscorp.blaize.io&content_id=
+Vary: User-Agent
+is-https: false
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=UTF-8
+content-length: 58148
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+x-content-type-options: nosniff
+x-xss-protection: 1
+x-rq: ewr4 114 53 3216
+accept-ranges: bytes
+cache-control: must-revalidate, max-age=1
+expires: Mon, 01 Mar 2021 15:45:39 GMT
+date: Mon, 01 Mar 2021 15:45:38 GMT
+x-arrrg1: /blaize/decision-engine?path=https%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.theaustralian.newscorp.blaize.io&content_id=
+vary: User-Agent
+is-https: true
+x-webkit-csp: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+x-content-security-policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+content-security-policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+

@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:58:11 GMT
+Server: Apache
+Location: https://www.sfgate.com/
+Cache-Control: max-age=60
+Expires: Mon, 01 Mar 2021 15:59:11 GMT
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+server: Apache
+x-gen-mode: full
+x-block-status: fresh
+referrer-policy: no-referrer-when-downgrade
+edge-control: !no-store, !bypass-cache, cache-maxage=0s, downstream-ttl=300s
+cache-control: max-age=0, s-maxage=0
+user-cache-control: max-age=300
+content-type: text/html; charset=UTF-8
+access-control-allow-origin: *
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:58:12 GMT
+via: 1.1 varnish
+age: 56
+set-cookie: btype=web; path=/;
+set-cookie: location_data={"is_eu":false,"country_code":"US","postal_code":"1"}; path=/; SameSite=Strict; Secure
+set-cookie: hnpdiudpf1=JvGZieB6gIIAXr9TihEpTReSW7Jv55vVTaIjPKDzhhM=; domain=sfgate.com; expires=Tue, 01 Mar 2022 15:58:12 GMT; path=/; Secure; HttpOnly
+set-cookie: hnpdiudpf2=F3dyldp2dc4sOYyV/iwfR1bjh12DpnKzvm4Uf/IbdRM=; domain=sfgate.com; path=/; Secure
+set-cookie: ab_bucket=95; expires=Tue, 01 Mar 2022 15:58:12 GMT; path=/; SameSite=none; Secure
+x-hnp-log: 
+x-served-by: cache-wdc5561-WDC
+x-cache: HIT
+x-cache-hits: 5
+x-timer: S1614614292.131478,VS0,VE0
+vary: Accept-Encoding,Fastly-SSL, X-HNP-Instart, X-is-eu, X-ab-scope
+content-length: 375398
+

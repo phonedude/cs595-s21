@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 01 Mar 2021 23:53:53 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.amazon.es/
+X-Cache: Redirect from cloudfront
+Via: 1.1 547c5e28f010be7961f641c3903c0954.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: WZWQSt12qNHUVEhlRKU9V-J8IybWpiZ1SajDIRpnrayDFNB9uszdSQ==
+
+HTTP/2 405 
+content-type: text/html;charset=UTF-8
+content-length: 0
+server: Server
+date: Mon, 01 Mar 2021 23:53:53 GMT
+x-amz-rid: RPGZJDNNW51ZJRJ6KW91
+set-cookie: session-id=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: session-id-time=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: session-token=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: ubid-acbes=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: at-acbes=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: lc-acbes=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: x-acbes=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: x-wl-uid=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: sess-at-acbes=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+set-cookie: UserPref=-; path=/; domain=.www.amazon.es; expires=Sun, 01-Mar-2009 23:53:53 GMT
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-cache: Error from cloudfront
+via: 1.1 5c91d033409cd7607633594f94b09065.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: m7ac1NY73E2Bd3auj-J1bDbJ5JctALJN7Q2iCl72iTaOEwH4qgGcDA==
+

@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 01 Mar 2021 15:11:08 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://consumerreports.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 5195de19cbc5ce842ac6538e9a6850cb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: P4Y5p8vySrzobSc6Y0sQYvj2l993sD6xvw2uX1xnTtTaoxxmI_55Fw==
+
+HTTP/2 301 
+content-length: 0
+location: https://www.consumerreports.org/
+date: Mon, 01 Mar 2021 15:11:08 GMT
+x-varnish: 112816050
+strict-transport-security: max-age=0
+server: 
+x-cache: Miss from cloudfront
+via: 1.1 417c242b19212928b079740e6dd8f54c.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: GVTUarngnL737FLdUN_UOG1ovb-ZOldKDarS-Wcfzj0eRCXXHCdNdw==
+
+HTTP/2 301 
+content-length: 0
+location: https://www.consumerreports.org/cro/index.htm
+date: Mon, 01 Mar 2021 15:11:08 GMT
+x-varnish: 649162757
+server: 
+x-cache: Miss from cloudfront
+via: 1.1 824fe21e467658628899bdd8725649ee.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: GmhMETI0T83nji09kIGCRxYbhbkGZG60veIhGjmNvBSDyPKq7GiWEw==
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+date: Mon, 01 Mar 2021 15:11:08 GMT
+vary: Accept-Encoding
+vary: Accept-Encoding
+x-template: /apps/cr/templates/homepage_v2
+x-depends-on: 100 /cro/homepage_v2/index.view=visitor.htm /cro/index/view=visitor.htm /apps/cr/templates/homepage_v2
+content-language: en
+x-backend: 
+x-k8s-host: www.consumerreports.org
+expires: Sun, 28 Feb 2021 01:45:25 GMT
+x-varnish: 112349252 109497833
+via: 1.1 varnish (Varnish/5.2), 1.1 824fe21e467658628899bdd8725649ee.cloudfront.net (CloudFront)
+x-node: crvarnish53prod1
+grace: none
+x-cache-hits: 70219
+x-viewer-country: US
+set-cookie: userReferrer=https%3A%2F%2Fwww.consumerreports.org%2Fcro%2Findex.htm;domain=.consumerreports.org;path=/
+cache-control: max-age=0, private, no-store, no-cache, must-revalidate
+accept-ranges: bytes
+server: 
+x-cache: Miss from cloudfront
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: CCzkpslDnTGvqEptcfUUz5M5Xrs8VpfsFSQifZFcrcX7wT1G9a2c5w==
+age: 141942
+

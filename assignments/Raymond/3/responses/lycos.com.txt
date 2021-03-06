@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:41:00 GMT
+Server: Apache
+Content-Security-Policy: frame-ancestors 'self' *.lycos.com
+Location: https://lycos.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 302 Found
+Date: Mon, 01 Mar 2021 15:41:01 GMT
+Server: Apache
+Content-Security-Policy: frame-ancestors 'self' *.lycos.com
+Location: https://www.lycos.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Mon, 01 Mar 2021 15:41:01 GMT
+Server: Apache
+Content-Security-Policy: frame-ancestors 'self' *.lycos.com
+X-Powered-By: PHP/7.2.24
+Content-Type: text/html; charset=UTF-8
+

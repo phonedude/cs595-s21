@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/plain; charset=utf-8
+Content-Length: 53
+Connection: keep-alive
+Date: Mon, 01 Mar 2021 15:52:45 GMT
+Server: nginx
+X-Powered-By: Element
+Location: https://people.com/
+X-Cache: Hit from cloudfront
+Via: 1.1 4b0f0fc4315eea23426f6074a7254a8d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: n4FBTuYdcqdRjwPum_gvIKmlxWMJVzSzYrwuoFEYVbxc2eUbmkRxdg==
+Age: 11
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 871669
+date: Mon, 01 Mar 2021 15:52:22 GMT
+server: nginx
+x-powered-by: Element
+cache-control: max-age=30
+content-security-policy-report-only: default-src 'self' https: wss: data: blob: none: gsa: 'unsafe-inline' 'unsafe-eval'; report-uri https://csp-endpoint.timeinc.net/
+referrer-policy: no-referrer-when-downgrade
+x-element-page-cache: MISS
+etag: W/"d4cf5-GQkOJf8MjD/QnIeDNGtayMIX56k"
+vary: Accept-Encoding,Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1df382f2345322fac115f7931b894fdb.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C1
+x-amz-cf-id: naY-FXi-2HTF8U0QmmUs3p6BAdV80dgyzH-sZeO6F6j2QzJYv8Jmjw==
+age: 34
+

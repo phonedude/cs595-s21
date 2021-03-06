@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Content-Length: 0
+Location: https://wikihow.com/
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 16:13:24 GMT
+Connection: close
+X-Timer: S1614615204.146974,VS0,VE1
+Vary: Cookie, Accept-Encoding, User-Agent
+x-c: cache-dca17732-DCA,M
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.wikihow.com/
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:13:24 GMT
+x-timer: S1614615204.249302,VS0,VE0
+vary: Cookie, Accept-Encoding, User-Agent
+x-c: cache-dca17745-DCA,M
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-length: 0
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.wikihow.com/Main-Page
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:13:24 GMT
+x-timer: S1614615204.346138,VS0,VE0
+vary: Cookie, Accept-Encoding, User-Agent
+x-c: cache-bwi5030-BWI,M
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+content-language: en
+x-frame-options: SAMEORIGIN
+cache-control: s-maxage=3600, must-revalidate, max-age=0
+last-modified: Sun, 28 Feb 2021 17:27:10 GMT
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:13:24 GMT
+age: 2507
+x-timer: S1614615204.376217,VS0,VE1
+x-c: cache-bwi5030-BWI,H,2507
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+set-cookie: whv=QDT7KskihSU8dS5GL46k; expires=Thu, 27 Feb 2031 16:13:24 GMT; domain=.wikihow.com; path=/; secure
+set-cookie: vr=US-VA; expires=Thu, 27 Feb 2031 16:13:24 GMT; domain=.wikihow.com; path=/; secure
+set-cookie: vi=NA; domain=.wikihow.com; path=/; secure
+vary: Cookie, Accept-Encoding
+content-length: 176987
+

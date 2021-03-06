@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://mashable.com/
+Date: Mon, 01 Mar 2021 15:43:28 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
+X-Ignore-Cookie: 1
+X-Request-Id: 662d31c7-b0b0-40f4-9eb3-c5b4703472c8
+X-Runtime: 0.154943
+Cache-Control: public, max-age=85
+Date: Mon, 01 Mar 2021 15:43:29 GMT
+Connection: keep-alive
+

@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://www.instructables.com/
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 15:34:59 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17761-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614612899.408387,VS0,VE0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: max-age=600
+expires: Mon, 01 Mar 2021 15:36:43 GMT
+content-encoding: gzip
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: same-origin
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:34:59 GMT
+via: 1.1 varnish
+strict-transport-security: max-age = 900
+vary: User-Agent
+content-length: 16344
+
