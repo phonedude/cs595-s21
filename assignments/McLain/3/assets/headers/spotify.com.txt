@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+location: https://www.spotify.com/
+date: Fri, 05 Mar 2021 15:09:33 GMT
+server: envoy
+transfer-encoding: chunked
+Via: 1.1 google
+
+HTTP/2 301 
+date: Fri, 05 Mar 2021 15:09:34 GMT
+content-type: text/html
+content-length: 162
+location: https://www.spotify.com/us/
+set-cookie: sp_m=us; Path=/; Domain=.spotify.com; Max-Age=115516800; Expires=Fri, 01 Nov 2024 15:09:34 GMT; Secure; HttpOnly; SameSite=Lax
+sp-trace-id: 7a65a42f9a5f21a1
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+vary: Accept-Encoding
+server: envoy
+via: HTTP/2 edgeproxy, 1.1 google
+alt-svc: clear
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:34 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding,Accept-Encoding,Accept-Encoding
+x-powered-by: Next.js
+cache-control: s-maxage=31536000, stale-while-revalidate
+set-cookie: sp_m=us; Path=/; Domain=.spotify.com; Max-Age=115516800; Expires=Fri, 01 Nov 2024 15:09:34 GMT; Secure; HttpOnly; SameSite=Lax
+set-cookie: sp_t=a68b5f20-4a00-4ba5-be7e-397d64030539; Path=/; Domain=.spotify.com; Max-Age=31536000; Expires=Sat, 05 Mar 2022 15:09:34 GMT; Secure
+set-cookie: sp_new=1; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Sat, 06 Mar 2021 15:09:34 GMT; Secure
+set-cookie: sp_landing=https%3A%2F%2Fwww.spotify.com%2Fus%2F; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Sat, 06 Mar 2021 15:09:34 GMT; Secure; HttpOnly
+content-security-policy: base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none'; script-src 'nonce-2fd987d086cb45828757c3ea6dab527f' 'strict-dynamic' 'unsafe-inline' 'unsafe-eval' https:
+x-frame-options: deny
+report-to: { "group": "csp-endpoint", "max_age": 86400, "endpoints": [{ "url": "/api/concierge/csp/report-to" }] }
+x-join-the-band: https://www.spotify.com/jobs/
+sp-trace-id: b92a4bdcb10862da
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+server: envoy
+via: HTTP/2 edgeproxy, 1.1 google
+alt-svc: clear
+

@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.nl/
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 05 Mar 2021 15:09:06 GMT
+Expires: Sun, 04 Apr 2021 15:09:06 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 05 Mar 2021 15:09:06 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 05 Mar 2021 15:09:06 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-03-05-15; expires=Sun, 04-Apr-2021 15:09:06 GMT; path=/; domain=.google.nl; Secure
+Set-Cookie: NID=210=fCNmCkc83JM5n9AmvGcXhkUesmBiFjs32naABqkU3arAWCKA5-dBIr70FSoXF-n5KUPvwRcJ90qmvv06DNl0eFhcDLv5LpnFezRetnP4Kpqf0XsZKFPZogmR6cyqhprFTfjeV0Gc3v98QKDoNUOFmzRYq91HjcZpOubCextFMlg; expires=Sat, 04-Sep-2021 15:09:06 GMT; path=/; domain=.google.nl; HttpOnly
+

@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://adobe.com/
+Date: Fri, 05 Mar 2021 15:08:52 GMT
+Connection: keep-alive
+
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.adobe.com/
+date: Fri, 05 Mar 2021 15:08:52 GMT
+strict-transport-security: max-age=86400
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+server: Apache
+strict-transport-security: max-age=86400
+x-adobe-content: AEM-Offers
+x-frame-options: SAMEORIGIN
+link: <https://s7d1.scene7.com/is/image/TitanProd/homepage-CC-lg-pod-tablet?$pjpeg$&jpegSize=100&wid=599>;rel=preload;as=image,<https://use.typekit.net/pps7abe.css>;rel=preload;as=style,<https://static.adobelogin.com/imslib/imslib.min.js>;rel=preload;as=script,<https://adobeid-na1.services.adobe.com>;rel=preconnect,<https://ims-na1.adobelogin.com/>;rel=preconnect,<https://sstats.adobe.com>;rel=preconnect,<https://assets.adobedtm.com>;rel=preconnect
+accept-ranges: bytes
+x-adobe-loc: uw2
+x-adobe-source: 112.112
+x-content-type-options: nosniff
+content-length: 128114
+cache-control: max-age=900
+expires: Fri, 05 Mar 2021 15:23:52 GMT
+date: Fri, 05 Mar 2021 15:08:52 GMT
+

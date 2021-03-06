@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Server: openresty
+Date: Fri, 05 Mar 2021 15:09:31 GMT
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: no-cache
+Location: https://www.scoop.it
+Datacenter: ny8.nyc
+
+HTTP/2 200 
+server: nginx
+date: Fri, 05 Mar 2021 15:09:32 GMT
+content-type: text/html;charset=UTF-8
+content-length: 28284
+vary: Accept-Encoding
+content-language: en
+x-frame-options: SAMEORIGIN
+cache-control: no-store
+pragma: no-cache
+p3p: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+p3p: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+set-cookie: userId=e77930fa-32c5-4cad-8773-b6d4da83e6d5;Path=/;Domain=.scoop.it;Secure;SameSite=None;Expires=Mon, 03-Mar-2031 03:09:32 GMT
+set-cookie: hp=1;Path=/
+datacenter: ny8.nyc
+

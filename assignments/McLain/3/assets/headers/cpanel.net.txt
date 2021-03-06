@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Date: Fri, 05 Mar 2021 15:08:58 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Location: https://cpanel.net/
+Cache-Control: max-age=300
+Expires: Fri, 05 Mar 2021 15:13:58 GMT
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Fri, 05 Mar 2021 15:08:58 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Last-Modified: Wed, 10 Feb 2021 17:49:16 GMT
+Accept-Ranges: bytes
+Content-Length: 33884
+Cache-Control: max-age=300
+Expires: Fri, 05 Mar 2021 15:13:58 GMT
+Vary: Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+

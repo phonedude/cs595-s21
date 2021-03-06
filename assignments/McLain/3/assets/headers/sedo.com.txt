@@ -1,0 +1,46 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:32 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 05 Mar 2021 16:09:32 GMT
+Location: https://sedo.com/
+cf-request-id: 08a488e103000074ab32093000000001
+Server: cloudflare
+CF-RAY: 62b44414dda474ab-IAD
+
+HTTP/2 302 
+date: Fri, 05 Mar 2021 15:09:32 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d7b2e26a1583f14d410ed382b2c14bdeb1614956972; expires=Sun, 04-Apr-21 15:09:32 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+set-cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+x-content-type-options: nosniff
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+x-cache-miss-from: marketplace-classic-56bbd8c8fc-6dd4v
+access-control-allow-origin: *
+x-ua-compatible: IE=edge
+set-cookie: session=3c5dd6f1e3b38fd1e75d1f304a858b2a; expires=Mon, 08-Mar-2021 15:09:32 GMT; Max-Age=259200; path=/; secure; HttpOnly
+x-sedo-request-id: ID-b7d598d88-sf9kp-78ef823286d66f777f7d066ab222027d
+location: /us/
+cf-cache-status: DYNAMIC
+cf-request-id: 08a488e16c00002982553d9000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62b444157b9f2982-IAD
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:33 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d7b2e26a1583f14d410ed382b2c14bdeb1614956972; expires=Sun, 04-Apr-21 15:09:32 GMT; path=/; domain=.sedo.com; HttpOnly; SameSite=Lax; Secure
+vary: Accept-Encoding
+set-cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+x-sedo-request-id: ID-b7d598d88-sf9kp-7416a6e6ae5b7dfaa67a0c602a7eea7c
+content-language: en
+age: 93999
+cf-cache-status: DYNAMIC
+cf-request-id: 08a488e3af000029823cade000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62b444191bbe2982-IAD
+

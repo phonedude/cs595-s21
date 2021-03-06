@@ -1,0 +1,49 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://businesswire.com/
+Date: Fri, 05 Mar 2021 15:08:55 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Referrer-Policy: no-referrer-when-downgrade
+Location: https://www.businesswire.com/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 0
+X-EdgeConnect-MidMile-RTT: 12
+X-EdgeConnect-Origin-MEX-Latency: 101
+Date: Fri, 05 Mar 2021 15:08:55 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.businesswire.com/portal/site/home/
+Cache-Control: max-age=0
+Expires: Fri, 05 Mar 2021 15:08:55 GMT
+Date: Fri, 05 Mar 2021 15:08:55 GMT
+Connection: keep-alive
+X-N: S
+
+HTTP/1.1 200 OK
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Referrer-Policy: no-referrer-when-downgrade
+Pragma: no-cache
+svr: 4
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache
+Expires: Fri, 05 Mar 2021 15:08:55 GMT
+Date: Fri, 05 Mar 2021 15:08:55 GMT
+Connection: keep-alive
+

@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.17.9
+Date: Fri, 05 Mar 2021 15:09:06 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: https://gooyaabitemplates.com/
+X-Proxy-Cache: DISABLED
+
+HTTP/2 406 
+server: nginx/1.17.9
+date: Fri, 05 Mar 2021 15:09:07 GMT
+content-type: text/html; charset=utf-8
+last-modified: Fri, 05 Mar 2021 04:33:11 GMT
+vary: Accept-Encoding,User-Agent
+

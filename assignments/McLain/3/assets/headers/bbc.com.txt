@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 05 Mar 2021 15:08:53 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5556-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614956933.368664,VS0,VE0
+nel: {'report_to':'default','max_age': 2592000,'include_subdomains':true,'failure_fraction':0.05}
+report-to: {'group':'default','max_age':2592000,'endpoints':[ {'url':'https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint','priority':1} ],'include_subdomains':true}
+req-svc-chain: FASTLY
+Location: https://bbc.com/
+Cache-Control: public,max-age=604800,stale-while-revalidate=3600,stale-if-error=3600
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+accept-ranges: bytes
+date: Fri, 05 Mar 2021 15:08:53 GMT
+via: 1.1 varnish
+x-served-by: cache-wdc5532-WDC
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614956933.430669,VS0,VE0
+nel: {'report_to':'default','max_age': 2592000,'include_subdomains':true,'failure_fraction':0.05}
+report-to: {'group':'default','max_age':2592000,'endpoints':[ {'url':'https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint','priority':1} ],'include_subdomains':true}
+req-svc-chain: FASTLY
+strict-transport-security: max-age= 2592000
+cache-control: public,max-age=604800,stale-while-revalidate=3600,stale-if-error=3600
+location: https://www.bbc.com/
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: public, max-age=60, stale-if-error=90, stale-while-revalidate=30
+etag: "24e479efae19f31c287ee5c557eeb0f8"
+via: 1.1 BBC-GTM, 1.1 72d3599459d6d95e072c0c2451095d6a.cloudfront.net (CloudFront), 1.1 varnish
+x-amz-cf-pop: LHR3-C1
+x-amz-cf-id: q_JmhqLf5J2BVJjcZbQr3PrxOk8qKBDUUrA2G3ym3cB4ZrkGwKwYkw==
+nel: {"report_to":"default","max_age":2592000,"include_subdomains":true,"failure_fraction":0.05}
+report-to: {"group":"default","max_age":2592000,"endpoints":[{"url":"https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint","priority":1}],"include_subdomains":true}
+req-svc-chain: FASTLY,GTM
+x-bbc-edge-cache-status: EXPIRED
+x-bbc-origin-response-status: 200
+server: BBC-GTM
+accept-ranges: bytes
+date: Fri, 05 Mar 2021 15:08:53 GMT
+age: 41
+x-lb-nocache: true
+x-fastly-cache-status: HIT-CLUSTER
+x-served-by: cache-wdc5567-WDC
+x-cache: Hit from cloudfront, HIT
+x-cache-hits: 1
+x-timer: S1614956934.564695,VS0,VE1
+vary: accept-encoding,x-bbc-edge-scheme,Accept-Encoding
+content-length: 295324
+

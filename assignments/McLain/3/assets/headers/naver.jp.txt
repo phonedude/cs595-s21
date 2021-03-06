@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:16 GMT
+Server: Apache
+Location: http://matome.naver.jp
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:17 GMT
+Server: Apache
+Location: https://matome.naver.jp/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Fri, 05 Mar 2021 15:09:17 GMT
+Server: Apache
+Set-Cookie: page_uid=hZ55FNWomXlssNGQLCCsssssstF-430045; path=/; domain=.naver.com
+Set-Cookie: naver_usersession=d85ewG8fL2AAAc4fNKA; path=/; max-age=300; domain=.naver.jp
+Cache-Control: private, no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Expires: -1
+Set-Cookie: JSESSIONID=7445882AC24C8364E61CE79C387CA6A5; Path=/; Secure; HttpOnly
+Vary: Accept-Encoding,User-Agent
+P3P: CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=utf-8
+

@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:36 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 05 Mar 2021 16:09:36 GMT
+Location: https://themeforest.net/
+cf-request-id: 08a488f2f20000ea8e05082000000001
+Server: cloudflare
+CF-RAY: 62b444318942ea8e-IAD
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:37 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d029d10e67d05224d68d7a4c5ce7daa0c1614956977; expires=Sun, 04-Apr-21 15:09:37 GMT; path=/; domain=.themeforest.net; HttpOnly; SameSite=Lax
+vary: Accept-Encoding
+x-frame-options: DENY
+strict-transport-security: max-age=31536000
+x-download-options: noopen
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=1800, s-maxage=1800, stale-if-error=1800, stale-while-revalidate=60
+cf-cache-status: HIT
+age: 865
+cf-request-id: 08a488f34c0000c1d4759d0000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62b444321804c1d4-IAD
+

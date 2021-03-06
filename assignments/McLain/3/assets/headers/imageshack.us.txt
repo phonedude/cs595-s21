@@ -1,0 +1,14 @@
+HTTP/1.1 204 No Content
+Server: nginx/1.2.8
+Date: Fri, 05 Mar 2021 15:09:11 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+X-Varnish: 2072678116
+Age: 0
+Via: 1.1 varnish
+X-Varnish-Hits: 0
+X-Varnish-IP: 208.94.3.35
+X-Varnish-Port: 17001
+Vary: User-Agent
+

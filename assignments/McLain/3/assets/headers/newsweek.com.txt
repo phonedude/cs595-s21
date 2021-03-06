@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Server: Varnish
+X-Varnish: 223667019
+Location: https://www.newsweek.com/
+
+HTTP/2 403 
+date: Fri, 05 Mar 2021 15:09:20 GMT
+content-type: text/html; charset=utf-8
+content-length: 9
+server: Varnish
+x-varnish: 223667020
+

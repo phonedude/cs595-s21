@@ -1,0 +1,73 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://independent.co.uk/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 05 Mar 2021 15:09:11 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: esi-permutive-id=(null); Path=/ ; Secure
+X-Served-By: cache-wdc5525-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.independent.co.uk/
+accept-ranges: bytes
+date: Fri, 05 Mar 2021 15:09:11 GMT
+via: 1.1 varnish
+set-cookie: esi-permutive-id=(null); Path=/ ; Secure
+access-control-allow-origin: *
+x-served-by: cache-wdc5542-WDC
+x-cache: HIT
+x-cache-hits: 0
+content-length: 0
+
+HTTP/2 307 
+server: Varnish
+retry-after: 0
+location: /us
+accept-ranges: bytes
+date: Fri, 05 Mar 2021 15:09:11 GMT
+via: 1.1 varnish
+canary: 1
+set-cookie: Locale=US ; Path=/ ;
+set-cookie: esi-permutive-id=(null); Path=/ ; Secure
+access-control-allow-origin: *
+x-served-by: cache-wdc5579-WDC
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1614956952.854180,VS0,VE0
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: Apache/2.4.29 (Ubuntu)
+strict-transport-security: max-age=63072000;  preload
+x-head-hash: 
+etag: W/"48a5a-iEs+sXPUbpqBfp9UqiBHD3cQaqQ"
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+age: 2057
+access-control-allow-origin: *
+x-vary: Accept-Encoding, Locale, subscriber, subscriber_origin, lgd_n, loggedIn, x-fresh8, canary
+date: Fri, 05 Mar 2021 15:09:11 GMT
+canary: 1
+set-cookie: Locale=US ; Path=/ ;
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: subscriber_origin=us ; Path=/ ;
+set-cookie: fresh8_toggle=1 ; Path=/ ;
+set-cookie: esi-uuid=2baa5ea7-3917-4486-810a-fdffc8881e9c ; Path=/ ; Secure; HttpOnly; Expires=Sat, 05 Mar 2022 15:09:11 GMT ;
+set-cookie: esi-permutive-id=2baa5ea7-3917-4486-810a-fdffc8881e9c; Path=/ ; Secure
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-served-by: cache-lhr7377-LHR, cache-wdc5579-WDC
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+x-timer: S1614956952.881507,VS0,VE78
+vary: Accept-Encoding, Locale, subscriber, subscriber_origin, lgd_n, loggedIn, x-fresh8, canary
+content-length: 324352
+

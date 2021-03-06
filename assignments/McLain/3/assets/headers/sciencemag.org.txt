@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:30 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Frame-Options: SAMEORIGIN
+Location: http://www.sciencemag.org/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.sciencemag.org/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=600
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Fri, 05 Mar 2021 15:09:31 GMT
+Etag: "1614955872-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 05 Mar 2021 14:51:12 GMT
+Link: <https://www.sciencemag.org/>; rel="canonical",<https://www.sciencemag.org/>; rel="shortlink"
+Server: Apache
+Vary: Cookie,Accept-Encoding
+Via: 1.1 varnish
+X-Age: 331
+X-Cache: HIT
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.5.38
+X-Varnish: 1629791938 1629757762
+Connection: keep-alive
+

@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+location: https://dropbox.com/
+date: Fri, 05 Mar 2021 15:08:58 GMT
+server: envoy
+x-dropbox-request-id: 74528b3bb97c4a62beeb066c701bca06
+transfer-encoding: chunked
+
+HTTP/2 301 
+location: https://www.dropbox.com/
+strict-transport-security: max-age=31536000; includeSubDomains
+cache-control: no-cache, no-store
+x-dropbox-response-origin: local
+date: Fri, 05 Mar 2021 15:08:58 GMT
+server: envoy
+x-dropbox-request-id: 4f4317f4bfdd46319563a9b4006afdf3
+
+HTTP/2 200 
+cache-control: no-cache,no-cache, no-store
+content-security-policy: base-uri 'self' ; child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws ; default-src 'none' ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://dropboxconnect.co.uk/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; img-src https://* data: blob: ; media-src https://* blob: ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; script-src 'unsafe-eval' https://www.dropbox.com/static/api/ https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/js/ https://www.dropboxstatic.com/static/js/ https://cfl.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://www.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://cfl.dropboxstatic.com/static/previews/ https://www.dropboxstatic.com/static/previews/ https://cfl.dropboxstatic.com/static/api/ https://www.dropboxstatic.com/static/api/ https://cfl.dropboxstatic.com/static/cms/ https://www.dropboxstatic.com/static/cms/ https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ 'unsafe-inline' ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; worker-src https://www.dropbox.com/static/serviceworker/ blob:
+content-type: text/html; charset=utf-8
+date: Fri, 05 Mar 2021 15:08:59 GMT
+pragma: no-cache
+referrer-policy: strict-origin-when-cross-origin
+server: envoy
+set-cookie: locale=en; Domain=dropbox.com; expires=Wed, 04 Mar 2026 15:08:59 GMT; Path=/; secure
+set-cookie: gvc=MzEzNTA5MTAxNjI5MDkxMjY5NTAwODY0MjU5MDY1MjY0OTY2MTg%3D; expires=Wed, 04 Mar 2026 15:08:59 GMT; httponly; Path=/; secure
+set-cookie: flash=; Domain=dropbox.com; expires=Fri, 05 Mar 2021 15:08:59 GMT; Path=/; secure
+set-cookie: puc=; expires=Fri, 05 Mar 2021 15:08:59 GMT; httponly; Path=/; secure
+set-cookie: bang=; Domain=dropbox.com; expires=Fri, 05 Mar 2021 15:08:59 GMT; Path=/; secure
+set-cookie: t=mbKg-JCS3f_oK3_HMKKS0PUK; Domain=dropbox.com; expires=Mon, 04 Mar 2024 15:08:59 GMT; httponly; Path=/; secure
+set-cookie: __Host-js_csrf=mbKg-JCS3f_oK3_HMKKS0PUK; expires=Mon, 04 Mar 2024 15:08:59 GMT; Path=/; secure
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+x-dropbox-response-origin: far_remote
+x-dropbox-request-id: 7ac8a2b453524afb93e1b0b61bd9b5da
+

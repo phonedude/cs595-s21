@@ -1,0 +1,79 @@
+HTTP/1.1 302 Found
+Location: http://get.google.com/albumarchive/pwa/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Fri, 05 Mar 2021 15:09:23 GMT
+Server: sffe
+Content-Length: 236
+X-XSS-Protection: 0
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 05 Mar 2021 15:09:23 GMT
+Location: https://get.google.com/albumarchive/pwa/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=210=j-XBX2xq2mfW3P8CIc86LdZel0w1HMZGp6H__w1S0sTSlD_WThMC6b6n0m5okPaRcArFZzsMBdh0vV_yHGjr4EJNysj-wTGgghko8jtPDRqnEiShWLEFT79ONejAKV5mMMFY7ezNoiLBJfC53QoupsMAm-XhsP7hNdFty3UzMN8; expires=Sat, 04-Sep-2021 15:09:23 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Fri, 05 Mar 2021 15:09:24 GMT
+location: https://get.google.com/albumarchive
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-8qJPDGd+4mRpHUphjEHMQg' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AlbumArchiveUi/cspreport;worker-src 'self'
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=ugw4kVgwXSc4jrt_l2zH23cQBv4jlKRy4gnp5Yn9NXTyUZK7mGBxCwybA3DNLcMVsyTR9krI4DhvW5xMl9SwTW1Azva3dtzJI4rwfhaC69P_fZ1cJi56N3GSOaZUnsPc35b9ULjWWFzAOGCAx31bA4roCIJRgzVc4bwcEH0jnhc; expires=Sat, 04-Sep-2021 15:09:24 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://get.google.com/albumarchive&followup=https://get.google.com/albumarchive
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-xCN4gWiA3LJTQ6iYYpJ/8A' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AlbumArchiveUi/cspreport;worker-src 'self'
+cross-origin-resource-policy: same-site
+date: Fri, 05 Mar 2021 15:09:24 GMT
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=210=HG1o_0ubN2Rcwgf9KY8fwqns0ajm9HesxlkrlAKYGlh7geamP7VZw01m0bysx9sNLxGLIszKvNl6nFNQYaWJ0V_xqdrBfDy9Hpjh-ivdqOBhB7-KQtI9u_BB-wbRd4DZbQFvxVP9K4dXdFP1zlBMntrnvCzcqCDbJdpXMNipcFA; expires=Sat, 04-Sep-2021 15:09:24 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: DENY
+x-auto-login: realm=com.google&args=continue%3Dhttps%253A%252F%252Fget.google.com%252Falbumarchive
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Fri, 05 Mar 2021 15:09:24 GMT
+content-length: 69187
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-f2O4BJHgqKfqBc5qX9LbFA' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:WKpOjFzWoSe9tInwQ4XwHVv09dxeHw:hIHhpGSA1xxdRNrK;Path=/;Expires=Sun, 05-Mar-2023 15:09:24 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

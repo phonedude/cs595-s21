@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com.tw/
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 05 Mar 2021 15:09:06 GMT
+Expires: Sun, 04 Apr 2021 15:09:06 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 222
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=Big5
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 05 Mar 2021 15:09:06 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 05 Mar 2021 15:09:06 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-03-05-15; expires=Sun, 04-Apr-2021 15:09:06 GMT; path=/; domain=.google.com.tw; Secure
+Set-Cookie: NID=210=oBbj7IwP5acGer0x_p3wQ4zB-5Yv4oAijquXs3HJ4NV_XrTivGQ4pinpd1KvSYJ9kCH3cr_KMiGzOA_vqH2-ImC42uQuU1FUFDc_f1lwdyfR5Eqo6RYq--FJl_K0zDsAE4o5OdGKqbRGE_HBeK6ZmgBXABZrqmQh4VJHp3_joSA; expires=Sat, 04-Sep-2021 15:09:06 GMT; path=/; domain=.google.com.tw; HttpOnly
+
