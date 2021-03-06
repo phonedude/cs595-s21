@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://foxnews.com/
+Date: Fri, 05 Mar 2021 15:09:02 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.foxnews.com/
+Date: Fri, 05 Mar 2021 15:09:02 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; preload
+
+HTTP/2 200 
+x-amz-id-2: 4B81gyarW646+ycMt1aBBhVuFvOuunN+yZE/m+QEE9u9eRxnBsJzlWhHPcNK6MsPM6psllxATLk=
+x-amz-request-id: 2XFTWDQGARFZNGF3
+last-modified: Fri, 05 Mar 2021 15:06:17 GMT
+etag: "26b22d7b949eeb7aec04eb3205f43f7a"
+x-amz-version-id: p.DOHepYyqGFc2dP4DwMNkbhjMTI.IWp
+accept-ranges: bytes
+content-type: text/html; charset=UTF-8
+content-length: 337451
+server: AmazonS3
+cache-control: must-revalidate,max-age=86
+expires: Fri, 05 Mar 2021 15:10:28 GMT
+date: Fri, 05 Mar 2021 15:09:02 GMT
+strict-transport-security: max-age=7884000 ; preload
+

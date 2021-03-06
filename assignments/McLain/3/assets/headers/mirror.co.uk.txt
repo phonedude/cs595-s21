@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 05 Mar 2021 15:09:15 GMT
+Location: https://www.mirror.co.uk/
+Server: Apache/2.4.18 (Ubuntu)
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+date: Fri, 05 Mar 2021 15:09:15 GMT
+server: nginx
+access-control-allow-origin: *
+cache-control: max-age=60
+expires: Fri, 05 Mar 2021 15:18:32 GMT
+x-removedcookies: YES
+x-processesi: yes
+x-cacheable: YES
+x-varnish: 859670128 860489806
+x-served-by: nat-cache302.tm-aws.com
+x-cache-hits: 27
+via: 1.1 varnish, 1.1 c8e0acf79809da404c9ef6a70cdd4fde.cloudfront.net (CloudFront)
+accept-ranges: bytes
+set-cookie: GS_GROUP=2; Path=/; Expires=Sun, 04 Apr 2021 15:09:15 GMT
+set-cookie: GS_REVENUE_LOC=1; Path=/; Expires=Sun, 04 Apr 2021 15:09:15 GMT
+set-cookie: GS_RESTRICT=0; Path=/
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+x-amz-cf-pop: PHL50-C1
+x-amz-cf-id: FMtsq3zod7C_zbT4Zr9edyEIFeN6rh-QKiudcABCttivVxp7HZx30w==
+

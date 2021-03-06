@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Connection: Keep-Alive
+Date: Fri, 05 Mar 2021 15:09:57 GMT
+Location: https://www.ziddu.com/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+link: <https://www.ziddu.com/wp-json/>; rel="https://api.w.org/"
+etag: "11656-1614955337;;;"
+x-litespeed-cache: hit
+date: Fri, 05 Mar 2021 15:09:57 GMT
+alt-svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000
+

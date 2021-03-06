@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://netflix.com/
+Content-Length: 0
+Via: 1.1 i-0d205079c78761bc7 (us-east-1)
+Server: nq_website_nonmember-prod-release UNKNOWN
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+X-Originating-URL: http://netflix.com/
+Set-Cookie: nfvdid=BQFmAAEBEAOUhxOIqBFj3nL4jSmBVBBA5O5_tthZVDQ-WU2JlV1gh_LnUQjg0oVPJ1aKHYgeihGfMIxMOuGYTdfMaiq0-OKkr3jQh300dXi3_55q5nRwgw%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+X-Netflix.nfstatus: 1_21
+Set-Cookie: memclid=8b2e839e-2513-430b-b1bf-130e58661b20; Max-Age=31536000; Expires=Sat, 05 Mar 2022 15:09:18 GMT; Path=/; Domain=.netflix.com
+X-Netflix.proxy.execution-time: 2
+
+HTTP/2 405 
+server: nq_website_nonmember-prod-release e7ad0114-b6a8-436a-8a72-387cbf03151b
+x-frame-options: DENY
+allow: GET, OPTIONS, POST
+date: Fri, 05 Mar 2021 15:09:18 GMT
+x-envoy-upstream-service-time: 6
+via: 2 i-0a40152b7b87a91ee (us-east-1)
+x-xss-protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+x-originating-url: http://netflix.com/
+edge-control: no-cache, no-store
+cache-control: no-cache, no-store
+set-cookie: nfvdid=BQFmAAEBEMvQou1cnell0d5OTEn_XeBA561Ck6eex71ML4DABgUSCdtRcUbnSO3RUwzZOpD2biz3Epp4ZfVt0lXmWBx1OXB7rI6WKU6PRGOHq7rwI25iCQ%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+x-netflix.nfstatus: 1_1
+set-cookie: memclid=eb7af73f-4263-4ab3-94e7-68bbba31d569; Max-Age=31536000; Expires=Sat, 05 Mar 2022 15:09:18 GMT; Path=/; Domain=.netflix.com
+x-netflix.proxy.execution-time: 10
+

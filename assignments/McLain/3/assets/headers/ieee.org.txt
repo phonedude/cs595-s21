@@ -1,0 +1,27 @@
+HTTP/1.0 302 Found
+Location: http://www.ieee.org//
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.0 302 Moved Temporarily
+Location: https://www.ieee.org/
+Server: BigIP
+Content-Length: 0
+Date: Fri, 05 Mar 2021 15:09:10 GMT
+Connection: close
+
+HTTP/1.0 200 OK
+Cache-Control: no-cache="set-cookie"
+Content-Type: text/html;charset=utf-8
+Last-Modified: Fri, 05 Mar 2021 14:40:58 GMT
+X-Content-Type-Options: nosniff
+X-Dispatcher: dispatcher2useast1
+X-Frame-Options: SAMEORIGIN
+X-Vhost: www.ieee.org
+Date: Fri, 05 Mar 2021 15:09:10 GMT
+Connection: close
+Set-Cookie: AWSELB=55B9EFD71A621664217649CC5C38F09A66B8CD41098F3D56379851DC886A0366123E7C88AD28D0BDD8F37BC44BF6E11D27425ADCEBBBACE6A1B563AE88175AB23C96A9E2BA;PATH=/;MAX-AGE=900
+Set-Cookie: AWSELBCORS=55B9EFD71A621664217649CC5C38F09A66B8CD41098F3D56379851DC886A0366123E7C88AD28D0BDD8F37BC44BF6E11D27425ADCEBBBACE6A1B563AE88175AB23C96A9E2BA;PATH=/;MAX-AGE=900;SECURE;SAMESITE=None
+Set-Cookie: TS01247332=01c1c020dd7e0bc514ab26815ddbebfdc4baf1aebe44ffab6b97fa88877c1854eddf96fa81c2f53d8bd96d4e908aa304a11e46df312c62fbc9ba90cd2952b92ed67260679625744e9d6250d670dc7a34baaa9cca61; Path=/
+

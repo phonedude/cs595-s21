@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 05 Mar 2021 15:09:04 GMT
+Location: https://goo.gl/
+Content-Length: 0
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+
+HTTP/2 301 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Fri, 05 Mar 2021 15:09:04 GMT
+location: https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html
+content-length: 0
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-JOTjKgFo343IOJq21jKb/g' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DurableDeepLinkUi/cspreport;worker-src 'self'
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+strict-transport-security: max-age=86400; includeSubDomains
+content-type: text/html; charset=UTF-8
+expires: Fri, 05 Mar 2021 15:09:04 GMT
+date: Fri, 05 Mar 2021 15:09:04 GMT
+cache-control: private, max-age=0
+last-modified: Fri, 05 Mar 2021 14:34:06 GMT
+etag: W/"8f4c0bb10a70014694bb7d38dab23a652b8d14924ee35b00ad3dda30a07f7469"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-length: 0
+server: GSE
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

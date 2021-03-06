@@ -1,0 +1,26 @@
+HTTP/1.1 302 Found
+Date: Fri, 05 Mar 2021 15:09:34 GMT
+Server: Apache
+Location: https://www.stanford.edu/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+server: nginx
+date: Fri, 05 Mar 2021 15:09:35 GMT
+content-type: text/html; charset=UTF-8
+content-length: 12443
+vary: Accept-Encoding
+vary: Accept-Encoding
+set-cookie: wordpress_google_apps_login=ecf32c73855154ee02fa0d624875bfa2; path=/; secure; HttpOnly
+link: <https://www.stanford.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.stanford.edu/wp-json/wp/v2/pages/64>; rel="alternate"; type="application/json"
+link: <https://www.stanford.edu/>; rel=shortlink
+x-frame-options: SAMEORIGIN
+vary: Accept-Encoding
+x-powered-by: WP Engine
+x-cacheable: NO:Set Known Cookie
+cache-control: max-age=0, must-revalidate, private
+x-cache: MISS
+x-cache-group: normal
+accept-ranges: bytes
+

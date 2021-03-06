@@ -1,0 +1,17 @@
+cocolog-nifty.com
+curl: (6) Could not resolve host: cocolog-nifty.com
+
+googleusercontent.com
+curl: (6) Could not resolve host: googleusercontent.com
+
+mhlw.go.jp
+curl: (6) Could not resolve host: mhlw.go.jp
+
+qq.com
+curl: (56) Recv failure: Connection reset by peer
+
+transandfiestas.ga
+curl: (28) Operation timed out after 1174 milliseconds with 0 bytes received
+
+usnews.com
+curl: (28) Operation timed out after 5000 milliseconds with 0 bytes received

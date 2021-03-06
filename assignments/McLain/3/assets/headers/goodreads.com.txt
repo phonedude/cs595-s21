@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:05 GMT
+Server: Server
+Location: https://www.goodreads.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Server: Server
+Date: Fri, 05 Mar 2021 15:09:05 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 74877
+Connection: keep-alive
+x-amz-rid: 6ZJTDV2WR0CXNHKPHEJ9
+Set-Cookie: ccsid=503-4974586-5036205; path=/; expires=Tue, 05 Mar 2041 15:09:05 -0000
+Set-Cookie: locale=en; path=/
+Set-Cookie: _session_id2=4b8c62daca16682e0df650540d4ab480; path=/; expires=Fri, 05 Mar 2021 21:09:05 -0000; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+ETag: W/"6a39df2e31a9f28297b4103e30f8ef59"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 6ZJTDV2WR0CXNHKPHEJ9
+X-Runtime: 0.321304
+X-Content-Type-Options: nosniff
+Vary: User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+

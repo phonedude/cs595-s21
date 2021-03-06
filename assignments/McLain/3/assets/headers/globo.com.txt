@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:03 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Cache-Control: max-age=600
+Location: https://www.globo.com/
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:04 GMT
+content-type: text/html; charset=UTF-8
+x-served-from: Show Services
+expires: Fri, 05 Mar 2021 15:09:07 GMT
+cache-control: max-age=10
+x-xss-protection: 1; mode=block
+x-request-id: 22560cfa-ac8e-49bb-9c92-c6960f668c9a
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-mobile: desktop
+show-page-version: 0
+age: 6
+vary: X-Forwarded-Proto, Accept-Encoding, User-Agent, Wall-Subscription-Level
+x-bip: 752471104 ra02 01 05
+via: 2.0 CachOS
+accept-ranges: bytes
+x-thanos: 0AB15007
+

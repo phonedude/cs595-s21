@@ -1,0 +1,46 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-length: 0
+Location: https://ovh.co.uk/
+Date: Fri, 05 Mar 2021 15:09:22 GMT
+X-CDN-Pop: bhs
+X-CDN-Pop-IP: 137.74.122.32/27
+X-Request-ID: 72921240
+X-Cacheable: Cacheable
+X-IPLB-Request-ID: 4668CB09:F71B_C61B5C07:0050_604249A2_39E3EE:1787F
+X-IPLB-Instance: 32183
+
+HTTP/2 302 
+date: Fri, 05 Mar 2021 15:09:23 GMT
+content-type: text/html; charset=iso-8859-1
+location: https://www.ovh.co.uk/
+cache-control: max-age=60
+expires: Fri, 05 Mar 2021 15:10:23 GMT
+vary: Accept-Encoding
+x-iplb-request-id: 0A6F252C:18F2_332611C8:01BB_604249A3_15A1F5:23841
+x-iplb-request-id: 894A7A06:8034_C063418B:01BB_604249A2_2C07:12E22
+x-iplb-instance: 28081
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/27
+x-request-id: 770644505
+x-cacheable: Cacheable
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:00:02 GMT
+content-type: text/html
+last-modified: Fri, 05 Mar 2021 11:35:11 GMT
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: A
+x-iplb-request-id: 894A7A06:FE70_C063418B:01BB_60424772_20E8:2722A
+x-iplb-instance: 28080
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/27
+x-request-id: 226525603
+x-cacheable: Matched cache
+accept-ranges: bytes
+content-length: 128712
+

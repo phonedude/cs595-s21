@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.15.10
+Date: Fri, 05 Mar 2021 15:09:08 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.histats.com/
+
+HTTP/1.1 200 OK
+Server: nginx/1.15.10
+Date: Fri, 05 Mar 2021 15:09:08 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+
