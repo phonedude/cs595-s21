@@ -28,7 +28,7 @@ Relevant resources:
 
 ### Extra credit (6 points)
 
-* Repeat the excercises in ```5.1```, ```5.2```, 5.3``` but with one set of files served from [GitHub Pages](https://pages.github.com/).   Store any new files in ```5.4```.
+* Repeat the excercises in ```5.1```, ```5.2```, ```5.3``` but with one set of files served from [GitHub Pages](https://pages.github.com/).   Store any new files in ```5.4```.
 
 ### Setting up directory "5"
 
