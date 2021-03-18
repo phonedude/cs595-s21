@@ -132,7 +132,7 @@ his course materials (although any errors are mine).
    * [Due: March 18](/assignments/assignment-4.md)
 
 * Assignment 5: TBD
-   * Due: April 1
+   * [Due: April 1](/assignments/assignment-5.md)
 
 * Assignment 6: TBD
    * Due: April 15
