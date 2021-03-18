@@ -88,18 +88,18 @@ else if (isLoaded >= 1)
 ** Finally, I am using selenium to open each HTML hosted locally to collect the alert text along with any error the browser might through while trying to load the Iframe.
 
 ```
-			response = driver.get(localhost_url)
-			driver.implicitly_wait(30)
-			alerttext = driver.switch_to.alert
-			outcome = alerttext.text	
-			if outcome == "Iframe loaded":
-				  isframable = True
-			if "Iframe not loaded" in outcome:
-				  isframable = False
-				  try:
-					    reason = outcome.strip("Iframe not loaded: ")
-				  except:					
-					    pass
+response = driver.get(localhost_url)
+driver.implicitly_wait(30)
+alerttext = driver.switch_to.alert
+outcome = alerttext.text	
+if outcome == "Iframe loaded":
+	  isframable = True
+if "Iframe not loaded" in outcome:
+	  isframable = False
+	  try:
+		    reason = outcome.strip("Iframe not loaded: ")
+	  except:					
+		    pass
 ```
 
 ### Screenshots
