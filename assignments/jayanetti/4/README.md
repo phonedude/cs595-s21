@@ -111,7 +111,8 @@ else if (isLoaded >= 1)
 <img src="screenshots/2.png" width="700">
 
 * Checking if the sites are framable.
-<img src="screenshots/3.png" width="700">
+<img src="screenshots/3.1.png" width="700">
+<img src="screenshots/3.2.png" width="700">
 
 ## Q2: Frame attack
 
