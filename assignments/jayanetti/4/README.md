@@ -17,14 +17,25 @@
 
 * Total number of sites: 99
 
-* How many are framable:
+* How many are framable: 11
 
-* How many are not framable: 
+* How many are not framable: 88
 
 * What are the framable sites:
 
 ```
 /HW4$ cat data.csv | grep "True" | cut -d"," -f1
+adweek.com
+blog.fc2.com
+britannica.com
+ca.gov
+foxnews.com
+gooyaabitemplates.com
+nps.gov
+people.com
+reuters.com
+washingtonpost.com
+wired.com
 
 ```
 
@@ -32,11 +43,110 @@
 
 ```
 /HW4$ cat data.csv | grep "True" | cut -d"," -f1
-
+academia.edu
+accounts.google.com
+adobe.com
+amazon.ca
+amazon.co.jp
+amazon.de
+answers.com
+bbc.com
+booking.com
+books.google.com
+bp.blogspot.com
+bp3.blogger.com
+brandbucket.com
+calameo.com
+cambridge.org
+cloudflare.com
+de.wikipedia.org
+deezer.com
+dropbox.com
+ebay.com
+ed.gov
+en.wikipedia.org
+europa.eu
+fandom.com
+fb.me
+finance.yahoo.com
+forbes.com
+get.google.com
+ggpht.com
+godaddy.com
+gofundme.com
+goo.gl
+google.co.in
+google.de
+google.es
+google.nl
+googleblog.com
+greenpeace.org
+groups.yahoo.com
+harvard.edu
+hm.com
+huffpost.com
+ig.com.br
+instagram.com
+iso.org
+lifehacker.com
+linkedin.com
+lycos.com
+mail.google.com
+mail.ru
+microsoft.com
+msn.com
+my.yahoo.com
+myspace.com
+namesilo.com
+networkadvertising.org
+news.google.com
+newscientist.com
+nokia.com
+offset.com
+orange.fr
+php.net
+picasa.google.com
+plos.org
+policies.google.com
+rediff.com
+researchgate.net
+rt.com
+shutterstock.com
+stanford.edu
+steamcommunity.com
+surveymonkey.com
+terra.com.br
+thenextweb.com
+theverge.com
+thoughtco.com
+tinyurl.com
+transandfiestas.ga
+twitch.tv
+usgs.gov
+vk.com
+walmart.com
+whitehouse.gov
+wiktionary.org
+wordpress.org
+youtu.be
+youtube.com
+zdnet.com
 ```
 
 * Non framable sites: How did they defeat the attempt to frame them?
 
+** All of the framable sites gave no error when loading the Iframe.
+
+** Of the non framable sites:
+  
+  - One sitee (bbc.com) gave no error. Loking at that, it appears tha bbc.com page loads in the IFrame but unable to interact with it. If we try to click on something in the site, it will give "refused to connect" error.
+  - Everything else gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame. 
+
+* "X-Frame-Options" header distribution.* 
+     50 'SAMEORIGIN'or 'sameorigin'
+     40 No "X-Frame-Options" header
+      6 DENY
+      3 'SAMEORIGIN' and 'DENY'
 
 ### Steps
 
