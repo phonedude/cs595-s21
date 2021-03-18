@@ -4,8 +4,8 @@
 
   * [Data Table](data.csv)
   * Code
-    * [Collect CURL responses and create HTML](create_html.py)
-    * [Check if a website is framable or not](check_framable.py)
+    * [Collect CURL responses and create HTML](code/create_html.py)
+    * [Check if a website is framable or not](code/check_framable.py)
   * Intermediate Files
     * [CURL Responses](curl_output)
     * [HTML Files Created](framable)
