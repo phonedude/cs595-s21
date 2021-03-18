@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Thu, 04 Mar 2021 02:07:46 GMT
+Date: Thu, 18 Mar 2021 02:06:27 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -8,13 +8,13 @@ Location: http://www.reuters.com/
 
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Thu, 04 Mar 2021 02:07:26 GMT
+Date: Thu, 18 Mar 2021 02:06:03 GMT
 Content-Type: text/html
 Content-Length: 183
 Connection: keep-alive
 Location: https://www.reuters.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 9742923607374c982a5b7e9258144eab.cloudfront.net (CloudFront)
+Via: 1.1 443f1433224715dbc774145b9ac2efe4.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: IAD89-C2
-X-Amz-Cf-Id: 45yCH-tzEvEmUOYXMtColBXlaa6tJF1RoEclMmKgEcJVG2BbLBB0kA==
+X-Amz-Cf-Id: D621fYviwsvU1mnyV90NKFQTsQW9sWNHhoM5xDjRWHmyGzKTEFKMeQ==
 

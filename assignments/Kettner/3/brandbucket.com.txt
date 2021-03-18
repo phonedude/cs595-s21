@@ -1,11 +1,11 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 03 Mar 2021 22:01:31 GMT
+Date: Thu, 18 Mar 2021 02:04:24 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: __cfduid=d5fd065ce732379ee4da733da7d32d8991614808891; expires=Fri, 02-Apr-21 22:01:31 GMT; path=/; domain=.brandbucket.com; HttpOnly; SameSite=Lax
+Set-Cookie: __cfduid=d07cb9ffe0b9103f2ef66efe98d77defa1616033064; expires=Sat, 17-Apr-21 02:04:24 GMT; path=/; domain=.brandbucket.com; HttpOnly; SameSite=Lax
 Location: https://www.brandbucket.com/
 CF-Cache-Status: DYNAMIC
-cf-request-id: 089bb556860000e112d7b28000000001
+cf-request-id: 08e4acbf3400000d7263975000000001
 Server: cloudflare
-CF-RAY: 62a624d0cd20e112-IAD
+CF-RAY: 631ae3debb4c0d72-IAD
 

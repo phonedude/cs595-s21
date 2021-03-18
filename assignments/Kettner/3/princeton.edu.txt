@@ -5,22 +5,22 @@ Connection: Keep-Alive
 Content-Length: 0
 
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 03 Mar 2021 22:33:13 GMT
+Date: Thu, 18 Mar 2021 02:06:02 GMT
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 234
 Connection: close
-Set-Cookie: __cfduid=dccd3eeac0a64630b39273e4bb06bdb181614810793; expires=Fri, 02-Apr-21 22:33:13 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
+Set-Cookie: __cfduid=dd2a3b3071d3baa2485de3b19687121631616033162; expires=Sat, 17-Apr-21 02:06:02 GMT; path=/; domain=.princeton.edu; HttpOnly; SameSite=Lax
 X-Content-Type-Options: nosniff
 Location: https://www.princeton.edu/
 Cache-Control: max-age=900
-Expires: Wed, 03 Mar 2021 22:35:01 GMT
-X-Request-ID: v-989858d0-7c6e-11eb-bc9e-7370cb91e68f
-Age: 590
+Expires: Thu, 18 Mar 2021 02:12:26 GMT
+X-Request-ID: v-4a0d10b4-878d-11eb-85a7-7b302c7931f8
+Age: 77
 Via: varnish
 X-Cache: HIT
-X-Cache-Hits: 5
+X-Cache-Hits: 7
 CF-Cache-Status: HIT
-cf-request-id: 089bd25f0f0000292ef82e5000000001
+cf-request-id: 08e4ae3b440000ea7af43a3000000001
 Server: cloudflare
-CF-RAY: 62a65344eb1c292e-IAD
+CF-RAY: 631ae63edd34ea7a-IAD
 

@@ -1,47 +1,12 @@
-HTTP/1.1 301 Moved Permanently
-Date: Thu, 04 Mar 2021 02:20:13 GMT
-Server: Apache
-Location: http://www.usatoday.com/
-Content-Type: text/html; charset=iso-8859-1
-
-HTTP/1.1 301 Force SSL
+HTTP/1.1 500 Domain Not Found
+Server: Varnish
 Retry-After: 0
-Content-Length: 0
-Location: https://www.usatoday.com/
-Cache-Control: max-age=300
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-wdc5562-WDC
+Content-Length: 244
 Accept-Ranges: bytes
-Date: Thu, 04 Mar 2021 02:20:14 GMT
-Connection: close
-X-Cache: HIT
-Content-Security-Policy: upgrade-insecure-requests
-Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-
-HTTP/1.1 200 OK
-Connection: keep-alive
-Content-Length: 140988
-Content-Type: text/html; charset=utf-8
-etag: W/"26dc3-ds4uBj+RlsPb90OtlAmjpKU7a8E"
-Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'none'
-X-Content-Type-Options: nosniff
-X-Frame-Options: deny
-X-XSS-Protection: 1; mode=block
-Feature-Policy: camera 'none'; display-capture 'none'; geolocation 'none'; microphone 'none'; payment 'none'; usb 'none'
-Referrer-Policy: strict-origin-when-cross-origin
-Cross-Origin-Opener-Policy: same-origin
-Origin-Agent-Cluster: ?1
-Accept-Ranges: bytes
-Date: Thu, 04 Mar 2021 02:20:14 GMT
-Age: 26
-Set-Cookie: gnt_ub=31; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
-Set-Cookie: gnt_sb=7; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
-Set-Cookie: gnt_eid=control; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=5184000;
-Gannett-Cam-Experience-Id: control
-link: <https://www.usatoday.com/tangstatic/svg/weather/33-q1a2z3399d10ff.svg>;rel=preload;as=image;nopush
-Set-Cookie: gnt_d=%7B%22w%22%3A%7B%22t%22%3A%2242%22%2C%22f%22%3A%2233-q1a2z3399d10ff%22%2C%22c%22%3A%22Clear%22%7D%2C%22z%22%3A%2222180%22%2C%22c%22%3A%22vienna%22%2C%22s%22%3A%22VA%22%7D; domain=.usatoday.com; path=/; samesite=lax; secure; priority=high;
-NEL: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
-Report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
-X-Cache: HIT, HIT
-X-Timer: S1614824414.089657,VS0,VE4
-Vary: Accept-Encoding, X-AbVariant, X-AltUrl, X-AbVCfg
-Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Date: Thu, 18 Mar 2021 02:06:19 GMT
+Via: 1.1 varnish
 

@@ -1,16 +1,18 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 03 Mar 2021 22:21:22 GMT
+Date: Thu, 18 Mar 2021 02:05:45 GMT
 Server: Kestrel
 Location: https://www.microsoft.com/
 
 HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Length: 1020
 Content-Type: text/html
-Last-Modified: Wed, 04 Mar 2015 07:39:54 GMT
 ETag: "6082151bd56ea922e1357f5896a90d0a:1425454794"
-Content-Length: 0
-Expires: Wed, 03 Mar 2021 22:21:23 GMT
+Last-Modified: Wed, 04 Mar 2015 07:39:54 GMT
+Server: AkamaiNetStorage
+Expires: Thu, 18 Mar 2021 02:05:46 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Wed, 03 Mar 2021 22:21:23 GMT
+Date: Thu, 18 Mar 2021 02:05:46 GMT
 Connection: keep-alive
 

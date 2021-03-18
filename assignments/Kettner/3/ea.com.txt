@@ -3,10 +3,10 @@ Server: AkamaiGHost
 Content-Length: 0
 Location: https://ea.com/
 Cache-Control: max-age=0
-Expires: Wed, 03 Mar 2021 22:09:49 GMT
-Date: Wed, 03 Mar 2021 22:09:49 GMT
+Expires: Thu, 18 Mar 2021 02:04:33 GMT
+Date: Thu, 18 Mar 2021 02:04:33 GMT
 Connection: keep-alive
-Set-Cookie: ealocale=en-us; expires=Thu, 03-Mar-2022 22:09:49 GMT; path=/; domain=.ea.com; secure
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:33 GMT; path=/; domain=.ea.com; secure
 X-L-Path: inert
 X-Environment-Context: prod
 X-Application-Context: eacom
@@ -18,10 +18,10 @@ Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.ea.com/
 Cache-Control: max-age=0
-Expires: Wed, 03 Mar 2021 22:09:50 GMT
-Date: Wed, 03 Mar 2021 22:09:50 GMT
+Expires: Thu, 18 Mar 2021 02:04:34 GMT
+Date: Thu, 18 Mar 2021 02:04:34 GMT
 Connection: keep-alive
-Set-Cookie: ealocale=en-us; expires=Thu, 03-Mar-2022 22:09:50 GMT; path=/; domain=.ea.com; secure
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:34 GMT; path=/; domain=.ea.com; secure
 X-L-Path: inert
 X-Environment-Context: prod
 X-Application-Context: eacom
@@ -32,12 +32,12 @@ Strict-Transport-Security: max-age=0
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=UTF-8
 Server: nginx
-Last-Modified: Wed, 03 Mar 2021 21:52:59 UTC
-Cache-Control: max-age=110
-Expires: Wed, 03 Mar 2021 22:11:40 GMT
-Date: Wed, 03 Mar 2021 22:09:50 GMT
+Last-Modified: Thu, 18 Mar 2021 01:54:40 UTC
+Cache-Control: max-age=358
+Expires: Thu, 18 Mar 2021 02:10:32 GMT
+Date: Thu, 18 Mar 2021 02:04:34 GMT
 Connection: keep-alive
-Set-Cookie: ealocale=en-us; expires=Thu, 03-Mar-2022 22:09:50 GMT; path=/; domain=.ea.com; secure
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:34 GMT; path=/; domain=.ea.com; secure
 Vary: Accept-Encoding
 X-L-Path: inert
 X-Environment-Context: prod

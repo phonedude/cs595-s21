@@ -1,7 +1,7 @@
 HTTP/1.1 302 Found
 Location: https://snapchat.com/
-X-Cloud-Trace-Context: 5e8091d838e886b09c09c30b45109bf4
-Date: Thu, 04 Mar 2021 02:10:54 GMT
+X-Cloud-Trace-Context: 6e01892d940d3ec1ec4cc2e4aa954f18
+Date: Thu, 18 Mar 2021 02:06:09 GMT
 Content-Type: text/html
 Server: Google Frontend
 Transfer-Encoding: chunked

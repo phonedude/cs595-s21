@@ -2,11 +2,11 @@ HTTP/1.1 301 Moved Permanently
 Content-Type: text/html
 Content-Length: 278
 Connection: keep-alive
-Date: Wed, 03 Mar 2021 21:58:04 GMT
+Date: Thu, 18 Mar 2021 02:04:22 GMT
 Server: Tengine
 Location: https://www.biblegateway.com/
 X-Cache: Miss from cloudfront
-Via: 1.1 2e50d9b1ee017f302768660f02b7418e.cloudfront.net (CloudFront)
+Via: 1.1 ed8e6c4476f2632eef2c7ce856161af0.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: IAD89-C1
-X-Amz-Cf-Id: c-vYwYZUSvM9dv9t8qlgszDE3G8mFAuuA53ax_pvAI41AI9nmQVebQ==
+X-Amz-Cf-Id: MkxF7RS4TP5m8viMzc-nfzxRWHWjzUDGPX9riJtCDbg84LaB2uqr_Q==
 

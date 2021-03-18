@@ -2,26 +2,30 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: http://www.cbc.ca/
-Date: Wed, 03 Mar 2021 22:06:36 GMT
+Date: Thu, 18 Mar 2021 02:04:26 GMT
 Connection: keep-alive
-Set-Cookie: akaas_feed=2147483647~rv=15~id=a91f5937c3b6f48a37cd959419c36354; path=/
+Set-Cookie: akaas_feed=2147483647~rv=100~id=7a64c7c177b36e54dfac4471c955f8a0; path=/
 
 HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.cbc.ca/
-Date: Wed, 03 Mar 2021 22:06:37 GMT
+Date: Thu, 18 Mar 2021 02:04:27 GMT
 Connection: keep-alive
-Set-Cookie: akaas_feed=2147483647~rv=80~id=601bdaaf7273f5032280bef30ced1a42; path=/
+Set-Cookie: akaas_feed=2147483647~rv=30~id=f6f36cd916dbb4df924067589e2fabb8; path=/
 
 HTTP/1.1 200 OK
 Server: nginx
 Content-Type: text/html; charset=utf-8
 X-url: /
-X-Origin-Server: ocelot_prod1_ip-10-9-33-205.ca-central-1.compute.internal_cache
+X-Origin-Server: ocelot_prod0_ip-10-9-33-205.ca-central-1.compute.internal_cache
+X-EdgeConnect-MidMile-RTT: 0
+X-EdgeConnect-Origin-MEX-Latency: 16
+X-EdgeConnect-MidMile-RTT: 0
+X-EdgeConnect-Origin-MEX-Latency: 16
 X-EdgeConnect-Cache-Status: 1
-Cache-Control: max-age=1
-Date: Wed, 03 Mar 2021 22:06:37 GMT
+Cache-Control: max-age=51
+Date: Thu, 18 Mar 2021 02:04:27 GMT
 Connection: keep-alive
-Set-Cookie: akaas_feed=2147483647~rv=66~id=ffad28ebd20f479c0821bb915a926d96; path=/; Secure; SameSite=None
+Set-Cookie: akaas_feed=2147483647~rv=34~id=7095e1a382d2fe8e340930e52be3e263; path=/; Secure; SameSite=None
 

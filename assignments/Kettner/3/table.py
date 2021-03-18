@@ -98,9 +98,9 @@ list = [('abc.es','HTTP/1.1 200',0,0,0,0,0),
 	('yandex.ru','HTTP/1.1 200',10,1,2,0,'/'),
 	('ytimg.com','HTTP/1.1 200',0,0,0,0,0)]
 
-print('-'*101)
+
 print('|          Site           | TerminatingStatus | Cookies | HTTPOnly | Secure |    SameSite    | Path |')
-print('-'*101)
+print('|','-'*23,'|','-'*17,'|','-'*7,'|','-'*8,'|','-'*6,'|','-'*14,'|','-'*4,'|')
 
 for item in list:
 	print("|",item[0]," "*(22-len(item[0])),"|",

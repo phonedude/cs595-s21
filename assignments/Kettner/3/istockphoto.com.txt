@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Wed, 03 Mar 2021 22:17:25 GMT
+Date: Thu, 18 Mar 2021 02:05:40 GMT
 Content-Type: text/html
 Content-Length: 183
 Connection: keep-alive
 Location: https://istockphoto.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 c242c974a465288488c7876cabca7752.cloudfront.net (CloudFront)
+Via: 1.1 6d4ee90b03b8194eed74421e603ee2a8.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: IAD89-C2
-X-Amz-Cf-Id: nUPOGmLpWoacc4hQauFNAs-ecyvDGM6l5ovs18VJz6_jHGRbyKr85A==
+X-Amz-Cf-Id: I-bLDarK1jVAACFvu2h4FECsH5KMJ5X5A7Z3ViEVsgAvYCHP1hzoWA==
 

@@ -1,20 +1,20 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 03 Mar 2021 22:05:59 GMT
+Date: Thu, 18 Mar 2021 02:04:25 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Wed, 03 Mar 2021 23:05:59 GMT
+Expires: Thu, 18 Mar 2021 03:04:25 GMT
 Location: https://www.businessinsider.com.au/
-cf-request-id: 089bb96e2400000316e30d1000000001
+cf-request-id: 08e4acc1d5000074a339b29000000001
 Server: cloudflare
-CF-RAY: 62a62b5d0d200316-IAD
+CF-RAY: 631ae3e2ebfe74a3-IAD
 
 HTTP/1.1 200 OK
-Date: Wed, 03 Mar 2021 22:05:59 GMT
+Date: Thu, 18 Mar 2021 02:04:26 GMT
 Content-Type: text/html; charset=UTF-8
 Connection: keep-alive
-Set-Cookie: __cfduid=d403cabfa48937769d62ad439439f6a7d1614809159; expires=Fri, 02-Apr-21 22:05:59 GMT; path=/; domain=.businessinsider.com.au; HttpOnly; SameSite=Lax
-CF-Ray: 62a62b5deabd382a-IAD
-Age: 18
+Set-Cookie: __cfduid=d97d87c7a00d619e5ffe1ce1599b98f301616033065; expires=Sat, 17-Apr-21 02:04:25 GMT; path=/; domain=.businessinsider.com.au; HttpOnly; SameSite=Lax
+CF-Ray: 631ae3e3aeff7441-IAD
+Age: 261
 Cache-Control: no-store, no-cache, must-revalidate
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Link: <https://www.businessinsider.com.au/wp-json/>; rel="https://api.w.org/"
@@ -23,7 +23,7 @@ Vary: Accept-Encoding
 CF-Cache-Status: DYNAMIC
 Cache-Action: Status #16
 Cache-Status: Hit
-cf-request-id: 089bb96eac0000382a342c3000000001
+cf-request-id: 08e4acc24d00007441c194f000000001
 Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Pragma: no-cache
 X-CacheHit: MISS

@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 03 Mar 2021 22:08:44 GMT
+Date: Thu, 18 Mar 2021 02:04:31 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Wed, 03 Mar 2021 23:08:44 GMT
+Expires: Thu, 18 Mar 2021 03:04:31 GMT
 Location: https://digg.com/
-cf-request-id: 089bbbf480000073d12da61000000001
+cf-request-id: 08e4acda6d00002a7b7a1e7000000001
 Server: cloudflare
-CF-RAY: 62a62f673a0673d1-IAD
+CF-RAY: 631ae40a4ae12a7b-IAD
 

@@ -5,31 +5,31 @@ Location: http://www.jstor.org/
 Connection: keep-alive
 Content-Length: 58
 Accept-Ranges: bytes
-Date: Wed, 03 Mar 2021 22:19:03 GMT
+Date: Thu, 18 Mar 2021 02:05:42 GMT
 Via: 1.1 varnish
-X-Served-By: cache-wdc5526-WDC
+X-Served-By: cache-wdc5550-WDC
 X-Cache: HIT
 X-Cache-Hits: 0
 
 HTTP/1.1 200 OK
 Server: Apache/2.4.29 (Ubuntu)
 X-Frame-Options: SAMEORIGIN
-Set-Cookie: AccessSession=H4sIAAAAAAAAAJ2RT2_bMAzF7_0Uhs9VQMmSSO0WZ8M6DNhlxS5DMdD6g3lI0yC2CwxFv_scy3aRbr3sqN97pB7Jp6uiKNtQFu-K0iZQ5AiUtVKzgwaVpsY0aKFKyKG8Ppv97G7ZC2aWkPGvGZu6RiRLprYaUVnCGsio-r2GD1tEm92n5UuKyhijrSWnAxquGkMWvWXwoZEuu4dhscuoCVUlYgiN0FIn4aL2IklvMbJOkSiX8ND_PJck3ndxIo-8z13kOB1JiVoD0CS1x6k7yo10cqPtxs0xOdy3h8s2XfdwCXp_-Wbv--6MvhdP4_tlvRIA8kAjm7OUegFxBs7ppqqcEcmxEdopEEQchXIhkSSfqsBLTf_7GKeij6eH4bi2XnHNXeuzNkrP1_8IVL0OpP4KFAkwxHHJFY4792gEe1ICvKQxom-A4T8DFXd5pf16FhjHX8-y57eE4Q2B-_407X4edLebvv2yXaLsbifw2MbDgX98W_nXzD_d3mw_b6dsV89_ANVkMZQbAwAA; Path=/; SameSite=Lax; Secure
-Set-Cookie: AccessSessionSignature=995e4f493b443f8afb5275f45c95f5fb3c539534e192e9c59d1c9e1adbed0836; Path=/; SameSite=Lax; Secure
-Set-Cookie: AccessSessionTimedSignature=5acf3c873853504c9cb18d6166130f9bc8fd69675df67e97a9490eb85c253f23; Path=/; SameSite=Lax; Secure
-Set-Cookie: UUID=61e48723-eddb-414f-9e4c-f1c67ea4fe88; expires=Sat, 02 Mar 2024 22:19:04 GMT; Max-Age=94608000; Path=/; SameSite=None; Secure
-Set-Cookie: csrftoken=6nBraYVlKmzvSY9Fb9yxqvWfACWABCgKonFtJKwn5KaKYSHvB2uKCLL2TZNFfUAB; expires=Wed, 02 Mar 2022 22:19:04 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
-Set-Cookie: ReferringRequestId=search:c62895bb24f3bc9c39225f445848c5aa; Path=/; SameSite=Lax; Secure
+Set-Cookie: AccessSession=H4sIAAAAAAAAAJ2RTWvbQBCG7_kVQues2dF-Tm6y7CSl0EtDL6GU2S-q4jjGkgIl5L9XXsk2bptLjvvMO---M_N6VRRlG8ripihRgbNCU6ggSE_JOhdBB_ROGGODKq8PYj-rW_KMiIBP-NeMdXW7xKXRfK1WzbrRqlnVemkUrGq5Vhom9X5WB8QYkhvlEiTnDgNx9GCEDNqQlZN6GGa5EJqnpIGhTp5JBGTEg2U-ebQmpeAgTi009D8PLYk2XczkhTaTC2jQXEiUlRE6l9pddjewAISF1AvUs0t4areXNl33fAl6f_km7_vugB6L1_F9Xi9wzjH7jmzOUsojiMcjoHRCoGIJSY0jVpxZS5FVGJIF65MIdOzpf-9ibrrbPw-7k_UJL6lr_VQbS2_X_wkk_g5U_RMoWm5C9CwJ45j0RjHytmLcgx0jeseJfzBQ8X1aaX8-i4DzWTb0XmF4p0B9v8-7nwdtmvztl_oYpXnI4KWN2y39-HbiXyf-6eG-_lznbFdvfwBN7laqGwMAAA; Path=/; SameSite=Lax; Secure
+Set-Cookie: AccessSessionSignature=4d6facaa1acdc46058a8d6f99f22b1a825f912fdb5e441cc99f6c2c2634cae72; Path=/; SameSite=Lax; Secure
+Set-Cookie: AccessSessionTimedSignature=dd42688e491d223217f5241e1b6b7303af729b2ef73b74ce4109b90d7ca30d58; Path=/; SameSite=Lax; Secure
+Set-Cookie: UUID=3360ff61-96fc-4919-a0d8-cfc987ffdb1e; expires=Sun, 17 Mar 2024 02:05:42 GMT; Max-Age=94608000; Path=/; SameSite=None; Secure
+Set-Cookie: csrftoken=a3pwxLi07GPd4Sr3LzqK9N8f4NmkkjhLHugVwGLfnyRdEeTldWPiIGeot1lqcwec; expires=Thu, 17 Mar 2022 02:05:42 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+Set-Cookie: ReferringRequestId=search:4ccb1d6e7b2eb9e9c6d4252189263df1; Path=/; SameSite=Lax; Secure
 Content-Type: text/html; charset=utf-8
 X-JSTOR-Restarts: 0
 Accept-Ranges: bytes
-Content-Length: 29612
-Date: Wed, 03 Mar 2021 22:19:04 GMT
+Content-Length: 29680
+Date: Thu, 18 Mar 2021 02:05:42 GMT
 Via: 1.1 varnish
 Connection: keep-alive
-X-Served-By: cache-wdc5542-WDC
+X-Served-By: cache-wdc5526-WDC
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1614809944.971423,VS0,VE86
+X-Timer: S1616033143.715609,VS0,VE87
 Vary: Cookie,Accept-Encoding,Fastly-SSL,Origin,X-Requested-Host
 

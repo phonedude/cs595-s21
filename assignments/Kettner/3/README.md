@@ -1,4 +1,3 @@
-
 For this assignment, I used the curl -ILsk command to get the terminating status codes and cookie
 information for each website. Then, I made a file with the filtered data to put into a code that will
 display the data into an organized table.
@@ -8,9 +7,9 @@ Max = 10
 Mean = 1.7
 Median = 3
 
------------------------------------------------------------------------------------------------------
+
 |          Site           | TerminatingStatus | Cookies | HTTPOnly | Secure |    SameSite    | Path |
------------------------------------------------------------------------------------------------------
+| ----------------------- | ----------------- | ------- | -------- | ------ | -------------- | ---- |
 | abc.es                  | HTTP/1.1 200      | 0       | 0        | 0      | 0              | 0    |
 | abcnews.go.com          | HTTP/1.1 200      | 2       | 0        | 0      | 0              | /    |
 | about.me                | HTTP/1.1 200      | 5       | 1        | 1      | Lax            | /    |
