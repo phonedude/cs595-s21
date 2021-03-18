@@ -1,0 +1,100 @@
+url,isframable,reason
+academia.edu,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+accounts.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+adobe.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+adweek.com,True,None
+amazon.ca,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+amazon.co.jp,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+amazon.de,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+answers.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+bbc.com,False,None
+blog.fc2.com,True,None
+booking.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+books.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+bp.blogspot.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+bp3.blogger.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+brandbucket.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+britannica.com,True,None
+ca.gov,True,None
+calameo.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+cambridge.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+cloudflare.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+de.wikipedia.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+deezer.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+dropbox.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+ebay.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+ed.gov,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+en.wikipedia.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+europa.eu,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+fandom.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+fb.me,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+finance.yahoo.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+forbes.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+foxnews.com,True,None
+get.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+ggpht.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+godaddy.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+gofundme.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+goo.gl,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+google.co.in,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+google.de,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+google.es,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+google.nl,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+googleblog.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+gooyaabitemplates.com,True,None
+greenpeace.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+groups.yahoo.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+harvard.edu,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+hm.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+huffpost.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+ig.com.br,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+instagram.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+iso.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+lifehacker.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+linkedin.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+lycos.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+mail.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+mail.ru,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+microsoft.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+msn.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+my.yahoo.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+myspace.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+namesilo.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+networkadvertising.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+news.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+newscientist.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+nokia.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+nps.gov,True,None
+offset.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+orange.fr,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+people.com,True,None
+php.net,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+picasa.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+plos.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+policies.google.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+rediff.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+researchgate.net,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+reuters.com,True,None
+rt.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+shutterstock.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+stanford.edu,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+steamcommunity.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+surveymonkey.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+terra.com.br,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+thenextweb.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+theverge.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+thoughtco.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+tinyurl.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+transandfiestas.ga,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+twitch.tv,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+usgs.gov,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+vk.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+walmart.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+washingtonpost.com,True,None
+whitehouse.gov,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+wiktionary.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+wired.com,True,None
+wordpress.org,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+youtu.be,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+youtube.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
+zdnet.com,False,SecurityError: Blocked a frame with origin "http://localhost:4000" from accessing a cross-origin frame.
