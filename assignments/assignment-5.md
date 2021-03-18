@@ -16,6 +16,8 @@ Relevant resources:
 
 * Create node.js, HTML, and json files in the directory ```5.1``` that demonstrate Javascript running in one HTML file requesting a .json response from another origin.  Show how the json response from one server is both blocked, and what is necessary to allow the response. 
 
+* Keep your json response simple, but make it convey information about your three favorite things from assignment 1.
+
 ### CORS: Blocking and reading HTTP response headers from another origin (5 points)
 
 * Create another directory ```5.2```; you can modify the files from ```5.1``` for this portion of the assignment if you'd like.
