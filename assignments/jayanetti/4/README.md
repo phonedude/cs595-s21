@@ -132,22 +132,18 @@ youtu.be
 youtube.com
 zdnet.com
 ```
-
-* Non framable sites: How did they defeat the attempt to frame them?
-
-** All of the framable sites gave no error when loading the Iframe.
-
-** Of the non framable sites:
-  
-  - One sitee (bbc.com) gave no error. Loking at that, it appears tha bbc.com page loads in the IFrame but unable to interact with it. If we try to click on something in the site, it will give "refused to connect" error.
-  - Everything else gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame. 
-
-* "X-Frame-Options" header distribution.* 
-     50 'SAMEORIGIN'or 'sameorigin'
-     40 No "X-Frame-Options" header
-      6 DENY
-      3 'SAMEORIGIN' and 'DENY'
-
+  *  Non framable sites: How did they defeat the attempt to frame them?
+  	* All of the framable sites gave no error when loading the Iframe.
+   	* Of the non framable sites:  
+  	- One sitee (bbc.com) gave no error. Loking at that, it appears tha bbc.com page loads in the IFrame but unable to interact with it. If we try to click on something in the site, it will give "refused to connect" error.
+  	- Everything else gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame.   
+  	* "X-Frame-Options" header distribution.
+```
+50 'SAMEORIGIN'or 'sameorigin'
+40 No "X-Frame-Options" header
+6  DENY
+3 'SAMEORIGIN' and 'DENY'
+```
 ### Steps
 
 * Step 01: I have created the HTML files with the help of [create_html.py](code/create_html.py). 
