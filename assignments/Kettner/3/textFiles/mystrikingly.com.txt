@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 19:51:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 18 Mar 2021 20:51:27 GMT
+Location: https://www.strikingly.com
+cf-request-id: 08e87da84f0000030c17b0e000000001
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=G6WJN2PpAAxxKLIOiFi6DYPvaSDWQX13gUnEg6neA5Qv2wDpIXcuLP941CimyWldqx2eNW0rGShyE1Ku4Nr%2Ffcm9VdWOZuOdWexhcdCEjMuB"}],"max_age":604800,"group":"cf-nel"}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6320feed488b030c-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 75376
+Connection: keep-alive
+Date: Thu, 18 Mar 2021 13:35:08 GMT
+Server: openresty
+Cache-Control: max-age=0, private, must-revalidate
+ETag: W/"e918a724b5be93b70390802465dbc18d"
+Set-Cookie: XSRF-TOKEN=ZHscL%2Fd9o%2BOrAA3yPHsui285kAifcd%2FR78UUlNFaG9VJ5cwaoxOQVOp3%2BdzoBryuJqyVRvBXISNWmYXB8O2tog%3D%3D; path=/
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Request-Id: 0370d07b47321d6b5cc415a33abc6cf2
+X-Runtime: 0.811213
+X-XSS-Protection: 1; mode=block
+X-Cache: Hit from cloudfront
+Via: 1.1 7f7e359e1c06a914d3d305785359b84d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: VqKThnDMj4aiMf0GDT8xv7XzGX5S2eb7Z9jt5-k-8RWkV9QSskkA9A==
+Age: 22579
+

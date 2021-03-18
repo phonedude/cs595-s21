@@ -1,0 +1,49 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 19:58:54 GMT
+Server: Apache
+Location: http://www.usatoday.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Force SSL
+Retry-After: 0
+Content-Length: 0
+Location: https://www.usatoday.com/
+Cache-Control: max-age=300
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 19:58:54 GMT
+Connection: close
+NEL: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+Report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+X-Cache: HIT
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 141172
+Content-Type: text/html; charset=utf-8
+etag: W/"26f04-tZakX/9Ly/JVTclAaO1UrrSEGVA"
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+Feature-Policy: camera 'none'; display-capture 'none'; geolocation 'none'; microphone 'none'; payment 'none'; usb 'none'
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 19:58:54 GMT
+Age: 11
+Set-Cookie: gnt_ub=1; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
+Set-Cookie: gnt_sb=1; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=31536000;
+Set-Cookie: gnt_eid=control; domain=.usatoday.com; path=/; secure; samesite=lax; max-age=5184000;
+Gannett-Cam-Experience-Id: control
+NEL: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+Report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+link: <https://www.usatoday.com/tangstatic/svg/weather/7-q1a2z3371d08dc.svg>;rel=preload;as=image;nopush
+Set-Cookie: gnt_d=%7B%22w%22%3A%7B%22t%22%3A%2252%22%2C%22f%22%3A%227-q1a2z3371d08dc%22%2C%22c%22%3A%22Cloudy%22%7D%2C%22z%22%3A%2222181%22%2C%22c%22%3A%22vienna%22%2C%22s%22%3A%22VA%22%7D; domain=.usatoday.com; path=/; samesite=lax; secure; priority=high;
+X-Cache: HIT, HIT
+X-Timer: S1616097535.653067,VS0,VE4
+Vary: Accept-Encoding, X-AbVariant, X-AltUrl, X-AbVCfg
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+

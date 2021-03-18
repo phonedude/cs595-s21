@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.19.0
+Date: Thu, 18 Mar 2021 19:52:20 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: https://www.nginx.com/
+
+HTTP/1.1 200 OK
+Date: Thu, 18 Mar 2021 19:52:20 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d1baaa3cd93ff07a427dd04a62c0a660c1616097140; expires=Sat, 17-Apr-21 19:52:20 GMT; path=/; domain=.nginx.com; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+X-Gateway-Request-Id: e9fd1be0f5651abd4849bcf96baedb49
+Set-Cookie: geoip=US; Max-Age=604800
+X-Pingback: https://www.nginx.com/xmlrpc.php
+Cache-Control: max-age=300
+Link: <https://www.nginx.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.nginx.com/>; rel=shortlink
+X-Gateway-Cache-Key: 1616094121.476|standard|https|www.nginx.com||/
+X-Gateway-Cache-Status: HIT
+X-Gateway-Skip-Cache: 0
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08e87e77280000f47822182000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare-nginx
+CF-RAY: 632100383ce2f478-IAD
+

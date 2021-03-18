@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 19:43:31 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=db8b8dfeaa4ea41b0e0a316df0857bd1c1616096611; expires=Sat, 17-Apr-21 19:43:31 GMT; path=/; domain=.brandbucket.com; HttpOnly; SameSite=Lax
+Location: https://www.brandbucket.com/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08e87663dd0000c1e824148000000001
+Server: cloudflare
+CF-RAY: 6320f34c9ce2c1e8-IAD
+
+HTTP/1.1 200 OK
+Date: Thu, 18 Mar 2021 19:43:32 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=de4f08ec68f3e0821d835a028bb9fe2dd1616096611; expires=Sat, 17-Apr-21 19:43:31 GMT; path=/; domain=.brandbucket.com; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=hlj2i858na0pecb62jf5i67gb2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: land_URL=1616096612%3B%2F; expires=Wed, 16-Jun-2021 19:43:32 GMT; Max-Age=7776000; path=/
+Set-Cookie: land_referrer=1616096612%3B; expires=Wed, 16-Jun-2021 19:43:32 GMT; Max-Age=7776000; path=/
+Access-Control-Allow-Origin: https://js.stripe.com/
+Access-Control-Allow-Origin: https://get.brandbucket.com/
+Access-Control-Allow-Origin: //staging.brandbucket.com/
+Access-Control-Allow-Credentials: true
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload; always;
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08e87665ee0000386b971c6000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6320f34fe82e386b-IAD
+
