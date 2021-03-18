@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:23:39 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Server: nginx
+Location: https://gofundme.com/
+
+HTTP/2 301 
+date: Sun, 28 Feb 2021 22:23:40 GMT
+content-type: text/html
+content-length: 178
+location: https://www.gofundme.com/
+server: nginx
+cache-control: max-age=300
+expires: Sun, 28 Feb 2021 22:28:40 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload;
+x-server: web008.internal.gofundme.com
+content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Sun, 28 Feb 2021 22:23:40 GMT
+server: nginx
+set-cookie: visitor=%7B%22country%22%3A%22US%22%7D; path=/; domain=.gofundme.com
+set-cookie: visitor=%7B%22country%22%3A%22US%22%2C%22locale%22%3A%22en_US%22%7D; path=/; domain=.gofundme.com
+set-cookie: gdid=00-d20ba930a3e7413ca98b0aa07e062e3b-d3cf5c96; expires=Wed, 26-Feb-2031 22:23:40 GMT; Max-Age=315360000; path=/; domain=.gofundme.com
+set-cookie: suid=1f59720a72494deba0ae7f9789057479; path=/; domain=.gofundme.com
+set-cookie: ssid1=2597795868-bcfe87a704404563-9%3A1614552820; expires=Wed, 26-Feb-2031 22:23:40 GMT; Max-Age=315360000; path=/; domain=.gofundme.com
+set-cookie: ssid2=2597795868-69f6718e3ff24b7e-9%3A1614723820; expires=Wed, 26-Feb-2031 22:23:40 GMT; Max-Age=315360000; path=/; domain=.gofundme.com
+strict-transport-security: max-age=31536000; includeSubDomains; preload;
+vary: Accept-Encoding
+x-server: web009.internal.gofundme.com
+content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
+x-cache: Miss from cloudfront
+via: 1.1 0712e4ad4264127dfcb76a114b130495.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C3
+x-amz-cf-id: np7ykOx4maG1Ig1MkQbBM2-CFuS66QK5RqLV7ewcBjL6oW2ak4dqjg==
+

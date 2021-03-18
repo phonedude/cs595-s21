@@ -1,0 +1,21 @@
+HTTP/1.0 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.rediff.com/
+Date: Sun, 28 Feb 2021 22:25:19 GMT
+Connection: keep-alive
+
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.rediff.com/
+Date: Sun, 28 Feb 2021 22:25:19 GMT
+Connection: close
+
+HTTP/1.0 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+Date: Sun, 28 Feb 2021 22:25:21 GMT
+Connection: close
+

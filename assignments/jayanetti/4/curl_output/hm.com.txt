@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.hm.com/
+Date: Sun, 28 Feb 2021 22:24:21 GMT
+Connection: keep-alive
+
+HTTP/1.1 307 Temporary Redirect
+Location: https://www.hm.com/entrance.ahtml?orguri=%2F
+Request-Context: appId=cid-v1:5dda0395-44ca-438b-8fb5-ff9a386866ab
+X-Powered-By: ASP.NET
+Strict-Transport-Security: max-age=604800
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen *; geolocation *; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none'
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://maps.google.com https://maps.googleapis.com https://s.go-mpulse.net; object-src 'self';
+Content-Length: 0
+Cache-Control: max-age=83703, post-check=0
+Date: Sun, 28 Feb 2021 22:24:21 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html;charset=utf-8
+content-language: es-ES
+request-context: appId=cid-v1:5dda0395-44ca-438b-8fb5-ff9a386866ab
+x-powered-by: ASP.NET
+strict-transport-security: max-age=604800
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+feature-policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen *; geolocation *; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none'
+referrer-policy: no-referrer-when-downgrade
+content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://maps.google.com https://maps.googleapis.com https://s.go-mpulse.net; object-src 'self';
+cache-control: max-age=5537, post-check=900
+date: Sun, 28 Feb 2021 22:24:21 GMT
+

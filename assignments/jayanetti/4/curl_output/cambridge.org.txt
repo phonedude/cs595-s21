@@ -1,0 +1,34 @@
+HTTP/1.1 302 Found
+Date: Sun, 28 Feb 2021 22:22:33 GMT
+Last-Modified: Sun, 28 Feb 2021 22:22:33 GMT
+Accept-Ranges: none
+Connection: close
+Content-type: text/html
+Location: https://www.cambridge.org/
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:22:33 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d73e81d694f69df9257497c16918b5c8f1614550953; expires=Tue, 30-Mar-21 22:22:33 GMT; path=/; domain=.cambridge.org; HttpOnly; SameSite=Lax
+vary: CF-IPCountry,Accept-Encoding
+cache-control: must-revalidate, no-cache, private
+x-cache: MISS
+x-request-id: v-74406c32-7a13-11eb-ad0c-a33dea91cbcc
+link: <https://www.cambridge.org>; rel="shortlink", <https://www.cambridge.org>; rel="canonical"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+content-language: en
+x-content-type-options: nosniff
+x-generator: Drupal 8 (https://www.drupal.org)
+via: varnish
+cf-ipcountry: US
+x-ua-compatible: IE=edge
+x-frame-options: SAMEORIGIN
+x-ah-environment: prod
+age: 0
+x-served-from: aws
+cf-cache-status: DYNAMIC
+cf-request-id: 088c5586aa0000c0700880f000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d8b844cbfc070-ORF
+
