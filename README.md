@@ -89,25 +89,28 @@ his course materials (although any errors are mine).
 * Week 08 - March 11 - (no class)
 
 
-* Week 09 - March 18 - Code Injection
+* Week 09 - March 18 - Transport Layer Security
+    * [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
+    * [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
+    * [Class slides](https://docs.google.com/presentation/d/1piE1r4YJuQTiy5_WCHQN5KaAqY29eXSsAJGr8jx-LxQ/edit#slide=id.gc8971b5675_0_189)
 
 
-* Week 10 - March 25 - UI Denial-of-service, Phishing, Side Channels
+* Week 10 - March 25 - HTTPS Experiences
 
 
-* Week 11 - April 1 - Transport Layer Security
+* Week 11 - April 1 - Authentication
 
 
-* Week 12 - April 8 - Authentication
+* Week 12 - April 8 - Server security, Safe coding practices
 
 
-* Week 13 - April 15 - Server security, Safe coding practices 
+* Week 13 - April 15 - DNS rebinding attacks
 
 
-* Week 14 - April 22 - DNS rebinding attacks
+* Week 14 - April 22 - UI Denial-of-service, Phishing, Side Channels
 
 
-* Week 15 - April 29 - Web Archiving 
+* Week 15 - April 29 - Rehosting, Web Archiving
 
 
 * Week 16 - May 6 - Exam 
