@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 02:19:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://plos.org/
+X-Edge-Location-Klb: ruWTri91WsyAIf2tgspCkLvL140a8a9f932852948f4475641eb4f4a3
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 18 Mar 2021 02:19:38 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Link: <https://plos.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://plos.org/wp-json/wp/v2/pages/51>; rel="alternate"; type="application/json"
+Link: <https://plos.org/>; rel=shortlink
+Access-Control-Allow-Origin: *
+X-Kinsta-Cache: HIT
+X-Edge-Location-Klb: ruWTri91WsyAIf2tgspCkLvL1681609d1de88fddafb2e42287438696
+

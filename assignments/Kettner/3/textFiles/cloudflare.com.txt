@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:04:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 18 Mar 2021 03:04:27 GMT
+Location: https://www.cloudflare.com/
+cf-request-id: 08e4acc9470000ea8ea38a4000000001
+Set-Cookie: __cf_bm=3d97f574510e3a6557bc1af43a89f82d93ca3cba-1616033067-1800-AREstWZKP79wDiLFCeeyDbCy40BQtjqHKy1G6xwptVH9zfeKYa+kyQSxl48E6/IwNZdnvBU6rTqK10wp8eB7DYY=; path=/; expires=Thu, 18-Mar-21 02:34:27 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=38j4Yk8ahu%2Fl8lHT16g1IjFQgHW%2BVl11jNASJ7tRJM2MkSbxFL3qznJfhO3dBkvStNRuP%2B8dh%2BERQPPsFhxGk2cwOgUps0nVKWrOsaxYeQ%3D%3D"}],"max_age":604800}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 631ae3eedcd1ea8e-IAD
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Thu, 18 Mar 2021 02:04:27 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=def8925dbbcd2f7ef674f806bd592ff161616033067; expires=Sat, 17-Apr-21 02:04:27 GMT; path=/; domain=.www.cloudflare.com; HttpOnly; SameSite=Lax; Secure
+CF-Ray: 631ae3efac97c1e8-IAD
+Age: 34
+Cache-Control: public, max-age=30
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+CF-Cache-Status: HIT
+cf-request-id: 08e4acc9cd0000c1e8f29fd000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Set-Cookie: __cf_bm=572ecba626936810dbb2cfea7adef58ec44187a2-1616033067-1800-AU5PkzPukAGS/f7xlObOaPwZXaUxpQnsntNPEMpGAqqzFoxxF1KKuOX9Jwq7hbiWMAKyxyyPFL5PwsyMCgdab6med+tRUz2BsiT8rAP0HfWX; path=/; expires=Thu, 18-Mar-21 02:34:27 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+Report-To: {"max_age":604800,"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=Kx3r6PqKmAsqOAy5hJNsFdYiyXn2Cnw7o23dxBQTz9xG3jVyQl0iUZiVXzsTHIBulYnUQC1LHB6bR73et58zojI%2FCX24Gmg9o7URsPgHhbDBB10%3D"}]}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+

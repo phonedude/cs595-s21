@@ -1,0 +1,43 @@
+HTTP/1.1 301 Redirect
+Date: Thu, 18 Mar 2021 02:04:36 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Location: http://www.geocities.com/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 307
+
+HTTP/1.1 301 Redirect
+Date: Thu, 18 Mar 2021 02:04:36 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Location: https://smallbusiness.yahoo.com/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 314
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Length: 42720
+Content-Type: text/html; charset=utf-8
+Date: Thu, 18 Mar 2021 02:04:37 GMT
+ETag: W/"a6e0-PbsydaBsw7dUbaDrMcarxpcDZkM"
+Expires: 0
+Pragma: no-cache
+Public-Key-Pins-Report-Only: includeSubDomains; max-age=2592000; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="2oALgLKofTmeZvoZ1y/fSZg7R9jPMix8eVA6DH4o/q8="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="JbQbUG5JMJUoI6brnx0x3vZF6jilxsapbXGVfjhN8Fg="; pin-sha256="SVqWumuteCQHvVIaALrOZXuzVVVeS7f4FGxxu6V+es4="; pin-sha256="UZJDjsNp1+4M5x9cbbdflB779y5YRBcV6Z6rBMLIrO4="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="cAajgxHlj7GTSEIzIYIQxmEloOSoJq7VOaxWHfv72QM="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="lnsM2T/O9/J84sJFdnrpsFp3awZJ+ZZbYpCWhGloaHI="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc=";
+Set-Cookie: OO=eyJ1c2VyIjp7ImxjayI6eyJMVF9DUlVNQl9NQVhfVkFMSURJVFlfUEVSSU9EIjoxODAwLCJERUJVRyI6ZmFsc2UsIkxDS19DT09LSUVTIjp7fSwiTENLX1JFUV9IRUFERVJTIjp7Imhvc3QiOiJuZXctcHJlc2FsZXMucHJvZC5zYnMubHVtc2IuY29tIiwiYWNjZXB0IjoiKi8qIiwiYWNjZXB0LWVuY29kaW5nIjoiaWRlbnRpdHkiLCJjbGllbnQtaXAiOiI3MS4xOTEuNDYuOTYiLCJjbmFtZSI6InNtYWxsYnVzaW5lc3MueWFob28uY29tIiwicGF0aG5hbWUiOiJyb290IiwidXNlci1hZ2VudCI6ImN1cmwvNy41NC4wIiwidmlhIjoiaHR0cHMvMS4xIHl0czAxLnNicy5iZjEueWFob28uY29tWzU3ZjQzYzY5LTg2NmUtNGRiOS05ODFiLTk1ODFhNTJmZjMzOF0gKEFwYWNoZVRyYWZmaWNTZXJ2ZXIvNy4xLjIuMTI4KSIsIngtc2FmZXQtYmFkLWNsYXNzaWZpZXJzIjoiIiwieC1zYWZldC1jbGFzc2lmaWNhdGlvbiI6IkdPT0QiLCJ4LXNhZmV0LW1hdGNoZWQtcnVsZXMiOiJnbG9iYWwuYmFkYm90X2lwO2dsb2JhbC5yZW1vdGVfaXA7IiwieC1zYWZldC1vdmVybGltaXQtcnVsZXMiOiIiLCJ5LXJpZCI6ImJ1cmhiODVnNTVkOWwiLCJ5c2JidWNrZXQiOiJuZXciLCJ4LWZvcndhcmRlZC1mb3IiOiI3MS4xOTEuNDYuOTYsIDEwLjI0Ny4zLjg4IiwieC1mb3J3YXJkZWQtcG9ydCI6IjgwIiwieC1mb3J3YXJkZWQtcHJvdG8iOiJodHRwIiwiY29ubmVjdGlvbiI6ImtlZXAtYWxpdmUifSwiTENLX1RTIjoxNjE2MDMzMDc3fX19; path=/; expires=Sat, 20 Mar 2021 02:04:37 GMT; domain=localhost; httponly
+Set-Cookie: OO.sig=9Kmm-5c5eoKsFKtjwMqiagvKoEc; path=/; expires=Sat, 20 Mar 2021 02:04:37 GMT; domain=localhost; httponly
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Age: 0
+Connection: keep-alive
+Server: ATS
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+

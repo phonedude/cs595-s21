@@ -1,0 +1,55 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://www.forbes.com/
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:36 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5562-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1616033076.335345,VS0,VE0
+X-Country-Code: US
+X-Postal-Code: 22181
+X-Region: VA
+X-City-Code: vienna
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: upgrade-insecure-requests
+state: HIT-SYNTH
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 421153
+Server: rhino-core-shield
+Content-Type: text/html; charset=utf-8
+cache-control: public, max-age=300
+x-envoy-upstream-service-time: 795
+x-envoy-decorator-operation: dns-proxy-resolver-internal.dnsresolver.svc.cluster.local:80/*
+Backend: dnsresolver
+x-backend: simple-site-prod
+X-YourTtl: 300.000
+X-Cicero-Cache: HIT 14
+Via: 1.1 google, 1.1 google, 1.1 varnish
+X-Fastly-Backend: 24YyrkkiTBhSwXWzJgvwW6--F_GCP_Cicero_Varnish
+X-FastlyTTL: 300.000
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:36 GMT
+Age: 0
+X-Served-By: cache-wdc5748-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033076.474047,VS0,VE29
+Vary: Accept-Encoding, Accept-Encoding, X-is-EU, X-Device, canary, X-Is-Ad-Light, x-malcolm, X-is-EU, X-Device, x-backend, canary, X-Is-Ad-Light
+X-Country-Code: US
+X-Postal-Code: 22181
+X-Region: VA
+X-City-Code: vienna
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: upgrade-insecure-requests
+x-device: pc
+state: MISS-CLUSTER
+

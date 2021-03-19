@@ -1,0 +1,65 @@
+HTTP/1.1 301 TLS Redirect
+Date: Thu, 18 Mar 2021 02:06:02 GMT
+Server: Varnish
+X-Varnish: 942968944
+X-Cache: cp1075 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=18-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=18-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+X-Client-IP: 71.191.46.96
+Location: https://pt.wikipedia.org/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 01:52:12 GMT
+Server: mw1330.eqiad.wmnet
+X-Content-Type-Options: nosniff
+P3p: CP="See https://pt.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Cache-Control: s-maxage=1200, must-revalidate, max-age=0
+X-Request-Id: YFKyTH6z9zFvlnlBIsy8jwAAAAc
+Last-Modified: Thu, 18 Mar 2021 01:52:12 GMT
+Location: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Age: 829
+X-Cache: cp1079 miss, cp1079 hit/547
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Report-To: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+NEL: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+Set-Cookie: WMF-Last-Access=18-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=18-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+X-Client-IP: 71.191.46.96
+Set-Cookie: GeoIP=US:VA:Vienna:38.89:-77.25:v4; Path=/; secure; Domain=.wikipedia.org
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 17 Mar 2021 14:30:00 GMT
+Server: mw1368.eqiad.wmnet
+X-Content-Type-Options: nosniff
+P3p: CP="See https://pt.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Language: pt
+Vary: Accept-Encoding,Cookie,Authorization
+X-Request-Id: YFISaH@R-bKnbwzCGu5IgQAAAEU
+Last-Modified: Wed, 17 Mar 2021 14:29:56 GMT
+Content-Type: text/html; charset=UTF-8
+Age: 41762
+X-Cache: cp1077 miss, cp1079 hit/28624
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Report-To: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+NEL: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+Set-Cookie: WMF-Last-Access=18-Mar-2021;Path=/;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=18-Mar-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 19 Apr 2021 00:00:00 GMT
+X-Client-IP: 71.191.46.96
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:VA:Vienna:38.89:-77.25:v4; Path=/; secure; Domain=.wikipedia.org
+Accept-Ranges: bytes
+Content-Length: 151617
+Connection: keep-alive
+

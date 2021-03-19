@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: http://www.viglink.com/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=600, must-revalidate
+Content-Length: 32675
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 17 Mar 2021 03:33:25 GMT
+Link: <http://www.viglink.com/wp-json/>; rel="https://api.w.org/"
+Link: <http://www.viglink.com/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
+Link: <http://www.viglink.com/>; rel=shortlink
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Cache: HIT: 143
+X-Cache-Group: normal
+X-Cacheable: SHORT
+X-Powered-By: WP Engine
+Connection: keep-alive
+

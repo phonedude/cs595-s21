@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:05:57 GMT
+Server: Apache
+Location: http://www.oreilly.com/
+Cache-Control: max-age=2592000
+Expires: Sat, 17 Apr 2021 02:05:57 GMT
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.oreilly.com/
+Date: Thu, 18 Mar 2021 02:05:58 GMT
+Connection: keep-alive
+Set-Cookie: akaalb_OReillyALB=~op=www_oreilly_com_ALB_100_SEB:dc1_sebastopol|~rv=93~m=dc1_sebastopol:0|~os=ea59de9527866dfb0dcb25ebf250c4a3~id=134eaceb09937b661e9a03cea6143734; path=/; HttpOnly
+
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Wed, 17 Mar 2021 08:30:02 GMT
+Content-Type: text/html
+Cache-Control: max-age=9666
+Expires: Thu, 18 Mar 2021 04:47:04 GMT
+Date: Thu, 18 Mar 2021 02:05:58 GMT
+Connection: keep-alive
+Set-Cookie: akaalb_OReillyALB=~op=www_oreilly_com_ALB_100_SEB:dc1_sebastopol|~rv=88~m=dc1_sebastopol:0|~os=ea59de9527866dfb0dcb25ebf250c4a3~id=45a8ea3a84b943c575754fcd1e1aeb0d; path=/; HttpOnly; Secure; SameSite=None
+

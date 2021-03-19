@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Content-Length: 718
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:25 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5562-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033065.154309,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.businessinsider.com/
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 398939
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Fenrir
+Last-Modified: Thu, 18 Mar 2021 02:02:41 GMT
+Cache-Control: public, max-age=120
+X-Frame-Options: sameorigin
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Link: </styles/landing-page.e1e3d772c826893af24c.css>; rel=preload; as=style; nopush, </scripts/main.16d3e4247d428654f964.js>; rel=preload; as=script; nopush,  </chunks/scripts/vendors.5014adaeeafb84915cd0.js>; rel=preload; as=script; nopush,  </chunks/scripts/utilities.72b7ddfaabf9b258bdef.js>; rel=preload; as=script; nopush
+ETag: W/"6165b-ITWONXfh1e1lw2CWh2yUnl//3QI"
+Via: 1.1 varnish, 1.1 varnish
+X-Country-Code: US
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:25 GMT
+Age: 102
+X-Served-By: cache-bwi5135-BWI, cache-wdc5582-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 1
+X-Timer: S1616033065.258102,VS0,VE2
+Vary: Accept-Encoding, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-ABTest-bii-finance-show-lock, X-ABTest-bii-media-show-lock, X-ABTest-right-rail-ads-only
+Strict-Transport-Security: max-age=31536000
+
