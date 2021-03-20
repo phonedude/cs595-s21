@@ -25,11 +25,11 @@ Two methods were used to get the Denial reason if the URL was unable to be frame
 
 * **Browser's Developer Console** 
 
-![consolesample](/images/console-sample.PNG)
+![consolesample](https://github.com/darinmclain/cs595-s21/blob/main/assignments/McLain/4/images/console-sample.PNG)
 
 * **Network Tab in Developer Console**
 
-![networksample](/images/networktab-sample.PNG)
+![networksample](https://github.com/darinmclain/cs595-s21/blob/main/assignments/McLain/4/images/networktab-sample.PNG)
 
 <br/>
 
