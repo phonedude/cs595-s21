@@ -1,0 +1,66 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-a-6b4c66d56-glzql
+X-Styx-Req-Id: 277000e6-864a-11eb-ab2b-be47f1660b62
+Cache-Control: public, max-age=86400
+Content-Length: 162
+Date: Wed, 17 Mar 2021 03:33:24 GMT
+Connection: keep-alive
+X-Served-By: cache-mdw17366-MDW, cache-wdc5550-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+X-Timer: S1615952005.832668,VS0,VE1
+Vary: Cookie, Cookie
+Age: 58144
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 0
+Cache-Control: public, max-age=1209600
+Content-Type: text/html; charset=UTF-8
+Location: https://www.utexas.edu/
+Server: nginx
+Strict-Transport-Security: max-age=31622400
+X-Pantheon-Styx-Hostname: styx-fe4-b-7fbc4c4c64-q8hxx
+X-Styx-Req-Id: 2d517a49-8236-11eb-b265-9ad421402f7c
+Date: Wed, 17 Mar 2021 03:33:24 GMT
+X-Served-By: cache-mdw17324-MDW, cache-wdc5530-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 1
+X-Timer: S1615952005.926261,VS0,VE1
+Vary: Cookie, Cookie
+Age: 506528
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 62487
+Cache-Control: public, max-age=300
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Etag: W/"1615949614-0"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 17 Mar 2021 02:53:34 GMT
+Link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Drupal-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe3-b-7f6f7b5944-lzw6l
+X-Styx-Req-Id: 7e499889-86cf-11eb-b3a3-7aee97506bbc
+Age: 245
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Wed, 17 Mar 2021 03:33:25 GMT
+X-Served-By: cache-mdw17377-MDW, cache-wdc5542-WDC, cache-wdc5540-WDC
+X-Cache: HIT, MISS, MISS
+X-Cache-Hits: 2, 0, 0
+X-Timer: S1615952005.052742,VS0,VE22
+Vary: Accept-Encoding, Cookie, Cookie, Cookie
+

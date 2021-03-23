@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 18 Mar 2021 02:05:43 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.latimes.com:443/
+

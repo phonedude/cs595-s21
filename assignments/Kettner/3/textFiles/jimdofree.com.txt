@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Type: 
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:42 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5549-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033142.345416,VS0,VE1
+Location: https://www.jimdo.com/
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 209016
+Cache-Control: public, max-age=60
+Content-Security-Policy: upgrade-insecure-requests; default-src 'self' 'unsafe-eval' 'unsafe-inline' data: https: wss:; report-uri https://o378271.ingest.sentry.io/api/5201427/security/?sentry_key=b97b30d6fd6244419f1e761e6f6f319a
+Content-Type: text/html; charset=UTF-8
+ETag: "60521c0e-33078"
+Last-Modified: Wed, 17 Mar 2021 15:11:10 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx/1.15.0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:42 GMT
+Age: 37999
+X-Served-By: cache-lcy19249-LCY, cache-wdc5565-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 26, 0
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+

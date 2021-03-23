@@ -1,0 +1,32 @@
+HTTP/1.1 301 Found
+Server: Varnish
+Retry-After: 0
+Location: https://qz.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:06:02 GMT
+Via: 1.1 varnish
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Served-By: cache-wdc5581-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Express
+Content-Security-Policy: frame-ancestors 'self' https://cms.qz.com; upgrade-insecure-requests
+X-Frame-Options: SAMEORIGIN
+ETag: W/"273cd-b6yTRBsgTReWNX7IcRLsi1XwCbg"
+Via: 1.1 varnish, 1.1 varnish
+Date: Thu, 18 Mar 2021 02:06:02 GMT
+Age: 7
+Strict-Transport-Security: max-age=31536000
+X-QZ-Test-Group: 3
+X-Served-By: cache-dca17724-DCA, cache-wdc5561-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1616033162.497708,VS0,VE5
+Vary: X-QZ-User-Role, Accept-Encoding
+

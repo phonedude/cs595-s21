@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Date: Thu, 18 Mar 2021 19:41:44 GMT
+Server: Tengine
+Location: https://www.biblegateway.com/
+X-Cache: Miss from cloudfront
+Via: 1.1 7c4bbd97f5be908e33f403c3794f629a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: kc0r9nUjC-mWSNXBlLY1le6BYuyhyfdGxGQcAORVKHxMeA0pP0u5sA==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Thu, 18 Mar 2021 19:41:44 GMT
+Server: Tengine
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=2592000
+X-Cache: Miss from cloudfront
+Via: 1.1 041a4887d523cabe8177e269cc358163.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: S9RZNc6L4S1zhXUnK6G74HwTSESoZMJ5J4isTV8pU6f9CqiS9jXBHA==
+

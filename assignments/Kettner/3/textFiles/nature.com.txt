@@ -1,0 +1,161 @@
+HTTP/1.0 301 Moved Permanently
+Location: http://www.nature.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Cache-Control: public,max-age=600
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html
+Location: https://www.nature.com/
+Server: Oscar Platform 0.507.0
+X-Vcap-Request-Id: ebbbbd11-e4b9-4476-5c39-91373b1c8f13
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Content-Length: 166
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:50 GMT
+Age: 337
+Connection: close
+X-Served-By: cache-wdc5535-WDC
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1616033151.720723,VS0,VE1
+Vary: x-forwarded-host, upgrade-insecure-requests
+
+HTTP/1.1 303 See Other
+Connection: close
+Content-Length: 0
+Age: 0
+Cache-Control: private,must-revalidate,max-age=0,no-store
+Content-Type: text/html; charset="UTF-8"
+Location: https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature
+Server: Oscar Platform 0.507.0
+Strict-Transport-Security: max-age=31536000;preload
+X-B3-Parentspanid: 81d6bd4188d12ef5
+X-B3-Sampled: 0
+X-B3-Spanid: 7143fa86463fbd56
+X-B3-Traceid: 81d6bd4188d12ef5
+X-Cache-Grace: NO
+X-Cacheable: NO:Not Cacheable
+X-Content-Type-Options: nosniff
+X-Dump-Request-Bodies: 0
+X-Forwarded-Host: www.nature.com
+X-Frame-Options: DENY
+X-Sn-Servicetimems: 7
+X-Vcap-Request-Id: 1fc59b09-ced0-4037-5ad8-daa0e6cd23a1
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:50 GMT
+X-Served-By: e8208808-37d7-45fa-97ba-054a48a43a6f, cache-wdc5577-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1616033151.802781,VS0,VE113
+Vary: x-springer-property-json,X-Frame-Options,X-Oscar-Cache-Mode
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: 0
+Location: https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature&code=ab21dfa5-5302-44e1-be6c-c04527ebcb69
+Pragma: no-cache
+Set-Cookie: idp_session=sVERSION_14b5afc56-ca79-40fb-8950-f125231dd8ac; Domain=.nature.com; Path=/; Secure; HttpOnly
+Set-Cookie: idp_session_http=hVERSION_1e4462c9f-b83c-46b6-bd35-a7f662a5ffc0; Domain=.nature.com; Path=/; HttpOnly
+Set-Cookie: idp_marker=4df3f521-2139-471f-97a6-99e2b33a8a50; Domain=.nature.com; Path=/; Max-Age=315360000; HttpOnly
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-B3-Spanid: 119a7f12b9e66105
+X-B3-Traceid: 119a7f12b9e66105
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Vcap-Request-Id: 4fd82f8d-9f15-44da-7eab-b61634171446
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:51 GMT
+X-Served-By: cache-wdc5569-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033151.094330,VS0,VE95
+Vary: x-forwarded-proto
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Language: en-US
+Expires: 0
+Location: https://www.nature.com/nature?error=cookies_not_supported&code=ab21dfa5-5302-44e1-be6c-c04527ebcb69
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-B3-Spanid: 3688388b389a2615
+X-B3-Traceid: 3688388b389a2615
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Vcap-Request-Id: 97b72a62-fae1-4e6f-5a0d-bb45dfc5ba0e
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:51 GMT
+X-Served-By: cache-wdc5540-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033151.224038,VS0,VE91
+Vary: x-forwarded-proto
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 166
+Cache-Control: public,max-age=600
+Content-Type: text/html
+Location: https://www.nature.com/?error=cookies_not_supported&code=ab21dfa5-5302-44e1-be6c-c04527ebcb69
+Server: Oscar Platform 0.507.0
+Strict-Transport-Security: max-age=31536000;preload
+X-Vcap-Request-Id: 48bb021b-eb28-4137-4540-dda9b528d91f
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:05:51 GMT
+Age: 0
+X-Served-By: cache-wdc5553-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1616033151.381852,VS0,VE89
+Vary: x-forwarded-host, upgrade-insecure-requests
+
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: private, must-revalidate
+Content-Type: text/html; charset="UTF-8"
+Etag: W/"b944e990c4b8d571d46a870601eb4489"
+Server: Oscar Platform 0.507.0
+Strict-Transport-Security: max-age=31536000;preload
+X-B3-Parentspanid: c9a52fab5e7fefd3
+X-B3-Sampled: 0
+X-B3-Spanid: 51a8aa8d3519957e
+X-B3-Traceid: c9a52fab5e7fefd3
+X-Cache-Grace: NO
+X-Cacheable: NO:Not Cacheable
+X-Content-Type-Options: nosniff
+X-Dump-Request-Bodies: 0
+X-Forwarded-Host: www.nature.com
+X-Frame-Options: DENY
+X-Sn-Servicetimems: 87
+X-Vcap-Request-Id: 103af2db-e4c2-4db4-5665-e34b9c0097ee
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Date: Thu, 18 Mar 2021 02:05:51 GMT
+X-Served-By: aa0fa51b-3f86-4719-9788-a9ecce07e160, cache-wdc5524-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1616033152.509426,VS0,VE199
+Vary: x-springer-property-json,X-Frame-Options,X-Oscar-Cache-Mode, Accept-Encoding
+

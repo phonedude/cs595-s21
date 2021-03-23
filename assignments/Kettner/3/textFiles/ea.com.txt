@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://ea.com/
+Cache-Control: max-age=0
+Expires: Thu, 18 Mar 2021 02:04:33 GMT
+Date: Thu, 18 Mar 2021 02:04:33 GMT
+Connection: keep-alive
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:33 GMT; path=/; domain=.ea.com; secure
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.ea.com/
+Cache-Control: max-age=0
+Expires: Thu, 18 Mar 2021 02:04:34 GMT
+Date: Thu, 18 Mar 2021 02:04:34 GMT
+Connection: keep-alive
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:34 GMT; path=/; domain=.ea.com; secure
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=0
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Last-Modified: Thu, 18 Mar 2021 01:54:40 UTC
+Cache-Control: max-age=358
+Expires: Thu, 18 Mar 2021 02:10:32 GMT
+Date: Thu, 18 Mar 2021 02:04:34 GMT
+Connection: keep-alive
+Set-Cookie: ealocale=en-us; expires=Fri, 18-Mar-2022 02:04:34 GMT; path=/; domain=.ea.com; secure
+Vary: Accept-Encoding
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=0
+

@@ -1,0 +1,16 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.canalblog.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 200
+Date: Wed, 17 Mar 2021 03:33:28 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=8E0E54D5FE6E8E9111E96637B0506A05; Path=/; HttpOnly
+X-CB-Server: VOYAGER12
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html;charset=utf-8
+
