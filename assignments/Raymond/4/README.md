@@ -5,7 +5,7 @@ Framable video: https://www.youtube.com/watch?v=JuQfHFRs0cY
 After setting up a server on the local host I used html files to attempt to frame each websites.
 When the site could not be framed I used the web developer tool to find the reason which was usually "set 'X-Frame-Options' to 'sameorigin'" or "set 'X-Frame-Options' to 'deny'".
 
-<img src="frameable/assignment%204%20framable.PNG" width="700">
+<img src="frameable/assignment4framable.PNG" width="700">
 
 | Website                    | Framable   | Reason |
 | --- | --- | --- |
