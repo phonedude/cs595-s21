@@ -94,10 +94,10 @@ thedailybeast.com|No|X-Frame-Options set to SAMEORIGIN|
 thenextweb.com|No|X-Frame-Options set to SAMEORIGIN|
 transandfiestas.ga|N/A|Site attacks with either "You won a contest!" or "Download Flash Player" (obviously malicious)|
 twitch.tv|No|X-Frame-Options set to SAMEORIGIN|
-vimeo.com||No|X-Frame-Options set to sameorigin|
+vimeo.com|No|X-Frame-Options set to sameorigin|
 w3.org|Yes||
 washingtonpost.com|Yes||
-wired.com||Yes||
+wired.com|Yes||
 www.blogger.com|Yes||
 www.over-blog.com|No|X-Frame-Options set to DENY|
 yale.edu|No|X-Frame-Options set to SAMEORIGIN|
