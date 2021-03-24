@@ -1,0 +1,43 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://www.google.com/chrome
+Content-Type: text/html; charset=UTF-8
+Content-Length: 211
+Date: Thu, 18 Mar 2021 02:06:15 GMT
+Expires: Thu, 18 Mar 2021 02:06:15 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+
+HTTP/1.1 301 Moved Permanently
+Location: https://www.google.com/chrome/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Thu, 18 Mar 2021 01:46:10 GMT
+Expires: Thu, 18 Mar 2021 02:16:10 GMT
+Server: sffe
+Content-Length: 227
+X-XSS-Protection: 0
+Cache-Control: public, max-age=1800
+Age: 1205
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Length: 224813
+Content-Security-Policy-Report-Only: script-src 'nonce-CVqiXhwF-UL09aGjtM3DcQ' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/webmaster/chrome; base-uri 'none'
+Cross-Origin-Resource-Policy: cross-origin
+Date: Thu, 18 Mar 2021 02:06:15 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Last-Modified: Thu, 04 Mar 2021 19:00:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

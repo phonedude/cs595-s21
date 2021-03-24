@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 12 Mar 2021 11:05:40 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 224
+X-Content-Type-Options: nosniff
+Location: https://nih.gov/
+Cache-Control: max-age=1209600
+Expires: Fri, 26 Mar 2021 11:05:40 GMT
+X-Request-ID: v-e191a2e8-8322-11eb-8f57-5f265164582c
+Age: 486013
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 651583
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 02:05:53 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 228
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Location: https://www.nih.gov/
+Cache-Control: max-age=1209600
+Expires: Fri, 26 Mar 2021 11:05:40 GMT
+X-Request-ID: v-e17d5b08-8322-11eb-8ca5-c74807c0ed86
+Age: 486013
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 655901
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 20738
+Cache-Control: public, max-age=21600
+Content-Language: en
+Content-Length: 67897
+Content-Type: text/html; charset=utf-8
+Date: Thu, 18 Mar 2021 02:05:54 GMT
+ETag: W/"1616012415-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 17 Mar 2021 20:20:15 GMT
+Link: <https://www.nih.gov/>; rel="canonical",<https://www.nih.gov/>; rel="shortlink"
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: Cookie,Accept-Encoding
+Via: varnish
+X-AH-Environment: prod
+X-Cache: HIT
+X-Cache-Hits: 25592
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Request-ID: v-2f3008de-875e-11eb-9b39-bf9bfaba655f
+X-UA-Compatible: IE=edge,chrome=IE6
+X-XSS-Protection: 1; mode=block
+Connection: keep-alive
+

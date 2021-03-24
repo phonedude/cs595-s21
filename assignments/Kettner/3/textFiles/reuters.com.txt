@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 19:56:49 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.reuters.com/
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 18 Mar 2021 19:56:25 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.reuters.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 4f9e9e3e8a2a5cea2848aac8473267f2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: 5pF9vK3Th4p7oio0O_Aaw1Cs_P6oIlDarioN_t2e2kOFHwKbpMYpoQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+browser-expires: Thu, 18 Mar 2021 19:51:52 GMT
+Date: Thu, 18 Mar 2021 19:51:53 GMT
+Expires: Thu, 18 Mar 2021 19:56:52 GMT
+Last-UpdatedL: Thu, 18 Mar 2021 19:46:19 GMT
+Server: nginx
+Set-Cookie: JSESSIONID=95B9562F738E0571627587B919A50364; Path=/rcom-betaus/; HttpOnly
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 8ad5a9cbb864898c238f716c1a12623d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: IBi1AsYl-8tmdmpkVBeN9_NAr2_kewMTWZq7nIcMe_wM2qtz_Mpfzg==
+Age: 272
+

@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:05:47 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://mysql.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:05:48 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15768000
+Location: https://www.mysql.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Thu, 18 Mar 2021 02:05:48 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15768000
+Set-Cookie: MySQL_S=ovi78fuv65one87noct0s3doqmpu6249; path=/; domain=mysql.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Cache-Control: no-cache, private
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+

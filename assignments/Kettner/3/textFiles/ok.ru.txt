@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Apache
+Date: Thu, 18 Mar 2021 02:05:54 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: bci=1550526500097731663; Domain=.ok.ru; Expires=Tue, 05-Apr-2089 05:20:01 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _statid=7d46df6d-8827-4993-bc9e-9122e471df0b; Domain=.ok.ru; Expires=Tue, 05-Apr-2089 05:20:01 GMT; Path=/; Secure; HttpOnly
+Content-Security-Policy: default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adsafeprotected.com *.serving-sys.com https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru *.googletagmanager.com connect.facebook.net;  worker-src blob: 'self';  connect-src * wss: blob:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;
+Cache-Control: no-cache
+Cache-Control: no-store
+Pragma: no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000;includeSubdomains;preload
+Rendered-Blocks: HtmlPage
+X-ScT: true
+

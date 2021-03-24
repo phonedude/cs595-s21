@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 205
+Content-Type: text/html; charset=UTF-8
+Location: https://www.samsung.com/
+Date: Thu, 18 Mar 2021 02:06:03 GMT
+Set-Cookie: TS01ef6e9e=0130e8942acf0b6d05ffcfec53749acce949c060addfbb91bb5292ea41781d5e949acc1d49eb5c8b8021e191eb6a42f5db1a49f28a; Path=/
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: /us/
+Expires: Thu, 18 Mar 2021 02:06:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 18 Mar 2021 02:06:06 GMT
+Connection: keep-alive
+Set-Cookie: country_codes=us; path=/; domain=.samsung.com
+Set-Cookie: device_type=pc; path=/; domain=.samsung.com
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Thu, 18 Mar 2021 00:51:12 GMT
+ETag: "6726c-5bdc4feff5010"
+Date: Thu, 18 Mar 2021 02:06:06 GMT
+Connection: keep-alive
+Set-Cookie: us_p6_PR=false; expires=Fri, 19-Mar-2021 02:06:06 GMT
+Set-Cookie: country_codes=us; path=/; domain=.samsung.com
+Set-Cookie: device_type=pc; path=/; domain=.samsung.com
+Set-Cookie: akacd_com_us=1616119566~rv=60~id=3c1b81d4386f5f1fc5f6a94de8db4990; path=/; Expires=Fri, 19 Mar 2021 02:06:06 GMT; Secure; SameSite=None
+

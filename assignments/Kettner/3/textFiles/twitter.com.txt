@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+cache-control: no-cache, no-store, max-age=0
+content-length: 0
+date: Thu, 18 Mar 2021 02:06:18 GMT
+location: https://twitter.com/
+server: tsa_b
+set-cookie: personalization_id="v1_zROU+EgtOoAI0d7OfFePhA=="; Max-Age=63072000; Expires=Sat, 18 Mar 2023 02:06:18 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A161603317879381330; Max-Age=63072000; Expires=Sat, 18 Mar 2023 02:06:18 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+x-connection-hash: ded22328dfacd9a9ae4962b78857ad09
+x-response-time: 5
+
+HTTP/1.1 200 OK
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+content-length: 0
+content-security-policy: connect-src 'self' blob: https://*.giphy.com https://*.pscp.tv https://*.video.pscp.tv https://*.twimg.com https://api.twitter.com https://api-stream.twitter.com https://ads-api.twitter.com https://caps.twitter.com https://media.riffsy.com https://pay.twitter.com https://sentry.io https://ton.twitter.com https://twitter.com https://upload.twitter.com https://www.google-analytics.com https://app.link https://api2.branch.io https://bnc.lt https://vmap.snappytv.com https://vmapstage.snappytv.com https://vmaprel.snappytv.com https://vmap.grabyo.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net ; default-src 'self'; form-action 'self' https://twitter.com https://*.twitter.com; font-src 'self' https://*.twimg.com; frame-src 'self' https://twitter.com https://mobile.twitter.com https://pay.twitter.com https://cards-frame.twitter.com ; img-src 'self' blob: data: https://*.cdn.twitter.com https://ton.twitter.com https://*.twimg.com https://analytics.twitter.com https://cm.g.doubleclick.net https://www.google-analytics.com https://www.periscope.tv https://www.pscp.tv https://media.riffsy.com https://*.giphy.com https://*.pscp.tv https://*.periscope.tv https://prod-periscope-profile.s3-us-west-2.amazonaws.com https://platform-lookaside.fbsbx.com https://scontent.xx.fbcdn.net https://*.googleusercontent.com; manifest-src 'self'; media-src 'self' blob: https://twitter.com https://*.twimg.com https://*.vine.co https://*.pscp.tv https://*.video.pscp.tv https://*.giphy.com https://media.riffsy.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net; object-src 'none'; script-src 'self' 'unsafe-inline' https://*.twimg.com   https://www.google-analytics.com https://twitter.com https://app.link  'nonce-MGFiYTQ3MDAtYTcyZC00NzY4LWFiMzUtYWVkMmEzODdjZWE4'; style-src 'self' 'unsafe-inline' https://*.twimg.com; worker-src 'self' blob:; report-uri https://twitter.com/i/csp_report?a=O5RXE%3D%3D%3D&ro=false
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin
+date: Thu, 18 Mar 2021 02:06:18 GMT
+expiry: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Thu, 18 Mar 2021 02:06:18 GMT
+pragma: no-cache
+server: tsa_b
+set-cookie: personalization_id="v1_68pErodoi1sI8Uo3KPkOfg=="; Max-Age=63072000; Expires=Sat, 18 Mar 2023 02:06:18 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A161603317892016327; Max-Age=63072000; Expires=Sat, 18 Mar 2023 02:06:18 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+strict-transport-security: max-age=631138519
+x-connection-hash: a39b3ae5c99ec33ed1009364853d899b
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-powered-by: Express
+x-response-time: 58
+x-xss-protection: 0
+

@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 02:05:51 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.netvibes.com/
+X-slb: slb5
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 02:05:52 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.netvibes.com/
+X-slb: slb6
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 18 Mar 2021 02:05:52 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: lang=en_US; expires=Fri, 02-Apr-2021 02:05:52 GMT; Max-Age=1296000; path=/; secure; SameSite=None
+Location: /en
+X-Men: web2
+X-slb: slb3
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 18 Mar 2021 02:05:53 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.3.6
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Generator: Netvibes
+Link: <https://www.netvibes.com/en>; rel="canonical"
+X-Men: nvhome2.vm
+X-slb: slb3
+

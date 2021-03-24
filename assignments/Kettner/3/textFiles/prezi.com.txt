@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 19:54:19 GMT
+Content-Type: text/html
+Content-Length: 175
+Connection: keep-alive
+Server: openresty/1.15.8.2
+Location: https://prezi.com/
+
+HTTP/1.1 406 Not Acceptable
+Date: Thu, 18 Mar 2021 19:54:20 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Server: openresty/1.15.8.2
+X-Frame-Options: DENY
+
