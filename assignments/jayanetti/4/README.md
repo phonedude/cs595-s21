@@ -169,22 +169,22 @@ In order to report these, I have added a column name "toplevel: isframable" to t
    * 59 sites defeated the attempt to be framed by setting the "X-Frame-Options" header to SAMEORIGIN, DENY or Both.
    * There were 40 sites which had no "X-Frame-Options" header.
    * "X-Frame-Options" header distribution.
-```
-50 'SAMEORIGIN'or 'sameorigin'
-40 No "X-Frame-Options" header
-6  DENY
-3 'SAMEORIGIN' and 'DENY'
-```
-
+	```
+	50 'SAMEORIGIN'or 'sameorigin'
+	40 No "X-Frame-Options" header
+	6  DENY
+	3 'SAMEORIGIN' and 'DENY'
+	```
    * Some sites had CSP set to self, none, or sub domains set. I also noted that booking.com had CSP report only.
-```
-Ex:
-"content-security-policy: frame-ancestors 'self'
-  
-content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
 
-content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
-```
+	```
+	Ex:
+	"content-security-policy: frame-ancestors 'self'
+
+	content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
+
+	content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
+	```
 
 ### Steps 
 
