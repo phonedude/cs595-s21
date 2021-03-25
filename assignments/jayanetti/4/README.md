@@ -142,9 +142,12 @@ zdnet.com
 
 However, I was able to identify sites where the toplevel domain is framable but not the deep links. For example, let's look at booking.com.
 
- * Loading the HTML page created with booking.com embeded as an iframe will allow you to see that it is framable.
+   * Loading the HTML page created with booking.com embeded as an iframe will allow you to see that it is framable.
+
 <img src="screenshots/booking1.png" width="700">
- * If you click somewhere on the page (Ex: "Register" button), it will display "account.booking.com refused to connect" with the security error "Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame".
+
+   * If you click somewhere on the page (Ex: "Register" button), it will display "account.booking.com refused to connect" with the security error "Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame".
+
 <img src="screenshots/booking2.png" width="700">
 
 In order to report these, I have added a column name "toplevel: isframable" to the final [data](data.csv) file.
