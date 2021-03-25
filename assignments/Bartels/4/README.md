@@ -18,7 +18,7 @@ blog.fc2.com|Yes||
 books.google.com|No|X-Frame-Options set to SAMEORIGIN|
 bp0.blogger.com|N/A|HTTP 400|
 change.org|No|X-Frame-Options set to sameorigin|
-cisco.com|No|X-Frame-Options set to SAMEORIGIN; Content-Security-Policy set frame ancestors to list of sites|
+cisco.com|No| Content-Security-Policy set frame ancestors to list of sites; X-Frame-Options set to SAMEORIGIN|
 cointernet.com.co|No|X-Frame-Options set to SAMEORIGIN|
 coursera.org|No|X-Frame-Options set to SAMEORIGIN|
 de.wikipedia.org|Yes||
@@ -102,3 +102,28 @@ www.blogger.com|Yes||
 www.over-blog.com|No|X-Frame-Options set to DENY|
 yale.edu|No|X-Frame-Options set to SAMEORIGIN|
 ytimg.com|N/A|Site did not resolve|
+
+## Table Summary
+* Number of sites that are framable:
+  * 33
+* Number of sites that are not framable:
+  * 61
+* Number of exceptional cases or N/A:
+  * 5
+  * Exceptions and circumstances:
+    * bp0.blogger.com: HTTP 400
+    * megaupload.com: Site did not resolve
+    * photos1.blogger.com: HTTP 404
+    * transandfiestas.ga: Site sent malicious attacks in both iframe and normal browser
+    * ytimg.com: Site did not resolve
+### Methods of defeating frame attempts
+* Sites that had X-Frame-Options set to SAMEORIGIN/sameorigin:
+  * 41
+* Sites that had X-Frame-Options set to DENY/deny:
+  * 8
+* Sites that had Content-security-policy set frame ancestors to self:
+  * 3
+* Sites that had Content-security-policy set frame ancestors to self and/or list of sites, and X-Frame-Options to SAMEORIGIN/sameorigin:
+  * 7
+* Sites that had Content-security-policy set frame ancestors to self or none, and X-Frame-Options set to DENY/deny:
+  * 2
