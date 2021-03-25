@@ -430,7 +430,7 @@ app.listen(port, () => {
 * Servers running
 <img src="frame-attack/screenshots/servers.png" width="700">
 
-* Succesful attempt of cookie stealing
+#### Succesful attempt of cookie stealing
 
    * Initial page load
 <img src="frame-attack/screenshots/stolen1.png" width="700">
@@ -441,7 +441,7 @@ app.listen(port, () => {
    * Attempting to access iframecookie using iframe.contentDocument.cookie in the console - Fails. But document.cookie will display both the cookies.
 <img src="frame-attack/screenshots/stolen3.png" width="700">
 
-* Unsuccesful attempt of cookie stealing
+#### Unsuccesful attempt of cookie stealing
  
     * Initial page load
 <img src="frame-attack/screenshots/secure1.png" width="700">
