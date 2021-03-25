@@ -12,6 +12,8 @@
     * [X-Frame-Options and Content-Security-Policy header summary](header_summary.tsv)
 
 
+## Youtube Video: 
+
 ## Q1: Which public sites are framable?
 
 ### Summary
@@ -142,7 +144,7 @@ However, I was able to identify sites where the toplevel domain is framable but 
 
 In order to report these, I have added a column name "toplevel: isframable" to the final [data](data.csv) file.
 
-* Therefore, more detailed summary is as below.
+* By considering the above mentioned type of frame behaviour, a more detailed summary of the 99 sites are as below.
 
    * Total number of sites: 99
    * Site is framable: 11
@@ -168,8 +170,8 @@ In order to report these, I have added a column name "toplevel: isframable" to t
 
    * Some sites had CSP set to self, none, or sub domains set. I also noted that booking.com had CSP report only.
 ```
-  Ex:
-  "content-security-policy: frame-ancestors 'self'
+Ex:
+"content-security-policy: frame-ancestors 'self'
   
 content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
 
