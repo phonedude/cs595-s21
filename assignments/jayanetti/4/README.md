@@ -443,7 +443,7 @@ app.listen(port, () => {
 
 #### Unsuccesful attempt of cookie stealing
  
-    * Initial page load
+   * Initial page load
 <img src="frame-attack/screenshots/secure1.png" width="700">
 
    * The main page cookie will display below the iframe on the main page after the timeout of 5s.
