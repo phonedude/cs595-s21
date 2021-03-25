@@ -278,7 +278,7 @@ if "Iframe not loaded" in outcome:
 ### Setup: Succesful Attack
 
 * HTML
-* 
+
 Evil HTML running on http://localhost:5001/ has an iframe which contains a HTML file running on http://localhost:5002/. 
 
 ```diff
@@ -353,7 +353,6 @@ app.listen(port, () => {
   console.log(`Server 2: Vulnerable victim is listening at http://localhost:${port}`)
 })
 ```
-
 
 ### Setup: Unsuccesful Attack
 
@@ -440,10 +439,4 @@ app.listen(port, () => {
 <img src="screenshots/secure1.png" width="700">
 <img src="screenshots/secure2.png" width="700">
 <img src="screenshots/secure3.png" width="700">
-
-
-
-
-
-
 
