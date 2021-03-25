@@ -267,11 +267,11 @@ if "Iframe not loaded" in outcome:
 ### List of directories
 
   * Code
-    * [Server 1: Evil server](code/evil_server.js)
-    * [Server 2: Victim server](code/victim.js)
-    * [Server 3: Secure server](code/secure.js)    
-    * [HTML 1: HTML having the victim site framed](code/files/html/stolencookie.html)
-    * [HTML 2: HTML having the secure site framed](code/files/html/securecookie.html)
+    * [Server 1: Evil server](frame-attack/evil_server.js)
+    * [Server 2: Victim server](frame-attack/victim.js)
+    * [Server 3: Secure server](frame-attack/secure.js)    
+    * [HTML 1: HTML having the victim site framed](frame-attack/files/html/stolencookie.html)
+    * [HTML 2: HTML having the secure site framed](frame-attack/files/html/securecookie.html)
     
 ### Youtube Video: https://youtu.be/uXC6dfXpam0
 
@@ -428,15 +428,15 @@ app.listen(port, () => {
 ### Screenshots
 
 * Servers running
-<img src="screenshots/servers.png" width="700">
+<img src="frame-attack/screenshots/servers.png" width="700">
 
 * Succesful attempt of cookie stealing
-<img src="screenshots/stolen1.png" width="700">
-<img src="screenshots/stolen2.png" width="700">
-<img src="screenshots/stolen3.png" width="700">
+<img src="frame-attack/screenshots/stolen1.png" width="700">
+<img src="frame-attack/screenshots/stolen2.png" width="700">
+<img src="frame-attack/screenshots/stolen3.png" width="700">
 
 * Unsuccesful attempt of cookie stealing
-<img src="screenshots/secure1.png" width="700">
-<img src="screenshots/secure2.png" width="700">
-<img src="screenshots/secure3.png" width="700">
+<img src="frame-attack/screenshots/secure1.png" width="700">
+<img src="frame-attack/screenshots/secure2.png" width="700">
+<img src="frame-attack/screenshots/secure3.png" width="700">
 
