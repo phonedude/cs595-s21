@@ -6,7 +6,7 @@
   * Code
     * [Collect CURL responses and create HTML](code/create_html.py)
     * [Check if a website is framable or not](code/check_framable.py)
-  * Intermediate Files
+  * Other Files
     * [CURL Responses](curl_output)
     * [HTML Files Created](framable)
     * [X-Frame-Options and Content-Security-Policy header summary](header_summary.tsv)
