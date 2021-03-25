@@ -6,7 +6,7 @@ Points available: 15
 
 ### Cookie report for 100 of the Mozilla top 500 web sites
 
-* In [Nelson/3], I've included [Mozilla's Top 500 Sites](https://moz.com/top500).  Also, I've include the 100 unique, random sites drawn from that sample that are assigned to each student.  Check the text file with your email address.  You must only do the 100 sites that are assigned to you.  
+* In [Nelson/3](https://github.com/phonedude/cs595-s21/tree/main/assignments/Nelson/3), I've included [Mozilla's Top 500 Sites](https://moz.com/top500).  Also, I've include the 100 unique, random sites drawn from that sample that are assigned to each student.  Check the text file with your email address.  You must only do the 100 sites that are assigned to you.  
 
 * Your README.md will be a report about the cookie practices of those 100 sites.  The report will primarily contain a giant table summarizing the 100 sites:
   * The terminating status codes for each site.  Note this is the final status code, not the 301s, 302, etc. that you may encounter on your way to the final status code.  More on that below.  
