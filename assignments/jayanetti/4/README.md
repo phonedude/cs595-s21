@@ -140,10 +140,9 @@ However, I was able to identify sites where the toplevel domain is framable but 
  * If you click somewhere on the page (Ex: "Register" button), it will display "account.booking.com refused to connect" with the security error "Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame".
 <img src="screenshots/booking2.png" width="700">
 
-In order to report these, I have added a column name "toplevel: isframable" to the data.csv file.
+In order to report these, I have added a column name "toplevel: isframable" to the final [data](data.csv) file.
 
-Therefore,
-* Further analysis of those non-framable sites reported above showed that,
+* Therefore, more detailed summary is as below.
 
    * Total number of sites: 99
    * Site is framable: 11
@@ -154,9 +153,9 @@ Therefore,
   
 *  Non framable sites: How did they defeat the attempt to frame them?
    * All of the framable sites gave no error when loading the Iframe. 
-   * Of the non framable sites:  
-  	- There are sites which allow the top level site to be framed but not the deep links. 
-  	- Every other site gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame.
+   * Of the non framable sites:
+   		* There are sites which allow the top level site to be framed but not the deep links. 
+  		* Every other site gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame.
    * 59 sites defeated the attempt to be framed by setting the "X-Frame-Options" header to SAMEORIGIN, DENY or Both.
    * There were 40 sites which had no "X-Frame-Options" header.
    * "X-Frame-Options" header distribution.
@@ -178,7 +177,7 @@ content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
   
   ```
 
-### Steps
+### Steps 
 
 * Step 01: I have created the HTML files with the help of [create_html.py](code/create_html.py). 
 
