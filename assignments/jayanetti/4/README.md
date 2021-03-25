@@ -9,6 +9,7 @@
   * Intermediate Files
     * [CURL Responses](curl_output)
     * [HTML Files Created](framable)
+    * [X-Frame-Options and Content-Security-Policy header summary](headers.tsv)
 
 
 ## Q1: Which public sites are framable?
@@ -42,7 +43,7 @@ wired.com
 * What are the non framable sites:
 
 ```
-/HW4$ cat data.csv | grep "True" | cut -d"," -f1
+/HW4$ cat data.csv | grep "False" | cut -d"," -f1
 academia.edu
 accounts.google.com
 adobe.com
@@ -132,19 +133,51 @@ youtu.be
 youtube.com
 zdnet.com
 ```
+However, I was able to identify sites where the toplevel domain is framable but not the deep links. For example, let's look at booking.com.
 
+ * Loading the HTML page created with booking.com embeded as an iframe will allow you to see that it is framable.
+<img src="screenshots/booking1.png" width="700">
+ * If you click somewhere on the page (Ex: "Register" button), it will display "account.booking.com refused to connect" with the security error "Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame".
+<img src="screenshots/booking2.png" width="700">
+
+In order to report these, I have added a column name "toplevel: isframable" to the data.csv file.
+
+Therefore,
+* Further analysis of those non-framable sites reported above showed that,
+
+   * Total number of sites: 99
+   * Site is framable: 11
+   * Only the top level site is framable: 13
+   * How many are not framable: 71
+   * Did not resolve: 3
+   * Connection reset: 1
+  
 *  Non framable sites: How did they defeat the attempt to frame them?
-   * All of the framable sites gave no error when loading the Iframe.
+   * All of the framable sites gave no error when loading the Iframe. 
    * Of the non framable sites:  
-  	- One sitee (bbc.com) gave no error. Loking at that, it appears tha bbc.com page loads in the IFrame but unable to interact with it. If we try to click on something in the site, it will give "refused to connect" error.
-  	- Everything else gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame.
-  * "X-Frame-Options" header distribution.
+  	- There are sites which allow the top level site to be framed but not the deep links. 
+  	- Every other site gives the SecurityError: Blocked a frame with origin http://localhost:4000 from accessing a cross-origin frame.
+   * 59 sites defeated the attempt to be framed by setting the "X-Frame-Options" header to SAMEORIGIN, DENY or Both.
+   * There were 40 sites which had no "X-Frame-Options" header.
+   * "X-Frame-Options" header distribution.
 ```
 50 'SAMEORIGIN'or 'sameorigin'
 40 No "X-Frame-Options" header
 6  DENY
 3 'SAMEORIGIN' and 'DENY'
 ```
+
+   * Some sites had CSP set to self, none, or sub domains set. I also noted that booking.com had CSP report only.
+```
+  Ex:
+  "content-security-policy: frame-ancestors 'self'
+  
+content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
+
+content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
+  
+  ```
+
 ### Steps
 
 * Step 01: I have created the HTML files with the help of [create_html.py](code/create_html.py). 
