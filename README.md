@@ -98,6 +98,7 @@ his course materials (although any errors are mine).
 * Week 10 - March 25 - HSTS, Certificate Transparency
     * [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
     * [Protecting Against HSTS Abuse](https://webkit.org/blog/8146/protecting-against-hsts-abuse/)
+    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning)
     * [Certificate Transparency](https://tools.ietf.org/html/rfc6962)
     * [Class slides](https://web.stanford.edu/class/cs253/lectures/Lecture%2012.pdf)
 
