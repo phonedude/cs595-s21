@@ -41,6 +41,8 @@ washingtonpost.com
 wired.com
 
 ```
+<img src="screenshots/adweek.png" width="700">
+
 
 * What are the non framable sites:
 
@@ -135,6 +137,9 @@ youtu.be
 youtube.com
 zdnet.com
 ```
+
+<img src="screenshots/academia.png" width="700">
+
 However, I was able to identify sites where the toplevel domain is framable but not the deep links. For example, let's look at booking.com.
 
  * Loading the HTML page created with booking.com embeded as an iframe will allow you to see that it is framable.
