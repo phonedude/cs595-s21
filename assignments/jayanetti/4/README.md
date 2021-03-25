@@ -431,18 +431,23 @@ app.listen(port, () => {
 <img src="frame-attack/screenshots/servers.png" width="700">
 
 * Succesful attempt of cookie stealing
-	* Initial page load
+
+   * Initial page load
 <img src="frame-attack/screenshots/stolen1.png" width="700">
-	* Cookies will display below the iframe on the main page after the timeout of 5s.
+
+   * Cookies will display below the iframe on the main page after the timeout of 5s.
 <img src="frame-attack/screenshots/stolen2.png" width="700">
-	* Attempting to access iframecookie using iframe.contentDocument.cookie in the console - Fails. But document.cookie will display both the cookies.
+
+   * Attempting to access iframecookie using iframe.contentDocument.cookie in the console - Fails. But document.cookie will display both the cookies.
 <img src="frame-attack/screenshots/stolen3.png" width="700">
 
 * Unsuccesful attempt of cookie stealing
-	* Initial page load
+ 
+    * Initial page load
 <img src="frame-attack/screenshots/secure1.png" width="700">
-	* The main page cookie will display below the iframe on the main page after the timeout of 5s.
-<img src="frame-attack/screenshots/secure2.png" width="700">
-	* Attempting to access iframecookie using iframe.contentDocument.cookie in the console - Fails. And this time, document.cookie will only display the main page cookies.
-<img src="frame-attack/screenshots/secure3.png" width="700">
 
+   * The main page cookie will display below the iframe on the main page after the timeout of 5s.
+<img src="frame-attack/screenshots/secure2.png" width="700">
+
+   * Attempting to access iframecookie using iframe.contentDocument.cookie in the console - Fails. And this time, document.cookie will only display the main page cookies.
+<img src="frame-attack/screenshots/secure3.png" width="700">
