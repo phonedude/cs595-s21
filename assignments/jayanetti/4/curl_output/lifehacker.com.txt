@@ -1,0 +1,50 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://lifehacker.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Sun, 28 Feb 2021 22:24:33 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5573-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614551074.519601,VS0,VE0
+X-Kinja-CCPA: (null)(US-VA)
+Set-Cookie: geocc=US;path=/;
+
+HTTP/2 200 
+x-powered-by: Express
+x-kinja: kinja-magma-kube01-7cfc674955-9ts7g #2523
+x-kinja-revision: 6bf4290c468f4b3c3b37e7fa4e864951bf9ae598
+x-kinja-server: kinja-magma-kube01-7cfc674955-9ts7g
+x-kinja-build: 2523
+cache-control: stale-if-error=86400, stale-while-revalidate=300
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-googlenews-bot: false
+content-type: text/html; charset=utf-8
+etag: W/"61456-GqYOr6gWNpkdemvZwX17E4hSEkU"
+via: 1.1 varnish, 1.1 varnish
+x-cdn-fetch: mantle-default
+accept-ranges: bytes
+date: Sun, 28 Feb 2021 22:24:33 GMT
+age: 238
+x-served-by: cache-bwi5161-BWI, cache-wdc5563-WDC
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1614551074.631205,VS0,VE1
+x-ua-device: desktop
+x-kinja-ccpa: (null)(US-VA)
+set-cookie: geocc=US;path=/;
+set-cookie: KinjaBucket=2;path=/;Max-Age=31536000;domain=lifehacker.com;SameSite=None;Secure;
+set-cookie: KinjaSetBucket=2|1614550800|davHys84Z6R9XK57GAbU0b37sgrGinPpEvjBgS0D3Zk=;path=/;Max-Age=300;SameSite=None;Secure;
+x-exp-id: tgs0ab4MLPvGYtW0gf7NK6
+x-exp-variant: 0
+vary: Accept-Encoding, X-Feature-Hash, X-Forwarded-Proto, Cookie, X-GoogleNews-Bot, X-Kinja-WelcomeAdLoadedV1, X-Kinja-GDPR, X-Kinja-CCPA, Authorization, X-Use-Magma
+x-use-magma: yes
+content-length: 398422
+

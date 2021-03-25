@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 28 Feb 2021 22:25:59 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __cfduid=d1e939c37d449f28127e5dacd586414191614551159; expires=Tue, 30-Mar-21 22:25:59 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+Location: https://thenextweb.com/
+X-Cacheable: YES
+Age: 31
+X-Cache: HIT
+CF-Cache-Status: DYNAMIC
+cf-request-id: 088c58ac420000c0667e05c000000001
+Server: cloudflare
+CF-RAY: 628d908d3e2ec066-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 28 Feb 2021 22:26:00 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=d67bf2d3678121a19d871d3ace4b6d6911614551160; expires=Tue, 30-Mar-21 22:26:00 GMT; path=/; domain=.thenextweb.com; HttpOnly; SameSite=Lax
+set-cookie: PHPSESSID=52s99mq1f45kpgbe898clh88eq; path=/
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+link: <https://thenextweb.com/wp-json/>; rel="https://api.w.org/"
+vary: Accept-Encoding
+x-cacheable: YES
+age: 20111
+x-cache: HIT
+strict-transport-security: max-age=31536000;
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: unsafe-url
+cf-cache-status: DYNAMIC
+cf-request-id: 088c58acf80000c09330896000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 628d908e5c56c093-ORF
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
