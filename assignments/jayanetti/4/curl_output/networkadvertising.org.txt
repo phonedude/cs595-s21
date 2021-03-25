@@ -1,0 +1,45 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Date: Sun, 28 Feb 2021 22:24:48 GMT
+Location: https://networkadvertising.org/
+Server: Apache/2.4.7 (Ubuntu)
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Cache-control: no-cache="set-cookie"
+Content-Type: text/html; charset=iso-8859-1
+Date: Sun, 28 Feb 2021 22:24:48 GMT
+Location: http://www.networkadvertising.org/
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: AWSELB=AF6B579512E626BDB8515A89C99EF196837F461ACABF3470C4CA4D7922C711189C4B1BCF7062761BCB2DE3D043900F06F007FF96D6077941D874BAD446C138626C503F8FBA;PATH=/
+Set-Cookie: AWSELBCORS=AF6B579512E626BDB8515A89C99EF196837F461ACABF3470C4CA4D7922C711189C4B1BCF7062761BCB2DE3D043900F06F007FF96D6077941D874BAD446C138626C503F8FBA;PATH=/;SECURE;SAMESITE=None
+X-Content-Type-Options: nosniff
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Date: Sun, 28 Feb 2021 22:24:48 GMT
+Location: https://www.networkadvertising.org/
+Server: Apache/2.4.7 (Ubuntu)
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, must-revalidate
+Cache-control: no-cache="set-cookie"
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Feb 2021 22:24:48 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+P3P: CP="NON DSP COR CUR ADMi DEV OUR BUS NAV"
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: AWSELB=AF6B579512E626BDB8515A89C99EF196837F461ACABF3470C4CA4D7922C711189C4B1BCF7062761BCB2DE3D043900F06F007FF96D6077941D874BAD446C138626C503F8FBA;PATH=/
+Set-Cookie: AWSELBCORS=AF6B579512E626BDB8515A89C99EF196837F461ACABF3470C4CA4D7922C711189C4B1BCF7062761BCB2DE3D043900F06F007FF96D6077941D874BAD446C138626C503F8FBA;PATH=/;SECURE;SAMESITE=None
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Powered-By: PHP/5.5.9-1ubuntu4.29
+X-UA-Compatible: IE=edge
+Connection: keep-alive
+

@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 28 Feb 2021 22:26:06 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Keep-Alive: timeout=60
+Location: https://main.travelfornamewalking.ga/
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 28 Feb 2021 22:26:08 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Keep-Alive: timeout=60
+Location: https://click.travelfornamewalking.ga/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 28 Feb 2021 22:26:10 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 1081
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Last-Modified: Mon, 01 Feb 2021 22:57:45 GMT
+ETag: "439-5ba4e483e35e4"
+Accept-Ranges: bytes
+
