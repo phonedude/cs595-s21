@@ -14,7 +14,7 @@
     * [HTML Files Created](framable)
     * [X-Frame-Options and Content-Security-Policy header summary](header_summary.tsv)
 
-### Youtube Video: 
+### Youtube Video: https://youtu.be/JRT9_6aON0k
 
 ### Summary
 
@@ -149,7 +149,7 @@ In order to report these, I have added a column name "toplevel: isframable" to t
    * Total number of sites: 99
    * Site is framable: 11
    * Only the top level site is framable: 13
-   * How many are not framable: 71
+   * Not framable: 71
    * Did not resolve: 3
    * Connection reset: 1
   
@@ -176,8 +176,7 @@ Ex:
 content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=ca799d493c370138&e=UmFuZG9tSVYkc2RlIyh9YVVBzJ38_nCx12ImVfi9-ylq6MbamNqpIg&f=0&s=0; frame-ancestors 'none';
 
 content-security-policy: frame-ancestors gofundme.com *.gofundme.com;
-  
-  ```
+```
 
 ### Steps 
 
