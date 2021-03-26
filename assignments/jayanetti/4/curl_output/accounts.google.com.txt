@@ -1,0 +1,46 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=UTF-8
+Location: https://accounts.google.com/
+Content-Length: 210
+Date: Sun, 28 Feb 2021 22:21:44 GMT
+Expires: Sun, 28 Feb 2021 22:21:44 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: DENY
+content-security-policy: script-src 'nonce-W/ELgYyfLfyGxQuAYZ/1sQ' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F
+content-length: 338
+date: Sun, 28 Feb 2021 22:21:44 GMT
+expires: Sun, 28 Feb 2021 22:21:44 GMT
+cache-control: private, max-age=0
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:mo1jrGnUrhGtv4UOpwrOzk8QR35HHg:9Sdt9FGp9CSm9kq4;Path=/;Expires=Tue, 28-Feb-2023 22:21:44 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: DENY
+x-auto-login: realm=com.google&args=continue%3Dhttps%253A%252F%252Faccounts.google.com%252F
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 28 Feb 2021 22:21:44 GMT
+content-length: 68865
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-8NYURC4WKIbW7xMret7msw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+set-cookie: __Host-GAPS=1:oIpmTb8DkPL-5xaG2nWK2RLKIC44yA:JczZuKlf7dQ2FCcd;Path=/;Expires=Tue, 28-Feb-2023 22:21:44 GMT;Secure;HttpOnly;Priority=HIGH
+alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
