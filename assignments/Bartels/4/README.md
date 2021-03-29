@@ -138,7 +138,14 @@ ytimg.com|N/A|Site did not resolve|
   * [cookieStealer.html](frame-attack/cookieStealer.html):  The html file that embeds [iframedPage.html](frame-attack/iframedPage.html) in an iframe and "steals" its cookie.
 
 * Secure framable page:  These four files demonstrate a page that refuses to let itself be embedded in an iframe, and keep its cookie secure.
-  * [secureVictimServer.js](frame-attack/secureVictimServer.js):  Node.js server that serves [securePage.html](frame-attack/securePage.html).  In order to protect the cookie from being stolen, the cookie is no longer declared in the server, it is declared in [securePage.html](frame-attack/securePage.html).  If the cookie is declared in the server like in [victimServer.js](frame-attack/victimServer.js), it does not matter if X-Frame-Options are set to ```SAMEORIGIN``` or ```DENY```, the iframed page's cookie will be displayed.  This can be seen in the two screenshots below.
+  * [secureVictimServer.js](frame-attack/secureVictimServer.js):  Node.js server that serves [securePage.html](frame-attack/securePage.html).  In order to protect the cookie from being stolen, the cookie is no longer declared in the server, it is declared in [securePage.html](frame-attack/securePage.html).  If the cookie is declared in the server like in [victimServer.js](frame-attack/victimServer.js), it does not matter if ```X-Frame-Options``` are set to ```SAMEORIGIN``` or ```DENY```, the iframed page's cookie will be displayed.  This can be seen in the two screenshots below.
 
   <img src="frame-attack/securePageSAMEORIGINFailure.png" width="1000">
   <img src="frame-attack/securePageDENYfailure.png" width="1000">
+
+  * [failedAttackerServer.js](frame-attack/failedAttackerServer.js):  Node.js server that serves [failedCookieSteal.html](frame-attack/failedCookieSteal.html).
+  * [failedCookieSteal.html](frame-attack/failedCookieSteal.html):  The html file that attempts to steal the cookie of [securePage.html](frame-attack/securePage.html).  It fails because the cookie is declared inside the document instead of the server, and the ```X-Frame-Options``` for [securePage.html](frame-attack/securePage.html) are set to ```SAMEORIGIN```.
+
+  ## YouTube videos:
+  * framable:  
+  * frame-attack:  
