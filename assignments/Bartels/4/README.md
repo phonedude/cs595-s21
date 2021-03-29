@@ -1,5 +1,13 @@
 # Assignment 4: Frames
 
+## Framable
+
+### This section was completed using 2 files
+* [writeHtmlFiles.sh](framable/writeHtmlfiles.sh):  Shell script that takes each line/top-level domain of the [LBART001@ODU.EDU](LBART001@ODU.EDU) file and outputs an iframe with the ```src``` attribute set to the format of ```http://top-level domain``` to a single html file for each line.
+* [frame.js](framable/frame.js):  Node.js server that serves the entire [htmlPages](framable/htmlPages/) directory.
+
+### Firefox version 87.0 for Windows 10 and its Console and Network developer tools were used to check if pages in the [framable/htmlPages](framable/htmlPages) directory are framable.
+
 ## Which public sites are frameable?
 Site|Framable?|Method of defeating frame attempt|
 ----|---------|---------------------------------|
@@ -92,7 +100,7 @@ support.google.com|No|X-Frame-Options set to SAMEORIGIN|
 telegraph.co.uk|No|Content-security-policy set frame ancestors to self; X-Frame-Options set to SAMEORIGIN|
 thedailybeast.com|No|X-Frame-Options set to SAMEORIGIN|
 thenextweb.com|No|X-Frame-Options set to SAMEORIGIN|
-transandfiestas.ga|N/A|Site attacks with either "You won a contest!" or "Download Flash Player" (obviously malicious)|
+transandfiestas.ga|N/A|Connection timeout|
 twitch.tv|No|X-Frame-Options set to SAMEORIGIN|
 vimeo.com|No|X-Frame-Options set to sameorigin|
 w3.org|Yes||
@@ -114,7 +122,7 @@ ytimg.com|N/A|Site did not resolve|
     * bp0.blogger.com: HTTP 400
     * megaupload.com: Site did not resolve
     * photos1.blogger.com: HTTP 404
-    * transandfiestas.ga: Site sent malicious attacks in both iframe and normal browser
+    * transandfiestas.ga: Connection timeout
     * ytimg.com: Site did not resolve
 ### Methods of defeating frame attempts
 * Sites that had X-Frame-Options set to SAMEORIGIN/sameorigin:
@@ -147,5 +155,5 @@ ytimg.com|N/A|Site did not resolve|
   * [failedCookieSteal.html](frame-attack/failedCookieSteal.html):  The html file that attempts to steal the cookie of [securePage.html](frame-attack/securePage.html).  It fails because the cookie is declared inside the document instead of the server, and the ```X-Frame-Options``` for [securePage.html](frame-attack/securePage.html) are set to ```SAMEORIGIN```.
 
   ## YouTube videos:
-  * framable:  
-  * frame-attack:  
+  * framable:  https://youtu.be/i4s8NqvW1U4
+  * frame-attack:  https://youtu.be/EQ4UElgxgEk
