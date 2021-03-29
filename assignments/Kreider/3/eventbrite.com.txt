@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 04 Mar 2021 03:38:08 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: keep-alive
+x-forwarded-proto: http
+x-forwarded-port: 80
+x-forwarded-for: 71.120.190.73
+x-amzn-trace-id: Root=1-60405620-6b70b5ec1dd6891c628e2b94
+user-agent: curl/7.55.1
+host: evenbrite.com
+accept: */*
+Location: https://www.eventbrite.com
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 04 Mar 2021 03:38:08 GMT
+Content-Type: text/html
+Connection: keep-alive
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000 ; includeSubDomains
+vary: X-EB-Website-Context, X-EB-App-Context, Accept-Encoding
+x-permitted-cross-domain-policies: none
+x-varnish-ttl: 60
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+referrer-policy: strict-origin-when-cross-origin
+x-frame-options: SAMEORIGIN
+x-ua-compatible: IE=edge
+set-cookie: mgref=typeins; Domain=.eventbrite.com; expires=Thu, 03-Mar-2022 21:22:38 GMT; httponly; Max-Age=31536000; Path=/; secure; SameSite=None
+x-varnish: 329874882 114333049
+age: 22530
+via: 1.1 varnish (Varnish/5.1)
+set-cookie: csrftoken=09719c167c9b11eb929d3b4fc464ee8d; Domain=.eventbrite.com; Max-Age=31449600; Path=/; secure; SameSite=None
+accept-ranges: bytes

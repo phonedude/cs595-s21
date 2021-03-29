@@ -1,0 +1,40 @@
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 23 Feb 2021 23:00:34 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Set-Cookie: anon_u=cHN1X19jM2NhMmZlMS05YTk4LTQ2YjUtYjJiYS1lY2Y0YTE5NDdiODI=|1614121234|b6a517ce524722194481ee0d557fe8590d8ceb34; Domain=bitly.com; expires=Wed, 23 Feb 2022 23:00:34 GMT; httponly; Path=/; secure
+Strict-Transport-Security: max-age=1209600
+Location: http://www.amazon.com/
+Pragma: no-cache
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+X-Frame-Options: DENY
+P3p: CP="CAO PSA OUR"
+Via: 1.1 google
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 23 Feb 2021 23:00:34 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.amazon.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 f44c8fed96046735d6f7ada758945c4f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: cDM4-AdKnRqfm0n6fsBvX-zkDC-oTfjoM0gJSSHImIqts7Qzr72B3Q==
+
+HTTP/1.1 503 Service Unavailable
+Content-Type: text/html
+Content-Length: 6591
+Connection: keep-alive
+Server: Server
+Date: Tue, 23 Feb 2021 23:00:34 GMT
+x-amz-rid: 19DY7CVA4ZA59HGNQ1S1
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 4ddb123c20d2dccf25d1f2d151f23b02.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+X-Amz-Cf-Id: 8SLzrAeNtn9WWGQqwyUWJ4biLUV9J3y1OK4itTVKLOnJVn_8HRT27A==
+

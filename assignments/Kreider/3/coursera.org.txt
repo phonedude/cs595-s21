@@ -1,0 +1,56 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 23 Feb 2021 23:33:11 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://coursera.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 5c91d033409cd7607633594f94b09065.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: A6mJO-ocVns93MlcGxcS3Hv6ubVSm7LoVMFMAegP1iULDtyLS9Lw2w==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Date: Tue, 23 Feb 2021 23:33:11 GMT
+Location: https://www.coursera.org/
+Set-Cookie: CSRF3-Token=1614987191.PaknTJID2m6mFoHi; Max-Age=864000; Expires=Fri, 05 Mar 2021 23:33:11 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: __204u=6058538798-1614123191821; Max-Age=31536000; Expires=Wed, 23 Feb 2022 23:33:11 GMT; Path=/; Domain=.coursera.org
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Coursera-Request-Id: fjocpXYvEeuuTA6CZg6Onw
+X-Coursera-Trace-Id-Hex: 74e1e65c24b39a86
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 f88487c9214731db4c82619c9183bf7b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: eiOmLfs3po_1r6UT3-UMHH4mqGAyZcdfTTFYTEoY34ZbwxUk_BJrgQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Connection: keep-alive
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Date: Tue, 23 Feb 2021 23:33:11 GMT
+etag: "4f2e9-L4eHyIfYU+0hlj2TXZbDFsPpFS0"
+Server: envoy
+Set-Cookie: CSRF3-Token=1614987192.ZFpBErkAUbiS12e0; Max-Age=864000; Expires=Fri, 05 Mar 2021 23:33:12 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: __204u=2493613326-1614123192048; Max-Age=31536000; Expires=Wed, 23 Feb 2022 23:33:12 GMT; Path=/; Domain=.coursera.org
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Coursera-Render-Mode: html
+X-Coursera-Render-Version: v2
+X-Coursera-Request-Id: flyYiHYvEeuTxRJH7wf7mQ
+X-Coursera-Trace-Id-Hex: 3c81a8dbecba0031
+x-envoy-upstream-service-time: 107
+X-Frame-Options: SAMEORIGIN
+x-powered-by: Next.js
+X-XSS-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 baddfcb4f2a6876b4fcc03bcd62427ef.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: 3H9hRKNsIPR9RAXKUZ85h2Q11xXxjqNDNl8C2WwbKLf4G4YWDj8F3Q==
+

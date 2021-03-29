@@ -1,0 +1,14 @@
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Feb 2021 00:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cfduid=de0f7f157cd957b8331cd0d089a3eae6e1614125676; expires=Fri, 26-Mar-21 00:14:36 GMT; path=/; domain=.sciencedirect.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 0872fc4feb0000031a0c255000000001
+Set-Cookie: __cf_bm=0950aed25cfdce58b4125942a0ec1cd17850b045-1614125676-1800-AWDCTfVRwNcqwqWeyk5aBvefx1z1i2KfYVtP5LMB1JaVoQLRZ3skFAYhR+QB3Sd3b54NJtD5rcQ5DUy9TL+Ol3M=; path=/; expires=Wed, 24-Feb-21 00:44:36 GMT; domain=.sciencedirect.com; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 6264fcc64cfc031a-IAD
+

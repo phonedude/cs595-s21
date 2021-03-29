@@ -1,0 +1,60 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:36:09 GMT
+Content-Type: text/plain;charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d9d5957132aa90d33837411be3f6ad5141614123369; expires=Thu, 25-Mar-21 23:36:09 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax
+Location: https://discord.gg/
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Robots-Tag: noindex, nofollow, noarchive, nocache, noimageindex, noodp
+X-XSS-Protection: 1; mode=block
+cf-request-id: 0872d91d9d0000258007211000000001
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=9YD2Mj0ZGJLadlsvTfCSM2mUYT2jtIH81dMuFh%2Bw%2BmUUyzrWYfIbkt0HBYeZ%2BpOVCy%2B8ymkTgBV5eyeu3iNiYe%2FWp8DXgt8WsQ5P"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6264c475ced92580-IAD
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Feb 2021 23:36:10 GMT
+Content-Type: text/plain;charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d9707d831b00d128f1f8107b85b2e33391614123369; expires=Thu, 25-Mar-21 23:36:09 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax
+Location: https://discord.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Robots-Tag: noindex, nofollow, noarchive, nocache, noimageindex, noodp
+X-XSS-Protection: 1; mode=block
+cf-request-id: 0872d91e0a0000ea1cc2820000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=lsdz2OlcwgmGJig8HptpoM90Zc0Jirq0HmjR2Mf6OWyyrT0esCtjNZRAdIQuWgtHSmOkTUAXs7TY4FPRH75%2FSyYzjvjpVjvDYBRF"}],"max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6264c4767936ea1c-IAD
+
+HTTP/1.1 200 OK
+Date: Tue, 23 Feb 2021 23:36:10 GMT
+Content-Type: text/html
+Content-Length: 38488
+Connection: keep-alive
+Set-Cookie: __cfduid=dc5d0bf9ccf52a7829990131a75c61fe81614123370; expires=Thu, 25-Mar-21 23:36:10 GMT; path=/; domain=.discord.com; HttpOnly; SameSite=Lax; Secure
+CF-Ray: 6264c4772b85381e-IAD
+Accept-Ranges: bytes
+Cache-Control: private
+ETag: "4a4cf2d34f5dba78212f8330115b73bb"
+Last-Modified: Tue, 23 Feb 2021 04:24:58 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+CF-Cache-Status: HIT
+cf-request-id: 0872d91e7c0000381e4da67000000001
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'nonce-MjA5LDE0NSwyMzQsMjE4LDIyMiw0NCwxODQsMjE0' https://www.googletagmanager.com https://connect.facebook.net https://www.google-analytics.com https://ssl.google-analytics.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/ https://hcaptcha.com https://*.hcaptcha.com https://s.ytimg.com/yts/jsbin/ https://www.youtube.com/iframe_api; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://*.hcaptcha.com https://hcaptcha.com; img-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://cdn.discordapp.com https://hackerone-api.discord.workers.dev/user-avatars/ https://safety.discord.com https://discordmoderatoracademy.zendesk.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://discordapp.com https://discord.com https://connect.facebook.net https://api.greenhouse.io https://api.github.com https://sentry.io https://www.google-analytics.com https://hackerone-api.discord.workers.dev https://*.hcaptcha.com https://hcaptcha.com ws://127.0.0.1:* http://127.0.0.1:*; media-src 'self' https://cdn.discordapp.com/assets/; frame-src https://discordapp.com/domain-migration https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/ https://*.hcaptcha.com https://hcaptcha.com https://www.youtube.com/embed/ https://hackerone.com/631fba12-9388-43c3-8b48-348f11a883c0/;
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Build-Id: cf18338
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=B1zhdMTSfQ4yW5UsqpU1VqlwZLNB3%2B0zF16mAtRVi8vr3uG2Wt4B55sXwAd4%2BTZOHRqeQsPECsCG3V7RPiZiS9JwcJZLlQlNHJeA2w%3D%3D"}],"max_age":604800}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
