@@ -3,7 +3,7 @@ const { createReadStream } = require('fs')
 var app = express();
 
 app.get('/', (req, res) => {
-    res.append('X-Frame-Options', 'DENY')
+    res.append('X-Frame-Options', 'SAMEORIGIN')
     createReadStream('securePage.html').pipe(res)
 })
 
