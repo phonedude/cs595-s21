@@ -22,7 +22,7 @@ m=0
 while m<=len(superlist1):         # so that the while loop does not over shoot                                               
     with open(superlist1[m-1].removesuffix('\n'))as txtfile:
         for lines in txtfile.readlines():
-            if'Cookie' in lines:
+            if'Cookie:' in lines:
                 cookie_num+=1
                
             if ' HttpOnly;'in lines:
@@ -59,5 +59,7 @@ print (str(path_to_none_num-total_path)+' total number of paths that had var oth
 print(str(maximum)+' is the max number of cookies per request \n'+str(minimum)+
 ' is the min number of cookies per request')
 print(str(cookie_med)+' is the median')
+print(cookielistfinal)
+print(cookielist)
 # these print statments are being used to get my data out and I then put them into the MD file
 

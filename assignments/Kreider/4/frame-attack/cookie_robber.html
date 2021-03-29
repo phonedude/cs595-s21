@@ -1,0 +1,26 @@
+
+<!DOCTYPE HTML>
+
+<h1>We're going to steal your cookie!</h1>
+
+Below is an iframe that loads from a page that is in another path
+<p>
+<p>
+
+<script>
+    document.cookie = 'This_is_the_cookie'
+    const iframe = document.createElement('iframe')
+    iframe.src= 'https://www.cs.odu.edu/~mln/teaching/cs595-s21/cookie-setter.cgi'
+    //used yours instead of my cookie setter as mine didnt seem to set cookies
+    document.body.appendChild(iframe)
+    document.write(iframe.contentDocument.cookie)
+    console.log(iframe.contentDocument.cookie)
+
+    
+    setTimeout(function() {
+    const p = document.createElement('p')
+    p.innerHTML = iframe.contentDocument.cookie
+    document.body.appendChild(p)
+    })
+    
+</script>
