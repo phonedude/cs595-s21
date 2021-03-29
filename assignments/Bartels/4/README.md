@@ -133,7 +133,7 @@ ytimg.com|N/A|Site did not resolve|
 ### There are two sets of files used in [frame-attack](frame-attack/)
 * Insecure framable page:  These four files demonstrate "stealing" a cookie from an iframed page.
   * [victimServer.js](frame-attack/victimServer.js):  Node.js server that serves [iframedPage.html](frame-attack/iframedPage.html), which is stored in an iframe and has its cookie stolen.  The cookie is declared in the server using ```res.append```.
-  * [iframedPage.html](iframedPage.html):  The html file that is embedded in an iframe and has its cookie, ```login=chocochipcookie```, stolen.
+  * [iframedPage.html](frame-attack/iframedPage.html):  The html file that is embedded in an iframe and has its cookie, ```login=chocochipcookie```, stolen.
   * [attackerServer.js](frame-attack/attackerServer.js):  Node.js server that serves [cookieStealer.html](frame-attack/cookieStealer.html).
   * [cookieStealer.html](frame-attack/cookieStealer.html):  The html file that embeds [iframedPage.html](frame-attack/iframedPage.html) in an iframe and "steals" its cookie.
 
