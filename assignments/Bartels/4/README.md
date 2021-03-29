@@ -141,4 +141,4 @@ ytimg.com|N/A|Site did not resolve|
   * [secureVictimServer.js](frame-attack/secureVictimServer.js):  Node.js server that serves [securePage.html](frame-attack/securePage.html).  In order to protect the cookie from being stolen, the cookie is no longer declared in the server, it is declared in [securePage.html](frame-attack/securePage.html).  If the cookie is declared in the server like in [victimServer.js](frame-attack/victimServer.js), it does not matter if X-Frame-Options are set to ```SAMEORIGIN``` or ```DENY```, the iframed page's cookie will be displayed.  This can be seen in the two screenshots below.
 
   <img src="frame-attack/securePageSAMEORIGINFailure.png" width="700">
-  <img src="frame-attack/securePageDENYFailure.png" width="700">
+  <img src="frame-attack/securePageDENYfailure.png" width="700">
