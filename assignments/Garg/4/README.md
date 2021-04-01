@@ -3,9 +3,9 @@
 ## Which public sites are framable?
 
 ### List of files in Framable directory
- * html_files (framable/html_files): 100 HTML files
- * http-responses (framable/http-responses): curl responses of 100 sites
- * frame_report.sh: collect x-frame-options and CSP
+ * [html_files](framable/html_files): 100 HTML files
+ * [http-responses](framable/http-responses): curl responses of 100 sites
+ * frame_report.sh: collect X-frame-options and CSP
  * main.html: Place-holder HTML file that was used to create 100 HTML files
 
 ### Youtube Video: 
@@ -130,12 +130,12 @@
 ## Frame attack
 
 ### List of files in Frame-attack directory  
- * evil_site.html(frame-attack/evil_site.html): Page stealing cookies of an iframed page (unsafe_site.html) 
- * evil_site1.html(frame-attack/evil_site1.html): Page trying to steal cookies of an iframed page (safe_site.html) 
- * safe_site.html(frame-attack/safe_site.html): Page with protected cookie using httpOnly & Samesite (strict)
- * unsafe_site.html(frame-attack/unsafe_site.html): Page with unprotected cookie
- * server_1.js(frame-attack/server_1.js): server hosting evil site on localhost:8000  
- * server_2.js(frame-attack/server_2.js): server hosting safe and unsafe pages on localhost:5000 
+ * [evil_site.html](frame-attack/evil_site.html): Page stealing cookies of an iframed page (unsafe_site.html) 
+ * [evil_site1.html](frame-attack/evil_site1.html): Page trying to steal cookies of an iframed page (safe_site.html) 
+ * [safe_site.html](frame-attack/safe_site.html): Page with protected cookie using httpOnly & Samesite (strict)
+ * [unsafe_site.html](frame-attack/unsafe_site.html): Page with unprotected cookie
+ * [server_1.js](frame-attack/server_1.js): server hosting evil site on localhost:8000  
+ * [server_2.js](frame-attack/server_2.js): server hosting safe and unsafe pages on localhost:5000 
 
 
 ### Youtube Video: 
