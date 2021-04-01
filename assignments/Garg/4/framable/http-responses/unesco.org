@@ -1,0 +1,31 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://en.unesco.org/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Thu, 01 Apr 2021 16:07:34 GMT
+X-Download-Options: noopen
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Referrer-Policy: strict-origin
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Frame-Options: sameorigin
+Cache-Control: public, max-age=900
+Last-Modified: Thu, 01 Apr 2021 15:56:30 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Origin,Accept-Encoding
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Age: 809
+ETag: W/"1617292590-1"
+X-Cache: HIT
+X-Cache-Hits: 731
+Accept-Ranges: bytes
+Connection: close
+Set-Cookie: SERVERID=vm01; path=/
+Cache-control: private
+Set-Cookie: TS016c1bc7=01520792955ffe19dee5a5c8d1958d7eee719e0093b05630885ca569173455b2e7d2b6a6c118be9d059ea4455f540553388046a2ebfa907a08e53e0a3b33537b28b1eae5e0; Path=/; Domain=.en.unesco.org
+

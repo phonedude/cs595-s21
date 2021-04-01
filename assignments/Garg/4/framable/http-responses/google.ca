@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.ca/
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 01 Apr 2021 16:19:19 GMT
+Expires: Sat, 01 May 2021 16:19:19 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 01 Apr 2021 16:19:19 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Thu, 01 Apr 2021 16:19:19 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-04-01-16; expires=Sat, 01-May-2021 16:19:19 GMT; path=/; domain=.google.ca; Secure
+Set-Cookie: NID=212=H2qMvZlTKxK3BZV0jUqa-AONSqbvpHYIT8H0I0UgtF5gaztUQRFQhB4U2q9oGI-w2QZP9_ZIUIq9ZKmcgAZDCtADNYvupb8PQUh5_MUXF6W4ugkosPnL02TGo2a4DivcYPnKW7YMxCFgc27I3fpWGM2eqGVGz3N2KJdmiMNAgMY; expires=Fri, 01-Oct-2021 16:19:19 GMT; path=/; domain=.google.ca; HttpOnly
+

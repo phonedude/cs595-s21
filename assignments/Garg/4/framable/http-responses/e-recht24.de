@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Connection: Keep-Alive
+Date: Thu, 01 Apr 2021 16:19:07 GMT
+Server: LiteSpeed
+Location: https://www.e-recht24.de/
+X-Powered-By: PleskLin
+
+HTTP/2 200 
+x-powered-by: PHP/7.3.27
+x-powered-by: PleskLin
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+content-type: text/html; charset=utf-8
+expires: Wed, 17 Aug 2005 00:00:00 GMT
+last-modified: Thu, 01 Apr 2021 07:49:10 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+x-litespeed-cache: hit
+date: Thu, 01 Apr 2021 16:19:07 GMT
+server: LiteSpeed
+alt-svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000
+

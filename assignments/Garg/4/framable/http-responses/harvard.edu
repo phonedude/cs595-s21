@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Content-Length: 0
+Server: Pantheon
+Location: https://www.harvard.edu/
+X-Pantheon-Redirect: primary-domain-policy-doc
+Date: Thu, 01 Apr 2021 16:19:20 GMT
+Connection: close
+X-Served-By: cache-wdc5544-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1617293961.613961,VS0,VE0
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish
+
+HTTP/2 200 
+cache-control: public, max-age=1200
+content-type: text/html; charset=UTF-8
+link: <https://www.harvard.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.harvard.edu/wp-json/wp/v2/pages/6392>; rel="alternate"; type="application/json"
+link: <https://www.harvard.edu/>; rel=shortlink
+server: nginx
+strict-transport-security: max-age=31622400
+x-pantheon-styx-hostname: styx-fe1-b-6565f7757d-nmkfv
+x-pingback: https://www.harvard.edu/xmlrpc.php
+x-styx-req-id: 25f05944-9304-11eb-9d31-9237769a771b
+date: Thu, 01 Apr 2021 16:19:20 GMT
+x-served-by: cache-mdw17369-MDW, cache-wdc5520-WDC
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1617293961.746412,VS0,VE1
+vary: Accept-Encoding, Cookie, Cookie
+age: 801
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 191814
+

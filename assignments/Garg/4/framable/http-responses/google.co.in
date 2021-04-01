@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.co.in/
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 01 Apr 2021 16:19:19 GMT
+Expires: Sat, 01 May 2021 16:19:19 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 221
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 01 Apr 2021 16:19:19 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Thu, 01 Apr 2021 16:19:19 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-04-01-16; expires=Sat, 01-May-2021 16:19:19 GMT; path=/; domain=.google.co.in; Secure
+Set-Cookie: NID=212=Uim-uzEeOw6wnJqjljjYFxAl-6yQ9-m367iX_FrTkWovB0dKgkXqSZArrvr-6Y_tRrWkFBwz13oPXNhDCFyvt44uAQyRMo9ddILPib90rSbiXLvbpw0olFlz56kU6FFcqvzYVy5szb-MZxLpwH65K98PIYPKD67mhQyCVD6v9I4; expires=Fri, 01-Oct-2021 16:19:19 GMT; path=/; domain=.google.co.in; HttpOnly
+
