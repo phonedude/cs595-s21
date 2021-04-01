@@ -104,6 +104,8 @@ his course materials (although any errors are mine).
 
 
 * Week 11 - April 1 - Authentication
+    * [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+    * [Class slides](https://docs.google.com/presentation/d/1oJ8hlNmYIuwxbGL1fcclhDF4eVNTi3c1zp_8t-kzG8Q/edit)
 
 
 * Week 12 - April 8 - Server security, Safe coding practices
@@ -136,11 +138,11 @@ his course materials (although any errors are mine).
 * Assignment 4: Frames
    * [Due: March 18](/assignments/assignment-4.md)
 
-* Assignment 5: TBD
+* Assignment 5: Same-origin Policy, CORS, CSP
    * [Due: April 1](/assignments/assignment-5.md)
 
-* Assignment 6: TBD
-   * Due: April 15
+* Assignment 6: Fingerprinting
+   * Due: [April 15](/assignments/assignment-6.md)
 
 * Assignment 7: TBD
    * Due: May 7
