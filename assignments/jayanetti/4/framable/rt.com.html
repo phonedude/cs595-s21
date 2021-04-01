@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<script>
+
+function frameLoaded() 
+{
+
+var that = document.getElementById('myframe');
+const isLoaded = that.contentWindow.window.length;  
+if (isLoaded == 0)
+{
+	try{
+		(that.contentWindow||that.contentDocument).location.href;
+		alert("Iframe not loaded but no error")
+
+	}
+	catch(err){
+	alert("Iframe not loaded: " + err);
+	}
+
+}
+else if (isLoaded >= 1)
+{
+	alert("Iframe loaded");
+}
+
+}
+
+</script>
+<body>
+
+<h2>Main HTML Page</h2>
+<p>This page is attempting to render other web pages in an iframe.</p>
+
+<iframe onload="frameLoaded()" onerror="onError()" id = "myframe" src="http://www.rt.com" style="border:2px solid blue;" title="Iframe Example"></iframe>
+
+</body>
+</html>
