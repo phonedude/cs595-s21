@@ -1,11 +1,11 @@
-Assignment 4
+# Assignment 4
 
-Framable video: https://www.youtube.com/watch?v=JuQfHFRs0cY
+## Framable
 
 After setting up a server on the local host I used html files to attempt to frame each websites.
 When the site could not be framed I used the web developer tool to find the reason which was usually "set 'X-Frame-Options' to 'sameorigin'" or "set 'X-Frame-Options' to 'deny'".
 
-<img src="frameable/assignment4framable.PNG" width="700">
+<img src="framable/assignment4framable.PNG" width="700">
 
 | Website                    | Framable   | Reason |
 | --- | --- | --- |
@@ -108,3 +108,17 @@ When the site could not be framed I used the web developer tool to find the reas
 | xbox.com                   | no         | set 'X-Frame-Options' to 'deny'
 | yale.edu                   | no         | set 'X-Frame-Options' to 'sameorigin'
 | ziddu.com                  | yes        | 
+
+## Frame-attack
+
+**Successful Attack:** For this example used the victim and attacker servers and html. These set the cookie in the victim server and and had no protection. The attacker is able to embed the victim in an iframe and steal its cookies.
+<img src="frame-attack/succesfulattack.PNG" width="700">
+
+**Unsuccessful Attack:** In this example I used the secure and attacker2 servers and html. After clearing the browser cookies a cookie is set on the secure.html and x-frame-option is set to Sameorigin on the secure.js server. This means that attacker2 cannot embed secure in an iframe or steal its cookie.
+<img src="frame-attack/unsuccesfulattack.PNG" width="700">
+
+## Youtube Videos 
+
+**Framable video:** https://www.youtube.com/watch?v=JuQfHFRs0cY
+
+**Frame-attack video:** https://www.youtube.com/watch?v=55TA6SOscuo
