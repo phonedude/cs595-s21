@@ -23,6 +23,7 @@
 
 ### Youtube Video: https://youtu.be/atudQaQC9Q8
 
+### Steps:
 * In first instance, the javascript in HTML hosted on server 1 is unable to fetch the JSON hosted on server 2. This is because the CORS headers are not defined.
   Below response header should be set.
 ```
@@ -55,6 +56,7 @@ Console will display the JSON as well.
 
 ### Youtube Video: https://youtu.be/_Pcig0X52wI 
 
+### Steps:
 * Setting the custom response headers.
 ```
 res.set('X-CS595s21-movie', 'Me before you')
@@ -97,9 +99,48 @@ fetch('http://localhost:5002/')
 ```
 <img src="screenshots/2.3.png" width="700">
    
-## Q2: CORS: Content-Security-Policy: embedding from another site
+## Q3: Content-Security-Policy: embedding from another site
 
-### Youtube Video: 
+### Youtube Video: https://youtu.be/IsSNLmCl4RM
+
+### Steps:
+
+* Site which allows itself to be embedded: https://www.adweek.com/. This site is embedded in the HTML file using the below javascript.
+
+```
+<script>
+    const iframe = document.createElement('iframe')
+    iframe.src = 'https://www.adweek.com/'
+    document.body.appendChild(iframe)
+</script>
+```
+
+* Server is restricting a framable site to be embedded in the HTML file it hosts. This is done by setting the 'Content-Security-Policy' header. 
+```
+app.use(function (req, res, next) {
+  res.setHeader(
+    'Content-Security-Policy',
+    "default-src 'self'; script-src 'self'"
+  );
+  next();
+});
+```
+<img src="screenshots/3.1.png" width="700">
+
+<img src="screenshots/3.2.png" width="700">
+
+* Same way we can allow a site to be embedded by specifying it in the 'Content-Security-Policy' header. I am making changes to the default-src, script-src to achieve this. Additionaly, the 'unsafe-inline' is used since it is required to enable inline execution.
+
+```
+app.use(function (req, res, next) {
+  res.setHeader(
+    'Content-Security-Policy',
+    "default-src 'self' https://www.adweek.com/; script-src 'self' 'unsafe-inline'"
+  );
+  next();
+});
+```
+<img src="screenshots/3.3.png" width="700">
 
 ## References
 
@@ -107,4 +148,6 @@ fetch('http://localhost:5002/')
 2. https://expressjs.com/en/resources/middleware/cors.html
 3. https://fetch.spec.whatwg.org/#http-new-header-syntax
 4. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+5. https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+6. https://www.digitalocean.com/community/tutorials/how-to-secure-node-js-applications-with-a-content-security-policy
 
