@@ -8,13 +8,16 @@
  * frame_report.sh: collect X-frame-options and CSP
  * main.html: Place-holder HTML file that was used to create 100 HTML files
 
-### Youtube Video: 
+### Youtube Video: https://youtu.be/XFNSPPBbw-k
 
 ### Summary
 ![alt text](framable/Framable.png)
 
 
 ### Framable Sites 
+
+![alt text](framable/framable_site.png)
+
 
 | Framable Site          |
 |------------------------|
@@ -61,6 +64,9 @@
 
 ### Not Framable Sites 
   
+![alt text](framable/notframablesite.png)
+
+
 | Site                 | Explaination                                                                                                                                        |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | icann.org            | 301                                                                                                                                                 |
@@ -129,7 +135,7 @@
 
 ## Frame attack
 
-### Youtube Video: 
+### Youtube Video: https://youtu.be/yqCEmIgU0Wc
 
 ### Stealing Cookie
 
