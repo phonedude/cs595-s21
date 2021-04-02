@@ -1,0 +1,31 @@
+<html>
+<title>
+Himarsha's Site
+</title>
+
+
+<h1>Welcome to my page! - Requesting JSON</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate on how to request a JSON at a cross origin domain.
+
+<script>
+/*const xhr = new XMLHttpRequest();
+xhr.open('GET', 'http://localhost:5002/');
+xhr.setRequestHeader('Access-Control-Allow-Headers', 'X-CS595s21-movie');
+xhr.setRequestHeader('X-CS595s21-tvshow', 'Spellbinder');
+xhr.setRequestHeader('X-CS595s21-musicband', 'Westlifee');
+xhr.send();*/
+
+
+fetch('http://localhost:5002/')
+  .then(response => {
+  var movie = response.headers.get("X-CS595s21-movie")
+  var tvshow = response.headers.get("X-CS595s21-tvshow")
+  var musicband = response.headers.get("X-CS595s21-musicband")
+  console.log(movie)
+  console.log(tvshow)
+  console.log(musicband)
+  })
+</script>
+
