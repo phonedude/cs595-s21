@@ -21,6 +21,8 @@
    
 ## Q1: CORS: Blocking and reading responses from another origin
 
+### Youtube Video: https://youtu.be/atudQaQC9Q8
+
 * In first instance, the javascript in HTML hosted on server 1 is unable to fetch the JSON hosted on server 2. This is because the CORS headers are not defined.
   Below response header should be set.
 ```
@@ -48,10 +50,10 @@ app.use(cors())
 Console will display the JSON as well.
 
 <img src="screenshots/1.4.png" width="700">
-
-### Youtube Video: https://youtu.be/atudQaQC9Q8
    
 ## Q2: CORS: Blocking and reading HTTP response headers from another origin
+
+### Youtube Video: https://youtu.be/_Pcig0X52wI 
 
 * Setting the custom response headers.
 ```
@@ -94,8 +96,6 @@ fetch('http://localhost:5002/')
 'Access-Control-Expose-Headers', 'X-CS595s21-movie, X-CS595s21-tvshow'
 ```
 <img src="screenshots/2.3.png" width="700">
-
-### Youtube Video: https://youtu.be/_Pcig0X52wI 
    
 ## Q2: CORS: Content-Security-Policy: embedding from another site
 
