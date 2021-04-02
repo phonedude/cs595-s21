@@ -52,7 +52,32 @@ Console will display the JSON as well.
    
 ## Q2: CORS: Blocking and reading HTTP response headers from another origin
 
-### Youtube Video: 
+* Setting the custom response headers.
+```
+res.set('X-CS595s21-movie', 'Me before you')
+res.set('X-CS595s21-tvshow', 'Spellbinder')
+res.set('X-CS595s21-musicband', 'Westlife') 
+```
+<img src="screenshots/2.png" width="700">
+
+* We are not able to read the custom headers, unless specified otherwise. 
+<img src="screenshots/2.1.png" width="700">
+
+* To allow reading the custom header values at cross origin below should be specified. This will expose the response headers. Here, * allows all headers all headers to be exposed.
+
+```
+'Access-Control-Expose-Headers', '*'
+```
+<img src="screenshots/2.2.png" width="700">
+
+* We can specify which headers can be exposed by defining them one by one.
+
+```
+'Access-Control-Expose-Headers', 'X-CS595s21-movie, X-CS595s21-tvshow'
+```
+<img src="screenshots/2.3.png" width="700">
+
+### Youtube Video: https://youtu.be/_Pcig0X52wI 
    
 ## Q2: CORS: Content-Security-Policy: embedding from another site
 
@@ -62,5 +87,6 @@ Console will display the JSON as well.
 
 1. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
 2. https://expressjs.com/en/resources/middleware/cors.html
-
+3. https://fetch.spec.whatwg.org/#http-new-header-syntax
+4. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
