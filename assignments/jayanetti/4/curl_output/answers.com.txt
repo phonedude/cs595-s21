@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: AWSALB=j+uW5jwgJUBwHAI6agWlbpSGztHeTUjuhLF5kmf0dejLa/02dPTnybiXrDszs/wXar4pjz/C33DSDZvMK2BhCKd37MaL0ejcDWT42BmKvqitKhp8rI0yFwgeWeVQ; Expires=Sun, 07 Mar 2021 22:22:00 GMT; Path=/
+Set-Cookie: AWSALBCORS=j+uW5jwgJUBwHAI6agWlbpSGztHeTUjuhLF5kmf0dejLa/02dPTnybiXrDszs/wXar4pjz/C33DSDZvMK2BhCKd37MaL0ejcDWT42BmKvqitKhp8rI0yFwgeWeVQ; Expires=Sun, 07 Mar 2021 22:22:00 GMT; Path=/; SameSite=None; Secure
+Server: Apache/2.4.46 (Ubuntu)
+Location: https://www.answers.com/
+Accept-Ranges: bytes
+Content-Length: 310
+Date: Sun, 28 Feb 2021 22:22:00 GMT
+Connection: keep-alive
+X-Served-By: cache-wdc5521-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614550920.168195,VS0,VE2
+Vary: x-bot,Host,X-Proto,X-BackEnd
+Set-Cookie: xgeo=VVMsMjI3NzMsbm9yZm9sayxWQSwyMzUwOCwzNi44OTAsLTc2LjMwMCw1NDQsY294IGNvbW11bmljYXRpb25zIGluYy4=; path=/
+Set-Cookie: be=answ4; Max-Age=3600; path=/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+set-cookie: AWSALB=WygqOUfjVWb+1GhDvQj5epnHUIvVUPY+mdSFz/XYoeX3tXydT2iTQCqkIVcYvfdgWoVTbqInjkg3IIQX4JcAkkKiXTVtBglhzOynfhm9sQCcnuu3ycvH2uJjma2W; Expires=Sun, 07 Mar 2021 22:22:05 GMT; Path=/
+set-cookie: AWSALBCORS=WygqOUfjVWb+1GhDvQj5epnHUIvVUPY+mdSFz/XYoeX3tXydT2iTQCqkIVcYvfdgWoVTbqInjkg3IIQX4JcAkkKiXTVtBglhzOynfhm9sQCcnuu3ycvH2uJjma2W; Expires=Sun, 07 Mar 2021 22:22:05 GMT; Path=/; SameSite=None; Secure
+server: Apache/2.4.46 (Ubuntu)
+cache-control: no-cache, private
+link: </js/manifest.193f768ade58d8fa718e.js>; rel=preload; as=script,</js/react.604348053952d3d84e4e.js>; rel=preload; as=script,</js/material.c2a0f947e93a9c1eaa18.js>; rel=preload; as=script,</js/vendor.ede3f691a29e744e2126.js>; rel=preload; as=script
+set-cookie: XSRF-TOKEN=eyJpdiI6IkFDaEliZ0NaODBEME1LcjRabFBtdmc9PSIsInZhbHVlIjoiMWFqaFpmdTFseG9TUlB4KzdkY3FRL3ZyVU8rVjFwMTVHblR6VWk5UjZTNGs4ODJsRkhaUkEvR3JxSEduNkdLSnNBd0lDd0svVmhtU2ZCMEVBQm1yUFIwVGdUbmJsdzBkeG9OejlWMkE4M0RyWFVCQUI0aElId1lkS2hoMGF1aVUiLCJtYWMiOiI1YTVhMjk2ZDJiZDljYmEyZGU4ZGM2M2MwNWEyZTc5N2RkYTJkYTc3ZmIyNmYyZDM4YmYzYmIwOTlkMjAzOTNlIn0%3D; expires=Sun, 14-Mar-2021 22:22:05 GMT; Max-Age=1209600; path=/; domain=www.answers.com; samesite=lax
+set-cookie: answersproduction-session=eyJpdiI6InRXd1FRcUtkU1djRkZrS1M0Z3hsRGc9PSIsInZhbHVlIjoiVGF2L0pNTDJwNE1hTG9ZMWJOendhdkp4c0tkdmFPUExnTDhkUFlvWjh6d3VrVVlDWFJQbzJMNytKU2NDT2RjNkwya1V1NUF3TVFpTUMxbFVhaEx5WTc3YVhxVzMrZEMzRFFTWDJLOXEzTWNiZzdlSDNCNHBxZzVlTlJ6cUVpb0MiLCJtYWMiOiJlMTM1YTJhYWU3YmQ4NjdlZjUzMDViOTZiOTY3N2UyYWY0M2Q5YmI5OGEwNmEyYmQ1MjUwOWI2ZjBmZjg3YmU1In0%3D; expires=Sun, 14-Mar-2021 22:22:05 GMT; Max-Age=1209600; path=/; domain=www.answers.com; httponly; samesite=lax
+set-cookie: userBucketOf20=13; expires=Sun, 07-Mar-2021 22:22:05 GMT; Max-Age=604800; path=/; domain=www.answers.com; samesite=lax
+set-cookie: mx_uuid=8f812634-d92d-a5a4-fab8-cc6fbb1eba5d; expires=Tue, 28-Feb-2023 22:22:05 GMT; Max-Age=63072000; path=/; domain=www.answers.com; samesite=lax
+x-frame-options: SAMEORIGIN
+accept-ranges: bytes
+date: Sun, 28 Feb 2021 22:22:05 GMT
+x-served-by: cache-wdc5527-WDC
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614550925.302936,VS0,VE350
+vary: x-bot,Accept-Encoding,Host,X-Proto
+set-cookie: xgeo=VVMsMjI3NzMsbm9yZm9sayxWQSwyMzUwOCwzNi44OTAsLTc2LjMwMCw1NDQsY294IGNvbW11bmljYXRpb25zIGluYy4=; path=/
+set-cookie: be=answ4; Max-Age=3600; path=/
+content-length: 0
+

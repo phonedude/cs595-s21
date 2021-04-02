@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 04 Mar 2021 20:15:24 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=20
+Location: https://www.youronlinechoices.com/
+
+HTTP/2 200 
+server: nginx
+date: Thu, 04 Mar 2021 20:15:24 GMT
+content-type: text/html; charset=UTF-8
+content-length: 7497
+vary: Accept-Encoding
+last-modified: Tue, 29 Sep 2020 20:43:37 GMT
+etag: "1d49-5b079d6555040"
+accept-ranges: bytes
+

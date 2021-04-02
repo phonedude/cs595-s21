@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://thoughtco.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 16:04:17 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17751-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614614658.983578,VS0,VE0
+NEL: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/561/re.p"}]}
+
+HTTP/2 301 
+x-abt-application-version: 3.64.0
+strict-transport-security: max-age=15552000
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thoughtco.com
+x-content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thoughtco.com
+location: https://www.thoughtco.com/
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+report-to: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/561/re.p"}]}
+date: Mon, 01 Mar 2021 16:04:18 GMT
+x-served-by: cache-bwi5166-BWI, cache-dca17777-DCA
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1614614658.079342,VS0,VE3
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html
+x-abt-application-version: 3.64.0
+strict-transport-security: max-age=15552000
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thoughtco.com
+x-content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thoughtco.com
+set-cookie: TMog=nb729938e9092400e81b0dd4727d7b9a916; Path=/; Domain=.thoughtco.com; Expires=Sat, 19-Mar-2089 19:18:25 GMT; Max-Age=2147483647
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: Mint=nb729938e9092400e81b0dd4727d7b9a916; Path=/; Domain=.thoughtco.com; Expires=Mon, 01-Mar-2021 16:34:18 GMT; Max-Age=1800
+set-cookie: pc=1; Path=/; Domain=.thoughtco.com; Expires=Mon, 01-Mar-2021 16:34:18 GMT; Max-Age=1800
+cache-control: max-age=1800, private
+link: <//www.thoughtco.com/static/3.64.0/cache/eNqdU9tyhCAM_aEyfkRf-xMRIjAbiANY278vilO1i8t2H5STyyEXki4mSFZ2MsZugfjWHTTWgUYxEkg0TArDyerA-pPCsMMxM3Ylu5E9-hS7W777q_yvzQEHDOgliktHUHGN9WkV8pVD_mqm2SqN-TRotUnvBrzGDxsTegxVZe0SD59WZyX7rT1ZsaMaI6Jc3HNaIVsIhWSa3L1c41LOJHY9sbyJBR9gzX21bkf5P_CKLC2QKM5HocYZOLhcPM6RMCUMIlrtp_FeU-3Zi7S91Vt6AxPxfJZazJETLU-7o_8zxGyTEckmwquZ6y1RzxC2-dzF56OVObkO08ixPOsLxKtp0sQ9UN4MUOuCgKqvRJkNvWxMfpWIEKT5IzayKnevq7TDBmeYiKIMiH7lncUGtw85igyT6-MRN1iSfQKZ1nAH_KB1A3Me8e1o1bM6lVp-4XMcsv4WT0KDpzgpiEYM4Cx9l4Ly0N6r27XVeT8DR3Qo.min.css>; rel=preload; as=style; nopush, <//www.thoughtco.com/static/3.64.0/font/Lato-900.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.thoughtco.com/static/3.64.0/font/Lato-900-Italic.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-5P3SZGS>; rel=preload; as=script; nopush, <//www.google-analytics.com/analytics.js>; rel=preload; as=script; nopush, <//www.googletagservices.com/tag/js/gpt.js>; rel=preload; as=script; nopush, <//www.thoughtco.com/static/3.64.0/cache/eNptkF1OxDAMhC9ElTsgIV7RqhdwEreY_Dg4zqJyetrVCtIlj_489oxtqoKSMx_VRAaP_sncSSRbD7xBaL9wrwvHbaEYe3bF7FlMYo-S6VumBFkj9hLHHAjrv_WfDWWrKpTXXt6UImk_sMMlT0PuOY0br2_zIKa-C-tDPMG92XAWcOEhihWEUJiy1vPEgoLZ4di6NFub7cllfu5LPawual924_PmBJv9C-c4Fc6HxoC_vWwtenKCFacr4ddoZNV0-34kFya9X_cD51C7iA.min.js>; rel=preload; as=script; nopush; group=top, <//www.thoughtco.com/static/3.64.0/cache/eNqVUVFOwzAMvRBR7gC__HGCNHETU9cpscvWnX5py2DqghBSFNvPftbTsxV1it4SdmLf6_uYoSxP9guuyKxIqAhiuhlJzQk1mcPYjU3usgheQO4XjKz05ksm-kZ9HqfMwCoWWaGwIxugh7LOb0mB0JoenMJ5_1ttOO_LqgRDyMMm6gFsMU8YItSYAGPSl-Q4wiuKAldRLbC1hGpPbEfZD2bN79LWeJ_LKJbhJARaNRrByPP0iLTI_6HdziO1GBYzYFOOC_sNq-RnJOqyK6HpFbtPjBXMbGXKSqs5P1mLESl39cQJXNjsXMPvjsTVX0dGwBWfDuUfgvqZSHwBYFPRQ3kFXoYhzA.min.js>; rel=preload; as=script; nopush; group=bottom
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 16:04:18 GMT
+via: 1.1 varnish
+x-served-by: cache-bwi5043-BWI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1614614658.171400,VS0,VE13
+nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+report-to: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/561/re.p"}]}
+

@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Thu, 18 Mar 2021 02:04:21 GMT
+Content-Type: text/html
+Content-Length: 239
+Connection: keep-alive
+Location: https://alibaba.com/
+Timing-Allow-Origin: *
+EagleId: 0be3767e16160330616512349e774d
+server-timing: rt;dur=0.000,eagleid;desc=0be3767e16160330616512349e774d
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:04:22 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Server: Tengine
+Set-Cookie: ali_apache_id=11.227.118.126.1616033062180.441201.3; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: https://www.alibaba.com/?__redirected__=1
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 0be3767e16160330621801020e776e
+server-timing: rt;dur=0.001,eagleid;desc=0be3767e16160330621801020e776e
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Server: Apache-Coyote/1.1
+P3P: CP="CAO PSA OUR"
+Cache-Control: s-maxage=3600
+Resin-Trace: ali_resin_trace=aisn_homepage_version=null|septemberPromotion=null
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 0be3767e16160316231791623e7789
+server-timing: rt;dur=0.295,eagleid;desc=0be3767e16160316231791623e7789
+Date: Thu, 18 Mar 2021 02:04:22 GMT
+Connection: keep-alive
+Object-Status: ttl=3600,age=1439
+Edge-Type: akamai
+

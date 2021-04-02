@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.rediff.com/
+Date: Thu, 04 Mar 2021 20:15:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+Date: Thu, 04 Mar 2021 20:15:12 GMT
+Connection: keep-alive
+

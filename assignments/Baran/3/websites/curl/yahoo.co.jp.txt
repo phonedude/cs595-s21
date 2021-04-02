@@ -1,0 +1,23 @@
+HTTP/1.1 301 Redirect
+Date: Thu, 04 Mar 2021 20:15:22 GMT
+Connection: keep-alive
+Via: http/1.1 edge2614.img.djm.yahoo.co.jp (ApacheTrafficServer [c s f ])
+Server: ATS
+Cache-Control: no-store
+Location: https://www.yahoo.co.jp:443/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 1
+
+HTTP/2 200 
+content-length: 0
+content-type: text/html; charset=utf-8
+date: Thu, 04 Mar 2021 20:15:22 GMT
+etag: W/"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk"
+vary: Accept-Encoding
+x-vcap-request-id: 769c20c2-a70f-45cc-7e31-8c58f744611d
+x-xss-protection: 1; mode=block
+age: 0
+via: http/1.1 edge2654.img.djm.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+server: ATS
+

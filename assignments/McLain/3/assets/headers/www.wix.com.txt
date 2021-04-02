@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:56 GMT
+Content-Length: 0
+Connection: keep-alive
+location: https://www.wix.com/
+expires: -1
+cache-control: no-cache
+set-cookie: _wixRIDX=4080b5ee-6da2-44cc-9caf-d8f031b063f4; Max-Age=10; Expires=Fri, 05 Mar 2021 15:10:06 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None
+x-seen-by: jeslxIFvDH4ulYwNNi+3Muwfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLhkdZfWw5CPsRNG2uL+cjHAa0sM5c8dDUFHeNaFq0qDu,gZE4V9HjxqLIHwGwkmiVcLNqB+CTZhIeMXQ/zbIfbYQaWyug/ZdHQ36uOAkr89T0,GsWP0CMYHkt4ic+JYzA/x6hNm8g+0ceyIvzmQONiHqg9qEu3liX0wi3jPDsBvTi4
+x-wix-request-id: 1614956996.0293062619842130711
+set-cookie: _wixAB3=149483#1; Max-Age=15724800; Expires=Fri, 03 Sep 2021 15:09:56 GMT; Domain=.wix.com
+Strict-Transport-Security: max-age=121 ; includeSubDomains
+Server: Pepyaka/1.15.10
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:56 GMT
+content-type: text/html; charset=UTF-8
+x-wix-request-id: 1614956996.1223054898378132645
+server-timing: cache;desc=hit
+x-wix-viewer-type: Thunderbolt
+link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://fonts.gstatic.com>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+set-cookie: ssr-caching="cache#desc=hit";Version=1;Expires=Fri, 05-Mar-2021 15:10:16 GMT;Max-Age=20
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-seen-by: jeslxIFvDH4ulYwNNi+3Muwfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLpKOvBhYRuLEqdCLHFrW+6dGkFvVdT2Nq6f3Hedj7ewB,WcrWvzU6+v56AFbpVWES8tTMHI0Z8IFTbcdSSGV/FWEaWyug/ZdHQ36uOAkr89T0,GsWP0CMYHkt4ic+JYzA/x13uJJt77caUjSqH0Cy0kIx1aHrwUZEnnEg42sPJQqHh,WcrWvzU6+v56AFbpVWES8tTMHI0Z8IFTbcdSSGV/FWEaWyug/ZdHQ36uOAkr89T0,LWZ6Tylfijl32cnmU7+qjF68Ydmf+ZqLHErd4hecikwaWyug/ZdHQ36uOAkr89T0,Tw2AanFDQ+Wwo8Xxk6ZL7vOBx+hvh2Cbd7MMNUXzbHFR9+sbT/fJt6J7gsSXLF6wS25X9nq6nTM+HjSaWelIZYi5jgQiV/T8D6tBRTX4eXM=
+set-cookie: _wixAB3=149483#2; Max-Age=15724800; Expires=Fri, 03 Sep 2021 15:09:56 GMT; Domain=.wix.com
+vary: Accept-Encoding
+cache-control: no-cache
+x-accel-buffering: no
+content-language: en
+set-cookie: _wixCIDX=f5eae74f-c360-452e-87ad-649fb97ac1f4; Max-Age=7776000; Expires=Thu, 03 Jun 2021 15:09:56 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None
+set-cookie: _wixUIDX=null-user-id; Max-Age=7776000; Expires=Thu, 03 Jun 2021 15:09:56 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None
+set-cookie: XSRF-TOKEN=1614956996|DkJWiue5hugQ; Path=/; Domain=www.wix.com; Secure; SameSite=None
+strict-transport-security: max-age=31536000
+server: Pepyaka/1.15.10
+

@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Content-Length: 718
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 15:06:04 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17762-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1614611165.612660,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.businessinsider.com/
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-powered-by: Fenrir
+last-modified: Mon, 01 Mar 2021 15:03:09 GMT
+cache-control: public, max-age=120
+x-frame-options: sameorigin
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept
+link: </styles/landing-page.61f1044801285a25a649.css>; rel=preload; as=style; nopush, </scripts/main.9523cd9591a148714c07.js>; rel=preload; as=script; nopush,  </chunks/scripts/vendors.4fe673de47e34939ab43.js>; rel=preload; as=script; nopush,  </chunks/scripts/utilities.070fcd9208413be70d33.js>; rel=preload; as=script; nopush
+etag: W/"5f9cc-2n1xKvinktFaLTbttt1G8BWT0cY"
+x-country-code: US
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:06:04 GMT
+via: 1.1 varnish
+age: 174
+x-served-by: cache-bwi5066-BWI
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1614611165.737056,VS0,VE2
+vary: Accept-Encoding, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-ABTest-bii-finance-show-lock, X-ABTest-bii-media-show-lock, X-ABTest-now-watch-autoplay
+strict-transport-security: max-age=31536000
+content-length: 391628
+

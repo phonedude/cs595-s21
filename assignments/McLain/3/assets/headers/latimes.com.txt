@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Fri, 05 Mar 2021 15:09:13 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.latimes.com:443/
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+cache-control: max-age=180
+content-security-policy: upgrade-insecure-requests
+date: Fri, 05 Mar 2021 15:08:44 GMT
+server: Apache Tomcat
+x-powered-by: Brightspot
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 d203e374ba383a11f7beaf8a1353c661.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD66-C2
+x-amz-cf-id: GylN9WfL9hCvVx7cw_iKFj0Zki7TSNDJ0fzmsrG43w3ee166d5j16g==
+age: 29
+

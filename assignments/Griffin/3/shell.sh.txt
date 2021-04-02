@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in $(cat urls.txt); do
+    content=$(curl -k -L -I -s "{$i}")
+    echo "URL: $i" >> output.txt
+    echo "$content" >> output.txt
+done

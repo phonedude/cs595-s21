@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:01:07 GMT
+Server: Apache/2.4
+Location: https://www.berkeley.edu/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:01:08 GMT
+content-type: text/html; charset=UTF-8
+server: Apache/2.4
+x-powered-by: PHP/5.4.16
+cache-control: max-age=300
+expires: Mon, 01 Mar 2021 15:06:08 GMT
+x-frame-options: deny
+content-security-policy: frame-ancestors *.berkeley.edu berkeley.edu ;
+vary: User-Agent
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 01 Mar 2021 13:51:50 GMT
+Last-Modified: Fri, 21 Jul 2017 11:53:00 GMT
+Expires: Tue, 02 Mar 2021 13:51:50 GMT
+Cache-Control: max-age=86400, public
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Varnish: 442557046 442303915
+Age: 7716
+Via: 1.1 varnish-v4
+X-Cache: HIT
+

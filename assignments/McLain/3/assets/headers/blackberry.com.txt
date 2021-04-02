@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:08:54 GMT
+Server: Apache
+Strict-Transport-Security: max-age=600;
+Location: http://web.blackberry.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.blackberry.com/us/en
+Date: Fri, 05 Mar 2021 15:08:54 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html;charset=utf-8
+content-length: 133980
+accept-ranges: bytes
+cache-control: no-cache="set-cookie"
+content-security-policy: frame-ancestors 'self'; base-uri 'self';upgrade-insecure-requests;
+date: Thu, 04 Mar 2021 17:47:11 GMT
+etag: "20b5c-5bcb978220096"
+last-modified: Thu, 04 Mar 2021 17:40:54 GMT
+server: Apache
+strict-transport-security: max-age=63072000; includeSubdomains;
+x-content-type-options: nosniff
+x-dispatcher: dispatcher2uswest2
+x-frame-options: SAMEORIGIN
+x-vhost: publish
+x-xss-protection: 1; mode=block
+vary: Accept-Encoding,Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 0c9849c3038163feea7127f5ecafb2ea.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C2
+x-amz-cf-id: nLH_lnKkFPtkrVB6sGSBJrHAfOu0vZjP62K8yYWeAX9kksXS4HIedA==
+age: 76903
+

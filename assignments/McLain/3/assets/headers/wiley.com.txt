@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:09:53 GMT
+Server: Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips
+Location: https://www.wiley.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 405 
+content-type: application/octet-stream
+content-length: 0
+date: Fri, 05 Mar 2021 15:09:53 GMT
+server: nginx
+etag: "6040b9e4-0"
+x-cache: Error from cloudfront
+via: 1.1 7c4bbd97f5be908e33f403c3794f629a.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: BnnffZ1vDnHbJxG1jolY2mwGBUCL4zO27EY8koOVQX15DXC-Hp4faA==
+

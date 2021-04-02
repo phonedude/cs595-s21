@@ -1,0 +1,30 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Mon, 01 Mar 2021 15:31:22 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Server: nginx
+Location: http://www.hatena.ne.jp
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 01 Mar 2021 15:31:22 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.hatena.ne.jp:443/
+
+HTTP/1.1 200 OK
+Date: Mon, 01 Mar 2021 15:31:23 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 303388
+Connection: keep-alive
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+ETag: "4a11c-oUy+KzprXe1aC31XGvV7Sd8LWRw"
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

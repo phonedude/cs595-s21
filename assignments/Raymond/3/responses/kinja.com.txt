@@ -1,0 +1,50 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://kinja.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 01 Mar 2021 15:38:42 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dca17737-DCA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1614613122.292766,VS0,VE0
+X-Kinja-CCPA: (null)(US-VA)
+Set-Cookie: geocc=US;path=/;
+
+HTTP/2 200 
+x-powered-by: Express
+x-kinja: kinja-magma-kube02-6cff8796c7-7tcl8 #2524
+x-kinja-revision: 188a8e07eb652cbc400aec90b1185779b87d9395
+x-kinja-server: kinja-magma-kube02-6cff8796c7-7tcl8
+x-kinja-build: 2524
+cache-control: stale-if-error=86400, stale-while-revalidate=300
+content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-googlenews-bot: false
+content-type: text/html; charset=utf-8
+etag: W/"236be-NJ9aBsvI9cPSnDJmjWpQrxIUdFk"
+via: 1.1 varnish, 1.1 varnish
+x-cdn-fetch: mantle-default
+accept-ranges: bytes
+date: Mon, 01 Mar 2021 15:38:42 GMT
+age: 0
+x-served-by: cache-bwi5159-BWI, cache-dca17729-DCA
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+x-timer: S1614613122.416063,VS0,VE3
+x-ua-device: desktop
+x-kinja-ccpa: (null)(US-VA)
+set-cookie: geocc=US;path=/;
+set-cookie: KinjaBucket=d;path=/;Max-Age=31536000;domain=kinja.com;SameSite=None;Secure;
+set-cookie: KinjaSetBucket=d|1614612900|klUrpz8Dh7+3iPjK1J1aIDKzC58EuIPyfk8uirZfDZ8=;path=/;Max-Age=300;SameSite=None;Secure;
+x-exp-id: tgs0ab4MLPvGYtW0gf7NK6
+x-exp-variant: 0
+vary: Accept-Encoding, X-Feature-Hash, X-Forwarded-Proto, Cookie, X-GoogleNews-Bot, X-Kinja-WelcomeAdLoadedV1, X-Kinja-GDPR, X-Kinja-CCPA, Authorization, X-Use-Magma
+x-use-magma: yes
+content-length: 145086
+

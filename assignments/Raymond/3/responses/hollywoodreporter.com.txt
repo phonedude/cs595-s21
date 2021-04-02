@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 01 Mar 2021 15:32:09 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 01 Mar 2021 16:32:09 GMT
+Location: https://www.hollywoodreporter.com/
+cf-request-id: 08900427730000be8269ac5000000001
+Set-Cookie: __cf_bm=50ab3dc05acbd142a935f80505dca92998ccf0b7-1614612729-1800-AQjSMfbIqvE+jFyJOYGauUg9B4ijtagpZgrU0yO5AXnaz8kFgW/llGegesrpzlYW4efmOFo+1UEpidGe16oqy/A=; path=/; expires=Mon, 01-Mar-21 16:02:09 GMT; domain=.hollywoodreporter.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 62936fb8b9bebe82-RIC
+
+HTTP/2 200 
+date: Mon, 01 Mar 2021 15:32:09 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=dfb60e01c6cab9e8fe8256c38ac373a711614612729; expires=Wed, 31-Mar-21 15:32:09 GMT; path=/; domain=.hollywoodreporter.com; HttpOnly; SameSite=Lax; Secure
+cf-ray: 62936fb97824be78-RIC
+age: 1089
+cache-control: public, max-age=7200
+expires: Mon, 01 Mar 2021 17:32:09 GMT
+vary: Accept-Encoding
+cf-cache-status: HIT
+cf-request-id: 08900427ef0000be7890015000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-trace: 2BB18106F4EFB196C3EE8C369F50FB6D5E859AD8759467597D2EAFA06A00
+set-cookie: __cf_bm=fdeb5583f493f405cc1c36cd4f6cf7d6aabc9e1c-1614612729-1800-AazWXdjav0rUd5Lo69LNbU5B2pO2B39vtUQVhPyGfNgOluvKS3F4E39CKZl9doRy92z71gKowu6no+63r9ntmgc=; path=/; expires=Mon, 01-Mar-21 16:02:09 GMT; domain=.hollywoodreporter.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+

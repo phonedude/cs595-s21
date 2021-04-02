@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 01 Mar 2021 23:52:20 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.amazon.co.uk/
+X-Cache: Redirect from cloudfront
+Via: 1.1 5c302f38578fa41a607d734b38629fc3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C1
+X-Amz-Cf-Id: arpwyNaHvSK0l8W3RPVlRX3xRII0WaWMe36_ovkuk_GS9gHCHLt1XQ==
+
+HTTP/2 405 
+server: Server
+content-type: text/html;charset=UTF-8
+content-length: 0
+x-amz-rid: H0F04Y4FF3PJKV50NRZM
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+date: Mon, 01 Mar 2021 23:52:21 GMT
+

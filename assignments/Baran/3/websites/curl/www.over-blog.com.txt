@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+date: Thu, 04 Mar 2021 20:15:21 GMT
+location: https://de.over-blog.com/
+content-length: 233
+content-type: text/html; charset=iso-8859-1
+age: 0
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 20:08:30 GMT
+cache-control: public, s-maxage=3600
+content-type: text/html; charset=UTF-8
+age: 411
+accept-ranges: bytes
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+

@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+server: nginx
+date: Thu, 18 Mar 2021 02:04:23 GMT
+location: https://booking.com/
+content-security-policy-report-only: frame-ancestors 'none'; report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=23ae0e936a370043&e=UmFuZG9tSVYkc2RlIyh9YQDAq6oT9XF5QD6MLlx3k7CUW2stByOp9A&f=0&s=0;
+x-xss-protection: 1; mode=block
+
+HTTP/1.1 301 Moved Permanently
+server: nginx
+date: Thu, 18 Mar 2021 02:04:23 GMT
+location: https://www.booking.com/
+nel: {"report_to":"default","max_age":604800}
+report-to: {"max_age":604800,"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default"}
+set-cookie: _pxhd=2de81f56602313f735a4f9c4197e38a2411571ce95bd700e18fcfbe87e6c7bf4%3A42a334b0-878e-11eb-ace0-3702b12023d0; path=/; expires=Fri, 18-Mar-2022 02:04:23 GMT
+strict-transport-security: max-age=604800
+content-security-policy-report-only: report-uri https://reports.booking.com/csp_violation?type=report&tag=112&pid=bf320e93c0ba002b&e=UmFuZG9tSVYkc2RlIyh9YdPFJGDFjZSqK4Z-4dNTMVuBu77w9s3ZhTredyczvogMjFtN7FhSV6c&f=0&s=0; frame-ancestors 'none';
+x-xss-protection: 1; mode=block
+
+HTTP/1.1 200 OK
+server: nginx
+date: Thu, 18 Mar 2021 02:04:24 GMT
+content-type: text/html; charset=UTF-8
+nel: {"report_to":"default","max_age":604800}
+report-to: {"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default","max_age":604800}
+set-cookie: _pxhd=b501ed1d229823a3cce571df8a0a090adf8943a24e64b0752b9dd6c6dab5d487%3A42c1b930-878e-11eb-96cc-4b661b1c8e4e; path=/; expires=Fri, 18-Mar-2022 02:04:24 GMT
+set-cookie: bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbbmD9q%2B5pe3Vnru6ygZhy7y%2FzCdNAL8NxiKghvivT89qVHgBMXB0%2BpB0um0%2FR36PyQ%2BBSVTdB%2BysaTq1I8PFxIJ4QnOxZ0FjBIzy2POka3ipJ9EuwSoSNJIVffq%2FQXrSmL34d6KeG27xSs11AmkU%2FL%2FBrCyejMXrC2JkDUjgU6AA%3D; domain=.booking.com; path=/; expires=Tue, 17-Mar-2026 02:04:24 GMT; Secure; HTTPOnly; SameSite=None
+strict-transport-security: max-age=604800
+x-content-type-options: nosniff
+x-recruiting: Like HTTP headers? Come write ours: https://careers.booking.com
+x-xss-protection: 1; mode=block
+

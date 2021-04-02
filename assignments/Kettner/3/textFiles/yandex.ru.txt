@@ -1,0 +1,38 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Length: 0
+Date: Wed, 17 Mar 2021 03:33:31 GMT
+Expires: Wed, 17 Mar 2021 03:33:31 GMT
+Last-Modified: Wed, 17 Mar 2021 03:33:31 GMT
+Location: https://yandex.ru/
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: yandexuid=2209772491615952010; Expires=Sat, 15-Mar-2031 03:33:30 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Fri, 17 Mar 2023 03:33:30 GMT
+Set-Cookie: is_gdpr_b=CK+GIhC+IygC; Path=/; Domain=.yandex.ru; Expires=Fri, 17 Mar 2023 03:33:30 GMT
+X-Content-Type-Options: nosniff
+
+HTTP/1.1 200 Ok
+Accept-CH: Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT
+Accept-CH-Lifetime: 31536000
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Length: 130336
+Content-Security-Policy: connect-src 'self' https://*.cdn.ngenix.net https://*.strm.yandex.net https://auto.ru https://favicon.yandex.net https://frontend.vh.yandex.ru https://games.yandex.ru https://log.strm.yandex.ru https://mc.admetrica.ru https://mc.yandex.ru https://mobile.yandex.net https://portal-xiva.yandex.net https://strm.yandex.ru https://thequestion.ru https://www.kinopoisk.ru https://www.maximonline.ru https://yabs.yandex.ru https://yandex.ru https://yastat.net https://yastatic.net https://zen.yandex.ru wss://portal-xiva.yandex.net wss://push.yandex.ru;default-src https://yastat.net https://yastatic.net;font-src https://yastatic.net;frame-src 'self' https://mc.yandex.md https://mc.yandex.ru https://yandex.ru https://yastatic.net;img-src 'self' data: https://*.strm.yandex.net https://*.verify.yandex.ru https://auto.ru https://avatars.mds.yandex.net https://awaps.yandex.net https://favicon.yandex.net https://mc.admetrica.ru https://mc.yandex.com https://mc.yandex.ru https://resize.yandex.net https://strm.yandex.net https://strm.yandex.ru https://thequestion.ru https://www.kinopoisk.ru https://www.maximonline.ru https://yabs.yandex.ru https://yandex.ru https://yastatic.net;media-src blob: https://*.cdn.ngenix.net https://*.strm.yandex.net;object-src https://avatars.mds.yandex.net;report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.ru&showid=1615952011.83631.82798.50457&h=stable-morda-sas-yp-48&csp=new&date=20210317&yandexuid=5949806851615952011;script-src 'self' 'unsafe-inline' https://mc.yandex.ru https://yandex.ru https://yastatic.net;style-src 'unsafe-inline' https://yastatic.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 17 Mar 2021 03:33:31 GMT
+Expires: Wed, 17 Mar 2021 03:33:32 GMT
+Last-Modified: Wed, 17 Mar 2021 03:33:32 GMT
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: yp=1618544012.ygu.1; Expires=Sat, 15-Mar-2031 03:33:31 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: mda=0; Expires=Thu, 15-Jul-2021 03:33:31 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandex_gid=110802; Expires=Fri, 16-Apr-2021 03:33:31 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandexuid=5949806851615952011; Path=/; Domain=.yandex.ru; Expires=Sat, 15-Mar-2031 03:33:31 GMT; Secure
+Set-Cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Fri, 17 Mar 2023 03:33:31 GMT
+Set-Cookie: is_gdpr_b=CK+GIhC+IygC; Path=/; Domain=.yandex.ru; Expires=Fri, 17 Mar 2023 03:33:31 GMT
+Set-Cookie: i=gtDeiTG79twmUTWkUCtrFEhnyKd9cQd2ynGDU6wbErp0JKofRw2eiIptUC0cBUSpUZgQIhz+11z5JvIAj2Wtn2LXqD4=; Expires=Fri, 17-Mar-2023 03:33:31 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+

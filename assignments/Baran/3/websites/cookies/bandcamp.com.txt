@@ -1,0 +1,6 @@
+Set-Cookie: BACKENDID=bender21-6; path=/; domain=.bandcamp.com
+Set-Cookie: client_id=F3D44CACECE645AB77619070F033711074B918912314E8C360AD9151911DFBB8; domain=.bandcamp.com; path=/; expires=Tue, 04 Mar 2031 20:14:02 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: session=1%09r%3A%5B%22nilZ0f0x1614888842%22%5D%09t%3A1614888842; domain=.bandcamp.com; path=/; expires=Sun, 18 Apr 2021 20:14:02 -0000
+Set-Cookie: unique_24h=223; domain=.bandcamp.com; path=/; expires=Fri, 05 Mar 2021 20:14:02 -0000
+Set-Cookie: session=1%09r%3A%5B%22nilZ0f0x1614888842%22%5D%09t%3A1614888842; domain=.bandcamp.com; path=/; expires=Sun, 18 Apr 2021 20:14:02 -0000
+Set-Cookie: BACKENDID=bender28-2; path=/; domain=.bandcamp.com

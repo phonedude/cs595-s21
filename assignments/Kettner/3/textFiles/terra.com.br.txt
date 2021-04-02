@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 18 Mar 2021 02:06:14 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 20 Mar 2021 12:06:59 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: 3ffe89d7-4c91-4eb3-9d45-a053e3ac2191
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=b460a2c8-59b4-4fbd-a019-4fd246d3b4f0; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+Set-Cookie: trrgeo=38.8852%7C-77.3233%7CFAIRFAX+COUNTY%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Fri, 19 Mar 2021 02:06:14 GMT; Secure
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+X-Xact-Uuid: 492833ac-4ccb-458c-97b2-31d5fd523d04
+X-Xact-Montador-Time: 1616033174
+X-Http-Reason: OK
+X-Cache-Profile: cover
+Cache-Control: max-age=180, private
+X-Original-Ua: Microsoft URL Control - 6.01.9782
+Strict-Transport-Security: max-age=15552000
+X-Mt-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+Date: Thu, 18 Mar 2021 02:06:15 GMT
+Connection: keep-alive
+Set-Cookie: X-XAct-ID=19a1fdaf-c05a-4445-a725-e797b693f6e4; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+Set-Cookie: trrgeo=38.8852%7C-77.3233%7CFAIRFAX+COUNTY%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Fri, 19 Mar 2021 02:06:14 GMT; Secure
+

@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 05 Mar 2021 15:09:53 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://wp.com/
+X-ac: 3.dca _dca 
+
+HTTP/2 301 
+server: nginx
+date: Fri, 05 Mar 2021 15:09:53 GMT
+content-type: text/html; charset=utf-8
+location: https://wordpress.com/
+vary: Cookie
+x-ac: 3.dca _dca 
+
+HTTP/2 200 
+server: nginx
+date: Fri, 05 Mar 2021 15:09:54 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+vary: Cookie
+x-ac: 2.dca _dca 
+strict-transport-security: max-age=15552000; preload
+

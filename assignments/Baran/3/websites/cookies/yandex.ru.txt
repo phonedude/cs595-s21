@@ -1,0 +1,10 @@
+Set-Cookie: yandexuid=6083499261614888923; Expires=Sun, 02-Mar-2031 20:15:23 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Sat, 04 Mar 2023 20:15:23 GMT
+Set-Cookie: is_gdpr_b=CKLcLBCXISgC; Path=/; Domain=.yandex.ru; Expires=Sat, 04 Mar 2023 20:15:23 GMT
+set-cookie: yp=1617480924.ygu.1; Expires=Sun, 02-Mar-2031 20:15:23 GMT; Domain=.yandex.ru; Path=/
+set-cookie: mda=0; Expires=Fri, 02-Jul-2021 20:15:23 GMT; Domain=.yandex.ru; Path=/
+set-cookie: yandex_gid=102997; Expires=Sat, 03-Apr-2021 20:15:23 GMT; Domain=.yandex.ru; Path=/
+set-cookie: yandexuid=5755326841614888923; Path=/; Domain=.yandex.ru; Expires=Sun, 02-Mar-2031 20:15:23 GMT; Secure
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Sat, 04 Mar 2023 20:15:23 GMT
+set-cookie: is_gdpr_b=CKLcLBCXISgC; Path=/; Domain=.yandex.ru; Expires=Sat, 04 Mar 2023 20:15:23 GMT
+set-cookie: i=5a28BWeElsmupwq5flD6y10Iiga5xaNW0k9nqNNPkO2Huej+IY4hx+tgrjbXCgbA5rR7bxBIg2xtH79VY+pGbkwxews=; Expires=Sat, 04-Mar-2023 20:15:23 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly

@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 04 Mar 2021 20:14:56 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.opera.com:443/
+
+HTTP/2 200 
+date: Thu, 04 Mar 2021 20:14:56 GMT
+content-type: text/html; charset=utf-8
+content-length: 87745
+x-backend-cache-hit: False
+content-language: en
+cache-control: max-age=3600
+detected-country-code: US
+detected-geo-buckets: euro_russia_namerica
+x-storage: default
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+content-security-policy: frame-ancestors 'self' https://*.opera.com; upgrade-insecure-requests;
+x-cache: HIT:5
+x-via: 2-ow,2c8e22bd5284
+accept-ranges: bytes
+

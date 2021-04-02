@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 05 Mar 2021 15:08:57 GMT
+Server: Apache
+Location: http://www.columbia.edu/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServer~CUIT~www.columbia.edu-80-pool=1764244352.20480.0000; expires=Fri, 05-Mar-2021 21:08:57 GMT; path=/; Httponly
+
+HTTP/1.0 302 Found
+Location: https://www.columbia.edu
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Fri, 05 Mar 2021 15:07:48 GMT
+Server: Apache
+Content-language: en
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 05 Mar 2021 15:07:48 GMT
+ETag: "1614956868"
+Content-Type: text/html; charset=UTF-8
+Age: 68
+X-Varnish-Cache: HIT (59)
+X-Cache-Control: max-age=300, public
+Cache-Control: no-store,no-cache,private
+Accept-Ranges: bytes
+Connection: close
+

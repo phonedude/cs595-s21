@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.godaddy.com/
+Expires: Tue, 02 Mar 2021 00:24:39 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 02 Mar 2021 00:24:39 GMT
+Connection: keep-alive
+Set-Cookie: market=en-US; expires=Wed, 02-Mar-2022 00:24:39 GMT; path=/; domain=.godaddy.com
+Set-Cookie: currency=USD; expires=Wed, 02-Mar-2022 00:24:39 GMT; path=/; domain=.godaddy.com
+Set-Cookie: xpnes=A; expires=Wed, 03-Mar-2021 00:24:39 GMT; path=/; domain=.godaddy.com
+X-Frame-Options: DENY
+X-ARC: 2
+X-ARC: 1
+X-ARC: 6
+
+HTTP/2 200 
+content-length: 0
+content-type: text/html; charset=utf-8
+server: Microsoft-IIS/10.0
+x-powered-by: ASP.NET
+x-powered-by: ARR/3.0
+p3p: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR i OUR IND"
+expires: Tue, 02 Mar 2021 00:24:40 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 02 Mar 2021 00:24:40 GMT
+set-cookie: xpdpp3=B; expires=Sat, 01 May 2021 00:24:39 GMT; domain=godaddy.com; path=/; secure
+set-cookie: visitor=6fc40e16-7ada-4565-9b33-fc1a62570e3c; expires=Wed, 02 Mar 2022 00:24:39 GMT; domain=godaddy.com; path=/
+set-cookie: fb_sessiontraffic=S_TOUCH%3D03%2F02%2F2021%252000%3A24%3A39.869%26pathway%3D6fc40e16-7ada-4565-9b33-fc1a62570e3c%26V_DATE%3D03%2F01%2F2021%252017%3A24%3A39.869%26pc%3D0; domain=godaddy.com; path=/
+set-cookie: pathway=6fc40e16-7ada-4565-9b33-fc1a62570e3c; domain=godaddy.com; path=/
+set-cookie: market=en-US; expires=Wed, 02-Mar-2022 00:24:40 GMT; path=/; domain=.godaddy.com
+set-cookie: currency=USD; expires=Wed, 02-Mar-2022 00:24:40 GMT; path=/; domain=.godaddy.com
+set-cookie: xpnes=A; expires=Wed, 03-Mar-2021 00:24:40 GMT; path=/; domain=.godaddy.com
+x-frame-options: DENY
+x-arc: 2
+x-arc: 6
+

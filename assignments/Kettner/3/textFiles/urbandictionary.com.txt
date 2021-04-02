@@ -1,0 +1,32 @@
+HTTP/1.1 301 https://www.urbandictionary.com/
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://www.urbandictionary.com/
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:06:19 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5535-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1616033179.085912,VS0,VE0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 99948
+Expires: Wed, 17 Mar 2021 12:00:36 GMT
+Last-Modified: Wed, 17 Mar 2021 09:44:25 GMT
+ETag: "565340557ff138e37870b0202149ddbc"
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=3600
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:06:19 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-wdc5525-WDC
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1616033179.427544,VS0,VE25
+Vary: Accept-Encoding,Fastly-SSL
+

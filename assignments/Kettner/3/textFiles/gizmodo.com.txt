@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://gizmodo.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:37 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5571-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1616033077.299262,VS0,VE0
+X-Kinja-CCPA: (null)(US-VA)
+Set-Cookie: geocc=US;path=/;
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 533370
+X-Powered-By: Express
+X-Kinja: kinja-magma-kube02-5d6998649b-bb5pb #2567
+X-Kinja-Revision: 690b11137945e40864a3485b4b16da1c817db428
+X-Kinja-Server: kinja-magma-kube02-5d6998649b-bb5pb
+X-Kinja-Build: 2567
+cache-control: stale-if-error=86400, stale-while-revalidate=300
+Content-Security-Policy: frame-ancestors 'self'; upgrade-insecure-requests
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-GoogleNews-Bot: false
+Content-Type: text/html; charset=utf-8
+ETag: W/"8237a-PlXTv5geQlkrYwL1ayrWinjGIvA"
+Via: 1.1 varnish, 1.1 varnish
+x-cdn-fetch: mantle-default
+Accept-Ranges: bytes
+Date: Thu, 18 Mar 2021 02:04:37 GMT
+Age: 346
+X-Served-By: cache-bwi5157-BWI, cache-wdc5573-WDC
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+X-Timer: S1616033077.366532,VS0,VE2
+X-UA-Device: desktop
+X-Kinja-CCPA: (null)(US-VA)
+Set-Cookie: geocc=US;path=/;
+Set-Cookie: KinjaBucket=1;path=/;Max-Age=31536000;domain=gizmodo.com;SameSite=None;Secure;
+Set-Cookie: KinjaSetBucket=1|1616032800|V0MWwnFkUydOPnaGQbCnMxFR+Sw0ZhEtyEFcEuobr2g=;path=/;Max-Age=300;SameSite=None;Secure;
+X-Exp-Id: NotInTest
+X-Exp-Variant: NotInTest
+Vary: Accept-Encoding, X-Feature-Hash, X-Forwarded-Proto, Cookie, X-GoogleNews-Bot, X-Kinja-WelcomeAdLoadedV1, X-Kinja-Req-Origin-US, X-Kinja-SuperHeroLoaded, X-Kinja-GDPR, X-Kinja-CCPA, Authorization, X-Use-Magma
+X-Use-Magma: yes
+

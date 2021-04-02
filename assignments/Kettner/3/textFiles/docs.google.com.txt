@@ -1,0 +1,49 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Thu, 18 Mar 2021 02:04:31 GMT
+Location: https://docs.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=211=Gci1yyt_xPN4IUNmI5-EXjkV1hGC05EAHQJ3FIYBcuLzub0EZr9pt96UyjmkU0qU4O4DfbuXCuNONOY52F_lp0eq0URxQMiVpPSYJqKRzwugWy9_bR7gYha_jKa9hQbb5CvqDXHkfHiSeipk6FNi5f4SRpimTNDd5CZlOzzb3hI; expires=Fri, 17-Sep-2021 02:04:31 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://docs.google.com/&followup=https://docs.google.com/&emr=1
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Cross-Origin-Resource-Policy: same-site
+Content-Security-Policy: script-src 'nonce-JvqvJItK3OwiAly0Vrji/w' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DocsHomeRedirectHttp/cspreport;worker-src 'self'
+Date: Thu, 18 Mar 2021 02:04:31 GMT
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=211=TgqfMFSZGmYL2qebafJKJV9xt8JWFpd9VN2fiIYkgKxroTX8wKiJCrWQ--0nwMG2F2DPLZvU62MGpQh0NhaUu7ZpMulOVXDwUT22v0Z7StgPcS4uSUXe0jvAl9gt6_vGykw98BnpAnEQqXm-w__QH9OUoEXwVuLLmci0SBUdGTE; expires=Fri, 17-Sep-2021 02:04:31 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: DENY
+x-auto-login: realm=com.google&args=continue%3Dhttps%253A%252F%252Fdocs.google.com%252F
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Thu, 18 Mar 2021 02:04:32 GMT
+Content-Length: 70756
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src 'nonce-8l+S8YFul7I4P7luckX4Ig' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: __Host-GAPS=1:bxqSaYfhWlJp19y4G7xq-CgQVnbVgQ:zOELHrFnn0A7DrTA;Path=/;Expires=Sat, 18-Mar-2023 02:04:32 GMT;Secure;HttpOnly;Priority=HIGH
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

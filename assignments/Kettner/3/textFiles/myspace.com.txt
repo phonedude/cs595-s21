@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+X-Powered-By: Express
+Cache-Control: no-cache, private, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Content-Type: text/html
+Location: https://myspace.com/
+Date: Thu, 18 Mar 2021 02:05:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Set-Cookie: persistent_id=pid%3Df7e2926e-ec8a-4f9e-9312-3ee3e0b4c15e%26llid%3D%26lprid%3D%26lltime%3D; domain=.myspace.com; path=/; expires=Wed, 13 Mar 2041 02:05:47 GMT; httpOnly
+Set-Cookie: visit_id=3bc6d806-330b-42f5-9132-ea231bacdc39; domain=.myspace.com; path=/; expires=Thu, 18 Mar 2021 02:35:47 GMT; httpOnly
+Set-Cookie: beacons_enabled=true; domain=.myspace.com; path=/; expires=Thu, 18 Mar 2021 02:35:47 GMT
+Set-Cookie: player=sequenceId%3D-1%26paused%3Dtrue%26currentTime%3D0%26volume%3D0.5%26mute%3Dfalse%26shuffled%3Dfalse%26repeat%3Doff%26mode%3Dqueue%26pinned%3Dfalse%26streamStartDateTime%3D%26at%3D360%26incognito%3Dfalse%26allowSkips%3Dtrue%26ccOn%3Dfalse; domain=.myspace.com; path=/; expires=Sat, 17 Apr 2021 02:05:47 GMT
+X-TrackingId: d8eb899d-cb26-4b69-97a9-971ff69699fd
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: text/html; charset=utf-8
+Content-Length: 259574
+X-Response-Time: 84ms
+Date: Thu, 18 Mar 2021 02:05:47 GMT
+Connection: keep-alive
+

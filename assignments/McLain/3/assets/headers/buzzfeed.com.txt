@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Location: https://www.buzzfeed.com/
+Date: Fri, 05 Mar 2021 07:41:58 GMT
+X-Cache: Hit from cloudfront
+Via: 1.1 90a702a7e21c444d32e69f4d93b07bb5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: d6mYQ6i5Um1yIqj92SF21s_twiL_4WA012g3Pnp9XJoNrjSzktElqg==
+Age: 26817
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, must-revalidate
+etag: "8c186db23840270b27ef33ea3ccb93f97a681b72"
+expires: 0
+pragma: no-cache
+x-content-type-options: nosniff
+x-request-id: e35d078d91e1653fc8110b95720aeb47
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+date: Fri, 05 Mar 2021 15:08:55 GMT
+age: 52
+set-cookie: BFPQuiz=false;expires=Sat, 06 Mar 2021 15:08:55 GMT;path=/
+x-frame-options: SAMEORIGIN
+set-cookie: dsl25_frhf=control;expires=Fri, 02 Apr 2021 15:08:55 GMT;
+set-cookie: bf-geo-country=US; expires=Sat, 06 Mar 2021 15:08:55 GMT; path=/; domain=.buzzfeed.com;
+set-cookie: ccpa=true; expires=Fri, 19 Mar 2021 15:08:55 GMT; path=/; domain=www.buzzfeed.com;
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000; preload
+timing-allow-origin: *
+x-served-by: cache-wdc5568-WDC
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1614956936.978875,VS0,VE4
+vary: X-BF-User-Edition, X-BF-Feedranker-Homepage-Feeds, X-BF-Homepage-Alias, Accept-Encoding
+content-length: 827638
+

@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Location: https://snapchat.com/
+X-Cloud-Trace-Context: 7a2b1d23042f7a13488bd81332d7d822
+Date: Thu, 18 Mar 2021 19:58:04 GMT
+Content-Type: text/html
+Server: Google Frontend
+Transfer-Encoding: chunked
+
+HTTP/1.1 405 Method Not Allowed
+Allow: GET
+Content-Type: text/html; charset=UTF-8
+X-Cloud-Trace-Context: 8e585fee8f66b9fdc7c2b470dcedcfff
+Content-Length: 188
+Date: Thu, 18 Mar 2021 19:58:04 GMT
+Server: Google Frontend
+

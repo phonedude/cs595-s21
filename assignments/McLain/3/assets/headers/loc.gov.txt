@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved permanently
+Date: Fri, 05 Mar 2021 15:09:14 GMT
+Connection: keep-alive
+Set-Cookie: __cfduid=db1fd6594c03cc6a7a88298528d14691a1614956953; expires=Sun, 04-Apr-21 15:09:13 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+Location: https://loc.gov/
+Cache-Control: no-cache
+Pragma: no-cache
+CF-Cache-Status: DYNAMIC
+cf-request-id: 08a4889949000002eb75871000000001
+Server: cloudflare
+CF-RAY: 62b443a208d702eb-IAD
+
+HTTP/2 200 
+date: Fri, 05 Mar 2021 15:09:14 GMT
+content-type: text/html; charset=UTF-8
+content-length: 175132
+set-cookie: __cfduid=dde750014f8098b727e9c11e189f5896c1614956954; expires=Sun, 04-Apr-21 15:09:14 GMT; path=/; domain=.loc.gov; HttpOnly; SameSite=Lax
+x-frame-options: sameorigin
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=3600; preload
+x-content-type-options: nosniff
+etag: "da0f12cbf8a2658a295131231d77e482"
+expires: Fri, 05 Mar 2021 15:51:24 GMT
+access-control-allow-origin: *
+x-grace: none
+x-nearside-cache: HIT
+x-nearside-cache-hits: 509
+cache-control: no-transform, max-age=3600
+age: 0
+accept-ranges: bytes
+cf-cache-status: DYNAMIC
+cf-request-id: 08a48899f300000998bf2c9000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 62b443a31a9b0998-IAD
+

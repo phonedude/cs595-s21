@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 18 Mar 2021 19:57:27 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://shutterstock.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 18 Mar 2021 19:57:27 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.shutterstock.com:443/
+
+HTTP/1.1 406 Not Acceptable
+Content-Type: text/html
+Content-Length: 160
+Connection: keep-alive
+Date: Thu, 18 Mar 2021 19:57:27 GMT
+Server: openresty
+X-Cache: Error from cloudfront
+Via: 1.1 46aba6b15045c2b494b2c260627fbfdb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: OI1WM_LVERI0fxwsqBSfXTQhXEzWj3eJonfDVWDFHKs22aHtE1IIUw==
+
