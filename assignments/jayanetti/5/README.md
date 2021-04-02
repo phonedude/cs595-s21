@@ -13,8 +13,8 @@
     * [HTML file](5.2/files/1.html)
     * [Server 2: Sending HTML response along with custom headers](5.2/server2.js)
   * [Q3 files](5.3)
-    * [Server 1: Allowing embedds](5.3/allow_server.js)
-    * [Server 2: Not allowing embedds](5.3/deny_server.js)
+    * [Server 1: Allowed embedding](5.3/allow_server.js)
+    * [Server 2: Prohibiting embedding](5.3/deny_server.js)
     * [HTML file](5.3/files/my.html)
    
 ## Q1: CORS: Blocking and reading responses from another origin
