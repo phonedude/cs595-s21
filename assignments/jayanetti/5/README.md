@@ -1,7 +1,7 @@
 # Assignment 5: Same-origin Policy, CORS, CSP
 #### Himarsha Jayanetti, CS 495/595 Web Security, Spring 2021
 
-### List of directories
+## List of directories
 
   * [Q1 files](5.1)
     * [Server 1: Hosting the HTML](5.1/server1.js)
@@ -25,17 +25,25 @@
 ```
 'Access-Control-Allow-Origin': * 
 ``` 
-No Access-Control-Allow-Origin in the response headers.
-<img src="screenshots/1.1.png" width="700">
+No 'Access-Control-Allow-Origin' in the response headers.
 
-Console will show the issue.
-```
-Access to fetch at 'http://localhost:5002/myfav.json' from origin 'http://localhost:5001' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-```
 <img src="screenshots/1.2.png" width="700">
 
+Console will show the issue.
 
+<img src="screenshots/1.1.png" width="700">
+
+* Later I am allowing the CORS headers in server 2 which will allow the JSON response to be shared with server 1. In order to achieve this, I am using the cors node package.
+
+```
+var cors = require('cors')
+app.use(cors())
+``` 
+
+'Access-Control-Allow-Origin' header is set to '*' 
 <img src="screenshots/1.3.png" width="700">
+
+Console will display the JSON as well.
 <img src="screenshots/1.4.png" width="700">
 
 ### Youtube Video: 
@@ -47,5 +55,10 @@ Access to fetch at 'http://localhost:5002/myfav.json' from origin 'http://localh
 ## Q2: CORS: Content-Security-Policy: embedding from another site
 
 ### Youtube Video: 
+
+## References
+
+1. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+2. https://expressjs.com/en/resources/middleware/cors.html
 
 
