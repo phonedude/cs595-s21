@@ -41,12 +41,14 @@ app.use(cors())
 ``` 
 
 'Access-Control-Allow-Origin' header is set to '*' 
+
 <img src="screenshots/1.3.png" width="700">
 
 Console will display the JSON as well.
+
 <img src="screenshots/1.4.png" width="700">
 
-### Youtube Video: 
+### Youtube Video: https://youtu.be/atudQaQC9Q8
    
 ## Q2: CORS: Blocking and reading HTTP response headers from another origin
 
