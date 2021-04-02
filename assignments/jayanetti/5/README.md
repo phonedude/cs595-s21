@@ -6,7 +6,8 @@
   * [Q1 files](5.1)
     * [Server 1: Hosting the HTML](5.1/server1.js)
     * [HTML file](5.1/files/1.html)
-    * [Server 2: Hosting the JSON](5.1/server2.js)
+    * [Server 2: Hosting the JSON (Preventing access)](5.1/deny_server.js)
+    * [Server 2: Hosting the JSON (Allowing access)](5.1/allow_server.js)
     * [JSON](5.1/files/myfav.json)
   * [Q2 files](5.2)
     * [Server 1: Hosting the HTML](5.2/server1.js)
@@ -18,6 +19,7 @@
     * [HTML file](5.3/files/my.html)
    
 ## Q1: CORS: Blocking and reading responses from another origin
+
 
 ### Youtube Video: 
    
