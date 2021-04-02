@@ -60,6 +60,23 @@ res.set('X-CS595s21-musicband', 'Westlife')
 ```
 <img src="screenshots/2.png" width="700">
 
+* I am accessing the custom headers which were set by javascript in the HTML and displaying it on the console using console.log().
+
+```javascript
+<script>
+
+fetch('http://localhost:5002/')
+  .then(response => {
+  var movie = response.headers.get("X-CS595s21-movie")
+  var tvshow = response.headers.get("X-CS595s21-tvshow")
+  var musicband = response.headers.get("X-CS595s21-musicband")
+  console.log(movie)
+  console.log(tvshow)
+  console.log(musicband)
+  })
+</script>
+```
+
 * We are not able to read the custom headers, unless specified otherwise. 
 <img src="screenshots/2.1.png" width="700">
 
