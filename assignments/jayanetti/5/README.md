@@ -13,12 +13,20 @@
     * [HTML file](5.2/files/1.html)
     * [Server 2: Sending HTML response along with custom headers](5.2/server2.js)
   * [Q3 files](5.3)
-    * [Server: Hosting the HTML](5.3/my_server.js)
+    * [Server 1: Allowing embedds](5.3/allow_server.js)
+    * [Server 2: Not allowing embedds](5.3/deny_server.js)
     * [HTML file](5.3/files/my.html)
    
 ## Q1: CORS: Blocking and reading responses from another origin
 
-
+### Youtube Video: 
+   
+## Q2: CORS: Blocking and reading HTTP response headers from another origin
 
 ### Youtube Video: 
+   
+## Q2: CORS: Content-Security-Policy: embedding from another site
+
+### Youtube Video: 
+
 
