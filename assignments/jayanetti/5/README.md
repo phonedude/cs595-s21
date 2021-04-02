@@ -3,16 +3,18 @@
 
 ### List of directories
 
-  * [Q1](5.1)
-  * [Q2](5.2)
-  * [Q3](5.3)
-  * Code
-    * [Collect CURL responses and create HTML](code/create_html.py)
-    * [Check if a website is framable or not](code/check_framable.py)
-  * Other Files
-    * [CURL Responses](curl_output)
-    * [HTML Files Created](framable)
-    * [X-Frame-Options and Content-Security-Policy header summary](header_summary.tsv)
+  * [Q1 files](5.1)
+    * [Server 1: Hosting the HTML](5.1/server1.js)
+    * [HTML file](5.1/files/1.html)
+    * [Server 2: Hosting the JSON](5.1/server2.js)
+    * [JSON](5.1/files/myfav.json)
+  * [Q2 files](5.2)
+    * [Server 1: Hosting the HTML](5.2/server1.js)
+    * [HTML file](5.2/files/1.html)
+    * [Server 2: Sending HTML response along with custom headers](5.2/server2.js)
+  * [Q3 files](5.3)
+    * [Server: Hosting the HTML](5.3/my_server.js)
+    * [HTML file](5.3/files/my.html)
    
 ## Q1: CORS: Blocking and reading responses from another origin
 
