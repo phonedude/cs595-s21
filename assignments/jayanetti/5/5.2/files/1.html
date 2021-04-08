@@ -1,0 +1,24 @@
+<html>
+<title>
+Himarsha's Site
+</title>
+
+
+<h1>Welcome to my page!</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate blocking and reading response headers from a cross origin domain.
+
+<script>
+
+fetch('http://localhost:5002/')
+  .then(response => {
+  var movie = response.headers.get("X-CS595s21-movie")
+  var tvshow = response.headers.get("X-CS595s21-tvshow")
+  var musicband = response.headers.get("X-CS595s21-musicband")
+  console.log(movie)
+  console.log(tvshow)
+  console.log(musicband)
+  })
+</script>
+

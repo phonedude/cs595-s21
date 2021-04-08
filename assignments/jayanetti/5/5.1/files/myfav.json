@@ -1,0 +1,17 @@
+{
+  "Movie": {
+    "name": "Me before you",
+    "reason": "Me before you is one of my favorite movies of all time. The plot is based on a romantic novel from 2012 by Jojo Moyes. The GOT star Emilia Clark is playing the main role where she is a spirited 26-year-old from a struggling middle-class family. <br/>While most love stories have a happy ending, this story depicts how even true love has its limits and sad endings.",
+    "URL": "https://en.wikipedia.org/wiki/Me_Before_You_(film)"
+  },
+  "TV_Show": {
+    "name": "Spellbinder",
+    "reason": "Spellbinder is a fantasy adventure or science fiction television series. Not only it's one of my favorites, but it is the first ever english TV show I watched during my high school days. The plot is around story where a boy blasted into an alternate dimention after a school camp prank gone wrong.",
+    "URL": "https://en.wikipedia.org/wiki/Spellbinder_(TV_series)"
+  },
+  "Music_Band": {
+    "name": "Westlife",
+    "reason": "Westlife is one of the earliest bands I listened to. They became famous with their debut international album named Westlife. My love, Uptown girl, Flying without wings, and When you tell me that you love me are few of my favorite songs.</p>",
+    "URL": "https://en.wikipedia.org/wiki/Westlife"
+  }
+}

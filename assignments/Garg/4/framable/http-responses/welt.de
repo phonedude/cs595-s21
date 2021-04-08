@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 01 Apr 2021 16:21:12 GMT
+Server: Varnish
+X-Varnish: 110032772
+Location: https://www.welt.de/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+etag: "hash-6685492193234123314"
+cache-control: max-age=90, stale-while-revalidate=9, stale-if-error=864000
+date: Thu, 01 Apr 2021 16:21:12 GMT
+set-cookie: kameleoonVisitorCode=fafdd5ce2b44ce71; expires=Sat, 16-Apr-2022 16:21:12 GMT
+

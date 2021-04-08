@@ -1,0 +1,101 @@
+Site	Tstatus	Xframe	CSP
+abc.net.au	200	x-frame-options: SAMEORIGIN	content-security-policy: upgrade-insecure-requests;
+about.me	200	x-frame-options: DENY	
+accounts.google.com	200	x-frame-options: DENY	content-security-policy: script-src 'nonce-Q0r9j2ZK6ERZ9YcsXvZUNQ' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+alibaba.com	200		
+aliexpress.com	200	x-frame-options: DENY	
+allaboutcookies.org	200		
+amazon.fr	405	x-frame-options: SAMEORIGIN	
+ap.org	200		
+apple.com	200	x-frame-options: SAMEORIGIN	
+asahi.com	200		
+biglobe.ne.jp	200		
+bing.com	200		
+bitly.com	405		
+blog.fc2.com	200		
+box.com	200	X-Frame-Options: SAMEORIGIN	
+brandbucket.com	200		
+businessinsider.com	200	x-frame-options: sameorigin	
+businesswire.com	200	X-Frame-Options: SAMEORIGIN	Content-Security-Policy: frame-ancestors 'self'
+chron.com	200		
+cisco.com	200	x-frame-options: SAMEORIGIN	content-security-policy: upgrade-insecure-requests; frame-ancestors *.cisco.com *.jasper.com *.ciscospark.com *.ciscolive.com http://cisco.lookbookhq.com https://cisco.lookbookhq.com testcisco.marketing.adobe.com cisco.marketing.adobe.com ciscosales.my.salesforce.com test.salesforce.com zedo.com hindustantimes.com economictimes.indiatimes.com *.webex.com *.cdw.com *.cdwg.com *.cdw.ca *.meraki-go.com http://ciscopartners.lookbookhq.com https://ciscopartners.lookbookhq.com ciscolearningsystem.com ciscocustomer.lookbookhq.com cisco.lookbookhq.com ccsmedia.com *.itquotes.ie dteonline.com ampito-cisco.com arkphire.com *.insight.com *.ccsmedia.com *.ebuyer.com *.lambda-tek.com *.storm-technologies.com *.vohkus.com *.bechtle.com *.rainfocus.com *.broadbandbuyer.com *.hardware.com shop.redpontem.com;
+cloudflare.com	200	x-frame-options: SAMEORIGIN	
+disney.com	200		
+disqus.com	200	X-Frame-Options: SAMEORIGIN	
+draft.blogger.com	200	x-frame-options: SAMEORIGIN	content-security-policy: default-src 'self' https://*.google-analytics.com https://*.googleusercontent.com https://*.gstatic.com; script-src 'self' 'unsafe-inline' https://*.google-analytics.com https://*.googleapis.com; style-src 'self' 'unsafe-inline' https://*.googleapis.com
+dw.com	200		
+e-monsite.com	200	x-frame-options: sameorigin	
+e-recht24.de	200		
+ebay.com	301	x-frame-options: SAMEORIGIN	
+economist.com	200		
+engadget.com	200	x-frame-options: SAMEORIGIN	content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https: https://sb.scorecardresearch.com blob: wss:; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation; img-src 'self' https: data: blob:; object-src https://*.engadget.com https://s.yimg.com; worker-src 'self' blob:; manifest-src 'self' https://s.yimg.com; font-src 'self' data: https://www.engadget.com https://s.yimg.com https://fonts.gstatic.com https://*.spot.im; connect-src 'self' https://*.engadget.com https://s.yimg.com https://*.yahoo.net https://*.yahoo.com https://*.oath.com https://*.advertising.com https://*.cdn.yimg.com https://ad.doubleclick.net https://*.doubleverify.com https://*.googlesyndication.com https://*.spot.im https://*.giphy.com https://*.vidible.com https://*.media.yahoo.com:4443 https://*.skimresources.com https://*.taboola.com https://securepubads.g.doubleclick.net https://*.spotim.market https://*.criteo.com https://*.criteo.net https://*.pubmatic.com https://*.rubiconproject.com https://*.lijit.com https://*.gumgum.com https://*.openx.net https://*.adtelligent.com https://*.casalemedia.com https://*.creativecdn.com https://*.adnxs.com https://*.nighttstand.com https://*.rlcdn.com https://*.adsrvr.org https://*.adform.net https://*.vidible.tv https://*.uplynk.com https://*.edgekey.net https://*.doubleclick.net https://d1z2jf7jlzjs58.cloudfront.net https://*.pixel.parsely.com https://*.aniview.com https://*.ad-score.com; upgrade-insecure-requests; block-all-mixed-content; report-uri https://csp.yahoo.com/beacon/csp?src=engadget; report-to csp-endpoint;
+entrepreneur.com	200		content-security-policy: frame-ancestors 'self'
+es.wikipedia.org	200		
+example.com	200		
+facebook.com	200	x-frame-options: DENY	
+www.fda.gov	200	x-frame-options: SAMEORIGIN	
+fr.wikipedia.org	200		
+get.google.com	200	x-frame-options: SAMEORIGIN	
+github.com	200	x-frame-options: deny	content-security-policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; connect-src 'self' uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events wss://alive.github.com github.githubassets.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ *.githubusercontent.com customer-stories-feed.github.com spotlights-feed.github.com; manifest-src 'self'; media-src github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/socket-worker-3f088aa2.js gist.github.com/socket-worker-3f088aa2.js
+gizmodo.com	200		content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests
+google.ca	200	X-Frame-Options: SAMEORIGIN	
+google.co.in	200	X-Frame-Options: SAMEORIGIN	
+google.it	200	X-Frame-Options: SAMEORIGIN	
+groups.yahoo.com	200	x-frame-options: SAMEORIGIN	content-security-policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com https://www-yahoo-com.cdn.ampproject.org https://news-yahoo-com.cdn.ampproject.org https://sports-yahoo-com.cdn.ampproject.org https://finance-yahoo-com.cdn.ampproject.org https://www-yahoo-com.bing-amp.com https://news-yahoo-com.bing-amp.com https://sports-yahoo-com.bing-amp.com https://finance-yahoo-com.bing-amp.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=US&lang=en-US&device=desktop&yrid=&partner=;
+gstatic.com	404		
+harvard.edu	200		
+hp.com	200	x-frame-options: SAMEORIGIN	content-security-policy: upgrade-insecure-requests
+icann.org	301		
+id.wikipedia.org	200		
+imageshack.com	204	X-Frame-Options: SAMEORIGIN	
+iso.org	200		
+istockphoto.com	200	x-frame-options: SAMEORIGIN	
+jimdofree.com	200	x-frame-options: SAMEORIGIN	content-security-policy: upgrade-insecure-requests; default-src 'self' 'unsafe-eval' 'unsafe-inline' data: https: wss:; report-uri https://o378271.ingest.sentry.io/api/5201427/security/?sentry_key=b97b30d6fd6244419f1e761e6f6f319a
+m.wikipedia.org	200		
+mail.google.com	200	x-frame-options: DENY	content-security-policy: script-src 'nonce-ulT3bp4YQDF7bOp/B0gxng' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+marriott.com	200		
+medium.com	200		content-security-policy: frame-ancestors medium.com
+metro.co.uk	200		
+myaccount.google.com	200	x-frame-options: SAMEORIGIN	content-security-policy: script-src 'nonce-F/QJxDrQLHMQ20sEx5+yZA' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/AccountSettingsUi/cspreport;worker-src 'self'
+namesilo.com	503	x-frame-options: SAMEORIGIN	
+nationalgeographic.com	200		
+nature.com	200	x-frame-options: DENY	Content-Security-Policy: upgrade-insecure-requests;
+newsweek.com	403		
+nginx.org	200		
+nifty.com	200	x-frame-options: DENY	
+nih.gov	200	X-Frame-Options: SAMEORIGIN	
+nydailynews.com	200		content-security-policy: upgrade-insecure-requests
+nypost.com	200		content-security-policy: frame-ancestors nypost.com *.nypost.com *.decider.com *.pagesix.com http://www.stumbleupon.com https://www.stumbleupon.com
+office.com	200	x-frame-options: SAMEORIGIN	
+offset.com	200	x-frame-options: DENY	
+orange.fr	200	X-Frame-Options: sameorigin	
+oreilly.com	200		
+over-blog-kiwi.com	200	x-frame-options: DENY	
+prezi.com	406	x-frame-options: DENY	
+www.qq.com	200		
+qz.com	200	x-frame-options: SAMEORIGIN	content-security-policy: frame-ancestors 'self' https://cms.qz.com; upgrade-insecure-requests
+ria.ru	200		
+samsung.com	200	x-frame-options: SAMEORIGIN	
+sapo.pt	200	X-Frame-Options: SAMEORIGIN	Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content
+secureserver.net	404		
+sfgate.com	200		
+so-net.ne.jp	200		
+sputniknews.com	200		
+stackoverflow.com	200	x-frame-options: SAMEORIGIN	content-security-policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+tes.com	200	x-frame-options: SAMEORIGIN	
+thedailybeast.com	200	x-frame-options: SAMEORIGIN	
+thefreedictionary.com	200		
+theguardian.com	200	x-frame-options: SAMEORIGIN	content-security-policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri 'none'
+transandfiestas.ga	200		
+un.org	200		
+undeveloped.com	200	x-frame-options: SAMEORIGIN	content-security-policy: frame-ancestors 'self';
+unesco.org	200	X-Frame-Options: sameorigin	
+utexas.edu	200	x-frame-options: SAMEORIGIN	
+washingtonpost.com	200		content-security-policy: upgrade-insecure-requests
+welt.de	200		
+wikia.com	200		content-security-policy: upgrade-insecure-requests
+wikihow.com	200	x-frame-options: SAMEORIGIN	
+www.weebly.com	200	X-Frame-Options: SAMEORIGIN	
+xbox.com	404		
+xinhuanet.com	200		
+youtube.com	200	x-frame-options: SAMEORIGIN	

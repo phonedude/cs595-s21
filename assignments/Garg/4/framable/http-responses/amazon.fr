@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Thu, 01 Apr 2021 16:18:54 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://amazon.fr/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Thu, 01 Apr 2021 16:18:54 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.fr/
+
+HTTP/2 405 
+server: Server
+date: Thu, 01 Apr 2021 16:18:54 GMT
+content-type: text/html;charset=UTF-8
+x-frame-options: SAMEORIGIN
+x-amz-rid: JXCQG7SGFWPYPYDKSER4
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+content-length: 0
+
