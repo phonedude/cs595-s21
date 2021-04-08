@@ -109,7 +109,8 @@ his course materials (although any errors are mine).
 
 
 * Week 12 - April 8 - Server security, Safe coding practices
-
+    * [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://infosecwriteups.com/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
+    * [Class slides](https://docs.google.com/presentation/d/1YWHuGvgKFgSS19D6RZwADQ2iwhbEkgB3dDlv_epHiWc/edit)
 
 * Week 13 - April 15 - DNS rebinding attacks
 
