@@ -1,0 +1,30 @@
+HTTP/1.1 302 Found : Moved Temporarily
+Location: https://un.org/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 302 Found : Moved Temporarily
+Location: http://www.un.org/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 302 Found : Moved Temporarily
+Location: https://www.un.org/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 200 OK
+Date: Thu, 01 Apr 2021 16:21:00 GMT
+Server: Apache
+X-Drupal-Cache: HIT
+Etag: "1617294048-0"
+Cache-Control: public, max-age=3600
+Last-Modified: Thu, 01 Apr 2021 16:20:48 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

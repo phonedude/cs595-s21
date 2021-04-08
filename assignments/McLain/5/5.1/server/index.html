@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Bootstrap Starter template from https://getbootstrap.com/docs/4.6/getting-started/introduction/ -->
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <!-- Javascript Functions -->
+        <script type="text/javascript">            
+            function getJson(uri) {
+                $.getJSON({
+                    url: uri
+                }).done(function(result) {
+                    $('#result').html("<p>"+JSON.stringify(result.jsonRes.favorites, null, 2)+"</p>")
+                }).fail(function() {
+                    console.log('Denied!')
+                    $('#result').html("<p color='red'>Request denied due to missing CORS settings.</p>")
+                });
+            }        
+        </script>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+        <!--Font Awesome Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>CS 595 - McLain - Assignment 5.1 - Get Some JSON - Same-Origin Example</title>
+    </head>
+    <body>
+        <div class="container" style="padding-top: 75px;">
+            <div class="row">
+                <div class="col col-xs-6">
+                    <div class="row" style="padding: 10px 10px;">
+                        <div class="col" style="text-align: center;">                    
+                            <button type="button" class="btn btn-primary" onclick="getJson('/badjson')">Same-Origin JSON</button>
+                        </div>
+                    </div>                    
+                </div>
+                <div class="col col-xs-6" id="result">
+                    <!-- Result of JSON call will go here -->
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
