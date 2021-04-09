@@ -46,6 +46,8 @@ victim-unsecure.js:
     
 Frameable Data: 
 
+The sites that defeated my attempts to frame them were using "X-Frame-Options" set to SAMEORIGIN, DENY, or Both.
+
 |Site Name             |Not Frameable (Deny)|Frameable (Same Origin)|
 |----------------------|--------------------|-----------------------|
 |aboutads.info         |0                   |1                      |
