@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.state.gov/
+Date: Fri, 09 Apr 2021 22:12:52 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+access-control-allow-headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+access-control-allow-methods: GET
+access-control-allow-origin: *
+content-type: text/html; charset=UTF-8
+link: <https://www.state.gov/wp-json/>; rel="https://api.w.org/"
+link: <https://www.state.gov/wp-json/wp/v2/pages/2651>; rel="alternate"; type="application/json"
+link: <https://www.state.gov/>; rel=shortlink
+server: Apache
+content-length: 139735
+cache-control: max-age=524
+expires: Fri, 09 Apr 2021 22:21:36 GMT
+date: Fri, 09 Apr 2021 22:12:52 GMT
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+

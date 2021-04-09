@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.apple.com/
+Cache-Control: max-age=0
+Expires: Fri, 09 Apr 2021 22:11:59 GMT
+Date: Fri, 09 Apr 2021 22:11:59 GMT
+X-Cache: TCP_MISS from a184-25-116-141.deploy.akamaitechnologies.com (AkamaiGHost/10.3.3.1-33160337) (-)
+Connection: keep-alive
+strict-transport-security: max-age=31536000
+Set-Cookie: geo=US; path=/; domain=.apple.com
+
+HTTP/2 200 
+server: Apache
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubDomains
+cache-control: max-age=181
+expires: Fri, 09 Apr 2021 22:15:00 GMT
+date: Fri, 09 Apr 2021 22:11:59 GMT
+x-cache: TCP_MEM_HIT from a184-25-116-111.deploy.akamaitechnologies.com (AkamaiGHost/10.3.3.1-33160337) (-)
+set-cookie: geo=US; path=/; domain=.apple.com
+

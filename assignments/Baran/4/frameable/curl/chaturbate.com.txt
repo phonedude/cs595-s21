@@ -1,0 +1,71 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 09 Apr 2021 22:12:03 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=de42dd0d92bdd07f4b0e7f14cdc8628471618006323; expires=Sun, 09-May-21 22:12:03 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax
+Location: https://www.chaturbate.com/
+CF-Ray: 63d7131f08825de7-IAD
+Cache-Control: private
+CF-Cache-Status: DYNAMIC
+CF-Ctrl: A
+cf-request-id: 095a4a476600005de7470cf000000001
+Referrer-Policy: no-referrer
+Set-Cookie: __cf_bm=f727b684710a7d0a71429718eb02baf65d76a42d-1618006323-1800-AdMadEpOnvEsRslggwFtyhrll8zjRNlchYhZMX7FvEr1qIdvn6OueF+ZTKwG6uzV1TYPvRptb3u65lUcCbf5kXw=; path=/; expires=Fri, 09-Apr-21 22:42:03 GMT; domain=.chaturbate.com; HttpOnly; SameSite=None
+Report-To: {"max_age":604800,"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=0iEJIQAVb1WO%2B%2F6KF0IVlkHgPMDGL0Yq06eWd7l7KG4Pn9F4Q%2FnXpvr7vJ3mohFAlg0y%2BAr14kDdn352vAyZD53%2FC4NMXAoHTqPa4hw%2FkIsW74E%3D"}]}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+
+HTTP/2 302 
+date: Fri, 09 Apr 2021 22:12:03 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=df61777621ae026a4a07f7340ddb0ed561618006323; expires=Sun, 09-May-21 22:12:03 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax
+location: https://chaturbate.com/
+cf-ray: 63d7131f9ccb5b6b-IAD
+cache-control: no-cache
+content-language: en
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Language
+via: 1.1 google
+cf-cache-status: DYNAMIC
+cf-ctrl: A
+cf-request-id: 095a4a47c200005b6b0a969000000001
+content-security-policy: default-src 'self';  script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://ajax.googleapis.com https://cdn.exoticads.com https://js-agent.newrelic.com https://cdnjs.cloudflare.com https://www.google-analytics.com https://www.google.com/recaptcha/ https://www.google.com/cv/ https://www.gstatic.com/recaptcha/ https://www.gstatic.com/cv/ https://www.gstatic.com/eureka/ https://www.gstatic.com/cast/ https://*.nr-data.net https://certify-js.alexametrics.com ;  style-src 'self' data: 'unsafe-inline' https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.googleapis.com ;  img-src 'self' data: https://*.highwebmedia.com https://*.stream.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com https://cdnjs.cloudflare.com https://www.gstatic.com https://*.nr-data.net https://certify.alexametrics.com https://stats.g.doubleclick.net ;  font-src 'self' data: https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.gstatic.com ;  connect-src 'self' blob: blob https://*.highwebmedia.com wss://*.highwebmedia.com wss://*.highwebmedia.com:8443 https://*.nr-data.net https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://cbvideoupload.s3-accelerate.amazonaws.com https://stats.g.doubleclick.net https://internet-up.ably-realtime.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  media-src 'self' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com mediasource: blob: data: https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com;  object-src 'self' https://*.highwebmedia.com https://download.macromedia.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  frame-src 'self' https://*.chaturbate.com https://chaturbate.com https://*.highwebmedia.com https://adserver.exoticads.com https://www.google.com/recaptcha/ https://wnu.com https://checkout.2000charge.com https://www.sofort.com https://*.girogate.de https://txn.apac.paywithpoli.com ;  child-src 'self' blob: blob ;  worker-src 'self' blob: blob ;  form-action 'self' https://*.chaturbate.com https://chaturbate.com https://*.stream.highwebmedia.com https://www.coinpayments.net https://wnu.com ;  manifest-src 'self' https://*.highwebmedia.com ;  report-uri https://report-uri.highwebmedia.com/r/t/csp/enforce;
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+nel: {"report_to":"default","max_age":2592000,"include_subdomains":true}
+referrer-policy: strict-origin-when-cross-origin
+report-to: {"group":"default","max_age":2592000,"endpoints":[{"url":"https://report-uri.highwebmedia.com/a/t/g"}],"include_subdomains":true}
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block; report=https://report-uri.highwebmedia.com/r/t/xss/enforce
+set-cookie: __cf_bm=68ff63adc8e49370ec6c813dc10573697b7558ba-1618006323-1800-AcUPWEsnnQ0u7BidUFU7sdyTkOVZdihutZAsjsop7g4Y0GbFiuvp/I++B10649WPGgkFhnGrdooDL+bYDUX4Os4=; path=/; expires=Fri, 09-Apr-21 22:42:03 GMT; domain=.chaturbate.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+
+HTTP/2 200 
+date: Fri, 09 Apr 2021 22:12:03 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d5dee70edb694d62e9ba205e7c4591aea1618006323; expires=Sun, 09-May-21 22:12:03 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax
+cf-ray: 63d7132089785a7b-IAD
+cache-control: no-cache
+content-language: en
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding, Cookie, Accept-Language
+via: 1.1 google
+cf-cache-status: DYNAMIC
+cf-ctrl: A
+cf-request-id: 095a4a485500005a7ba4071000000001
+content-security-policy: default-src 'self';  script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://ajax.googleapis.com https://cdn.exoticads.com https://js-agent.newrelic.com https://cdnjs.cloudflare.com https://www.google-analytics.com https://www.google.com/recaptcha/ https://www.google.com/cv/ https://www.gstatic.com/recaptcha/ https://www.gstatic.com/cv/ https://www.gstatic.com/eureka/ https://www.gstatic.com/cast/ https://*.nr-data.net https://certify-js.alexametrics.com ;  style-src 'self' data: 'unsafe-inline' https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.googleapis.com ;  img-src 'self' data: https://*.highwebmedia.com https://*.stream.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com https://cdnjs.cloudflare.com https://www.gstatic.com https://*.nr-data.net https://certify.alexametrics.com https://stats.g.doubleclick.net ;  font-src 'self' data: https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.gstatic.com ;  connect-src 'self' blob: blob https://*.highwebmedia.com wss://*.highwebmedia.com wss://*.highwebmedia.com:8443 https://*.nr-data.net https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://cbvideoupload.s3-accelerate.amazonaws.com https://stats.g.doubleclick.net https://internet-up.ably-realtime.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  media-src 'self' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com mediasource: blob: data: https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com;  object-src 'self' https://*.highwebmedia.com https://download.macromedia.com https://static-pub.highwebmedia.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://static-pub.highwebmedia.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  frame-src 'self' https://*.chaturbate.com https://chaturbate.com https://*.highwebmedia.com https://adserver.exoticads.com https://www.google.com/recaptcha/ https://wnu.com https://checkout.2000charge.com https://www.sofort.com https://*.girogate.de https://txn.apac.paywithpoli.com ;  child-src 'self' blob: blob ;  worker-src 'self' blob: blob ;  form-action 'self' https://*.chaturbate.com https://chaturbate.com https://*.stream.highwebmedia.com https://www.coinpayments.net https://wnu.com ;  manifest-src 'self' https://*.highwebmedia.com ;  report-uri https://report-uri.highwebmedia.com/r/t/csp/enforce;
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+nel: {"report_to":"default","max_age":2592000,"include_subdomains":true}
+p3p: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+referrer-policy: strict-origin-when-cross-origin
+report-to: {"group":"default","max_age":2592000,"endpoints":[{"url":"https://report-uri.highwebmedia.com/a/t/g"}],"include_subdomains":true}
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block; report=https://report-uri.highwebmedia.com/r/t/xss/enforce
+set-cookie: csrftoken=u5C9TZns5fVSxggjES2q99qDqDWeLxpURBSfI5r8HWZ3425jv37MPXRkPc4Z8mzK; Domain=.chaturbate.com; expires=Fri, 08-Apr-2022 22:12:03 GMT; Max-Age=31449600; Path=/; secure
+set-cookie: affkey="eJyrVipSslJQUqoFAAwfAk0="; Domain=.chaturbate.com; expires=Sun, 09-May-2021 22:12:03 GMT; Max-Age=2592000; Path=/
+set-cookie: sbr="sec:sbr04db9081-b084-461e-b4bf-f95b218cc645:1lUzMB:EwT7zWpsC3Fzs3UEc1NX-XfAseY"; Domain=.chaturbate.com; expires=Wed, 03-Jan-2024 22:12:03 GMT; httponly; Max-Age=86313600; Path=/; secure
+set-cookie: dwf_s_a=True; expires=Sun, 09-May-2021 22:12:03 GMT; Max-Age=2592000; Path=/; secure
+set-cookie: __cf_bm=ac48e458ddadac740c34677701b131fa7fe0ea13-1618006323-1800-Aexh9oTOS36PrBEJVCpW12eFrXDvN7IjfIEQi4S5p7erx28dwSlfLparKKCFOi/awsaGKDsJinRnAbkPlV465EU=; path=/; expires=Fri, 09-Apr-21 22:42:03 GMT; domain=.chaturbate.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+

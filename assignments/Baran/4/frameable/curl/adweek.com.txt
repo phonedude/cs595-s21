@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 88
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 09 Apr 2021 22:11:59 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Fri, 09 Apr 2021 22:10:31 GMT
+Location: https://www.adweek.com/
+Server: ECAcc (dcd/7D26)
+X-Cache: 301-HIT
+X-Redirect-By: WordPress
+Content-Length: 0
+
+HTTP/2 200 
+content-encoding: gzip
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 24
+cache-control: max-age=0
+content-type: text/html; charset=UTF-8
+date: Fri, 09 Apr 2021 22:11:59 GMT
+expires: Fri, 09 Apr 2021 22:11:59 GMT
+last-modified: Fri, 09 Apr 2021 22:11:36 GMT
+link: <https://www.adweek.com/>; rel=shortlink
+server: ECAcc (dcd/7D26)
+x-cache: HIT
+content-length: 36677
+

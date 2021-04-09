@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.rakuten.co.jp/
+Expires: Fri, 09 Apr 2021 22:12:43 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 09 Apr 2021 22:12:43 GMT
+Connection: keep-alive
+Vary: User-Agent
+
+HTTP/2 200 
+server: Apache
+pragma: no-cache
+cache-control: private
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+content-type: text/html
+content-length: 0
+date: Fri, 09 Apr 2021 22:12:48 GMT
+set-cookie: Apache=192d9c87.5bf9176dae911; path=/; expires=Sat, 09-Apr-22 22:12:48 GMT
+set-cookie: wPzd=lng%3DNA%3Acnt%3DJP; expires=Sat, 09-Apr-2022 22:12:48 GMT; path=/; domain=www.rakuten.co.jp
+vary: User-Agent
+

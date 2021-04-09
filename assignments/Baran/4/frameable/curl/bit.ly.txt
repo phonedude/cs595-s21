@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 09 Apr 2021 22:12:02 GMT
+Content-Type: text/html
+Content-Length: 178
+Location: http://bit.ly/
+Via: 1.1 google
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Fri, 09 Apr 2021 22:12:02 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: https://bitly.com/
+Via: 1.1 google
+
+HTTP/2 405 
+server: nginx
+date: Fri, 09 Apr 2021 22:12:02 GMT
+content-type: text/html; charset=UTF-8
+content-length: 109
+strict-transport-security: max-age=31536000
+via: 1.1 google
+alt-svc: clear
+
