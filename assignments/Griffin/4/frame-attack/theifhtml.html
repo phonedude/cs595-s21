@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <body>
+    <h1>This page is being used to extract the cookies.</h1>
+    <p>
+    <p>
+
+    <script>
+        document.cookie = 'cookie=cookiemonster'
+        const iframe = document.createElement('iframe')
+        iframe.src='http://localhost:4000/'
+        document.body.appendChild(iframe)
+	console.log(document.cookie)
+
+
+        setTimeout(function() {
+        const p = document.createElement('p')
+        p.innerHTML = document.cookie
+        document.body.appendChild(p)
+
+    	console.log(document.cookie)
+
+    }, 5000);
+    </script>
+	<h2>^the cookie should appear here</h2>
+    </body>
+
+</html>
+
+</html>
