@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+	<title>Headers Request</title>
+
+    </head>
+    <body>
+        <p>
+            This page requests HTTP headers.  The headers are written below.
+
+            <div id="myFavoriteThings">
+
+            </div>
+        </p>
+
+        <script>
+            fetch('http://localhost:8000/')
+                .then(response => {
+                    var marvelMovie = response.headers.get("X-CS595s21-marvelmovie")
+                    var netflixShow = response.headers.get("X-CS595s21-netflixshow")
+                    var amazonShow = response.headers.get("X-CS595s21-amazonshow")
+                    var respHeaders = document.getElementById("myFavoriteThings");
+                    var div = document.createElement("div");
+                    div.innerHTML = marvelMovie + ' ' + netflixShow + ' ' + amazonShow;
+                    respHeaders.appendChild(div);
+                })
+        </script>
+    </body>
+</html>
