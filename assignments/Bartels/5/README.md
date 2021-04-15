@@ -10,6 +10,7 @@
   * [favoriteThings.json](5.1/response/favoriteThings.json):  JSON file that contains the JSON response about my 3 favorite things from Assignment 1.
   * [deny-response.js](5.1/response/deny-response.js):  Node.js server that serves favoriteThings.json on localhost port 8000.  Denies cross origin request from request.html.  This is shown below.
   <img src="5.1/deniedJSONRequest.png" width="1000">
+  
   * [allow-response.js](5.1/response/allow-response.js)  Node.js server that serves favoriteThings.json on localhost port 8000.  Allows cross origin request from request.html using the cors npm package.  The line ```app.use(cors())``` sets the ```Access-Control-Allow-Origin``` header to ```*```.  This means that the server's resources can be accessed by any origin.  The successful request is shown below.
   <img src="5.1/acceptedJSONRequest.png" width="1000">
 
