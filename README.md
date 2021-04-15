@@ -108,11 +108,14 @@ his course materials (although any errors are mine).
     * [Class slides](https://docs.google.com/presentation/d/1oJ8hlNmYIuwxbGL1fcclhDF4eVNTi3c1zp_8t-kzG8Q/edit)
 
 
-* Week 12 - April 8 - Server security, Safe coding practices
+* Week 12 - April 8 - Local HTTP Server Security
     * [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://infosecwriteups.com/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
     * [Class slides](https://docs.google.com/presentation/d/1YWHuGvgKFgSS19D6RZwADQ2iwhbEkgB3dDlv_epHiWc/edit)
 
 * Week 13 - April 15 - DNS rebinding attacks
+    * [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
+    * [Protecting Browsers from DNS Rebinding Attacks](https://crypto.stanford.edu/dns/dns-rebinding.pdf)
+    * [Class slides](https://docs.google.com/presentation/d/1F-SdAPhDDvmLXhz2gm8R04vWvjH-HnumtMzyzl1M8jw/edit)
 
 
 * Week 14 - April 22 - UI Denial-of-service, Phishing, Side Channels
