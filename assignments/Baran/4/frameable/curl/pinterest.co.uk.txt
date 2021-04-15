@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.pinterest.co.uk/
+Date: Fri, 09 Apr 2021 22:12:36 GMT
+Connection: keep-alive
+X-CDN: akamai
+
+HTTP/2 200 
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+vary: User-Agent, Accept-Encoding
+x-ua-compatible: IE=edge
+expect-ct: max-age=86400, report-uri="https://www.pinterest.com/_/_/expect_ct_report/"
+p3p: CP="This is not a P3P policy. See https://www.pinterest.com/_/_/help/articles/pinterest-and-p3p for more info."
+content-security-policy: script-src 'nonce-674dc216fbe7d9b611f4e90fa5250001' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline' *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com *.youtube.com *.ytimg.com; connect-src 'self' *.pinimg.com *.pinterest.com accounts.google.com *.facebook.com *.dropboxapi.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org pinterest-aberdeen.s3.amazonaws.com pinterest-aberdeen.s3.us-east-1.amazonaws.com pinterest-anaheim.s3.amazonaws.com pinterest-anaheim.s3.us-east-1.amazonaws.com pinterest-media-upload.s3.amazonaws.com pinterest-media-upload.s3.us-east-1.amazonaws.com pinterest-media-upload.s3-accelerate.amazonaws.com pinterest-media-upload.s3-accelerate.us-east-1.amazonaws.com pinterest-poughkeepsie.s3.amazonaws.com pinterest-poughkeepsie.s3.us-east-1.amazonaws.com pinterest-waterloo.s3.amazonaws.com pinterest-waterloo.s3.us-east-1.amazonaws.com pinterest-plymouth.s3.amazonaws.com pinterest-plymouth.s3.us-east-1.amazonaws.com *.cedexis.com *.cedexis-radar.net blob: *.bugsnag.com *.tvpixel.com; media-src 'self' *.pinimg.com blob: data:; object-src 'self'; form-action 'self'; worker-src 'self' blob: https://www-pinterest-com.cdn.ampproject.org 'unsafe-inline'; base-uri 'none'; report-uri /_/_/csp_report/?rid=1018019539682323; frame-ancestors 'self'
+content-security-policy-report-only: frame-src 'self' *.google.com *.pinimg.com *.pinterest.com *.pinterdev.com *.facebook.com player.grabnetworks.com www.kickstarter.com staging.slideshare.com player.anyclip.com verify.vote.org movieclips.com scache.vevo.com *.adyen.com www.voteplz.org player.hulu.com www.crackle.com www.dailymotion.com cache.vevo.com www.slideshare.net crackle.com embed.5min.com embed.ted.com register.vote.org absentee.vote.org www.crunchyroll.com videoplayer.vevo.com w.soundcloud.com embed-ssl.ted.com *.youtube.com *.ytimg.com player.vimeo.com calendly.com vine.co scache.vevo.com bid.g.doubleclick.net *.fls.doubleclick.net pinterest-waterloo.s3.amazonaws.com pinlogs.s3.amazonaws.com pinterest-hilo.s3.amazonaws.com advertising-delivery-metric-reports.s3.amazonaws.com *.cdn.ampproject.or; img-src 'self' *.google.com *.facebook.com *.pinimg.com *.cedexis.com *.cedexis-test.com *.tvpixel.com idsync.rlcdn.com; report-uri /_/_/csp_report/?reportonly
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=utf-8
+link: <https://i.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://s.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://v.pinimg.com>; rel=preconnect; crossorigin=anonymous
+x-envoy-upstream-service-time: 71
+pinterest-generated-by: coreapp-webapp-prod-0a03d26d
+pinterest-version: 7f89351
+referrer-policy: origin
+x-pinterest-rid: 1018019539682323
+date: Fri, 09 Apr 2021 22:12:36 GMT
+content-length: 1
+set-cookie: csrftoken=4ccccf27ed8044b4b9731d219fc1e55e; path=/; expires=Sat, 09 Apr 2022 22:12:36 GMT; samesite=lax; secure
+set-cookie: _pinterest_sess=TWc9PSY4eDBuclkyUWY2N0h2b1dMU2lNL0RBOUUzKzVRYks1VU5Ob2p0Sk80UmdWbFdXTEozZGozdXBQWkpSaElwUDhxOEpxUnhmVFJVR3BjeVZPb1Nxcnk3WXJLdXlXV3JKcjMyTEpETzhwcGF3NWd4T044UVo0OWRXaU5tSEdrV1dDcVNURTV6T3d5RUxFL2l1bjdNVUV1L3c9PSZpMkkxb1RCZlYxNmp3OC90ZnRUMkRlTlZIZE09; path=/; expires=Mon, 04 Apr 2022 22:12:36 GMT; samesite=none; secure; httponly
+set-cookie: _auth=0; path=/; expires=Mon, 04 Apr 2022 22:12:36 GMT; secure; httponly
+set-cookie: _routing_id="2c12d6b9-288a-4d4c-85a5-a019657cf5ab"; Max-Age=86400; Path=/; HttpOnly
+x-cdn: akamai
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+

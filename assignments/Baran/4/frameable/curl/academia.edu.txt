@@ -1,0 +1,52 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Connection: keep-alive
+Server: nginx
+Date: Fri, 09 Apr 2021 22:11:58 GMT
+Status: 301 Moved Permanently
+Location: https://www.academia.edu/
+x-nginx: lb-cloudfront-20200602-showy-mercury.z0o.us
+expires: 0
+pragma: no-cache
+x-request-id: dd64Bp-cqGiW4-G73MH
+cache-control: private, max-age=0, no-transform, no-cache, no-store, must-revalidate
+set-cookie: request_id=dd64Bp-cqGiW4-G73MH
+set-cookie: auvid3=dd64Bp-cqGiW4-G73MH; Expires=Sun, 10-Apr-22 04:11:58 GMT; Domain=.academia.edu
+X-Accelerating: The World's Research
+X-Cache-Status: MISS
+X-Cache: Miss from cloudfront
+Via: 1.1 9d3d57711186c70df25d455e0890cc8a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: of4JCGuk-F0ui3V5Np0Raox_seIL8p2jvw81EHH_0Y1-VT_btniqSw==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+date: Fri, 09 Apr 2021 22:11:58 GMT
+vary: Accept-Encoding
+status: 200 OK
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+cache-control: max-age=0, private, must-revalidate
+set-cookie: overridden_user_tests=%7B%7D; domain=academia.edu; path=/; expires=Sat, 09 Apr 2022 22:11:58 -0000; secure
+x-request-id: dd64Bc-cqGiW4-bdUKxD
+strict-transport-security: max-age=31536000; includeSubDomains
+x-nginx: lb-cloudfront-20200617-boiling-foundation.z0o.us
+expires: 0
+pragma: no-cache
+set-cookie: auvid=MTYxODAwNjMxODczOTowLjU4MDcxMjU3MTIzMTYwMDY%3D; domain=.academia.edu; path=/; expires=Sat, 09 Apr 2022 22:11:58 -0000; secure
+set-cookie: single_request_tracker=null; domain=academia.edu; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure
+set-cookie: _cookie_session=RXpjNjR1RW5qanl5UDdOS0Z6S2sxZ3ozdTRNTnhtM0ZHdjl1c0M5ejhYKzl5V3p0V2dwbEpsRXBLWkxXZDcveENkUU1NdElnV2s2UTh0eW5KNGJiSUpNcll4MktWWDQ1MXRWUDhQVGxtdEhPZ1FuL21oWG1IMEpzaDR4RlNXZXVBeFV3dmU4cGJoL0prWUMxbGdtUUliWTVFcXptSEY5VVZoL2ozbE9mcElvK0J2OWprc1pXSWlyK1puOHByZlZFRElHS2h0blRTWmt1Y25oeDFZSk5PRFJ4TXFwY1dIMjVTb1FxZ3VqR2FHaz0tLW9zbW8wM3lGT1ZRd1VVZHZLQUtjTlE9PQ%3D%3D--2d9669e2d9b8c3f2976494fe89a87bc5e080dcd6; domain=.academia.edu; path=/; secure; HttpOnly
+set-cookie: request_id=dd64Bc-cqGiW4-bdUKxD
+set-cookie: auvid3=dd64Bc-cqGiW4-bdUKxD; Expires=Sun, 10-Apr-22 04:11:58 GMT; Domain=.academia.edu
+x-accelerating: The World's Research
+x-cache-status: MISS
+x-cache: Miss from cloudfront
+via: 1.1 3cfda748f98e74eec52beba1aa788f80.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD66-C2
+x-amz-cf-id: N4BaDX0s5yZudRV2KWtTPUtkQdoZrIG8Une27-eP8teMOXFaVFvKAw==
+

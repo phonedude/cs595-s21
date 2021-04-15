@@ -1,0 +1,23 @@
+HTTP/1.1 301 Redirect
+Date: Fri, 09 Apr 2021 22:12:59 GMT
+Connection: keep-alive
+Via: http/1.1 edge2839.img.kth.yahoo.co.jp (ApacheTrafficServer [c s f ])
+Server: ATS
+Cache-Control: no-store
+Location: https://www.yahoo.co.jp:443/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 1
+
+HTTP/2 200 
+content-length: 0
+content-type: text/html; charset=utf-8
+date: Fri, 09 Apr 2021 22:13:00 GMT
+etag: W/"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk"
+vary: Accept-Encoding
+x-vcap-request-id: c5bcd3f9-ed3b-4e20-7e9d-fb2a9ed99795
+x-xss-protection: 1; mode=block
+age: 0
+via: http/1.1 edge2839.img.kth.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+server: ATS
+

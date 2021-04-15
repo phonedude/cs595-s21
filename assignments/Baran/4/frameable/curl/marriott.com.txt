@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.marriott.com/default.mi
+Expires: Fri, 09 Apr 2021 22:12:30 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 09 Apr 2021 22:12:30 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-request-id: /default.mi~X~8738907B-49DE-5B5D-907D-35B037FDFDB0
+x-service-id: ram-nginx-auto-blue-2-hdlrq
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: master-only
+x-dynatrace: PT=17669817;PA=-641148868;SP=Marriott.com Production;PS=-659768705
+x-xss-protection: 1; mode=block
+x-akamai-transformed: 9 43511 0 pmb=mNONE,1
+expires: Fri, 09 Apr 2021 22:12:30 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Fri, 09 Apr 2021 22:12:30 GMT
+set-cookie: akacd_Hybrid=3795459149~rv=89~id=acb26adce2137926bb8133a82d45a83e; path=/;; Secure; SameSite=None
+set-cookie: akavpau_maintenance=1618006650~id=e84ed1098b78c342fb1c037d7e9477e1; Path=/; HttpOnly; Secure; SameSite=None
+retry-after: 28800
+strict-transport-security: max-age=86400 ; includeSubDomains
+

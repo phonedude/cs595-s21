@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 09 Apr 2021 22:12:36 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.pewresearch.org/
+
+HTTP/2 200 
+server: nginx
+date: Fri, 09 Apr 2021 22:12:36 GMT
+content-type: text/html; charset=UTF-8
+content-length: 103925
+x-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+link: <https://www.pewresearch.org/wp-json/>; rel="https://api.w.org/"
+link: <https://www.pewresearch.org/wp-json/wp/v2/pages/325424>; rel="alternate"; type="application/json"
+link: <https://www.pewresearch.org/>; rel=shortlink
+x-rq: dca6 103 47 3149
+cache-control: max-age=300, must-revalidate
+age: 1325
+x-cache: hit
+vary: Accept-Encoding
+accept-ranges: bytes
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+

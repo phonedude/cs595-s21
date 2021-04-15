@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=Shift_JIS
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 09 Apr 2021 22:12:24 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 09 Apr 2021 22:12:24 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2021-04-09-22; expires=Sun, 09-May-2021 22:12:24 GMT; path=/; domain=.google.co.jp; Secure
+Set-Cookie: NID=213=L3K4d4P-ns7r3vqWZCyu-gQucQ8j5oHOSckzuGUldUiAr_UuaAF9KNaIgCnIrxe1GfpmDCdDBJLAFMUd7mFeU8CubYaj5xic55huSaU0nYOmP7i8N17Oym2glrIQJC1-6IgdYsyCnpzB59cP_p7U84TE39kQQuKI_o4wTX2oiUU; expires=Sat, 09-Oct-2021 22:12:24 GMT; path=/; domain=.google.co.jp; HttpOnly
+

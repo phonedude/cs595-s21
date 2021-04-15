@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 09 Apr 2021 22:12:00 GMT
+Location: https://www.asus.com/
+Server: ECD (dcc/4367)
+X-Akamai-Device-Characteristics: desktop
+x-log-country: US
+x-vmg-version: v3.5.24
+Content-Length: 0
+
+HTTP/2 302 
+date: Fri, 09 Apr 2021 22:12:01 GMT
+location: https://www.asus.com/us/
+server: ECD (dcc/4342)
+x-akamai-device-characteristics: desktop
+x-log-country: US
+x-vmg-version: v3.5.24
+content-length: 0
+
+HTTP/2 200 
+content-encoding: gzip
+accept-ranges: bytes
+age: 68463
+content-type: text/html; charset=utf-8
+date: Fri, 09 Apr 2021 22:12:01 GMT
+etag: "2bcd9-4eLHIXpSNErvMqrOi5q1pvlMTl4"
+last-modified: Fri, 09 Apr 2021 03:10:59 GMT
+server: ECD (dcc/4366)
+x-akamai-device-characteristics: desktop
+x-cache: HIT
+x-frame-options: SAMEORIGIN
+x-log-country: US
+x-vmg-version: v3.5.24
+content-length: 29979
+
