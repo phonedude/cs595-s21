@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 09 Apr 2021 22:12:54 GMT
+Server: Apache
+Location: https://tabelog.com/
+Cache-Control: max-age=0
+Expires: Fri, 09 Apr 2021 22:12:54 GMT
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Fri, 09 Apr 2021 22:12:56 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+ETag: W/"bdc234b826a6d0a78cb488054c8839f3"
+Cache-Control: max-age=0
+Set-Cookie: _tabelog_session_id=e572b8f0be502e4f493b6320b36daf13; domain=tabelog.com; path=/; expires=Sat, 10 Apr 2021 04:12:56 -0000; secure; HttpOnly
+Set-Cookie: mo_r=fc751797382a828d5e93aedf967eb134; domain=tabelog.com; path=/; secure; HttpOnly
+Set-Cookie: ma_k=08b55a60aed770e262b3051845a8456a; domain=tabelog.com; path=/; expires=Tue, 09 Apr 2041 22:12:55 -0000; secure; HttpOnly
+Set-Cookie: do_i=1de432ef495024a847bf2d5691307684; domain=tabelog.com; path=/; expires=Tue, 09 Apr 2041 22:12:55 -0000; secure
+Set-Cookie: ta_l=1; domain=tabelog.com; path=/; expires=Thu, 08 Jul 2021 22:12:55 -0000
+Vary: Accept-Encoding,User-Agent
+Expires: Fri, 09 Apr 2021 22:12:56 GMT
+

@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.cbc.ca/
+Date: Fri, 09 Apr 2021 22:12:02 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-url: /
+x-origin-server: ocelot_prod1_ip-10-9-33-205.ca-central-1.compute.internal_cache
+x-edgeconnect-cache-status: 1
+cache-control: max-age=19
+date: Fri, 09 Apr 2021 22:12:02 GMT
+

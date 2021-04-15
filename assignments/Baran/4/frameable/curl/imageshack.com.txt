@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.8
+Date: Fri, 09 Apr 2021 22:12:27 GMT
+Content-Type: text/html
+Content-Length: 184
+Connection: keep-alive
+Location: https://imageshack.com/
+
+HTTP/1.1 200 OK
+Server: nginx/1.2.8
+Date: Fri, 09 Apr 2021 22:12:28 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.2.9
+X-Frame-Options: SAMEORIGIN
+X-Varnish: 1929854812 1929854307
+Age: 46
+Via: 1.1 varnish
+X-Varnish-Hits: 10
+X-Varnish-IP: 208.94.3.34
+X-Varnish-Port: 17001
+Vary: Accept-Encoding, User-Agent
+

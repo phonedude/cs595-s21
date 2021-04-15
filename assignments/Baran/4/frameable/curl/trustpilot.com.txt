@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 09 Apr 2021 22:12:56 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.trustpilot.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 6b7e1e42d74fd61097787cc6c1a37c35.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: rnDExB07n8kLuCNQ2P4Rt3LOP1HIJRVY_-zMmgqdJzyk9RD_FxNQ_g==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 211117
+date: Fri, 09 Apr 2021 22:01:55 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: deny
+cache-control: public, max-age=1200
+etag: "338ad-mgRG3n05Rsiv7oodVOxdbW9bTsU"
+vary: Accept-Encoding,Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 c1802b2f6f4e591b6df12b5a8a9876a7.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: UsasE1v2pgwEQv9UjofgXpgGjgJbK_Mhqpdh-Xa7QgTBtFgK8SXTSQ==
+age: 661
+

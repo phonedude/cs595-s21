@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.ea.com/
+Cache-Control: max-age=0
+Expires: Fri, 09 Apr 2021 22:12:08 GMT
+Date: Fri, 09 Apr 2021 22:12:08 GMT
+Connection: keep-alive
+Set-Cookie: ealocale=en-us; expires=Sat, 09-Apr-2022 22:12:08 GMT; path=/; domain=.ea.com; secure
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+server: nginx
+last-modified: Fri, 09 Apr 2021 21:59:17 UTC
+cache-control: max-age=130
+expires: Fri, 09 Apr 2021 22:14:18 GMT
+date: Fri, 09 Apr 2021 22:12:08 GMT
+set-cookie: ealocale=en-us; expires=Sat, 09-Apr-2022 22:12:08 GMT; path=/; domain=.ea.com; secure
+vary: Accept-Encoding
+x-l-path: inert
+x-environment-context: prod
+x-application-context: eacom
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=0
+

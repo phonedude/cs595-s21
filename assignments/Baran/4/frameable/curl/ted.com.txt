@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.ted.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 09 Apr 2021 22:12:56 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-wdc5527-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1618006376.203523,VS0,VE0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+status: 200 OK
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+cache-control: no-transform, public, max-age=0, s-maxage=30
+etag: W/"ac9bf39e226ea09035c4a3d621b1f449"
+strict-transport-security: max-age=31536000; includeSubDomains
+accept-ranges: bytes
+date: Fri, 09 Apr 2021 22:12:56 GMT
+via: 1.1 varnish
+age: 2
+x-served-by: e02, cache-bwi5160-BWI, cache-wdc5539-WDC
+x-cache: HIT, MISS
+x-cache-hits: 1, 0
+vary: Accept-Encoding, Accept-Encoding
+set-cookie: _nu=1618006376; Expires=Wed, 08 Apr 2026 22:12:56 GMT; path=/
+set-cookie: _abby=myjJcFAKFzhsatn; Expires=Wed, 08 Apr 2026 22:12:56 GMT; Path=/; Domain=.ted.com
+set-cookie: _abby_post15s=b; Expires=Fri, 23 Apr 2021 22:12:56 GMT; Path=/
+set-cookie: _abby_hero_form=b; Expires=Fri, 23 Apr 2021 22:12:56 GMT; Path=/
+content-length: 193368
+

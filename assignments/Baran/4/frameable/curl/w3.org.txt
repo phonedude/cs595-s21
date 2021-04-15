@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+date: Fri, 09 Apr 2021 22:12:57 GMT
+content-location: Home.html
+vary: negotiate,accept,Accept-Encoding,upgrade-insecure-requests
+tcn: choice
+last-modified: Fri, 09 Apr 2021 09:05:16 GMT
+etag: "7226-5bf86765ecb00;89-3f26bd17a2f00"
+accept-ranges: bytes
+content-length: 29222
+cache-control: max-age=600
+expires: Fri, 09 Apr 2021 22:22:57 GMT
+content-type: text/html; charset=utf-8
+x-backend: www-mirrors
+

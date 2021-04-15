@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.kickstarter.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 09 Apr 2021 22:12:28 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: _pxhd=75543cc233a629c1be31eced160ab244a45dd6f8050f9e48026cd455baea33a4:ac36aca1-9980-11eb-9e3b-b54f434bcce5; Expires=Sat, 09 Apr 2022 22:12:28 GMT; path=/; 
+X-Served-By: cache-wdc5521-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+etag: W/"19ef16e21c8671e9ca8093d947d49bf8"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: vis=406a6f9c41c54a26-d11ad041002c377f-32b687b53cdd3effv1; path=/; expires=Tue, 09 Apr 2041 22:12:29 GMT; secure
+set-cookie: lang=en; path=/; secure
+set-cookie: last_page=https%3A%2F%2Fwww.kickstarter.com%2F; path=/; expires=Fri, 09 Apr 2021 22:42:29 GMT; HttpOnly; secure
+set-cookie: woe_id=UVIwNjFNVVRORllNZG1qUlhBcHlDZz09LS03MmlHSENsN3hMclZOT2EvZWVXa1ZBPT0%3D--75aa0963d9a63b8a19eaa292f1c847907e982b46; path=/; expires=Sat, 10 Apr 2021 22:12:29 GMT; secure
+set-cookie: optimizely_current_variations=%7B%7D; path=/; secure
+set-cookie: _ksr_session=d0tZSU1nSzlHTHc0UUxxbVFMS3hBQmFsWGtTblkwVVlPaUlid2hBMkYxQWNwL2Z1WHhDWE1tYUlPVHU2aWtCdEh0RDhnenpJcHB5cUdSQWZmeG1ZSXkyQ2p1SElRc25DNkpQa1E5NExrc0lFOTNiY1QyOC9XdTdGRVdBL1ZMRVpxUldYWGhJRmNsdlF5clpFKy9NR3VRPT0tLWR6N3BkTHBERnlxaUx3M1FkU2FubXc9PQ%3D%3D--913793e12b882c70d1af7272b99f1ff75d2aeaa6; path=/; secure; HttpOnly
+set-cookie: request_time=Fri%2C+09+Apr+2021+22%3A12%3A29+-0000; path=/; secure
+x-request-id: 51bc02b6-a49e-472f-acdc-4e36b0d6978a
+x-runtime: 0.110103
+fastly-restarts: 1
+accept-ranges: bytes
+date: Fri, 09 Apr 2021 22:12:29 GMT
+via: 1.1 varnish
+set-cookie: _pxhd=166963e1b934bc91116b631c6b44986288a47df4623bb105cd3ae810fe38dda3:ac44dd71-9980-11eb-97dd-45739a4aaa2d; Expires=Sat, 09 Apr 2022 22:12:29 GMT; path=/;
+x-served-by: cache-wdc5542-WDC
+x-cache: MISS
+x-cache-hits: 0
+strict-transport-security: max-age=31557600
+

@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.chicagotribune.com/
+Cache-Control: private, max-age=0
+Expires: Fri, 09 Apr 2021 22:12:03 GMT
+Date: Fri, 09 Apr 2021 22:12:03 GMT
+Connection: keep-alive
+Set-Cookie: _lbz=0; expires=Sat, 09-Apr-2022 22:12:03 GMT; domain=.chicagotribune.com
+Set-Cookie: _lb=1; expires=Fri, 09-Apr-2021 22:27:03 GMT; path=/; domain=.chicagotribune.com
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+server: openresty
+content-length: 523027
+cache-control: private, max-age=60
+expires: Fri, 09 Apr 2021 22:13:03 GMT
+date: Fri, 09 Apr 2021 22:12:03 GMT
+set-cookie: _lbz=0; expires=Sat, 09-Apr-2022 22:12:03 GMT; domain=.chicagotribune.com
+set-cookie: _lb=1; expires=Fri, 09-Apr-2021 22:27:03 GMT; path=/; domain=.chicagotribune.com
+content-security-policy: upgrade-insecure-requests
+

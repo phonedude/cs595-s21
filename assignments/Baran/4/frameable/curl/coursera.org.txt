@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 09 Apr 2021 22:12:07 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.coursera.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 ed8e6c4476f2632eef2c7ce856161af0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: 71q3Mz2vZSEnyH-4MXlyBHHCS_IwfWobjECllZzsMpl3mzQcS7EGmA==
+
+HTTP/2 200 
+content-type: text/html
+cache-control: private, no-cache, no-store, must-revalidate, max-age=0
+date: Fri, 09 Apr 2021 22:12:06 GMT
+etag: "7b86d-mQZ9lbvWwxIA04mwFp1I72rtzZw"
+server: envoy
+set-cookie: CSRF3-Token=1618870327.isH9AwwKE6qSYRtS; Max-Age=864000; Expires=Mon, 19 Apr 2021 22:12:07 GMT; Path=/; Domain=.coursera.org
+set-cookie: __204u=6332783319-1618006327156; Max-Age=31536000; Expires=Sat, 09 Apr 2022 22:12:07 GMT; Path=/; Domain=.coursera.org
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-coursera-appname: next
+x-coursera-render-mode: html
+x-coursera-render-version: v2
+x-coursera-request-id: nz-9K5mAEeub6A6mF8rNiw
+x-coursera-trace-id-hex: 577fa89e38f6a80e
+x-envoy-upstream-service-time: 101
+x-frame-options: SAMEORIGIN
+x-powered-by: Next.js
+x-xss-protection: 1; mode=block
+x-cache: Miss from cloudfront
+via: 1.1 1448f69604d5be1f9c9f0c64cfa90595.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: XX-AvLU9VhZZrWcOJswcdi846mHoARcyRzqLbyHBFq1SmzXZzU-ShQ==
+

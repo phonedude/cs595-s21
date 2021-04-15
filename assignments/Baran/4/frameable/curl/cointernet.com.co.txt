@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 162
+Content-Type: text/html
+Date: Fri, 09 Apr 2021 22:12:06 GMT
+Location: https://www.cointernet.com.co/
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+X-Server: WS-PR-WEB-Wordpress-EFS7-22-216
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 09 Apr 2021 22:12:06 GMT
+Link: <https://www.cointernet.com.co/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.cointernet.com.co/>; rel=shortlink
+Server: nginx
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Server: WS-PR-WEB-Wordpress-EFS7-23-45
+Connection: keep-alive
+
