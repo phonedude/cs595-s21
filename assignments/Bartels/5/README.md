@@ -14,7 +14,7 @@
   * [allow-response.js](5.1/response/allow-response.js)  Node.js server that serves favoriteThings.json on localhost port 8000.  Allows cross origin request from request.html using the cors npm package.  The line ```app.use(cors())``` sets the ```Access-Control-Allow-Origin``` header to ```*```.  This means that the server's resources can be accessed by any origin.  The successful request is shown below.
   <img src="5.1/acceptedJSONRequest.png" width="1000">
 
-### YouTube video:  
+### YouTube video:  https://youtu.be/X1joWbtdvXE
 
 ## 5.2: Blocking and reading HTTP response headers from another origin using CORS
 
@@ -32,7 +32,7 @@
 * [allow-headers.js](5.2/allow-headers.js):  Node.js server that serves favoriteThings.json on localhost port 8000.  Also serves the same 3 custom HTTP response headers as block-headers.js.  Allows the cross-origin request from headers.html because the line ```app.use(cors())``` sets the ```Access-Control-Allow-Origin``` header to ```*```.  This means that the server's resources can be accessed by any origin.  The successful request is shown below.
 <img src="5.2/allowedHeaders.png" width="1000">
 
-### YouTube video:  
+### YouTube video:  https://youtu.be/AH3hwWWcD3g
 
 ## 5.3: Content-Security-Policy: embedding from another site
 
@@ -44,4 +44,4 @@
 * [allow-framing.js](5.3/allow-framing.js):  Node.js server that serves frame.html uses Content-Security-Policy to allow embedding of apache.org by setting ```default-src``` to ```self``` and ```https://www.apache.org```.  The successful frame attempt is shown below.
 <img src="5.3/allowed-frame-attempt.png" width="1000">
 
-### YouTube video:  
+### YouTube video:  https://youtu.be/QaNwiyWptZY
