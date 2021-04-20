@@ -1,0 +1,17 @@
+<html>
+<title>
+Himarsha's Site
+</title>
+
+
+<h1>Welcome to my page! - Requesting JSON</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate on how to request a JSON at a cross origin domain.
+
+<script>
+fetch('http://localhost:5002/myfav.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
+</script>
+

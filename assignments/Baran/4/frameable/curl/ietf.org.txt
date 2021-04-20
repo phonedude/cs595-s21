@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 09 Apr 2021 22:12:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Fri, 09 Apr 2021 23:12:27 GMT
+Location: https://www.ietf.org/
+cf-request-id: 095a4aa6200000c1702eb37000000001
+Server: cloudflare
+CF-RAY: 63d713b69bcec170-IAD
+
+HTTP/2 200 
+date: Fri, 09 Apr 2021 22:12:27 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=d2abc93a81be83e55e4f79e3629b83f261618006347; expires=Sun, 09-May-21 22:12:27 GMT; path=/; domain=.ietf.org; HttpOnly; SameSite=Lax; Secure
+x-frame-options: ALLOW-FROM ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+vary: Cookie,Accept-Encoding
+expires: Fri, 09 Apr 2021 23:12:27 GMT
+cache-control: public, max-age=3600
+strict-transport-security: max-age=31536000; preload
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+access-control-allow-origin: *
+access-control-allow-headers: *
+cf-cache-status: HIT
+age: 2141
+cf-request-id: 095a4aa67f00005b11a91f4000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 63d713b73ffa5b11-IAD
+

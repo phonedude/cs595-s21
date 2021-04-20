@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.standard.co.uk/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 09 Apr 2021 22:12:51 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: esi-permutive-id=(null); Path=/ ; Secure
+X-Served-By: cache-wdc5549-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: Apache/2.4.29 (Ubuntu)
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: frame-ancestors 'self' https://*.brightsites.co.uk;
+link: <https://quantcast.mgr.consensu.org>; rel=preconnect, <https://quantcast.mgr.consensu.org>; rel=preconnect; crossorigin, <https://test.quantcast.mgr.consensu.org>; rel=preconnect; crossorigin
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+etag: W/"511b6-M3SgJsXZxpBp75qRvJDoQ/PGXXU"
+via: 1.1 varnish, 1.1 varnish
+date: Fri, 09 Apr 2021 22:12:51 GMT
+age: 739
+canary: 1
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: Locale=US ; Path=/ ; Expires=Fri, 09 Apr 2021 23:12:51 GMT;
+set-cookie: esi-uuid=f3ca1263-94e4-4584-94ad-3b002828b412 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 09 Apr 2022 22:12:51 GMT
+set-cookie: esi-permutive-id=f3ca1263-94e4-4584-94ad-3b002828b412; Path=/ ; Secure
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-served-by: cache-lhr7350-LHR, cache-wdc5575-WDC
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1618006372.873536,VS0,VE3
+vary: Accept-Encoding, Locale, loggedIn
+

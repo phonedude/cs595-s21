@@ -1,0 +1,30 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.16.1 (Ubuntu)
+Date: Fri, 09 Apr 2021 22:11:59 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Location: http://archive.org/index.php
+Expires: Sat, 10 Apr 2021 04:11:59 GMT
+Cache-Control: max-age=21600
+Referrer-Policy: no-referrer-when-downgrade
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.16.1 (Ubuntu)
+Date: Fri, 09 Apr 2021 22:11:59 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Location: https://archive.org
+Strict-Transport-Security: max-age=15724800
+Referrer-Policy: no-referrer-when-downgrade
+
+HTTP/2 200 
+server: nginx/1.16.1 (Ubuntu)
+date: Fri, 09 Apr 2021 22:12:00 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: donation-identifier=3fd3b0e20944561051907c6d053b8cb4; expires=Sat, 09-Apr-2022 22:12:00 GMT; Max-Age=31536000; path=/; domain=.archive.org
+set-cookie: abtest-identifier=ca24ed7a420df526ea52b26a554869c6; expires=Sat, 09-Apr-2022 22:12:00 GMT; Max-Age=31536000; path=/; domain=.archive.org
+set-cookie: PHPSESSID=5a4hs21urttgr0ml83lui3vgr6; path=/; domain=.archive.org
+strict-transport-security: max-age=15724800
+referrer-policy: no-referrer-when-downgrade
+

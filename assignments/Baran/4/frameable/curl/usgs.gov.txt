@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 09 Apr 2021 22:12:56 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: keep-alive
+Location: https://www.usgs.gov/
+X-Cache: Redirect from cloudfront
+Via: 1.1 c1802b2f6f4e591b6df12b5a8a9876a7.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: ZGLevtcz-3C5NR2PNFJCQWGcgzJ-H0oRPuaE8KgbQH-S13TE6Bvdbg==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+date: Fri, 09 Apr 2021 22:08:59 GMT
+set-cookie: AWSALB=Hn0Y+ls6TzhRcPFerKW0scQT7Q++v6EGQvMr3O0994/zrRBxoQduVqzckhjbnrrBMb1yVJjNq8wIp+EjuqkS1z8K37XBVgqRLnyTEl2pEkKczslEhbLPtZ3VsfH2; Expires=Fri, 16 Apr 2021 22:08:59 GMT; Path=/
+set-cookie: AWSALBCORS=Hn0Y+ls6TzhRcPFerKW0scQT7Q++v6EGQvMr3O0994/zrRBxoQduVqzckhjbnrrBMb1yVJjNq8wIp+EjuqkS1z8K37XBVgqRLnyTEl2pEkKczslEhbLPtZ3VsfH2; Expires=Fri, 16 Apr 2021 22:08:59 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=uXplPLfkp1S31WKO4RTsTXI4sfXDnoira+JNhcMhwS237hfvqSu4NwyidppnY7udmxhSCpcKOg1b+ZpyC8tcO/E6OvJ6S0WMiPUJH66fLwA0JuntPlX00+yjm4DZ; Expires=Fri, 16 Apr 2021 22:05:41 GMT; Path=/
+set-cookie: AWSALBCORS=uXplPLfkp1S31WKO4RTsTXI4sfXDnoira+JNhcMhwS237hfvqSu4NwyidppnY7udmxhSCpcKOg1b+ZpyC8tcO/E6OvJ6S0WMiPUJH66fLwA0JuntPlX00+yjm4DZ; Expires=Fri, 16 Apr 2021 22:05:41 GMT; Path=/; SameSite=None
+x-drupal-cache: MISS
+content-language: en
+x-generator: Drupal 7 (http://drupal.org)
+link: <https://www.usgs.gov/>; rel="canonical",<https://www.usgs.gov/>; rel="shortlink"
+cache-control: max-age=300
+expires: Fri, 09 Apr 2021 22:13:59 GMT
+etag: W/"1618005941-1"
+last-modified: Fri, 09 Apr 2021 22:05:41 GMT
+x-proxy-cache: HIT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 55b6418a8a2f714a67d8e4d292154ef3.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C1
+x-amz-cf-id: 0weVd20hp3huozrI3qENW1tZjJR0QYmpWA73c-IBLlL-u1jfmu_dXg==
+age: 237
+

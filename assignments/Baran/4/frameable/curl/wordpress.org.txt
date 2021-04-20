@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 09 Apr 2021 22:12:57 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.wordpress.org/
+
+HTTP/2 301 
+server: nginx
+date: Fri, 09 Apr 2021 22:12:57 GMT
+content-type: text/html
+content-length: 162
+location: https://wordpress.org/
+x-frame-options: SAMEORIGIN
+x-nc: HIT ord 2
+
+HTTP/2 200 
+server: nginx
+date: Fri, 09 Apr 2021 22:12:58 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+strict-transport-security: max-age=360
+x-olaf: ⛄
+x-frame-options: SAMEORIGIN
+x-nc: HIT ord 1
+

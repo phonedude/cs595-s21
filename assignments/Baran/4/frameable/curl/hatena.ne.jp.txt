@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Fri, 09 Apr 2021 22:12:25 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.hatena.ne.jp:443/
+
+HTTP/1.1 200 OK
+Date: Fri, 09 Apr 2021 22:12:26 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 299229
+Connection: keep-alive
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+ETag: "490dd-YTMAWtXD8/8vj8ULUNRGpOLR8u4"
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

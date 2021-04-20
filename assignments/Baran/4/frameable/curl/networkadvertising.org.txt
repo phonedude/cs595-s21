@@ -1,0 +1,27 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 09 Apr 2021 22:12:32 GMT
+Location: https://www.networkadvertising.org/
+Server: Apache/2.4.7 (Ubuntu)
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, must-revalidate
+Cache-control: no-cache="set-cookie"
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Fri, 09 Apr 2021 22:12:32 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+P3P: CP="NON DSP COR CUR ADMi DEV OUR BUS NAV"
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: AWSELB=AF6B579512E626BDB8515A89C99EF196837F461ACAB078476A44073D69F08F4053C8A9661A8CC6BDD944ABE94732EA22A7AB7DEA7A1235DAA10D5D2A7A372B214A87C97D49;PATH=/
+Set-Cookie: AWSELBCORS=AF6B579512E626BDB8515A89C99EF196837F461ACAB078476A44073D69F08F4053C8A9661A8CC6BDD944ABE94732EA22A7AB7DEA7A1235DAA10D5D2A7A372B214A87C97D49;PATH=/;SECURE;SAMESITE=None
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Powered-By: PHP/5.5.9-1ubuntu4.29
+X-UA-Compatible: IE=edge
+Connection: keep-alive
+

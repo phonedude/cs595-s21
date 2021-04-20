@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Date: Fri, 09 Apr 2021 22:12:37 GMT
+Server: nginx/1.16.1
+X-Powered-By: PHP/7.3.15
+Set-Cookie: PHPSESSID=d152567782d2bb2447de720d6bd23531; expires=Mon, 03-May-2021 01:45:57 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+Set-Cookie: client_locale=US; expires=Sat, 10-Apr-2021 22:12:37 GMT; Max-Age=86400; path=/; secure; SameSite=None
+Set-Cookie: bb2_screener_=1618006357+108.17.156.215+108.17.156.215%2C+70.132.59.76; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Content-Language: en-US
+P3P: CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVA IVD CONi HIS OUR DELi SAMi IND UNI INT CNT"
+X-POPSUGAR-Server-Name: sugarprodweb32.sugarops.com
+Location: https://www.popsugar.com/
+Set-Cookie: ss1=0%7C1620006357%7CuDXLDtJQQd47NdkPSZEQHy2s%2FmH86wTche5tDhuQoHsjcelsz7QqI52sWue6Unuyw6BEctfEqttCuvl5IHxljCglGPbEix9IzWzUF9BbRj8MpCScHaD%2BiR3zNPR7ri7HN86GzFwH3pA%2Fb68I1zewGx5gaF7XFDL8HJcWzOVFNLfXsxKZhuS9g%2Bj1VnjoqDDcYpXAoB5rAdNwXffpvkqOyg%3D%3D%7Cf8d85e6eeabad42f8f506dea6ecae1f58fba5410; expires=Mon, 03-May-2021 01:45:57 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+X-Cache: Miss from cloudfront
+Via: 1.1 b005949014b117aed39cd14f2e31cfb9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C2
+X-Amz-Cf-Id: XjB9rmXx9LputxA8uTAo-80lv5DQ0nOwZf4NJDSys0mQJjPa2nvHZw==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Fri, 09 Apr 2021 22:12:37 GMT
+server: nginx/1.16.1
+x-powered-by: PHP/7.3.15
+set-cookie: PHPSESSID=8674897f19b6240c9252192c13f3cbac; expires=Mon, 03-May-2021 01:45:57 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+set-cookie: client_locale=US; expires=Sat, 10-Apr-2021 22:12:37 GMT; Max-Age=86400; path=/; secure; SameSite=None
+set-cookie: bb2_screener_=1618006357+108.17.156.215+108.17.156.215%2C+70.132.59.92; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+p3p: CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVA IVD CONi HIS OUR DELi SAMi IND UNI INT CNT"
+x-popsugar-server-name: sugarprodweb33.sugarops.com
+content-language: en-US
+strict-transport-security: max-age=600
+link: <https://www.popsugar.com/>; rel="canonical"
+content-security-policy: frame-ancestors 'none'
+x-frame-options: DENY
+set-cookie: ss1=0%7C1620006357%7CuDXLDtJQQd47NdkPSZEQHy2s%2FmH86wTche5tDhuQoHsjcelsz7QqI52sWue6Unuyw6BEctfEqttCuvl5IHxljCglGPbEix9IzWzUF9BbRj8MpCScHaD%2BiR3zNPR7ri7HN86GzFwH3pA%2Fb68I1zewGx5gaF7XFDL8HJcWzOVFNLfXsxKZhuS9g%2Bj1VnjoqDDcYpXAoB5rAdNwXffpvkqOyg%3D%3D%7Cf8d85e6eeabad42f8f506dea6ecae1f58fba5410; expires=Mon, 03-May-2021 01:45:57 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+x-cache: Miss from cloudfront
+via: 1.1 cd3b189d4dff15bd0a2ccf14f97ffda2.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C2
+x-amz-cf-id: -qYiSTXEf_WIXb0Bs3JpqaAfn0rVOb6ultO8Jko0GkCwAfq4NiscXA==
+

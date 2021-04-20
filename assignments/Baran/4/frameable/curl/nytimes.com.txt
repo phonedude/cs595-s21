@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://www.nytimes.com/
+Accept-Ranges: bytes
+Date: Fri, 09 Apr 2021 22:12:34 GMT
+X-Served-By: cache-wdc5564-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Set-Cookie: nyt-gdpr=0; Expires=Sat, 10 Apr 2021 04:12:34 GMT; Path=/; Domain=.nytimes.com
+x-gdpr: 0
+X-Frame-Options: DENY
+onion-location: https://www.nytimes3xbfgragh.onion/
+Connection: close
+X-API-Version: F-0
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+x-nyt-data-last-modified: Fri, 09 Apr 2021 22:10:16 GMT
+last-modified: Fri, 09 Apr 2021 22:10:16 GMT
+x-pagetype: vi-homepage
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+cache-control: s-maxage=30,no-cache
+x-nyt-route: homepage
+x-origin-time: 2021-04-09 22:10:19 UTC
+accept-ranges: bytes
+date: Fri, 09 Apr 2021 22:12:34 GMT
+age: 135
+x-served-by: cache-lga21967-LGA, cache-wdc5562-WDC
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1618006354.335281,VS0,VE5
+vary: Accept-Encoding, Fastly-SSL
+set-cookie: nyt-a=8FKSoPjTVAadZp9CMMLknu; Expires=Sat, 09 Apr 2022 22:12:34 GMT; Path=/; Domain=.nytimes.com; SameSite=none; Secure
+set-cookie: nyt-gdpr=0; Expires=Sat, 10 Apr 2021 04:12:34 GMT; Path=/; Domain=.nytimes.com
+x-gdpr: 0
+set-cookie: nyt-purr=cfhhcfhhhck; Expires=Sat, 09 Apr 2022 22:12:34 GMT; Path=/; Domain=.nytimes.com; SameSite=Lax; Secure
+set-cookie: nyt-geo=US; Expires=Sat, 10 Apr 2021 04:12:34 GMT; Path=/; Domain=.nytimes.com
+x-frame-options: DENY
+onion-location: https://www.nytimes3xbfgragh.onion/
+x-api-version: F-F-VI
+content-security-policy: upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src data: https: blob:; object-src https:; child-src https: data: blob:; form-action https:; report-uri https://csp.nytimes.com/report;
+strict-transport-security: max-age=63072000; preload
+content-length: 1582673
+
