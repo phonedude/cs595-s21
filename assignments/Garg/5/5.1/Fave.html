@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Request JSON</title>
+</head>
+<body>
+
+    <h1>Assignment 5</h1>
+    <p>Kritika Garg, CS 495/595 Web Security, Spring 2021</p>
+    <hr>
+    <h2> Current Favorites:</h2>
+    <p id="favorites"> </p>
+
+    <script>
+
+        fetch("http://localhost:4000/special.json")
+            .then(response => response.json())
+            .then(data => {
+                var x = "";
+                for (i in data.favorites) 
+                    {
+                        d = data.favorites[i]
+                        x += "<h3>" + d.Type + "</h3>";
+                        x += d.Name + "<br>";
+                        x += d.Details + "<br>";
+                    }
+                document.getElementById("favorites").innerHTML = x;
+
+            })
+    </script>
+
+</body>
+</html>
