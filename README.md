@@ -126,6 +126,8 @@ his course materials (although any errors are mine).
 
 
 * Week 15 - April 29 - Rehosting, Web Archiving
+    * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/)
+    * [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 
 * Week 16 - May 6 - Exam 
