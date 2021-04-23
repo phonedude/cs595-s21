@@ -127,6 +127,7 @@ his course materials (although any errors are mine).
 
 * Week 15 - April 29 - Rehosting, Web Archiving
     * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/)
+    * [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html)
     * [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 
