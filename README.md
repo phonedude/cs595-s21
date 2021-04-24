@@ -119,9 +119,16 @@ his course materials (although any errors are mine).
 
 
 * Week 14 - April 22 - UI Denial-of-service, Phishing, Side Channels
+    * [The Annoying Site](https://github.com/feross/theannoyingsite.com)
+    * [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/)
+    * [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/)
+    * [Class slides](https://docs.google.com/presentation/d/15ZrO-MtkyTaF01hDkRcMzrkfYBZm4g1P_Q-RqRt7ic0/edit)
 
 
 * Week 15 - April 29 - Rehosting, Web Archiving
+    * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/)
+    * [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html)
+    * [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 
 * Week 16 - May 6 - Exam 
@@ -148,5 +155,5 @@ his course materials (although any errors are mine).
 * Assignment 6: Fingerprinting
    * Due: [April 15](/assignments/assignment-6.md)
 
-* Assignment 7: TBD
-   * Due: May 7
+* Assignment 7: Phishing
+   * Due: [May 7](/assignments/assignment-7.md)
