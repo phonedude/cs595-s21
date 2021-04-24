@@ -7,7 +7,6 @@ const { createReadStream } = require('fs')
 const app = express()
 
 app.use(function(req, res, next) {
-	// Allow all origins
 	res.header("Content-Security-Policy", "frame-src 'self'; script-src 'self' 'unsafe-inline'");
 	next();
   });

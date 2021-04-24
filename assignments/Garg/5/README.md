@@ -1,4 +1,4 @@
-# Assignment 5, CS 495/595 Web Security, Spring 2021 #cs595s21
+# Assignment 5, CS 495/595 Web Security, Spring 2021
 
 
 ## CORS: Blocking and reading responses from another origin
