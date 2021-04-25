@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+	<title>JSON Request</title>
+
+    </head>
+    <body>
+        <p>
+            Requesting a JSON response...
+
+            <div id="Favorites">
+
+            </div>
+        </p>
+
+        <script>
+            fetch('http://localhost:8000/')
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (mydata) {
+                    appendData(mydata);
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+		
+		function appendData(mydata) {
+
+                var json = document.getElementById('Favorites');
+
+                for(var i = 0;i < mydata.length; i++)
+                {
+		var div = document.createElement('div');
+                    div.innerHTML = 'Title: ' + mydata[i].title + ' ' + 'category: ' + mydata[i].category + ' ' + 'year: ' + mydata[i].year + ' ' + 'genre: ' + mydata[i].genre;
+                json.appendChild(div);
+		}
+            }
+        </script>
+    </body>
+</html>
