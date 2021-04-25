@@ -13,8 +13,8 @@
 ## Fingerprinting Algorithm
 
 1. For every client that visits our hosted server, a unique client id is created. To generate the unique client id, we hash the client's IP address along with the request headers such as Accept, Accept-Language, Accept-Encoding, and User-Agent. For this algorithm, the MD5 hash function is used. 
-```
-		fingerprint.push(req.headers['x-forwarded-for'] || req.connection.remoteAddress);
+```		
+        fingerprint.push(req.headers['x-forwarded-for'] || req.connection.remoteAddress);
 	    fingerprint.push(req.get('Accept'));
 	    fingerprint.push(req.get('Accept-Language'));
 	    fingerprint.push(req.get('Accept-Encoding'));
@@ -27,7 +27,7 @@
     1. The new client's id is displayed on the console.
     2. The new client is served index.html
 
-    <img src="img/1timechrome.png" height="450">
+    <img src="img/1timechrome.png" height="600">
 
     3. The client's id along with their request headers are stored in the visitorslog.json
     4. The datetime of the client's visit is also stored in the JSON.
@@ -84,15 +84,15 @@
 ### Firefox
 - All first-time clients are served index.html. On the next visit, if the user-agent is 'Firefox', the client is served 2.html.
 
-<img src="img/1timefirefox.png" height="450">
+<img src="img/1timefirefox.png" height="600">
 
-<img src="img/2timefirefox.png" height="450">
+<img src="img/2timefirefox.png" height="600">
 
 
 ### Googlebot
 - On the next visit, if the client's user-agent is 'Googlebot', the client is served the HTML file with a dog image instead of a cat image. This is to replicate SEO cloaking, where the content presented to the search engine bots such as 'Googlebot' is different from that presented to the user's browser.
 
-<img src="img/googlebot.png" height="450">
+<img src="img/googlebot.png" height="600">
 
 
 ### Ipad (Safari) 
@@ -110,7 +110,7 @@
 ### Curl
 - HTML file '1.html' is served to the existing clients using curl request. 
 
-<img src="img/curl.png" height="450">
+<img src="img/curl.png" height="600">
 
 
 
