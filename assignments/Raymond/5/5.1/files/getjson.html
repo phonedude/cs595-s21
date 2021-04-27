@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <title>Assignment 5.1</title>
+    <h1>Trying to get json</h1>
+
+<script>
+fetch('http://localhost:5000/favorites.json')
+    .then(response => response.json())
+    .then(data => console.log(data));
+</script>

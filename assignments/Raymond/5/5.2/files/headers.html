@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <title>Assignment 5.2</title>
+    <h1>Headers</h1>
+
+<script>
+fetch('http://localhost:5000/')
+    .then(response => {
+        var artist = response.headers.get("X-CS595s21-artist")
+        var movie = response.headers.get("X-CS595s21-movie")
+        var videogame = response.headers.get("X-CS595s21-videogame")
+        console.log(artist)
+        console.log(movie)
+        console.log(videogame)
+})
+</script>
