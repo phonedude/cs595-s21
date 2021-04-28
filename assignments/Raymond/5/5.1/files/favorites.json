@@ -1,0 +1,14 @@
+{
+"Artist":{
+    "name": "Kanye West",
+    "notes": "Favrite album is My Beautiful Dark Twisted Fantasy"
+    },
+"Movie":{
+    "name": "The Dark Knight",
+    "notes": "Heath Ledger's joker is one of my favorite acting performances"
+    },
+"Videogame":{
+    "name": "God of War",
+    "notes": "Has some of my favorite story, graphics, and game play from any videogame"
+    }
+}
