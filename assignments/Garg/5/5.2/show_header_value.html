@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Request JSON</title>
+</head>
+<body>
+    <script>
+
+        fetch("http://localhost:4000/special.json")
+            .then(response => {
+                var movie = response.headers.get("X-CS595s21-movie")
+                var series = response.headers.get("X-CS595s21-tvseries")
+                var singer = response.headers.get("X-CS595s21-singer")
+                document.writeln("X-CS595s21-singer: " + singer +"<p>" );
+                document.writeln("X-CS595s21-tvseries: " + series +"<p>" );
+                document.writeln("X-CS595s21-movie: " + movie +"<p>" );   
+
+            })
+    </script>
+
+</body>
+</html>
