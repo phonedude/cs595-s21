@@ -90,7 +90,7 @@
 
 
 ### Googlebot
-- On the next visit, if the client's user-agent is 'Googlebot', the client is served the HTML file with a dog image instead of a cat image. This is to replicate SEO cloaking, where the content presented to the search engine bots such as 'Googlebot' is different from that presented to the user's browser.
+- If the client's user-agent is 'Googlebot', the client is served the HTML file with a dog image instead of a cat image. This is to replicate SEO cloaking, where the content presented to the search engine bots such as 'Googlebot' is different from that presented to the user's browser.
 
 <img src="img/googlebot.png" height="600">
 
