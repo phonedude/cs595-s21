@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+	<title>Headers Request</title>
+
+    </head>
+    <body>
+        <p>
+            Requesting HTTP headers...
+
+            <div id="Favorites">
+
+            </div>
+        </p>
+	<script>
+            fetch('http://localhost:8000/')
+                .then(response => {
+                    var series = response.headers.get("X-CS595s21-series")
+                    var film = response.headers.get("X-CS595s21-film")
+                    var music = response.headers.get("X-CS595s21-music")
+
+                    var respHeaders = document.getElementById("Favorites");
+                    var div = document.createElement("div");
+                    div.innerHTML = series + ' ' + film + ' ' + music;
+                    respHeaders.appendChild(div);
+                })
+        </script>
+    </body>
+</html>

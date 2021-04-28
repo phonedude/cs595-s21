@@ -1,0 +1,21 @@
+[
+    {
+        "title":"American Horror Story",
+        "category":"Series",
+        "year":"2011",
+        "genre":"Horror"
+    },
+    {
+        "title":"The Avengers",
+        "category":"Film",
+        "year":"2012",
+        "genre":"Adventure/Action"
+    },
+    {
+        "title":"Lil Peep",
+        "category":"Music",
+        "year":"2015",
+        "genre":"Rap"
+    }
+]
+
