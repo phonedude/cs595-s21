@@ -6,7 +6,7 @@ that is why. I had trouble with express but I figured it out
 Assignment 6 should be up soon
 
 This screen shot shows the webpage getting the .json file 
-![Screenshot](webpagejsonallow.PNG)
+![Screenshot](jsonwebpageallow.PNG)
 
 
 
