@@ -17,3 +17,9 @@ This screen shot shows the webpage getting the .json file
 
 This is a screen shot showing the cookies being accepted by the site for part 2
 ![Screenshot](cookie.PNG)
+
+
+
+
+This screen shot is of the frame being blocked on part 3 
+![Screenshot](noframe.PNG)
