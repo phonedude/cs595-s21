@@ -7,9 +7,146 @@
   
   * [Files](files)
     * [HTML file](files/1.html)
-    * [Dog Image](files/iamges/dog1.html)
-   
+    * [Dog Image](files/images/dog1.jpg)   
    
 ### Youtube Video: https://youtu.be/9sYszJtFVwY
 
 ### Steps:
+
+#### Create the Server
+
+1. Collecting the different features using [req.get](http://expressjs.com/en/api.html#req.get).
+2. Concatenating them into a single string. 
+3. Using the concatenated string to create the fingerprint ID. Here [md5](https://www.npmjs.com/package/md5) hashing is used.
+
+```
+//Collecting the features
+feature1 = req.get('User-Agent')
+feature2 = req.get('Accept')
+feature3 = req.get('Accept-Language')
+feature4 = req.get('Accept-Encoding')		
+
+//Concat features to creat a string
+var fingerprint = feature1.concat(feature2, feature3, feature4)
+
+//Hashing the fingerprint string using MD5  
+var fingerprint_id = md5(fingerprint)
+```
+
+4. Checking the access logs to see if the fingerprint ID already exists. 
+5. If the fingerprint ID does not exist in log file, it means this is a new user who is accessing the HTML page.
+6. Obtain the visitor information.
+7. Log the visit with updated last visit count of 1.
+8. Print a summary to the console.
+
+```
+{	    			
+  //new user
+  visitor = {}
+  visitor['id'] = fingerprint_id
+  visitor['user-agent'] = feature1
+  visitor['accept'] = feature2
+  visitor['accept-language'] = feature3
+  visitor['accept-encoding'] = feature4
+  visitor['visit-count'] = 1
+  visitor['last-visit'] = new Date()
+  log_line = (JSON.stringify(visitor)).concat('\n')
+  
+  //Logging the visit
+  fs.appendFile('access.log', log_line, err => {
+ if (err) {
+   console.error(err)
+   return
+ }
+ })
+
+  console.log(`ID: ${fingerprint_id}, User: new`);	
+}	
+```
+
+9. If the fingerprint ID already exists in log file, it means the user who is matching this profile has already visited the HTML page. 
+10. Update the visitor profile with 
+11. Log the visit with updated last visit count.
+12. Print a summary to the console.
+
+```
+//checking if the fingerprint ID already exists in access log file
+var found = array.find(a =>a.includes(fingerprint_id));
+
+//if the fingerprint ID already in access log file
+if (found) 
+{
+
+ //already visited
+ for(i = array.length-1; i >= 0; i--) {
+ const obj = JSON.parse(array[i])
+
+ if(obj['id'] == fingerprint_id)
+ {
+  visitor = obj
+  visitor['last-visit'] = new Date()
+  visitor['visit-count'] = visitor['visit-count'] + 1
+  log_line = (JSON.stringify(visitor)).concat('\n')
+  //Logging this visit
+  fs.appendFile('access.log', log_line, err => {
+ if (err) {
+   console.error(err)
+   return
+ }
+ })
+  //Printing a summary to the console 
+  console.log(`ID: ${fingerprint_id}, User: existing, Previous-Visits:${visitor['visit-count']}`)
+  return
+
+ }
+
+}}
+
+```
+
+#### Create the HTML file to be served
+
+```
+<html>
+<title>
+Himarsha's Site
+</title>
+
+<body style="background-color:#66733f;">
+
+<h1>Welcome to my page! - Fingerprinting</h1>
+Himarsha Jayanetti, CS595 - Spring 2021, ODU
+<br><br>
+This page is created to demonstrate Fingerprinting.
+<br><br>
+<img id="dog" src="images/dog1.jpg" width="507" height="254">
+</body>
+</html>
+```
+
+#### Test different browsers & devices
+
+1. Google Chrome Browser (Device: Laptop)
+
+<img src="screenshots/chrome.png" width="700">
+
+2. Mozilla Firefox Browser (Device: Laptop)
+
+<img src="screenshots/firefox.png" width="700">
+
+3. CURL 
+
+<img src="screenshots/curl.png" width="700">
+
+4. CURL with User-Agent set as "Googlebot" 
+
+<img src="screenshots/curl_gb.png" width="700">
+
+5. Safari Browser (Device: Mobile)
+
+<img src="screenshots/mobile.png" width="700">
+
+
+
+
+
