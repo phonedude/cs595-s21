@@ -144,19 +144,19 @@ This page is created to demonstrate Fingerprinting.
 
 5. Safari Browser (Device: Mobile)
 
-<img src="screenshots/mobile.jpg" width="700">
+<img src="screenshots/mobile.jpg" width="200" height="350">
 
 
 #### Log file
 
 * Example log entry in the access log file
 
- * Laptop Browser
+    * Laptop Browser
 ```
 {"id":"df1eac9403a3dd73122ab4c8af536f5a","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate","visit-count":1,"last-visit":"2021-05-02T16:34:41.987Z"}
 ```
 
- * Mobile Browser
+    * Mobile Browser
 ```
 {"id":"9670503c3bd04c74a8139050d7ec6402","user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-us","accept-encoding":"gzip, deflate","visit-count":1,"last-visit":"2021-05-02T16:37:09.453Z"}
 ```
