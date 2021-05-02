@@ -3,11 +3,12 @@
 
 ## List of directories
 
+  * [Server](server.js)
+  
   * [Files](files)
     * [HTML file](files/1.html)
     * [Dog Image](files/iamges/dog1.html)
    
-  * [Server](server.js)
    
 ### Youtube Video: https://youtu.be/9sYszJtFVwY
 
