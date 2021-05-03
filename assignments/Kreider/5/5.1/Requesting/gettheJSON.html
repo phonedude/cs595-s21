@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+	<title>Get the boys</title>
+
+    </head>
+    <body>
+        <p>
+            Will this finally work? lets hope so lets get them json
+
+            <div id="myFavThings">
+
+            </div>
+        </p>
+
+        <script>
+            fetch('http://localhost:8000/')
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (data) {
+                    appendData(data);
+                })
+                .catch(function (err) {
+                    console.log(err);
+                });
+
+                function appendData(data) {
+                    var jsonBody = document.getElementById("myFav");
+                    for (var i = 0; i < data.length; i++) {
+                        var div = document.createElement("div");
+                        div.innerHTML = 'Name: ' + data[i].Name + ' ' + 'category: ' + data[i].category + ' ' + 'release date: ' + data[i].released + ' ' + 'genre: ' + data[i].genre;
+                        jsonBody.appendChild(div);
+                    }
+                }
+        </script>
+    </body>
+</html>
