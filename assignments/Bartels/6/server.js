@@ -20,7 +20,6 @@ app.get('/', (req, res) => {
 	let currentDate = new Date()
 	
 	if(visitorLog[id]) {
-		var client = visitorLog[id]['user-agent']
 		visitorLog[id]['last-visit'] = currentDate
 		console.log('Client is a returning visitor')
 	}
@@ -30,12 +29,11 @@ app.get('/', (req, res) => {
 		visitorLog[id]['last-visit'] = currentDate
 	}
 	
-		fs.writeFile('fingerprints.json', JSON.stringify(visitorLog), (err) => 
-    		{ 
-			    if (err) { 
-			    console.log(err)
-			  } 
-			}); 	
+	fs.writeFile('fingerprints.json', JSON.stringify(visitorLog), (err) => { 
+		if (err) { 
+			console.log(err)
+		} 
+	}); 	
 });
 
 app.listen(4000)
