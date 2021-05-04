@@ -5,7 +5,7 @@ var app = express();
 app.use(function (req, res, next) {
     res.setHeader(
       'Content-Security-Policy',
-      "default-src 'self' https://bing.com/;"
+      "default-src 'self' https://www.bing.com/;"
       );
     next();
   });
