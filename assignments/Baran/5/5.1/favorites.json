@@ -1,0 +1,17 @@
+{
+  "VideoGame": {
+    "name": "Tekken7",
+    "reason": "Tekken 7 is my favorite game because it is a 3d fighter that allows for more movement and footsies than traditional 2d fighters. My main is Kuma",
+    "URL": "https://tk7.tekken.com/"
+  },
+  "Anime": {
+    "name": "CowboyBebop",
+    "reason": "My favorite anime is Cowboy Bebop, because i love the story, art style, and music.",
+    "URL": "https://en.wikipedia.org/wiki/Cowboy_Bebop"
+  },
+  "TVShow": {
+    "name": "BreakingBad",
+    "reason": "Breaking Bad is my favorite TV show because it has no clear hero, and makes you really think about why certain characters take the actions they do.",
+    "URL": "https://www.imdb.com/title/tt0903747/"
+  }
+}
