@@ -1,0 +1,16 @@
+<html>
+<title>
+Main
+</title>
+main.html
+<script>
+fetch('http://localhost:5002')
+  .then(response => {
+	var videogame = response.headers.get("X-CS595s21-videogame")
+	var anime = response.headers.get("X-CS595s21-anime")
+	var tvshow = response.headers.get("X-CS595s21-tvshow")
+	console.log(videogame)
+	console.log(anime)
+	console.log(tvshow)
+  })
+</script>

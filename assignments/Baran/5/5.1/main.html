@@ -1,0 +1,10 @@
+<html>
+<title>
+Main
+</title>
+main.html
+<script>
+fetch('http://localhost:5002/favorites.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
+</script>
