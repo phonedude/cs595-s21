@@ -1,0 +1,32 @@
+<!Doctype html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+
+    </head>
+    <body>
+        <p>
+			<h2>The Results for Header Request should be below.
+				
+			</h2>
+				
+            <div id="Results">
+
+            </div>
+        </p>
+
+        <script>
+            fetch('http://localhost:8000/')
+				  .then(response => {
+                    var Batman = response.headers.get("X-CS595s21-Batman")
+                    var Superman = response.headers.get("X-CS595s21-Superman")
+                    var Spiderman = response.headers.get("X-CS595s21-Spiderman")
+					var respHeaders = document.getElementById("Results");
+					var div = document.createElement("div")
+					div.innerHTML = Batman + ' ' + Superman + ' ' + Spiderman;
+					respHeaders.appendChild(div);
+					})
+            
+        </script>
+    </body>
+</html>
