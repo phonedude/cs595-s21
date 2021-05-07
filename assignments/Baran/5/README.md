@@ -36,7 +36,7 @@ server-success.js:
 server-failure.js:
     js file that does not set the Access-Control-Expose-Headers to *, not allowing them to be accessed.
     
-<img src="screenshots/2.PNG" width="700">
+<img src="screenshots/2.png" width="700">
 /5.3
 
 main.html:
@@ -47,4 +47,4 @@ server-success.js:
     
 server-success.js:
     does not set the Content-Security-Policy header fields to "self", not allowing embedding.
-<img src="screenshots/3.PNG" width="700">
+<img src="screenshots/3.png" width="700">
