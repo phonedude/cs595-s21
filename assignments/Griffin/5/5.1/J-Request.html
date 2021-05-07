@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+	<meta charset='utf-8' />
+
+    </head>
+    <body>
+        <p>
+			<h2>The Results for JsonRequest should be below.
+				
+			</h2>
+				
+            <div id="Results">
+
+            </div>
+        </p>
+
+        <script>
+		
+	
+            
+            fetch('http://localhost:8000/')
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (mydata) {
+                    appendData(mydata);
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+		
+		function appendData(mydata) {
+
+                var json = document.getElementById('Results');
+
+                for(var i = 0;i < mydata.length; i++)
+                {
+		var div = document.createElement('div');
+                    div.innerHTML = 'First: ' + mydata[i].First + ' ' + 'Last: ' + mydata[i].Last + ' ' + 'Job: ' + mydata[i].Job + ' ' + 'media: ' + mydata[i].media;
+                json.appendChild(div);
+		}
+            }
+        </script>
+    </body>
+</html>

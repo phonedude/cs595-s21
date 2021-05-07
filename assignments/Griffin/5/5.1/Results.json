@@ -1,0 +1,24 @@
+  
+[
+    {
+        "First":"Clark",
+        "Last":"Kent",
+        "Job":"Reporter",
+		"media":"Game-Comic-tv show-movie"
+    },
+    {
+        "First":"Bruce",
+        "Last":"Wayne",
+        "Job":"CEO",
+		"media":"Game-Comic-tv show-movie"
+   
+    },
+    {
+        "First":"Peter",
+        "Last":"Parker",
+        "Job":"Photographer",
+		"media":"Game-Comic-tv show-movie"
+		
+       
+    }
+]
