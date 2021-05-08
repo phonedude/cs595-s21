@@ -1,0 +1,901 @@
+
+.login_modal {
+	max-width: 502px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.auth_modal_h1 {
+	color: #67c1f5;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.auth_button_h3 {
+			font-family: "Motiva Sans", Sans-serif;
+		font-weight: normal; /* normal */
+
+			font-size: 22px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+.auth_button_h5 {
+	font-size: 13px;
+	color: #66C0F4;
+	font-weight: bold;
+}
+
+.auth_message_area, .twofactorauth_message_area {
+	position: relative;
+	padding-left: 70px;
+	min-height: 92px;
+}
+
+.auth_icon {
+	position: absolute;
+	top: 6px;
+	left: 0px;
+	width: 67px;
+	height: 48px;
+
+	background-image: url('../images/emailauth_icons2.png');
+	background-repeat: no-repeat;
+}
+
+.auth_icon.auth_icon_trash {
+	background-position: center 0px;
+}
+
+.auth_icon.auth_icon_key {
+	background-position: center -48px;
+}
+
+.auth_icon.auth_icon_lock {
+	background-position: center -96px;
+}
+
+.auth_icon.auth_icon_unlock {
+	background-position: center -144px;
+}
+
+.auth_icon.auth_icon_steam {
+	background-position: center -192px;
+}
+
+.auth_icon.auth_icon_phone {
+	background-position: center -240px;
+}
+
+.auth_icon.auth_icon_mail {
+	background-position: center -288px;
+}
+
+.auth_icon.ipt_icon {
+	background-image: url('../images/ipt_lockout_icon.png');
+	height: 62px;
+	width: 53px;
+
+	left: 12px;
+	top: 6px;
+}
+
+.auth_details_messages {
+	color: #8F98A0;
+	font-size: 12px;
+	min-height: 38px;
+}
+.notice {
+	color: #ff7b00;
+}
+
+.authcode_entry_area, .twofactorauthcode_entry_area {
+	min-height: 32px;
+	margin-top: 4px;
+	margin-bottom: 6px;
+}
+
+#login_twofactor_authcode_entry {
+	padding-bottom: 1.5em;
+}
+
+.authcode_entry_box, .twofactorauthcode_entry_box {
+	background-image: url('../images/code_box.png');
+	background-repeat: no-repeat;
+	background-color: rgba( 0, 0, 0, 0.2 );
+	border-radius: 3px;
+	border: 1px solid #000;
+	box-shadow: 1px 1px 0 0 rgba( 91, 132, 181, 0.2 );
+	color: #C6D4DF;
+	width: 220px;
+	height: 27px;
+}
+
+.friendly_name_box
+{
+	background-image: url('../images/friendlyname_box.png');
+	background-repeat: no-repeat;
+	background-color: rgba( 0, 0, 0, 0.2 );
+	border-radius: 3px;
+	border: 1px solid #000;
+	box-shadow: 1px 1px 0 0 rgba( 91, 132, 181, 0.2 );
+	color: #C6D4DF;
+	width: 220px;
+	height: 27px;
+	margin-top: 6px;
+}
+
+input.authcode_entry_input, input.twofactorauthcode_entry_input {
+	border: none;
+	background-color: transparent;
+	margin-left: 8px;
+	margin-top: 6px;
+	color: #cdcac1;
+	outline: none;
+	width: 220px;
+	text-transform: uppercase;
+
+	/* clear any stupid global styles */
+	box-shadow: none;
+	padding: 0;
+}
+
+.authcode_placeholder::-webkit-input-placeholder {
+	text-align: left;
+	font-style: italic;
+	text-transform: none;
+}
+.authcode_placeholder::-moz-placeholder {
+	text-align: left;
+	font-style: italic;
+	text-transform: none;
+}
+.authcode_placeholder:-ms-input-placeholder {
+	text-align: left;
+	font-style: italic;
+	text-transform: none;
+}
+
+#auth_buttonset_waiting, #login_twofactorauth_buttonset_waiting {
+	height: 85px;
+
+	background-image: url('../images/throbber.gif');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.auth_button, .twofactorauth_button {
+	background: rgba(47, 137, 188, 0.2);
+	width: 219px;
+	max-width: 47%;
+	min-height: 58px;
+	cursor: pointer;
+}
+
+.auth_button.auth_button_spacer, .twofactorauth_button.auth_button_spacer {
+	visibility: hidden;
+}
+
+.auth_button, .auth_button:hover, .twofactorauth_button, .twofactorauth_button:hover {
+	display: block;
+	text-decoration: none;
+}
+
+.auth_button h3, .twofactorauth_button h3 {
+	font-weight: normal;
+	font-size: 22px;
+			font-family: "Motiva Sans", Sans-serif;
+		font-weight: normal; /* normal */
+
+			color: #66C0F4;
+}
+
+.auth_button h5, .twofactorauth_button h5 {
+	font-size: 13px;
+	color: #66C0F4;
+	text-transform: none;
+}
+.twofactorauth_button h5, .twofactorauth_button h3 {
+	margin-left: 16px;
+}
+.auth_button:hover h3,
+.twofactorauth_button:hover h3,
+.auth_button:hover h5,
+.twofactorauth_button:hover h5
+{
+	color: #ffffff;
+}
+
+.auth_buttonset {
+	display: flex;
+	flex-direction: row;
+}
+
+.modal_buttons .auth_button, .modal_buttons .twofactorauth_button, .modal_buttons .twofactorauth_button.leftbtn, .modal_buttons .twofactorauth_button.leftbtn {
+	float: left;
+}
+
+.modal_buttons .auth_button.leftbtn {
+	margin-right: 4%;
+}
+
+.modal_buttons .auth_button {
+	background: -webkit-linear-gradient( top, rgba(102,192,244,0.2) 5%, rgba(47,137,188,0.2) 95%);
+	background: linear-gradient( to bottom, rgba(102,192,244,0.2) 5%, rgba(47,137,188,0.2) 95%);
+	padding: 12px 0 15px 0;
+	border-radius: 2px;
+	box-sizing: content-box;	/* some user agents style "button" elements with border-box */
+}
+
+.modal_buttons .auth_button > * {
+	padding: 0 5%;
+}
+
+.modal_buttons .auth_button:hover {
+	background: -webkit-linear-gradient( top, rgba(102,192,244,1) 5%, rgba(47,137,188,1) 95%);
+	background: linear-gradient( to bottom, rgba(102,192,244,1) 5%, rgba(47,137,188,1) 95%);
+}
+
+#loginIPTModal .modal_box {
+	background-image: url('../images/ipt_lockout_bg.png');
+	width: 466px;
+	height: 231px;
+}
+
+button.auth_button {
+	border: none;
+}
+
+#captchaRefreshLink {
+	cursor: pointer;
+}
+
+#auth_details_computer_name {
+	height: auto;
+	margin: 32px 0 12px 0;
+}
+
+@media screen and (max-width: 480px) {
+	html.responsive .auth_button_h3 {
+		font-size: 16px;
+	}
+	html.responsive .auth_button_h5 {
+		font-size: 12px;
+		font-weight: normal;
+	}
+}
+
+.login_client_waitforauth {
+	display: none;
+
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+
+	padding: 180px 20%;
+	text-align: center;
+	background: #1b2838;
+	z-index: 1000;
+}
+
+body.waitforauth .login_client_waitforauth {
+	display: block;
+}
+
+.login_client_waitforauth_title {
+	font-size: 32px;
+	color: #ffffff;
+	margin-bottom: 20px;
+}
+
+.login_client_waitforauth_desc {
+	font-size: 24px;
+	color: #cccccc;
+
+}
+
+.text_input,
+.checkout_content_box input[type=text],
+.checkout_content_box input[type=password],
+.parental_consent_email_body_container input[type=text] {
+	background-color: rgba( 0, 0, 0, 0.2 );
+	color: #fff;
+	border: 1px solid #000;
+	border-radius: 3px;
+	box-shadow: 1px 1px 0px #45556c;
+	width: 500px;
+	padding: 5px;
+	margin: 4px 0;
+}
+
+.gray_bevel  {
+	margin: 4px 0;
+}
+/* register */
+
+.joinsteam_page a {
+	color: #B0AEAC;
+	text-decoration: underline;
+}
+
+.joinsteam_page a:hover {
+	color: #ffffff;
+}
+
+.join_form {
+	padding: 20px 16px;
+	position: relative;
+}
+
+.join_form .rule {
+	border-top: 1px solid #364c59;
+	margin: 15px 0px;
+}
+
+.form_row {
+
+}
+
+.form_area {
+	float: left;
+	width: 212px;
+}
+
+.form_notes {
+	float: left;
+	margin-left: 21px;
+	width: 346px;
+	padding-top: 6px;
+}
+
+.form_notes p {
+	line-height: 14px;
+}
+
+.form_area_password {
+	width: 580px;
+}
+
+.reenter_row {
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.country_select {
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.password_tag {
+	opacity: 0.0;
+	background-color: #a0382b;
+	color: white;
+	padding: 8px;
+	border-radius: 4px;
+	margin-left: 6px;
+	max-width: 330px;
+
+	display: inline-block;
+	position: relative;
+	transition-property: opacity;
+	transition-timing-function: ease-out;
+	transition-duration: 0.3s;
+	-webkit-transition-property: opacity;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 0.3s;
+}
+
+.password_tag:before {
+	display: inline-block;
+	content: "";
+	position: absolute;
+	right: 100%;
+	top: 5px;
+	width: 0px;
+	height: 0px;
+	border-top: 10px solid transparent;
+	border-right: 11px solid #a0382b;
+	border-bottom: 10px solid transparent;
+}
+
+.password_tag.visible {
+	opacity: 1.0;
+}
+
+.password_tag.error {
+	background-color: #a0382b;
+}
+
+.password_tag.error:before {
+	border-right: 11px solid #a0382b;
+}
+
+.password_tag.warning {
+	background-color: #b78124;
+}
+
+.password_tag.warning:before {
+	border-right: 11px solid #b78124;
+}
+
+.join_form input[type="text"], .join_form input[type="password"], .join_form select {
+	width: 212px;
+	padding: 2px 4px 3px 4px;
+}
+
+.join_form select#country {
+	width: 223px;
+	margin-top: 3px;
+}
+
+.join_form input[type="text"], .join_form input[type="password"] {
+	height: 18px;
+}
+
+.joinsteam_page .btn_checkout_large {
+	position: absolute;
+	bottom: -20px;
+	right: 19px;
+}
+
+.ssa_box {
+	height: 337px;
+	overflow: auto;
+	border: 1px solid #364c59;
+	padding: 9px;
+	line-height: 15px;
+}
+
+.ssa_box p {
+	margin: 9px 0px;
+}
+
+#ssa_agree {
+	margin-top: 8px;
+}
+
+#label_agree {
+	margin-left: 4px;
+}
+
+#captchaRefreshImg {
+	vertical-align: middle;
+}
+
+.game_name .blockbg {
+	height: 40px;
+	line-height: 40px;
+}
+.game_name {
+	position: relative;
+	font-size: 30px;
+	color: #d6d7d8;
+	margin-bottom: 16px;
+	overflow: hidden;
+}
+
+.block {
+	margin: 0px;
+	background: none;
+}
+.checkout_content_box, .block_content_inner {
+	background-color: #000;
+	background-color: rgba(0,0,0,0.2)
+}
+.checkout_content_box.free_game {
+	background-color: rgba(0,0,0,0);
+}
+.checkout_content_box {
+	line-height:
+}
+.block_content {
+	border: none;
+}
+
+.block_content_inner
+{
+	padding: 16px 2px 4px 16px;
+}
+
+#join_sys_req_title {
+	display: block;
+}
+
+#join_sys_req br, #join_sys_req_title  {
+	margin-bottom: 12px;
+}
+
+ul#why_list {
+	list-style-position: inside;
+	list-style-type: square;
+	line-height: 22px;
+}
+
+ul#why_list li {
+}
+
+#privacy_link {
+	padding-top: 12px;
+}
+
+/* 2020 LOGIN PAGE */
+body.login {
+	color: #E9E9E9;
+	background: radial-gradient(30% 40% at 40% 30%, rgba(33, 36, 41, .5) 0%, rgba(33, 36, 41, 0) 100%) no-repeat, url( '../images/acct_creation_bg.jpg' ) -45vw 0 no-repeat, #212429;
+			font-family: "Motiva Sans", Sans-serif;
+		font-weight: normal; /* normal */
+
+		;
+}
+
+body.login .page_content_flex {
+	display: flex;
+	justify-content: space-between;
+	min-height: 800px;
+}
+
+body.login.china {
+	background: radial-gradient(30% 40% at 40% 30%, #454D52 0%, rgba(69, 77, 82, 0) 100%) no-repeat, #212429;
+}
+
+.login #checkout_steam_logo {
+	display: none;
+}
+
+.login_title {
+	text-transform: uppercase;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 34px;
+	color: #ffffff;
+	margin-bottom: 30px;
+	font-weight: 200;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+.login_btn > span, #login_btn_wait {
+	padding: 3px 80px;
+}
+
+.login .input_title {
+	font-size: 14px;
+	color: #b8b6b4;
+	margin-bottom: 5px;
+}
+
+.login .subtext {
+	font-size: 14px;
+	color: #b8b6b4;
+}
+
+.login .login_join_desc {
+	max-width: 60%;
+	text-align: center;
+	font-size: 14px;
+}
+
+.about_link {
+	margin-top: 10px;
+	color: #FFFFFF;
+}
+
+.login .text_field, .login select {
+	max-width: 300px;
+	background: #32353C;
+	border-radius: 3px;
+	color: #E9E9E9;
+	padding: 8px 6px;
+	display: block;
+	box-shadow: none;
+	width: 100%;
+	transition: border ease-in-out .5s;
+	border: 1px solid #26282D;
+	outline: none;
+			font-family: "Motiva Sans", Sans-serif;
+		font-weight: normal; /* normal */
+
+		;
+}
+
+.join_image {
+	width: 320px;
+}
+
+.login_btn_ctn {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.login_btn_ctn a {
+	margin: 20px 0 0 0;
+	display: block;
+	text-align: center;
+}
+
+.login_right_col {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.login_left_col.no_gradient {
+	background: transparent;
+}
+
+.login_left_col {
+	flex-grow: 1;
+	background: radial-gradient(60.12% 60.12% at 104.83% -0.03%, rgb(74, 81, 92, 0.3) 0%, rgba(74, 81, 92, 0) 100%);
+}
+
+.login_col_padding {
+	padding-top: 100px;
+}
+
+body.login .loginbox {
+	min-height: 352px;
+	padding: 40px 20px 20px 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.login #error_display {
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+
+.block_content.block_content_inner.login {
+	min-height: 364px;
+}
+
+.loginbox_left {
+	position: relative;
+	min-width: 274px;
+}
+.loginbox_right {
+	flex: 1;
+	position: relative;
+	min-width: 274px;
+}
+
+.loginbox_content {
+	min-height: 264px;
+	padding-bottom: 16px;
+	max-width: 300px;
+}
+
+.loginbox_left .btn_ctn {
+	height: 33px;
+}
+
+.loginbox_left a.btn_checkout_green, .loginbox_right a.btn_checkout_green {
+	color: #ffffff;
+	text-decoration: none;
+	float: right;
+}
+
+.loginbox_sep {
+	flex: 0;
+	border-left: 1px solid #264959;
+	width: 2px;
+	height: 210px;
+	margin: 0 16px;
+}
+
+.loginbox .captcha_image_row {
+	position: relative;
+}
+
+.loginbox .login_row {
+	margin-bottom: 18px;
+}
+
+.loginbox #captchImg {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
+
+.loginbox #captchaRefresh {
+	margin-left: 220px;
+	padding-top: 8px;
+}
+
+.ackgift_header_ctn {
+	display: flex;
+	background: rgba(0, 0, 0, 0.2);
+	padding: 10px;
+	margin-top: 10px;
+	justify-content: space-between;
+}
+
+.ackgift_header_text {
+	color: #b8b6b4;
+	font-size: 14px;
+	padding: 10px;
+}
+
+.ackgift_header_title {
+	color: #FFFFFF;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+.ackgift_gift_text {
+	color: #b8b6b4;
+}
+
+.ackgift_gift_text div {
+	color: #FFFFFF;
+}
+
+.ackgift_gift_ctn {
+	background: none;
+	flex-grow: 1;
+	max-width: 400px;
+}
+
+.ackgift_gift {
+	background: none;
+	border: 1px solid #06bfff;
+	padding: 0 10px;
+}
+
+.ackgift_header h2 {
+	color: #efefef;
+}
+
+.ackgift_header p {
+	color: #acabab;
+	font-size: 14px;
+}
+
+.ackgift_header #checkout_pipeline {
+	padding-top: 22px;
+}
+
+.ackgift_header #checkout_header .content {
+	height: 78px;
+}
+
+.banner_ctn {
+	display: flex;
+	background: rgba(24, 26, 33, 0.76);
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.banner_header_ctn {
+	color: #b8b6b4;
+	font-size: 14px;
+	padding: 10px;
+}
+
+.banner_header_title {
+	color: #FFFFFF;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+.checkout_error {
+	padding: 16px;
+	background: rgba( 0, 0, 0, 0.2 );
+	margin-bottom: 8px;
+	border: 1px solid #b44040;
+	max-width: 350px;
+}
+
+.page_header_ctn {
+	margin-bottom: -94px;
+}
+
+#challenge_question_dselect_container {
+	margin-top: 5px;
+	width: 264px;
+}
+
+.email_used_actions {
+	margin-top: 12px;
+	line-height: 24px;
+}
+
+.linkspan {
+	color: #ffffff;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.linkspan:hover {
+	color: #67c1f5;
+}
+
+.login_menu_spacer {
+	height: 48px;
+}
+
+body.v6.steamtv
+{
+	background: transparent;
+}
+
+html.responsive body.v6.steamtv .responsive_page_template_content
+{
+	padding-bottom: 0;
+}
+
+@media screen and ( max-width: 640px )
+{
+	html.responsive .loginbox {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	html.responsive .loginbox_sep {
+		border-top: 1px solid #264959;
+		border-left: none;
+		width: auto;
+		height: 1px;
+		margin: 16px 0;
+	}
+
+	html.responsive .loginbox_content {
+		min-height: 0;
+	}
+
+	html.responsive .login_left_col {
+		background: none;
+	}
+}
+
+@media screen and ( max-width: 820px ) {
+	html.responsive .login_left_col {
+		width: 100%;
+	}
+}
+
+@media screen and ( max-width: 910px ) {
+	html.responsive body.login {
+		background-image: radial-gradient(60% 40% at 0% -0.03%, rgba(74, 81, 92, 0.5) 0%, rgba(74, 81, 92, 0) 100%);
+	}
+}
+
+@media screen and ( min-width: 1400px )
+{
+	html.responsive body.login {
+		background-position: -30vw 0;
+	}
+}
+
+@media screen and (min-width: 1700px) {
+	html.responsive body.login {
+		background-position: -24vw 0;
+	}
+}
+
+
+@media screen and (max-width: 910px )
+{
+	html.responsive body.login .page_content_flex, html.responsive  {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	html.responsive body.login .ackgift_header_ctn {
+		flex-wrap: wrap;
+	}
+
+	html.responsive body.login {
+		background-image: none;
+	}
+}
