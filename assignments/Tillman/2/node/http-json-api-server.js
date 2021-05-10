@@ -14,8 +14,9 @@ const server = http.createServer(function (req, res) {
 
     if(endpoint ==="parsetime")
     {
+      
         var time = url.split("T")[1].split(".")[0];
-        data["hour"] = Number((time.split(":")[0])[0]);
+        data["hour"] = 19 - Number((time.split(":"))[0]);
         data["minute"] = Number(time.split(":")[1]);
         data["second"] = Number(time.split(":")[2]);
     }
