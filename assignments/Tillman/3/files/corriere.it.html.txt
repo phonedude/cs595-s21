@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Sat, 08 May 2021 03:44:59 GMT
-Content-Type: text/html
-Connection: close
-Expires: Sat, 08 May 2021 03:54:59 GMT
-Cache-Control: max-age=600
-X-Frame-Options: DENY
-
