@@ -1,5 +1,9 @@
 # Assignment 3
 ## Report
+![]https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/3/analysis/results/table1.png
+![]https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/3/analysis/results/table2.png
+![]https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/3/analysis/results/table3.png
+![]https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/3/analysis/results/table4.png
 
 
 ## Cookie Stats
