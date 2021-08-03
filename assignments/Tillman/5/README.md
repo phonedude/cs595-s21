@@ -24,7 +24,8 @@ Add this code to the receiving server (server2.js) to reject requests unless the
 ### Using client Javascript to stop iframing
 The iframing of abcnews.go.com works initially, but you can prevent iframes from loading by adding
 
-```window.frames[0].stop()
+```
+window.frames[0].stop();
 ```
 
 ## Youtube Video
