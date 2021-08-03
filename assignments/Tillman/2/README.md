@@ -10,9 +10,9 @@ Here are the directories:
 
 Here are the screenshots (showing it completed):
 
-<img src="html/Screenshot_Assignment_2_html.png">
-<img src="javascript/Screenshot_Assignment_2_html.png">
-<img src="node/Screenshot_Assignment_2_html.png">
+<img src="Screenshot_Assignment_2_html copy 2.png">
+<img src="Screenshot_Assignment_2_html copy.png">
+<img src="Screenshot_Assignment_2_html.png">
 
 ### Youtube Video
 https://www.youtube.com/watch?v=4vYI5XNeM_A
