@@ -1,0 +1,616 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.iso.org/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 302 
+Expires: Wed, 09 May 1979 05:30:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, proxy-revalidate, max-age=0
+Set-Cookie: JSESSIONID=8ED3F87C04A48E8424AACA9E3178E249; Path=/; Secure; HttpOnly
+Pragma: no-cache
+Location: https://www.iso.org/home.html
+Content-Length: 0
+Date: Sat, 07 Aug 2021 01:32:29 GMT
+Connection: close
+Set-Cookie: BIGipServerpool_prod_iso_www-jahia=747131274.36895.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+HTTP/1.1 200 
+Expires: Wed, 09 May 1979 05:30:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, proxy-revalidate, max-age=0
+Pragma: no-cache
+Set-Cookie: JSESSIONID=4DAED47F48C473E0FE401C6A4F5410D1; Path=/; Secure; HttpOnly
+vary: accept-encoding
+Content-Type: text/html;charset=UTF-8
+Date: Sat, 07 Aug 2021 01:32:29 GMT
+Connection: close
+Set-Cookie: BIGipServerpool_prod_iso_www-jahia=747131274.36895.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+  <head>
+    
+    <script>
+      dataLayer = [{
+        'pageType': 'jnt:page',
+        'pageLanguage': 'en'
+      }];
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TFGKQQB');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ISO - International Organization for Standardization</title>
+
+    
+      <!--
+      <link rel="preconnect" href="https://cdn.iso.org/" crossorigin />
+      <link rel="preload" as="script" href="https://cdn.iso.org/resources/wood/3.3.3/wood.full.min.js" crossorigin />
+      <link rel="preload" as="style" href="https://cdn.iso.org/resources/wood/3.3.3/wood.full.min.css" crossorigin />
+      <link rel="preload" as="font" href="https://cdn.iso.org/resources/fonts/bootstrap/3.3.2/glyphicons-halflings-regular.woff2" crossorigin />
+      <link rel="preload" as="font" href="https://cdn.iso.org/resources/fonts/metawebpro/7.504/MetaWebPro-Bold.woff" crossorigin />
+      <link rel="preload" as="font" href="https://cdn.iso.org/resources/fonts/metawebpro/7.504/MetaWebPro-Normal.woff" crossorigin />
+      <link rel="preload" as="font" href="https://cdn.iso.org/resources/fonts/metawebpro/7.504/MetaWebPro-NormalIta.woff" crossorigin />
+      -->
+
+    
+      <meta name="pubdate" content="20200109">
+    
+
+    <link rel="canonical" href="https://www.iso.org/home.html" />
+
+    <!-- start favicons -->
+    <link rel="apple-touch-icon-precomposed" href="https://cdn.iso.org/resources/wood/3.3.3/img/iso/favicon/red/apple-touch-icon-152x152-precomposed.png">
+    <link rel="shortcut icon" href="https://cdn.iso.org/resources/wood/3.3.3/img/iso/favicon/red/favicon.ico">
+    <meta name="msapplication-TileColor" content="#eee">
+    <meta name="msapplication-TileImage" content="https://cdn.iso.org/resources/wood/3.3.3/img/iso/favicon/red/mstile-144x144.png">
+    <!-- end favicons -->
+
+    
+      <!-- Twitter Card data -->
+      <meta name="twitter:site" content="@isostandards" />
+      <!-- Open Graph data -->
+      <meta property="og:site_name" content="ISO" />
+      <meta property="og:url" content="https://www.iso.org/home.html" />
+      <meta property="og:type" content="website" />
+      <!-- Thumbnail image (for twitter and Open Graph) -->
+      
+      <meta name="thumbnail" content="https://cdn.iso.org/resources/wood/3.3.3/img/iso/iso-logo-print.gif" />
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:image" content="https://cdn.iso.org/resources/wood/3.3.3/img/iso/iso-logo-print.gif" />
+      <meta property="og:image" content="https://cdn.iso.org/resources/wood/3.3.3/img/iso/iso-logo-print.gif" />
+      <meta property="og:image:alt" content="ISO logo" />
+      <!-- Title (for twitter and Open Graph) -->
+      <meta name="twitter:title" content="International Organization for Standardization" />
+      <meta name="title" property="og:title" content="International Organization for Standardization" />
+      
+        <!-- Description (for twitter and Open Graph) -->
+        <meta name="twitter:description" content="We're ISO, the International Organization for Standardization. We develop and publish International Standards." />
+        <meta property="og:description" content="We're ISO, the International Organization for Standardization. We develop and publish International Standards." />
+        <meta name="description" content="We're ISO, the International Organization for Standardization. We develop and publish International Standards." />
+      
+      <!-- Facebook admins : Lionel,Maria -->
+      <meta property="fb:admins" content="100001116079676,100001440003305" />
+    
+    <meta name="theme-color" content="#333">
+
+  
+<script type="text/javascript">
+var contextJsParameters={contextPath:"",lang:"en",uilang:"en",siteUuid:"439146f8-677e-4dde-b6c6-b692b7534f52",wcag:false,ckeCfg:""}; var CKEDITOR_BASEPATH="/modules/ckeditor/javascript/"; var scayt_custom_params=new Array(); scayt_custom_params['sLang']='en_US';
+</script>
+<link id="staticAssetCSS0" rel="stylesheet" href="https://cdn.iso.org/resources/wood/3.3.3/wood.full.min.css" media="screen,print,handheld" type="text/css"/>
+<link id="staticAssetCSS1" rel="stylesheet" href="/modules/assets/css/languageSwitchingLinks.css?1532003505766" media="screen" type="text/css"/>
+<script id="staticAssetJavascript0" type="text/javascript" src="https://cdn.iso.org/resources/wood/3.3.3/wood.full.min.js"  ></script>
+<script id="staticAssetJavascript1" type="text/javascript" src="/modules/isoorg-template/javascript/custom.js?1627457210445"  ></script>
+
+</head>
+  <body class="theme-red" id="offcanvas-content">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFGKQQB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <a class="skip-navigation btn btn-info sr-only sr-only-focusable" href="#content">Skip to main content</a>
+    <!-- Header ISO.ORG -->
+    <header role="banner" aria-label="Header" class="theme-red header-acer " id="page-top">
+      <div class="container">
+        <div class="navbar navbar-inverse navbar-fixed-top navbar-default navbar-acer theme-red" data-spy="affix" data-offset-top="200">
+          <button role="button" id="offcanvas-btn" class="btn btn-transparent pull-right" data-toggle="open-offcanvas"><span class="glyphicon glyphicon-menu-hamburger"></span><span class="hidden-xxs"> Menu</span></button>
+
+          <!-- SIDE NAVIGATION -->
+          <nav role="navigation" aria-label="Side Navigation" class="sidenav" id="offcanvas-panel"><ul role="menubar" class="nav navbar-nav nav-level1"><li role="none" class="hasChildren dropdown firstInLevel"><a role="menuitem" href="/standards.html" class="dropdown-toggle" role="button">Standards</a><ul role="menu" class="nav navbar-nav nav-level2 dropdown-menu"><li role="none" class="hasChildren dropdown firstInLevel"><a role="menuitem" href="/benefits-of-standards.html" class="dropdown-toggle" role="button">Benefits</a><ul role="menu" class="nav navbar-nav nav-level3 dropdown-menu"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/iso-and-smes.html" class="dropdown-toggle" role="button">SMEs</a></li><li role="none" class="noChildren"><a role="menuitem" href="/iso-and-consumers.html" class="dropdown-toggle" role="button">Consumers</a></li><li role="none" class="noChildren"><a role="menuitem" href="/iso-and-policy-makers.html" class="dropdown-toggle" role="button">ISO and policy makers</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/standards-in-action.html" class="dropdown-toggle" role="button">Standards in action</a></li></ul><!-- close of ul level --></li><li role="none" class="noChildren"><a role="menuitem" href="/popular-standards.html" class="dropdown-toggle" role="button">Popular standards</a></li><li role="none" class="hasChildren dropdown"><a role="menuitem" href="/conformity-assessment.html" class="dropdown-toggle" role="button">Certification & conformity</a><ul role="menu" class="nav navbar-nav nav-level3 dropdown-menu"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/certification.html" class="dropdown-toggle" role="button">Certification</a></li><li role="none" class="noChildren"><a role="menuitem" href="/casco.html" class="dropdown-toggle" role="button">CASCO</a></li><li role="none" class="noChildren"><a role="menuitem" href="/the-iso-survey.html" class="dropdown-toggle" role="button">The ISO Survey</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/resources-for-conformity-assessment.html" class="dropdown-toggle" role="button">Resources</a></li></ul><!-- close of ul level --></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/sdgs.html" class="dropdown-toggle" role="button">SDGs</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren dropdown"><a role="menuitem" href="/about-us.html" class="dropdown-toggle" role="button">About us</a><ul role="menu" class="nav navbar-nav nav-level2 dropdown-menu"><li role="none" class="hasChildren dropdown firstInLevel"><a role="menuitem" href="/what-we-do.html" class="dropdown-toggle" role="button">What we do</a><ul role="menu" class="nav navbar-nav nav-level3 dropdown-menu"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/developing-standards.html"  class="dropdown-toggle" role="button">Developing standards</a></li><li role="none" class="noChildren"><a role="menuitem" href="/research-and-education.html" class="dropdown-toggle" role="button">Research</a></li><li role="none" class="noChildren"><a role="menuitem" href="/capacity-building.html" class="dropdown-toggle" role="button">Capacity building</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/education-about-standards.html" class="dropdown-toggle" role="button">Education about standards</a></li></ul><!-- close of ul level --></li><li role="none" class="noChildren"><a role="menuitem" href="/structure.html" class="dropdown-toggle" role="button">Structure</a></li><li role="none" class="noChildren"><a role="menuitem" href="/members.html" class="dropdown-toggle" role="button">Members</a></li><li role="none" class="noChildren"><a role="menuitem" href="/announcements.html" class="dropdown-toggle" role="button">Announcements</a></li><li role="none" class="hasChildren dropdown lastInLevel"><a role="menuitem" href="/strategy2030.html" class="dropdown-toggle" role="button">Strategy</a><ul role="menu" class="nav navbar-nav nav-level3 dropdown-menu"><li role="none" class="noChildren"><a role="menuitem" href="/home/about-us/strategy-2030/drivers-of-change.html" class="dropdown-toggle" role="button">Drivers of change</a></li><li role="none" class="noChildren"><a role="menuitem" href="/home/about-us/strategy-2030/our-goals.html" class="dropdown-toggle" role="button">Our goals</a></li><li role="none" class="noChildren"><a role="menuitem" href="/home/about-us/strategy-2030/priorities.html" class="dropdown-toggle" role="button">Priorities</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/home/about-us/strategy-2030/measuring-success.html" class="dropdown-toggle" role="button">Measuring success</a></li></ul><!-- close of ul level --></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren dropdown"><a role="menuitem" href="/news.html" class="dropdown-toggle" role="button">News</a><ul role="menu" class="nav navbar-nav nav-level2 dropdown-menu"><li role="none" class="noChildren"><a role="menuitem" href="/events.html" class="dropdown-toggle" role="button">Events</a></li><li role="none" class="noChildren"><a role="menuitem" href="/media-kit.html" class="dropdown-toggle" role="button">Media kit</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren dropdown"><a role="menuitem" href="/developing-standards.html" class="dropdown-toggle" role="button">Taking part</a><ul role="menu" class="nav navbar-nav nav-level2 dropdown-menu"><li role="none" class="hasChildren dropdown firstInLevel"><a role="menuitem" href="/who-develops-standards.html" class="dropdown-toggle" role="button">Who develops standards</a><ul role="menu" class="nav navbar-nav nav-level3 dropdown-menu"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/technical-committees.html" class="dropdown-toggle" role="button">Technical Committees</a></li><li role="none" class="noChildren"><a role="menuitem" href="/other-bodies-developing-standards.html" class="dropdown-toggle" role="button">Other bodies</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/organizations-in-cooperation-with-iso.html" class="dropdown-toggle" role="button">Organizations in cooperation</a></li></ul><!-- close of ul level --></li><li role="none" class="noChildren"><a role="menuitem" href="/deliverables-all.html" class="dropdown-toggle" role="button">Deliverables</a></li><li role="none" class="noChildren"><a role="menuitem" href="/get-involved.html" class="dropdown-toggle" role="button">Get involved</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/resources.html" class="dropdown-toggle" role="button">Resources</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren dropdown lastInLevel"><a role="menuitem" href="/store.html" class="dropdown-toggle" role="button">Store</a><ul role="menu" class="nav navbar-nav nav-level2 dropdown-menu"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/standards-catalogue/browse-by-ics.html"  class="dropdown-toggle" role="button">Standards catalogue</a></li><li role="none" class="noChildren"><a role="menuitem" href="/publication-list.html" class="dropdown-toggle" role="button">Publications and products</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="https://www.iso.org/obp/ui/#account/products"  target="_blank" class="dropdown-toggle" role="button">My account</a></li></ul><!-- close of ul level --></li></ul><!-- close of ul level --></nav><div class="clear"></div>
+
+          <div class="container offcanvas-rigid">
+            <a class="logo isologo" href="/home.html" title="International Organization for Standardization" alt="ISO logo"></a>
+            <div class="isologo-print"><img src="https://cdn.iso.org/resources/wood/3.3.3/img/iso/iso-logo-print.gif" alt="ISO logo for print"/></div>
+
+            <ul id="utilityNav" aria-label="Utilities Navigation" class="nav navbar-nav navbar-right">
+              <li class="nav-glyphicon nav-search" id="nav-search">
+                <form class="expandable isosearch" role="search">
+                  <span class="hidden" data-urlbase="/cms/render/live/en"></span>
+                  <span class="hidden" data-searchpagepath="/sites/isoorg/search"></span>
+                  <label id="input-search" class="control-label hidden-xs" for="input-search">Search</label>
+                  <input type="search" placeholder="" aria-labelledby="input-search">
+                  <button class="glyphicon glyphicon-search" type="submit" aria-labelledby="input-search"></button>
+                </form>
+              </li>
+              <li class="nav-glyphicon">
+                <a class="shopping-cart-link" href="/webstore/shoppingbasket?memberId=ISO&guilang=en" title="Shopping cart" aria-label="Shopping cart">
+                  <span class="glyphicon glyphicon-shopping-cart" id="shoppingItems"></span>
+                </a>
+              </li>
+              
+
+<li class="dropdown" id="lang-switcher">
+  <a class="dropdown-toggle" data-toggle="dropdown" href="#">EN <span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    <li><a href="/fr/home.html">français</a></li><li><a href="/ru/home.html">русский</a></li>
+  </ul>
+</li><div class="clear"></div>
+            </ul>
+            <!-- TOP LEVEL1 NAVIGATION -->
+            <nav role="navigation" aria-label="Main Navigation" class="sidenav" id="mainNav"><ul role="menubar" class="nav navbar-nav navbar-right affix-topnav-level1"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/standards.html">Standards</a></li><li role="none" class="noChildren"><a role="menuitem" href="/about-us.html">About us</a></li><li role="none" class="noChildren"><a role="menuitem" href="/news.html">News</a></li><li role="none" class="noChildren"><a role="menuitem" href="/developing-standards.html">Taking part</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/store.html">Store</a></li></ul><!-- close of ul level --></nav><div class="clear"></div>
+          </div>
+        </div>
+        <div id="search-curtain"></div>
+      </div>
+
+      
+
+    </header>
+    <!-- MAIN CONTENT -->
+    <main role="main" id="content" class="acer" aria-label="Content" tabindex="-1">
+      <section class="header-acer header-img section-img id-d7b3fc51-7a68-4b39-940b-f09d8fe1932c bg-static height-300    vignette vignette-bottom   bg-transparent">
+
+  
+            <img
+                loading="lazy"
+                src="/files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/1200x300"
+                srcset="
+                  /files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/2400x600 2400w,
+                  /files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/1200x300 1200w,
+                  /files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/900 900w,
+                  /files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/600 600w,
+                  /files/live/sites/isoorg/files/_homepage/homepage_zip%20lining.jpg/thumbnails/300 300w"
+                sizes="100vw"
+                class="bg"
+            />
+          
+      <div class="overlay opacity-50 vignette vignette-bottom bg-transparent"></div>
+    <div class="header-caption     ">
+
+  
+  <div class="container text-uppercase text-shadow">
+
+  <div class="row       " >
+<div class="col-md-12"><div class="section-head wrapped-danger wrapped-h1">
+  ISO Travel Trends
+</div><h2 class="h1"><a href="/news/ref2697.html" title="Travelling light">Standards for sustainable tourism</a></h2><div class="clear"></div></div>
+  </div>
+
+  </div>
+
+  </div><div class="clear"></div>
+  </section><section class="      bg-gray">
+
+  
+  <div class="container">
+
+  <div class="row       " >
+<div class="col-md-12"><h3><a href="/covid-19.html" title="COVID-19: important information regarding ISO governance and technical...">Important information regarding ISO Meetings during COVID-19</a></h3>
+
+<p>All ISO governance and technical meetings planned <strong>until 31&nbsp;October 2021</strong> must be held virtually or postponed until after that date.</p><div class="clear"></div></div>
+  </div>
+
+  </div>
+
+  </section><section class="     ">
+
+  
+  <div class="container">
+
+  <div class="row grid col-md-push-3      " >
+<div class="col-md-4"><p class="lead">We&#39;re ISO, the <strong>International Organization for Standardization</strong>. We develop and publish <a href="/standards-catalogue/browse-by-ics.html" title="Standards catalogue">International Standards</a>.</p><div class="clear"></div>
+            </div>
+        
+            <div class="col-md-4 top-md-push-3"><div class="highlight-box clearfix">
+
+  <figure class="img-top inCol4 fig-srcset">
+    <a href="/covid19-home"  title="COVID-19" aria-label="COVID-19">
+    <img loading="lazy" src="/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/300x300" srcset="/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/300x150 300w,/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/600x300 600w,/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/900x450 900w,/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/1200x600 1200w,/files/live/sites/isoorg/files/utilities/COVID-19_virus.jpg/thumbnails/2400x1200 2400w," sizes="(min-width:1680px) 518px,(min-width:1200px) 358px,(min-width:992px) 293px,(min-width:768px) 720px, 100vw" class="hover-zoom" alt="3D rendering of the COVID-19 virus. "  itemprop="image"/>
+    </a>
+  </figure>
+
+  <div class="box-text clearfix">
+    
+      <div class="section-head wrapped-danger wrapped-h4">News</div>
+    
+    <div class="entry-content">
+      
+        <h5 class="entry-name">
+          <a href="/covid19-home" title="COVID-19" >COVID-19</a>
+        </h5>
+      
+        <div class="entry-summary">
+          ISO resources and response
+        </div>
+      
+    </div>
+  </div><!-- close of box-text-->
+</div><!-- close of highlightbox--><div class="clear"></div>
+            </div>
+        
+            <div class="col-md-4 top-md-push-3"><div class="highlight-box clearfix">
+
+  <figure class="img-top inCol4 fig-srcset">
+    <a href="/strategy2030.html"  title="Strategy 2030" aria-label="Strategy 2030">
+    <img loading="lazy" src="/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/300x300" srcset="/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/300x150 300w,/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/600x300 600w,/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/900x450 900w,/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/1200x600 1200w,/files/live/sites/isoorg/files/about%20ISO/strategy/headers/strategy_header.jpg/thumbnails/2400x1200 2400w," sizes="(min-width:1680px) 518px,(min-width:1200px) 358px,(min-width:992px) 293px,(min-width:768px) 720px, 100vw" class="hover-zoom" alt="https://www.iso.org/"  itemprop="image"/>
+    </a>
+  </figure>
+
+  <div class="box-text clearfix">
+    
+      <div class="section-head wrapped-danger wrapped-h4">About us</div>
+    
+    <div class="entry-content">
+      
+        <h5 class="entry-name">
+          <a href="/strategy2030.html" title="Strategy 2030" >Strategy 2030</a>
+        </h5>
+      
+        <div class="entry-summary">
+          Making lives easier, safer and better. Our Strategy outlines our vision and our mission for the next 10 years and a set of goals and priorities to help us get there.
+        </div>
+      
+    </div>
+  </div><!-- close of box-text-->
+</div><!-- close of highlightbox--><div class="clear"></div>
+            </div>
+  </div>
+
+  </div>
+
+  </section><section class="     ">
+
+  
+  <div class="container">
+
+  <div class="row       " >
+<div class="col-md-4"><h3>Common questions</h3>
+
+<ul class="refine">
+	<li><a href="/standards.html" title="Standards">What is a standard?</a></li>
+	<li><a href="/developing-standards.html" title="Developing standards">How are standards developed?</a></li>
+	<li><a href="/benefits-of-standards.html" title="Benefits of standards">What are the benefits of standards?</a></li>
+</ul><div class="clear"></div></div>
+        <div class="col-md-4"><h3>Looking to get certified?</h3>
+
+<p>ISO doesn&rsquo;t provide certification or conformity assessment. You&rsquo;ll need to contact an external certification body for that.</p>
+
+<p><a href="/certification.html" title="Certification">Read more about certification and how to find a certification body</a>.</p><div class="clear"></div></div>
+        <div class="col-md-4"><h3 style="font-family: MetaWebPro, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(51, 51, 51);">ISO Store</h3>
+
+<p>Are you looking to buy an ISO Standard?</p><!-- Comment for testing purposes (branch: master) -->
+
+
+    <a role="button" href="/store.html" class="btn btn-primary btn-md">Visit our store</a>&nbsp;<div class="clear"></div></div>
+  </div>
+
+  </div>
+
+  </section><section class="      bg-lightgray">
+
+  
+  <div class="container">
+
+  <div class="row       " >
+<div class="col-md-4"><h2>Some of our most popular standards&nbsp;&gt;</h2><!-- Comment for testing purposes (branch: master) -->
+
+
+    <a role="button" href="/popular-standards.html" class="btn btn-danger btn-outline btn-md">Discover them all</a>&nbsp;<div class="clear"></div>
+            </div>
+        
+            <div class="col-md-7 col-md-offset-1"><ul class="refine"><li><div class="clearfix">
+  <h4>
+    <a href="/iso-9001-quality-management.html">
+          <span class="wrapped-danger entry-name">ISO 9000 family</span>Quality management</a>
+  </h4>
+
+  
+    <div class="entry-summary">The ISO 9000 family is the world’s best-known quality management standard for companies and organizations of any size.</div>
+  
+</div></li><li><div class="clearfix">
+  <h4>
+    <a href="/iso-14001-environmental-management.html">
+          <span class="wrapped-danger entry-name">ISO 14000 family</span>Environmental management</a>
+  </h4>
+
+  
+    <div class="entry-summary">Improve your environmental performance with this family of standards.</div>
+  
+</div></li><li><div class="clearfix">
+  <h4>
+    <a href="/isoiec-27001-information-security.html">
+          <span class="wrapped-danger entry-name">ISO/IEC 27001</span>Information security management</a>
+  </h4>
+
+  
+    <div class="entry-summary">Providing security for any kind of digital information, the ISO/IEC 27000 family of standards is designed for any size of organization.</div>
+  
+</div></li></ul><div class="clear"></div>
+            </div>
+  </div>
+
+  </div>
+
+  </section><section class="grid-inline-4     ">
+
+  
+  <div class="container">
+
+  <div class="row       " >
+<div class="col-lg-12"><h2>Latest news</h2><span id="subNodesView" class="hidden" data-view="media-landscape"></span>
+
+<div ng-app="filterableListApp" ng-controller="mainCtrl" data-site-url="/cms/render/live/en/sites/isoorg.html"
+id="list-fae60778-d4d5-4188-aca6-3b979030e33f">
+  
+  <span id="pageSize" class="hidden" data-size="10"></span>
+
+  
+  <span id="nodeCategory1" class="hidden" data-node=""></span>
+  <span id="nodeCategory2" class="hidden" data-node=""></span>
+  
+  <div class="hidden" ng-view></div>
+  <div ng-bind-html="error | sanitize"></div>
+  <div class="article-list media-list"><div class="media clearfix landscape">
+
+  <div class="media-left">
+    <figure class=" width-300">
+      <a href="/news/ref2694.html"  title="Travelling in a pandemic" aria-label="Travelling in a pandemic">
+            <picture>
+              <source media="(max-width:479px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/300x150 300w, /files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/600x300 600w, /files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/900x450 900w" sizes="100vw">
+              <source media="(min-width:768px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/600x300">
+              <source media="(min-width:480px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/300x300">
+              <img loading="lazy" src="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2694/Ref2694.jpg/thumbnails/300x150" class="media-object hover-zoom width-300" alt="Tourist couple wearing protective masks walk along the Eiffel Tower esplanade in Paris holding hands." itemprop="image"/>
+            </picture>
+          </a>
+    </figure>
+  </div>
+
+  <div class="media-body">
+  
+    <div class="entry-header">
+      
+        <div class="entry-description small">
+          
+            <span class="time">
+              <time class='updated' datetime='2021-08-03'>3 August 2021</time>
+            </span>
+          
+        </div>
+      
+    </div>
+  
+    <div class="entry-content">
+      
+        <h6 class="entry-name entry-title">
+          <a href="/news/ref2694.html" >Travelling in a pandemic</a>
+        </h6>
+      
+        <div class="entry-summary">
+          Will the tourism sector ever recover?
+        </div>
+      
+    </div>
+    
+  </div><!-- close of media-body-->
+</div><!-- close of media--><div class="media clearfix landscape">
+
+  <div class="media-left">
+    <figure class=" width-300">
+      <a href="/news/ref2704.html"  title="Health and wellness apps" aria-label="Health and wellness apps">
+            <picture>
+              <source media="(max-width:479px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/300x150 300w, /files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/600x300 600w, /files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/900x450 900w" sizes="100vw">
+              <source media="(min-width:768px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/600x300">
+              <source media="(min-width:480px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/300x300">
+              <img loading="lazy" src="/files/live/sites/isoorg/files/news/News_archive/2021/08/Ref2704/Ref2704.jpg/thumbnails/300x150" class="media-object hover-zoom width-300" alt="The UK governments new test and trace application is displayed on a handheld device." itemprop="image"/>
+            </picture>
+          </a>
+    </figure>
+  </div>
+
+  <div class="media-body">
+  
+    <div class="entry-header">
+      
+        <div class="entry-description small">
+          
+            <span class="time">
+              <time class='updated' datetime='2021-08-02'>2 August 2021</time>
+            </span>
+          
+        </div>
+      
+    </div>
+  
+    <div class="entry-content">
+      
+        <h6 class="entry-name entry-title">
+          <a href="/news/ref2704.html" >Health and wellness apps</a>
+        </h6>
+      
+        <div class="entry-summary">
+          New international guidelines to help sort the best from the rest.
+        </div>
+      
+    </div>
+    
+  </div><!-- close of media-body-->
+</div><!-- close of media--><div class="media clearfix landscape">
+
+  <div class="media-left">
+    <figure class=" width-300">
+      <a href="/news/ref2703.html"  title="Beating bribery and corruption" aria-label="Beating bribery and corruption">
+            <picture>
+              <source media="(max-width:479px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/300x150 300w, /files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/600x300 600w, /files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/900x450 900w" sizes="100vw">
+              <source media="(min-width:768px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/600x300">
+              <source media="(min-width:480px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/300x300">
+              <img loading="lazy" src="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2703/Ref2703.jpg/thumbnails/300x150" class="media-object hover-zoom width-300" alt="Side view of mature businesswoman looking at laptop and thinking." itemprop="image"/>
+            </picture>
+          </a>
+    </figure>
+  </div>
+
+  <div class="media-body">
+  
+    <div class="entry-header">
+      
+        <div class="entry-description small">
+          
+            <span class="time">
+              <time class='updated' datetime='2021-07-28'>28 July 2021</time>
+            </span>
+          
+        </div>
+      
+    </div>
+  
+    <div class="entry-content">
+      
+        <h6 class="entry-name entry-title">
+          <a href="/news/ref2703.html" >Beating bribery and corruption</a>
+        </h6>
+      
+        <div class="entry-summary">
+          International guidance on whistleblowing.
+        </div>
+      
+    </div>
+    
+  </div><!-- close of media-body-->
+</div><!-- close of media--><div class="media clearfix landscape">
+
+  <div class="media-left">
+    <figure class=" width-300">
+      <a href="/news/ref2702.html"  title="Excellence in customer service" aria-label="Excellence in customer service">
+            <picture>
+              <source media="(max-width:479px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/300x150 300w, /files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/600x300 600w, /files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/900x450 900w" sizes="100vw">
+              <source media="(min-width:768px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/600x300">
+              <source media="(min-width:480px)" srcset="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/300x300">
+              <img loading="lazy" src="/files/live/sites/isoorg/files/news/News_archive/2021/07/Ref2702/Ref2702.jpg/thumbnails/300x150" class="media-object hover-zoom width-300" alt="Close up view of the hands of a barista preparing a coffee by drawing a flower with milk." itemprop="image"/>
+            </picture>
+          </a>
+    </figure>
+  </div>
+
+  <div class="media-body">
+  
+    <div class="entry-header">
+      
+        <div class="entry-description small">
+          
+            <span class="time">
+              <time class='updated' datetime='2021-07-26'>26 July 2021</time>
+            </span>
+          
+        </div>
+      
+    </div>
+  
+    <div class="entry-content">
+      
+        <h6 class="entry-name entry-title">
+          <a href="/news/ref2702.html" >Excellence in customer service</a>
+        </h6>
+      
+        <div class="entry-summary">
+          New international guidance makes everyone a winner.
+        </div>
+      
+    </div>
+    
+  </div><!-- close of media-body-->
+</div><!-- close of media--></div>
+</div><hr />
+<h4 class="text-right text-primary"><a href="/news.html" title="Newsroom">All news</a> &gt;</h4><div class="clear"></div>
+            </div>
+  </div>
+
+  </div>
+
+  </section><div class="clear"></div><div class="clear"></div>
+      <div class="nav-breadcrumb print-footer bg-darkgray">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-8 small">
+              <!-- BREADCRUMB -->
+              <div class="clear"></div>
+            </div>
+            <div class="col-sm-4 hidden-print text-right small">
+              <a role="button" class="accordion-toggle collapsed" data-toggle="collapse" href="#collapseSitemap" target="_self" aria-expanded="false"
+                 aria-controls="collapseSitemap">Sitemap</a>
+            </div>
+          </div>
+
+          <div class="collapse border-top" id="collapseSitemap">
+            <div class="row">
+              <!-- SITEMAP -->
+              <nav role="navigation" aria-label="Sitemap" class="sitemap-footer clearfix small" id="nav-sitemap"><ul role="menubar" class="nav-level1 list-inline-5 clearfix"><li role="none" class="hasChildren firstInLevel"><a role="menuitem" href="/standards.html">Standards</a><ul role="menu" class="nav-level2 list-unstyled"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/benefits-of-standards.html">Benefits</a></li><li role="none" class="noChildren"><a role="menuitem" href="/popular-standards.html">Popular standards</a></li><li role="none" class="noChildren"><a role="menuitem" href="/conformity-assessment.html">Certification & conformity</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/sdgs.html">SDGs</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren"><a role="menuitem" href="/about-us.html">About us</a><ul role="menu" class="nav-level2 list-unstyled"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/what-we-do.html">What we do</a></li><li role="none" class="noChildren"><a role="menuitem" href="/structure.html">Structure</a></li><li role="none" class="noChildren"><a role="menuitem" href="/members.html">Members</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/strategy2030.html">Strategy</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren"><a role="menuitem" href="/news.html">News</a><ul role="menu" class="nav-level2 list-unstyled"><li role="none" class="noChildren"><a role="menuitem" href="/events.html">Events</a></li><li role="none" class="noChildren"><a role="menuitem" href="/media-kit.html">Media kit</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren"><a role="menuitem" href="/developing-standards.html">Taking part</a><ul role="menu" class="nav-level2 list-unstyled"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/who-develops-standards.html">Who develops standards</a></li><li role="none" class="noChildren"><a role="menuitem" href="/deliverables-all.html">Deliverables</a></li><li role="none" class="noChildren"><a role="menuitem" href="/get-involved.html">Get involved</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/resources.html">Resources</a></li></ul><!-- close of ul level --></li><li role="none" class="hasChildren lastInLevel"><a role="menuitem" href="/store.html">Store</a><ul role="menu" class="nav-level2 list-unstyled"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/standards-catalogue/browse-by-ics.html" >Standards catalogue</a></li><li role="none" class="noChildren"><a role="menuitem" href="/publication-list.html">Publications and products</a></li></ul><!-- close of ul level --></li></ul><!-- close of ul level --></nav><div class="clear"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+      <footer role="contentinfo" aria-label="Footer" class="footer-iso footer-dark bg-darkergray">
+        <div class="container">
+          <div class="footer-links center-block">
+            <!-- FOOTER LINKS -->
+            <nav role="navigation" aria-label="Inline Navigation"  ><ul role="menubar" class="list-inline clearfix nav-level1"><li role="none" class="noChildren firstInLevel"><a role="menuitem" href="/iso-name-and-logo.html">ISO name and logo</a></li><li role="none" class="noChildren"><a role="menuitem" href="/privacy-and-copyright.html">Privacy and copyright</a></li><li role="none" class="noChildren"><a role="menuitem" href="/working-with-iso.html" >Jobs</a></li><li role="none" class="noChildren"><a role="menuitem" href="/frequently-asked-questions-faqs.html">FAQs</a></li><li role="none" class="noChildren lastInLevel"><a role="menuitem" href="/contact-iso.html">Contact ISO</a></li></ul><!-- close of ul level --></nav><div class="clear"></div>
+          </div>
+          <div class="footer-social ss-icon clearfix">
+            <ul itemscope itemtype="https://schema.org/Organization">
+              <link itemprop="url" href="https://www.iso.org/">
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://www.facebook.com/isostandards" title="Facebook"></a></li>
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://twitter.com/isostandards" title="Twitter"></a></li>
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://www.youtube.com/user/PlanetISO" title="YouTube"></a></li>
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://www.linkedin.com/company/isostandards" title="Linkedin"></a></li>
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://www.instagram.com/isostandards" title="Instagram"></a></li>
+              <li><a itemprop="sameAs" target="_blank" rel="noopener" href="https://www.flickr.com/photos/isostandards" title="Flickr"></a></li>
+            </ul>
+          </div>
+          <p class="lead">Great things happen when the world agrees</p>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 pull-left">
+              <p class="text-xs">We are committed to ensuring that our website is accessible to everyone. If you have any questions or suggestions regarding the accessibility of this site, please <a href="mailto:webmaster@iso.org?subject=Accessibility" style="white-space: nowrap">contact us</a>.</p>
+              <p class="text-sm"><a href="#copyright" target="_self" data-toggle="collapse" aria-expanded="false" aria-controls="copyright">© All Rights Reserved</a> <span id="copyright" class="collapse">All ISO publications and materials are protected by copyright and are subject to the user’s acceptance of ISO’s conditions of copyright. Any use, including reproduction requires our written permission. All copyright requests should be addressed to <a href="mailto:copyright@iso.org">copyright@iso.org</a>.</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="topbar">
+          <div class="topbar-content">
+            <a class="logo isologo logo-xs theme-red poweredby page-scroll logo-scrollTop" href="#page-top" title="Scroll to top"></a>
+            <div class="isologo-print"><img src="https://cdn.iso.org/resources/wood/3.3.3/img/iso/iso-logo-print.gif" alt="ISO logo for print" /></div>
+            <div class="poweredby-txt">Powered by</div>
+          </div>
+        </div>
+        <div class="rubber"></div>
+      </footer>
+
+    </main>
+
+    
+
+
+  </body>
+</html>

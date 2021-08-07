@@ -1,0 +1,4953 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Sat, 07 Aug 2021 01:32:46 GMT
+Server: nginx/1.16.1
+X-Powered-By: PHP/7.3.15
+Location: https://www.popsugar.com
+X-Cache: Miss from cloudfront
+Via: 1.1 59d9797319b555b25abd21e200e6e428.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: EWR52-C2
+X-Amz-Cf-Id: 62JSGSb2SFYdlf29Dsr3TFuMAyZ3k2x4fANaHLr0S_xQHZlMmOvDfQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Sat, 07 Aug 2021 01:32:46 GMT
+Server: nginx/1.16.1
+X-Powered-By: PHP/7.3.15
+Set-Cookie: PHPSESSID=66f4d79ee022a197bfd22f684b03f007; expires=Mon, 30-Aug-2021 05:06:06 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+Set-Cookie: client_locale=US; expires=Sun, 08-Aug-2021 01:32:46 GMT; Max-Age=86400; path=/; secure; SameSite=None
+Set-Cookie: bb2_screener_=1628299966+100.1.86.99+100.1.86.99%2C+70.132.13.144; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+P3P: CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVA IVD CONi HIS OUR DELi SAMi IND UNI INT CNT"
+X-POPSUGAR-Server-Name: sugarprodweb33.sugarops.com
+Cache-Control: private, max-age=427
+Vary: Cookie, User-Agent
+Content-Language: en-US
+Link: <https://www.popsugar.com/>; rel="canonical"
+Content-Security-Policy: frame-ancestors 'none'
+X-Frame-Options: DENY
+Expires: Sat, 07 Aug 2021 01:39:53 GMT
+Set-Cookie: ss1=0%7C1630299966%7CnjEpiyNS0JfS%2FM8dSU1tT28ciQhee18kPM9lscAPJb%2BLxixqLtH1uohJ8xgCfHeXY7flDVMYndNAtlMv6MEZQgc%2B9AfQ85wW4cNeEomjDekTl%2F%2B2VIPVwnGOOmScbJFN6MqOiI35N4INssOHZK64dHB8aGOW0PrYA8rkgOqiw9RZurbSGT3aghQMRxRiMOnowG4TYkE3QtSyUAb94cvKsw%3D%3D%7C2e65d1b9a3cfcfaa4cd049dde14c06f30f9b42e4; expires=Mon, 30-Aug-2021 05:06:06 GMT; Max-Age=2000000; path=/; secure; SameSite=None
+X-Cache: Miss from cloudfront
+Via: 1.1 81dc2840587b5003ff52334e3af886a5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: EWR52-C2
+X-Amz-Cf-Id: zRnHl86NLIVp6fzfWtx8NRG-5tmT5vDxS7RCPImBvdlPvtkm2UCmPg==
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" dir="ltr">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<meta charset="utf-8">
+<link rel="dns-prefetch" href="https://media1.popsugar-assets.com" />
+<link rel="preconnect" href="https://media1.popsugar-assets.com/" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="preconnect" href="https://www.google-analytics.com/" />
+<link rel="dns-prefetch" href="https://beacon.krxd.net" />
+<link rel="preconnect" href="https://beacon.krxd.net/" />
+<link rel="dns-prefetch" href="https://cdn.krxd.net" />
+<link rel="preconnect" href="https://cdn.krxd.net/" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=1120, maximum-scale=1.0" />
+<title>POPSUGAR</title>
+<link rel="canonical" href="https://www.popsugar.com/" />
+<link rel="next" href="https://www.popsugar.com/?page=1" />
+<meta name="description" content="POPSUGAR delivers the biggest moments, the hottest trends, and the best tips in entertainment, fashion, beauty, fitness, and food and the ability to shop for it all in one place." />
+<meta property="fb:app_id" content="175338224756" />
+<meta property="fb:pages" content="112402358796244" />
+<meta property="og:description" content="POPSUGAR delivers the biggest moments, the hottest trends, and the best tips in entertainment, fashion, beauty, fitness, and food and the ability to shop for it all in one place." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="POPSUGAR" />
+<meta property="og:title" content="POPSUGAR" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.popsugar.com" />
+<meta name="p:domain_verify" content="1c46c054290c43e6aeabdec63fb5f6bd" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:creator" content="@POPSUGAR" />
+<meta property="twitter:description" content="POPSUGAR delivers the biggest moments, the hottest trends, and the best tips in entertainment, fashion, beauty, fitness, and food and the ability to shop for it all in one place." />
+<meta property="twitter:domain" content="POPSUGAR" />
+<meta property="twitter:site" content="@POPSUGAR" />
+<meta property="twitter:title" content="POPSUGAR" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2NLTZ9');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+var getCookie = function (name) {var value = "; " + document.cookie;
+var parts = value.split("; " + name + "=");
+if (parts.length == 2) return parts.pop().split(";").shift();};
+var locale = getCookie('client_locale');
+var source_locale = "US";
+var userReferrer = document.referrer.toLowerCase();
+var referrerHost = typeof(userReferrer.split( '/' )[2]) !== 'undefined' ? userReferrer.split( '/' )[2] : 'direct';
+var utms = '?utm_medium=redirect&utm_campaign=' + source_locale + ':' + locale + '&utm_source=' + encodeURIComponent(referrerHost);
+var no_redirect;
+var gdpr_countries = 'AT BE BG CY CZ DE DK EE EL ES FI FR GB HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK CH IS LI NO UK';
+utms += '&gdpr';
+var uk_link = 'https://www.popsugar.co.uk' + window.location.pathname;
+no_redirect = getCookie('no_uk_redir2') || window.location.search.indexOf('ignore_geo_redirect=onetrust') != -1;
+if (!no_redirect && gdpr_countries.indexOf(locale) != -1) {document.location = uk_link + utms;}
+</script>        
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/savoy/Savoy-Bold-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/savoy/Savoy-Italic-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/savoy/Savoy-Roman-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/texta/Texta-Medium-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/texta/Texta-Heavy-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://media1.popsugar-assets.com/static/fonts/texta/Texta-Light-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="https://media1.popsugar-assets.com/v4715/static/css/compiled/lightspeed.css" type="text/css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://media1.popsugar-assets.com/assets/ca4a15039617ef647c12da129966b785.css?v=4715" />
+<link rel="apple-touch-icon" href="https://media1.popsugar-assets.com/v4715/static/imgs/apple/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://media1.popsugar-assets.com/v4715/static/imgs/apple/apple-touch-icon-180x180.png">
+<meta name="theme-color" content="#002FA7">
+<meta name="msapplication-TileColor" content="#002FA7">
+<meta name="msapplication-TileImage" content="https://media1.popsugar-assets.com/v4715/static/imgs/apple/apple-touch-icon-180x180.png">
+<link rel="icon" href="/favicon.ico?v=2" type="image/x-icon"/>
+<link rel="shortcut icon" href="/favicon.ico?v=2" type="image/x-icon"/>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for POPSUGAR" href="https://www.popsugar.com/feed" />
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+<![endif]-->
+<link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script type="text/javascript">
+var s_account = 'popsugarglobalprod';            var scriptsList = []; //global var to load scripts after gdpr approval
+var gdprApproved = false;
+</script>
+<script>
+// Load GA
+if(!window.universal_ga_added){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');window.universal_ga_added=true}
+</script>
+<script  src="https://media1.popsugar-assets.com/assets/9b8ede1b2686c231a3883b3e92e13858.js?v=4715"></script>
+<script type="application/ld+json">
+{
+"@id": "#POPSUGAROrg",
+"@context": "http://schema.org/",
+"@type": "Organization",
+"url": "https://www.popsugar.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://media1.popsugar-assets.com/v4715/themes/onsugar_themes/lightspeed/imgs/logo-new-600.png",
+"width": 600,
+"height": 49
+},
+"name": "POPSUGAR",
+"sameAs": [
+"https://twitter.com/POPSUGAR",
+"https://www.facebook.com/PopSugar",
+"https://instagram.com/POPSUGAR",
+"https://www.pinterest.com/POPSUGAR",
+"https://www.youtube.com/popsugargirlsguide",
+"https://www.groupninemedia.com"     ],
+"contactPoint": [
+{
+"@type": "ContactPoint",
+"telephone": "+1-415-391-7576",
+"contactType": "customer service"
+}
+]
+}
+</script>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<script>
+var googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement("script");
+gads.async = true;
+gads.type = "text/javascript";
+gads.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+var node = document.getElementsByTagName("script")[0];
+node.parentNode.insertBefore(gads, node);
+})();
+var ad_context = JSON.parse('{"slots":[{"sizes":"[[1000,200], [970,250], [1400,500]]","primary_size":"[1000,200]","slot":"marquee","slot_id":"page_shift-0","slot_index":0,"targeting":[],"rotatable":false,"category_exclusions":[],"load_slot_only":false,"responsive_ad_mapping":false},{"sizes":"[180,55]","primary_size":"[180,55]","slot":"badge","slot_id":"badge-0","slot_index":0,"targeting":[],"rotatable":false,"category_exclusions":[],"load_slot_only":false,"responsive_ad_mapping":false},{"sizes":"[1,1]","primary_size":"[1,1]","slot":"analytics_pixel","slot_id":"analytics_pixel-0","slot_index":0,"targeting":[],"rotatable":false,"category_exclusions":[],"load_slot_only":false,"responsive_ad_mapping":false}],"page_targeting":{"bot":"false","page_type_template":"stream","channel":"index","page_type":"home"},"is_mobile":null,"is_tv":false,"category_exclusions":[],"disable_poe":false,"secure":true,"page_hierarchy":"5485\/US\/popsugar\/index\/home\/","is_au":false,"is_us":true,"is_uk":false,"specific_slots_to_render":false,"is_pared":false,"is_dev":false,"google_tag":true,"is_mobile_ajax":false,"ad_units":{"prebid_adunit":{"marquee":{"code":"page_shift-0","bids":[{"bidder":"rubicon","params":{"accountId":11516,"siteId":33940,"zoneId":772750}},{"bidder":"openx","params":{"delDomain":"popsugar-d.openx.net","unit":540215019}},{"bidder":"sonobi","params":{"ad_unit":"5485\/US\/popsugar\/index\/home\/marquee"}}],"mediaTypes":{"banner":{"sizes":[[1000,200],[970,250],[1400,500]]}}},"badge":{"code":"badge-0","bids":[{"bidder":"sonobi","params":{"ad_unit":"5485\/US\/popsugar\/index\/home\/badge"}}],"mediaTypes":{"banner":{"sizes":[180,55]}}},"analytics_pixel":{"code":"analytics_pixel-0","bids":[{"bidder":"sonobi","params":{"ad_unit":"5485\/US\/popsugar\/index\/home\/analytics_pixel"}}],"mediaTypes":{"banner":{"sizes":[1,1]}}}},"apstag_adunit":{"marquee":{"slotID":"page_shift-0","slotName":"marquee","sizes":[[1000,200],[970,250],[1400,500]]},"badge":{"slotID":"badge-0","slotName":"badge","sizes":[180,55]},"analytics_pixel":{"slotID":"analytics_pixel-0","slotName":"analytics_pixel","sizes":[1,1]}}},"amazon_id":3876}');
+var configGPTAdsPlugin = (function() {
+var slotsCreatedCallbacks = [];
+return {
+addSlotsCreatedCallback: function(cb) {
+slotsCreatedCallbacks.push(cb);
+},
+init: function (resolve) {
+if (Object.keys(ad_context.ad_units).length > 0) {
+SUGAR.gpt.setAdUnitsConfig(ad_context.ad_units);
+}
+for (var i in ad_context.slots) {
+var slot = ad_context.slots[i];
+SUGAR.gpt.configAd(slot.slot_id, slot, false);
+}
+googletag.cmd.push(function () {
+for (var i in ad_context.slots) {
+SUGAR.gpt.defineGPTAd(null, ad_context.slots[i], false);
+}
+for (var j in slotsCreatedCallbacks) {
+slotsCreatedCallbacks[j]();
+}
+});
+googletag.cmd.push(function () {
+googletag.pubads().enableSingleRequest();
+googletag.pubads().disableInitialLoad();
+if (Object.keys(ad_context.page_targeting).length > 0) {
+for (var key in ad_context.page_targeting) {
+googletag.pubads().setTargeting(key, ad_context.page_targeting[key]);
+}
+}
+// Adding these for parity with P3 G9 sites
+var g9AdAttributes = {
+allied: '',
+duration: '',
+edition: '',
+franchise: '',
+inline_reco: '',
+nid_ps: '',
+page_path: '',
+pos_ps: '',
+sale_id: '',
+series: '',
+sponsor: '',
+tag_ps: '',
+test: '',
+topic: '',
+url: '',
+vertical: '',
+vertical_list: '',
+watson_categories: '',
+watson_concepts: '',
+watson_entities: '',
+}
+for (var key in g9AdAttributes) {
+googletag.pubads().setTargeting(key, g9AdAttributes[key]);
+}
+if (SUGAR.ads.getPOE()) {
+googletag.pubads().setTargeting('first_impression', 'true');
+}
+else {
+googletag.pubads().setTargeting('first_impression', 'false');
+}
+if (SUGAR.ads.checkCPC()) {
+googletag.pubads().setTargeting('cpc', '1');
+}
+var dfpUTMCookie;
+if (dfpUTMCookie = SUGAR.ads.checkUTMSource()) {
+googletag.pubads().setTargeting('utm_source', dfpUTMCookie);
+}
+googletag.pubads().setTargeting('viewportsize', window.innerHeight >= 900 ? 'big' : 'small');
+if (ad_context.category_exclusions.length > 0) {
+for (var exclusion in ad_context.category_exclusions) {
+googletag.pubads().setCategoryExclusion(exclusion);
+}
+}
+if (!!document.getElementById('video-ad-player-container')) {
+googletag.pubads().setCategoryExclusion('100% Share of Page');
+}
+googletag.pubads().addEventListener('slotRenderEnded', function (ad) {
+SUGAR.gpt.slotRenderEnded(ad);
+});
+googletag.pubads().enableAsyncRendering();
+if (ad_context.is_pared) {
+googletag.pubads().setTargeting('related', 'no');
+googletag.pubads().enableLazyLoad({
+fetchMarginPercent: 300,  // Fetch slots within 3 viewports.
+renderMarginPercent: 200,  // Render slots within 2 viewports.
+mobileScaling: 1.0  // Double the above values on mobile.
+});
+}
+else
+{
+googletag.pubads().collapseEmptyDivs(true);
+}
+googletag.enableServices();
+});
+googletag.cmd.push(function () {
+googletag.pubads().addEventListener('impressionViewable', function (e) {
+e.slot.getAdUnitName = function () {
+var slotElementId = e.slot.getSlotElementId();
+return slotElementId.split('-')[0];
+};
+document.dispatchEvent(new CustomEvent('adSlotViewed', {detail: e}));
+});
+});
+if (ad_context.disable_poe) {
+SUGAR.gpt.disablePOE();
+}
+resolve();
+}
+}
+})();
+/*
+This function is called when all of the plugins have either timed out or resolved.
+This is what kicks off the initial ad request on the page.
+*/
+function adPush() {
+googletag.cmd.push(function () {
+window.setTimeout(function () {
+googletag.display(ad_context.slots[0].slot_id);
+if (ad_context.is_au && !ad_context.is_mobile && SUGAR.gpt.getGPTAd('skin-0')) {
+googletag.display('skin-0');
+}
+if (ad_context.specific_slots_to_render) { // Non lazyloaded slots.
+// If we are lazy loading ads check for global variable being set by pb.js
+// and based on that, refresh all ads or some ads if needed.
+if (typeof pbjs !== 'undefined') {
+SUGAR.gpt.pbjsRefreshAds(ad_context.specific_slots_to_render);
+}
+}
+else if (ad_context.is_pared) {
+for (var i in ad_context.slots) {
+var slotId = ad_context.slots[i].slot_id;
+googletag.display(slotId);
+googletag.pubads().refresh([SUGAR.gpt.getGPTAd(slotId)]);
+}
+}
+else {
+googletag.pubads().refresh();
+}
+document.dispatchEvent(new CustomEvent('slotsCreated'));
+}, 0);
+});
+}
+(function() {
+window.SUGAR = window.SUGAR || {};
+window.SUGAR.MOAT = window.SUGAR.MOAT || (function(googletag) {
+var yieldReady = false;
+var slotsReady = false;
+window['moatHeaderInitTime'] = new Date().getTime();
+// This is very unlikely, but let's handle the case where it becomes ready before init...
+window['moatYieldReady'] = function() {
+yieldReady = true;
+}
+var appendContainer = document.getElementsByTagName('head')[0];
+if (appendContainer) {
+var headerScript = document.createElement('script');
+headerScript.type = 'text/javascript';
+headerScript.src = 'https://z.moatads.com/groupnineheader106666634160/moatheader.js';
+headerScript.async = true;
+appendContainer.insertBefore(headerScript, appendContainer.firstChild);
+}
+var targeting = {
+m_data: 'failed',
+m_safety: 'failed'
+};
+syncGPTTargeting();
+function syncGPTTargeting() {
+googletag.cmd.push(function() {
+Object.keys(targeting).forEach(function (key) {
+googletag.pubads().setTargeting(key, targeting[key]);
+});
+});
+}
+function setTargeting(newTargeting) {
+targeting = newTargeting;
+if (targeting.m_data === '1') {
+ONSUGAR.Util.log('MOAT Fraudulent Traffic Detected!');
+SUGAR.gpt.setIrregular();
+}
+if (targeting.m_safety !== 'safe') {
+googletag.pubads().setCategoryExclusion('IAS Brand Safety');
+}
+}
+function getTargeting() {
+return targeting;
+}
+function init(resolve)  {
+function whenReady() {
+yieldReady = true;
+setMoatPrebidData();
+resolve();
+}
+if (yieldReady) {
+whenReady();
+} else {
+// If MOAT isn't ready by the time we're initing, resolve when it becomes ready...
+window['moatYieldReady'] = whenReady;
+}
+}
+configGPTAdsPlugin.addSlotsCreatedCallback(function() {
+slotsReady = true;
+// yield is almost always ready by the time we're here, except in the timeout case
+if (yieldReady) {
+moatPrebidApi.setMoatTargetingForAllSlots();
+}
+});
+function onTimeout() {
+window.moatYieldReady = false;
+setMoatPrebidData(false);
+}
+function setMoatPrebidData() {
+googletag.cmd.push(function() {
+var newTargeting = {};
+var fraudTargeting = googletag.pubads().getTargeting('m_data');
+if (fraudTargeting.length) {
+newTargeting.m_data = fraudTargeting[0];
+}
+var brandSafeTargeting = googletag.pubads().getTargeting('m_safety');
+if (brandSafeTargeting.length) {
+newTargeting.m_safety = brandSafeTargeting[0];
+}
+// This handles the case when the plugin initially timed out
+// but became ready after slots were created.
+if (yieldReady && slotsReady) {
+moatPrebidApi.setMoatTargetingForAllSlots();
+}
+setTargeting(newTargeting);
+});
+}
+return {
+init: init,
+name: 'MOAT',
+onTimeout: onTimeout,
+timeout: 1500,
+setTargeting: setTargeting,
+getTargeting: getTargeting
+}
+})(window.googletag);
+var HeaderBiddingPlugin = (function() {
+function init(resolve) {
+SUGAR.gpt.pbjsQuePush();
+var prebidPollInterval;
+var pollPrebid = function() {
+if (SUGAR.gpt.getAdserverRequestSent()) {
+clearInterval(prebidPollInterval);
+resolve();
+}
+};
+prebidPollInterval = setInterval(pollPrebid, 50);
+}
+function onTimeout(){
+SUGAR.gpt.sendAdserverRequest();
+}
+return {
+init: init,
+name: 'Header Bidding',
+timeout: 5000,
+onTimeout: onTimeout
+}
+})();
+var ApsTagPlugin = (function(){
+function init(resolve){
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+SUGAR.gpt.apsTagInit(ad_context.amazon_id);
+SUGAR.gpt.apsTagfetchBids();
+resolve();
+}
+return {
+init: init,
+name: 'ApsTag',
+timeout: 6000
+}
+})();
+var IXPlugin = (function() {
+var ixReadyInterval;
+function init(resolve) {
+// Load the IX Headerbidding Tag
+var ixScript = document.createElement('script');
+ixScript.src = 'https://js-sec.indexww.com/ht/p/193592-199519549033568.js';
+document.head.appendChild(ixScript);
+// We want to wait for the script to get loaded before we start fetchinng bids
+var demandFetched = false;
+var onIXReady = function() {
+if (window.headertag && typeof window.headertag.retrieveDemand === 'function') {
+if (!demandFetched) {
+SUGAR.gpt.ixRetrieveDemand();
+demandFetched = true;
+}
+if (window.ixTargetingUpdated) {
+clearInterval(ixReadyInterval);
+resolve();
+}
+}
+};
+ixReadyInterval = setInterval(onIXReady, 50);
+}
+function onTimeout() {
+clearInterval(ixReadyInterval);
+}
+return {
+init: init,
+name: 'IndexExchange',
+onTimeout: onTimeout,
+timeout: 6000
+}
+})();
+var SugarJsPlugin = {
+init: function(resolve) {
+// This is down here to prevent a circular dependency between the IAS and the configGPTAdsPlugin
+// It seemed like an annoying hammer to create a plugin just for this one line of code.
+SUGAR.gpt.setHierarchy(ad_context.page_hierarchy);
+resolve();
+},
+name: 'SugarJsLoadedPlugin',
+timeout: 2147483647 // MAX 32 bit signed integer
+};
+var sponsorRefPlugin = (function(){
+var refId;
+function init(resolve) {
+refId = getCookie();
+addPageTargeting();
+resolve();
+}
+function getCookie() {
+return ONSUGAR.Util.getCookie('sponsor_ref_id');
+}
+function addPageTargeting() {
+googletag.cmd.push(function() {
+if (refId) {
+googletag.pubads().setTargeting('ref', refId);
+}
+});
+}
+return {
+init: init,
+timeout: 0
+}
+})();
+var bixbyRefPlugin = (function() {
+function init(resolve) {
+if (ONSUGAR.Util.getURIComponentValue(window.location, 'utm_source') === 'bixby') {
+SUGAR.gpt.setBixby();
+}
+resolve();
+}
+return {
+init: init,
+timeout: 0
+}
+}());
+var permutiveRefPlugin = (function() {
+function init(resolve) {
+ONSUGAR.Util.isOptedOut().then(function(optedOut) {
+var permutiveVars = ad_context && ad_context.page_targeting ? JSON.stringify({
+page: {
+"type": ad_context.page_targeting.page_type || 'landing page',
+"article": {
+"title": ad_context.page_targeting.seo_title || '',
+"keywords": ad_context.page_targeting.tag || []
+}
+}
+}) : '{}';
+if (optedOut) {
+resolve();
+} else {
+!function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"51f7b159-295e-4eeb-821b-565af794f8a6","0f011977-02b5-4d79-9b46-a0f4fb7f5eab",{});
+window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){if(0===window.googletag.pubads().getTargeting("permutive").length){var g=window.localStorage.getItem("_pdfps");window.googletag.pubads().setTargeting("permutive",g?JSON.parse(g):[])}});
+window.permutive.addon('web', JSON.parse(permutiveVars));
+};
+});
+var script = document.createElement('script');
+script.src = "https://cdn.permutive.com/51f7b159-295e-4eeb-821b-565af794f8a6-web.js";
+document.head.appendChild(script);
+}
+return {
+init: init,
+timeout: 4000
+}
+}());
+var privacyStringPlugin = (function() {
+function init(resolve) {
+window.__uspapi = window.__uspapi || __uspapi;
+window.addEventListener("message", receiveMessage, false);
+resolve();
+}
+function receiveMessage(e) {
+if (e.data.__uspapiCall) {
+var data = e.data.__uspapiCall;
+__uspapi(data.command, data.version, null, data.callId, e);
+}
+}
+function __uspapi(command, version, callback, callId, e) {
+function sendPrivacyString(privacyString) {
+// Request sent directly
+if (callback) {
+callback({
+version: 1,
+uspString: privacyString
+}, true);
+}
+// Request sent another way
+else {
+var __uspapiReturn = {
+returnValue: privacyString,
+success: true,
+callId: callId
+};
+e.source.postMessage({ __uspapiReturn: __uspapiReturn }, e.origin);
+}
+}
+ONSUGAR.Util.getPrivacyString().then(function(privacyString) {
+if (!privacyString) {
+sendPrivacyString('1YNY');
+}
+sendPrivacyString(privacyString)
+}).catch(function() {
+sendPrivacyString('1YNY');
+});
+}
+return {
+init: init,
+timeout: 0
+}
+})();
+var tcfPlugin = (function() {
+var interval;
+function init(resolve) {
+if (!ad_context.is_uk) {
+resolve();
+}
+function checkForTCF() {
+if (window.__tcfapi && typeof window.__tcfapi === 'function') {
+__tcfapi('getTCData', 2, function (tcData, success) {
+var ready = tcData.cmpStatus === 'loaded';
+if (success && ready) {
+clearInterval(interval);
+resolve();
+}
+});
+}
+}
+interval = setInterval(checkForTCF, 50);
+}
+function onTimeout() {
+clearInterval(interval);
+}
+return {
+init: init,
+onTimeout: onTimeout,
+timeout: 5000
+}
+})();
+(function() {
+function promisifyPlugin(plugin, dependencies) {
+function getRacePromise() {
+var timeoutId;
+var timeoutPromise = new Promise(function (resolve) {
+timeoutId = window.setTimeout(function() {
+resolve();
+if (plugin.onTimeout && typeof plugin.onTimeout === "function") {
+plugin.onTimeout();
+}
+}, plugin.timeout ? plugin.timeout : 1000);
+});
+var actionPromise = new Promise(plugin.init);
+actionPromise.then(function() {
+window.clearTimeout(timeoutId);
+});
+return Promise.race([timeoutPromise, actionPromise]);
+}
+if(!dependencies) {
+return getRacePromise();
+} else {
+return Promise.all(dependencies).then(getRacePromise);
+}
+}
+function init() {
+var SugarJsPluginPromise = promisifyPlugin(SugarJsPlugin);
+var MOATPluginPromise = promisifyPlugin(window.SUGAR.MOAT, [SugarJsPluginPromise]);
+var sponsorRefPluginPromise = promisifyPlugin(sponsorRefPlugin, [SugarJsPluginPromise]);
+var bixbyPluginPromise = promisifyPlugin(bixbyRefPlugin, [SugarJsPluginPromise]);
+var permutivePluginPromise = promisifyPlugin(permutiveRefPlugin, [SugarJsPluginPromise]);
+var configGPTAdsPluginPromise = promisifyPlugin(configGPTAdsPlugin, [SugarJsPluginPromise, MOATPluginPromise, permutivePluginPromise, bixbyPluginPromise]);
+var privacyStringPluginPromise = promisifyPlugin(privacyStringPlugin, [SugarJsPluginPromise]);
+var tcfPluginPromise = promisifyPlugin(tcfPlugin, [SugarJsPluginPromise]);
+var pluginPromises = [];
+pluginPromises.push(
+SugarJsPluginPromise,
+configGPTAdsPluginPromise,
+MOATPluginPromise,
+sponsorRefPluginPromise,
+permutivePluginPromise,
+bixbyPluginPromise,
+privacyStringPluginPromise,
+tcfPluginPromise
+);
+if (!ad_context.is_pared) {
+var HeaderBiddingPluginPromise = promisifyPlugin(HeaderBiddingPlugin, [SugarJsPluginPromise, MOATPluginPromise, configGPTAdsPluginPromise, privacyStringPluginPromise, tcfPluginPromise]);
+var ApsTagPluginPromise = promisifyPlugin(ApsTagPlugin, [SugarJsPluginPromise, configGPTAdsPluginPromise, privacyStringPluginPromise, tcfPluginPromise]);
+var IXPluginPromise = promisifyPlugin(IXPlugin, [SugarJsPluginPromise, configGPTAdsPluginPromise, privacyStringPluginPromise, tcfPluginPromise]);
+pluginPromises.push(HeaderBiddingPluginPromise, ApsTagPluginPromise, IXPluginPromise);
+}
+var allPromise = Promise.all(pluginPromises);
+allPromise.then(function() {
+if(document.readyState === 'interactive' || document.readyState === "complete") {
+adPush();
+}
+else {
+document.addEventListener('DOMContentLoaded', adPush, false);
+}
+});
+}
+if (window.Promise) {
+init();
+} else {
+var js = document.createElement('script');
+js.src = 'https://media1.popsugar-assets.com/static/js/vendor/polyfills/promise.min.js';
+js.async = true;
+js.onload = init;
+document.head.appendChild(js);
+}
+})();
+})();
+</script>
+</head>
+<body
+class="homepage_page site-popsugar
+no-auto-scroll                                     has-carousel                                     sidebar-hidden                                                 us-site                                                                         allow_favorite                                                            "
+data-login-site="popsugar"        data-popsugar-host="https://www.popsugar.com"
+data-comscore-channel="home-page"        data-site-source="POPSUGAR"
+data-ab-headliner-host="https://media1.popsugar-assets.com/headliner/"
+data-assets-rev="4715"
+data-sugar-pubexchange-name="popsugar"                                data-is-not-cache=""
+data-one-signal-app-id="d87e784b-2736-4983-9a1d-45e2dd962328"            data-one-signal-safari-web-id="web.onesignal.auto.054b4fc9-febb-45d1-b366-8fc183da0d9e"                            >
+<script id="bonsai-product-template" type="x-tmpl-mustache">
+<div class="bonsai-custom-product-wrapper">
+<div class="bonsai-custom-product-image-wrapper">
+<img src="{{ images.0.url}}?w=500"/>
+{{#unavailable}}
+<div class="bonsai-custom-product-sold-out">Sold Out</div>
+{{/unavailable}}
+{{#hasFreeShipping}}
+<div class="bonsai-custom-product-free-shipping">Free Shipping</div>
+{{/hasFreeShipping}}
+</div>
+<div class="bonsai-custom-product-info-wrapper">
+<div class="bonsai-custom-product-name">
+{{ name}}
+</div>
+{{ #hasDiscount}}
+<div class="bonsai-custom-product-compare-at-price">
+${{ minCompareAtPrice}}
+</div>
+{{ /hasDiscount}}
+<div class="bonsai-custom-product-info">
+<span class="price">${{ minPrice}}</span> <span class="brand">from {{ brand.name}}</span>
+</div>
+<button class="bonsai-custom-product-button">
+Add to cart
+</button>
+</div>
+</div>
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2NLTZ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Facebook Pixel Code -->
+<noscript><img height="1" width="1" style="display:none;" src="https://www.facebook.com/tr?id=258101201039378&ev=PageView&noscript=1" alt="fb-track" /></noscript>
+<!-- End Facebook Pixel Code -->
+<a class="visuallyhidden focusable" href="#content">Skip Nav</a>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+var comscoreClientID = 6035900;
+var isMobile = 0;
+var isUK = 0;
+var constructComscoreTag = function() {
+ONSUGAR.Util.isOptedOut().then(function(optedOut) {
+var consent;
+if (isUK) {
+var bannerClosed = ONSUGAR.Util.getCookie('OptanonAlertBoxClosed');
+if (!bannerClosed) { // The user has not interacted with the banner
+consent = '';
+} else if (window.OnetrustActiveGroups && window.OnetrustActiveGroups.includes('C0004')) { // The user has consented to targeting cookies
+consent = 1;
+} else { // The user has interacted with the banner, but not consented to targeting cookies
+consent = 0;
+}
+} else {
+consent = optedOut ? 0 : 1;
+}
+var comscoreParams = {
+c1: 2,
+c2: comscoreClientID,
+cs_ucfr: consent
+};
+_comscore.push(comscoreParams);
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+})
+}
+if (isMobile) {
+window.addEventListener('sugarJSLoaded', constructComscoreTag);
+} else {
+constructComscoreTag();
+}
+</script>
+<noscript>
+<img src="//sb.scorecardresearch.com/p?c1=2&amp;c2=6035900&amp;cv=2.0&amp;cj=1&amp;cs_ucfr=1" alt="comscore-tag" />
+</noscript>
+<!-- End comScore Tag -->
+<script src='https://script.fixel.ai/script/compressed/Fixel.min.js'></script>
+<script src='https://script.fixel.ai/custom/fxl-popsugar.js'></script>
+<div class="body-container">
+<div id="top-nav">
+<div id="top-nav-ad" >
+<div class="gpt-ad ad-page_shift" id="page_shift-0" data-l10n-ad="Advertisement" data-sizes="[[1000,200], [970,250], [1400,500]]"></div>
+</div>                                <div id="js-nav-container-ikb">
+<div id="nav-content">
+<div id="special-banner-container"></div>
+<header class="ikb-nav expanded">
+<div class="nav-logo-container">
+<a href="https://www.popsugar.com"
+class="omniture-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:popsugar-logo"
+>
+<span class="main-logo"></span>
+</a>
+</div>
+<div class="nav-cta-ad-container">
+<div class="gpt-ad ad-badge" id="badge-0" data-l10n-ad="Advertisement" data-sizes="[180,55]"></div>
+</div>
+<nav id="js-nav-channel" class="nav-channel nav-prime">
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="celebrity"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:celebrity"
+data-hero-show="Celebrity"
+class="ga-track omniture-track celebrity"
+href="https://www.popsugar.com/celebrity/">
+Celebrity
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/celebrity/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="celebrity:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest celebrity"
+>
+Latest Celebrity
+</a>
+<a
+href="https://www.popsugar.com/celebrity-news"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="celebrity news"
+>
+Celebrity News
+</a>
+<a
+href="https://www.popsugar.com/entertainment"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="entertainment news"
+>
+Entertainment News
+</a>
+<a
+href="https://www.popsugar.com/Movies"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="movies"
+>
+Movies
+</a>
+<a
+href="https://www.popsugar.com/TV"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="tv"
+>
+TV
+</a>
+<a
+href="https://www.popsugar.com/Music"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="music"
+>
+Music
+</a>
+<a
+href="https://link.chtbl.com/NotOverIt"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="not over it podcast"
+>
+Not Over It Podcast
+</a>
+<a
+href="https://www.popsugar.com/marsaimartin?utm_source=popsugar.com&utm_medium=celebrity-dropdown&utm_campaign=marsaimartin-coverstory"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="celebrity:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="marsai martin interview"
+>
+Marsai Martin Interview
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="fashion"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:fashion"
+data-hero-show="Fashion"
+class="ga-track omniture-track fashion"
+href="https://www.popsugar.com/fashion/">
+Fashion
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/fashion/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="fashion:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest fashion"
+>
+Latest Fashion
+</a>
+<a
+href="https://www.popsugar.com/Street-Style"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fashion:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="street style"
+>
+Street Style
+</a>
+<a
+href="https://www.popsugar.com/Celebrity-Style"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fashion:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="celebrity style"
+>
+Celebrity Style
+</a>
+<a
+href="/latest/Perfect-Outfit"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fashion:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="perfect outfit"
+>
+Perfect Outfit
+</a>
+<a
+href="https://www.popsugar.com/fashion/fashion-forward-47873055?utm_source=popsugar.com&utm_medium=fashion-dropdown&utm_campaign=fashionforward"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fashion:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="fashion forward"
+>
+Fashion Forward
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="fitness"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:fitness"
+data-hero-show="Fitness"
+class="ga-track omniture-track fitness"
+href="https://www.popsugar.com/fitness/">
+Fitness
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/fitness/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="fitness:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest fitness"
+>
+Latest Fitness
+</a>
+<a
+href="https://www.popsugar.com/Workouts"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="workouts"
+>
+Workouts
+</a>
+<a
+href="https://www.popsugar.com/mental-health-month-2021-48295300?utm_source=popsugar.com&utm_medium=fitnavbar&utm_campaign=mentalhealthmonth2021"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="mental health matters"
+>
+Mental Health Matters
+</a>
+<a
+href="https://www.popsugar.com/fitness/Tips-Live-Happy-Healthy-Life-45446976?utm_source=popsugar.com&utm_medium=fitness-dropdown&utm_campaign=thewell"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="wellness tips"
+>
+Wellness Tips
+</a>
+<a
+href="https://www.popsugar.com/fitness/stories-tips-information-about-women-health-47555339?utm_source=popsugar.com&utm_medium=fitness-dropdown&utm_campaign=fulldisclosure"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="women's health"
+>
+Women's Health
+</a>
+<a
+href="https://www.popsugar.com/fitness/sweat-2-weeks-to-strong-workout-plan-48389042"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="sweat 2 weeks to strong"
+>
+Sweat 2 Weeks to Strong
+</a>
+<a
+href="https://www.thebodybook.net/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="fitness:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="the body book"
+>
+The Body Book
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="love"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:love"
+data-hero-show="Love"
+class="ga-track omniture-track love"
+href="https://www.popsugar.com/love/">
+Love
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/love/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="love:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest love"
+>
+Latest Love
+</a>
+<a
+href="https://www.popsugar.com/Sex"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="love:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="sex"
+>
+Sex
+</a>
+<a
+href="https://www.popsugar.com/latest/Singlehood"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="love:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="singlehood"
+>
+Singlehood
+</a>
+<a
+href="https://www.popsugar.com/Relationships"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="love:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="relationships"
+>
+Relationships
+</a>
+<a
+href="https://www.popsugar.com/news/pride-month-2021-48337611"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="love:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="pride outside"
+>
+Pride Outside
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="beauty"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:beauty"
+data-hero-show="Beauty"
+class="ga-track omniture-track beauty"
+href="https://www.popsugar.com/beauty/">
+Beauty
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/beauty/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="beauty:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest beauty"
+>
+Latest Beauty
+</a>
+<a
+href="https://www.popsugar.com/Hair"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="hair"
+>
+Hair
+</a>
+<a
+href="https://www.popsugar.com/Skin-Care"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="skin care"
+>
+Skin Care
+</a>
+<a
+href="https://www.makeup.com?utm_medium=cpc&utm_source=POPSUGAR.com&utm_campaign=MUDC_nav"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="makeup"
+>
+Makeup
+</a>
+<a
+href="https://www.popsugar.com/Beauty-Reviews"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="product reviews"
+>
+Product Reviews
+</a>
+<a
+href="https://dabble.popsugar.com/?utm_source=popsugar&utm_medium=topnav&utm_campaign=dabble"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="free beauty samples"
+>
+Free Beauty Samples
+</a>
+<a
+href="https://www.popsugar.com/beauty/at-home-beauty-reviews-guides-47733153?utm_source=popsugar.com&utm_medium=beauty-dropdown&utm_campaign=thathomeglow"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="at-home beauty tips"
+>
+At-Home Beauty Tips
+</a>
+<a
+href="https://www.popsugar.com/beauty/acne-advice-tips-treatments-47455893"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="beauty:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="acne tips and advice"
+>
+Acne Tips and Advice
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="family"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:family"
+data-hero-show="Family"
+class="ga-track omniture-track family"
+href="https://www.popsugar.com/family/">
+<span>F</span><span>a</span><span>m</span><span>i</span><span>l</span><span>y</span>
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/family/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="family:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest family"
+>
+Latest Family
+</a>
+<a
+href="https://www.popsugar.com/Parenting"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="parenting"
+>
+Parenting
+</a>
+<a
+href="https://www.popsugar.com/Pregnancy"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="pregnancy"
+>
+Pregnancy
+</a>
+<a
+href="https://www.popsugar.com/Babies"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="babies"
+>
+Babies
+</a>
+<a
+href="https://www.popsugar.com/Toddlers"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="toddlers"
+>
+Toddlers
+</a>
+<a
+href="https://www.popsugar.com/family/back-to-school-tips-for-parents-2020-47605417?utm_source=popsugar.com&utm_medium=family-dropdown&utm_campaign=chalkboard"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="back-to-school tips"
+>
+Back-to-School Tips
+</a>
+<a
+href="https://www.popsugar.com/family/indoor-activities-for-families-47337673?utm_source=popsugar.com&utm_medium=familly-dropdown&utm_campaign=upcloseandparental"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="indoor activities"
+>
+Indoor Activities
+</a>
+<a
+href="https://www.popsugar.com/family/47635590?utm_source=popsugar.com&utm_medium=familly-dropdown&utm_campaign=lunchbox"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="family:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="lunchbox"
+>
+Lunchbox
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="living"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:living"
+data-hero-show="Living"
+class="ga-track omniture-track living"
+href="https://www.popsugar.com/living/">
+Living
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/living/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="living:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest living"
+>
+Latest Living
+</a>
+<a
+href="https://www.popsugar.com/food"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="food"
+>
+Food
+</a>
+<a
+href="https://www.popsugar.com/home"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="home"
+>
+Home
+</a>
+<a
+href="https://www.popsugar.com/smart-living"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="smart living"
+>
+Smart Living
+</a>
+<a
+href="https://www.popsugar.com/money"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="money & career"
+>
+Money & Career
+</a>
+<a
+href="https://www.popsugar.com/pets"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="pets"
+>
+Pets
+</a>
+<a
+href="https://www.popsugar.com/smart-living/2-week-sustainability-challenge-48251304"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="sustainability tips"
+>
+Sustainability Tips
+</a>
+<a
+href="https://www.popsugar.com/smart-living/treat-yourself-time-48250645"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="time to treat yourself"
+>
+Time to Treat Yourself
+</a>
+<a
+href="https://www.popsugar.com/home/best-houseplant-advice-plant-decor-inspiration-48410630"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="living:subnav-uber-tag8"
+data-ga-category="nav"
+data-ga-action="plant powered"
+>
+Plant Powered
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="culture"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:culture"
+data-hero-show="Culture"
+class="ga-track omniture-track culture"
+href="https://www.popsugar.com/culture/">
+Culture
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/culture/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="culture:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest culture"
+>
+Latest Culture
+</a>
+<a
+href="https://www.popsugar.com/news"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="news"
+>
+News
+</a>
+<a
+href="https://www.popsugar.com/love"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="love & sex"
+>
+Love & Sex
+</a>
+<a
+href="https://www.popsugar.com/tech"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="tech"
+>
+Tech
+</a>
+<a
+href="https://www.popsugar.com/travel"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="travel"
+>
+Travel
+</a>
+<a
+href="https://www.popsugar.com/inspirational-women-2021-48179327"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="unstoppable"
+>
+Unstoppable
+</a>
+<a
+href="https://www.popsugar.com/stories-centering-black-experiences-48266222"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="in our own right"
+>
+In Our Own Right
+</a>
+<a
+href="https://www.popsugar.com/asian-and-pacific-islander-american-heritage-month-2021-48303751"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="we belong here"
+>
+We Belong Here
+</a>
+<a
+href="https://www.popsugar.com/all-popsugar-podcasts-48109853"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag8"
+data-ga-category="nav"
+data-ga-action="podcasts"
+>
+Podcasts
+</a>
+<a
+href="https://www.popsugar.com/entertainment/bookmarked-47873899?utm_source=popsugar.com&utm_medium=living-dropdown&utm_campaign=bookmarked"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag9"
+data-ga-category="nav"
+data-ga-action="books"
+>
+Books
+</a>
+<a
+href="https://www.popsugar.com/thestep"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="culture:subnav-uber-tag10"
+data-ga-category="nav"
+data-ga-action="the step"
+>
+The Step
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="latina"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:latina"
+data-hero-show="Latina"
+class="ga-track omniture-track latina"
+href="https://www.popsugar.com/latina/">
+Latina
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/latina/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="latina:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest latina"
+>
+Latest Latina
+</a>
+<a
+href="/latest/Latina-Living"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="cultura y vida"
+>
+Cultura y Vida
+</a>
+<a
+href="/Latina-Food"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="cocina"
+>
+Cocina
+</a>
+<a
+href="/Latina-Moms"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="familia"
+>
+Familia
+</a>
+<a
+href="/Latina-Celebrity"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="estrellas"
+>
+Estrellas
+</a>
+<a
+href="/Latina-Fashion"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="moda"
+>
+Moda
+</a>
+<a
+href="https://www.popsugar.com/latina/hispanic-heritage-month-2020-47733143?utm_source=popsugar.com&utm_medium=latina-dropdown&utm_campaign=hispanicheritagemonth2020"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="latinx rise up"
+>
+Latinx Rise Up
+</a>
+<a
+href="https://www.popsugar.com/latina/celebrating-latinx-culture-48108983"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="latina:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="celebrate tu cultura"
+>
+Celebrate Tu Cultura
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="video"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:video"
+data-hero-show="Video"
+class="ga-track omniture-track video"
+href="https://www.popsugar.tv">
+Video
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.tv"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="video:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest video"
+>
+Latest Video
+</a>
+<a
+href="https://www.popsugar.com/entertainment/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="entertainment"
+>
+Entertainment
+</a>
+<a
+href="https://www.popsugar.com/fashion/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="fashion"
+>
+Fashion
+</a>
+<a
+href="https://www.popsugar.com/beauty/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="beauty"
+>
+Beauty
+</a>
+<a
+href="https://www.popsugar.com/fitness/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="fitness"
+>
+Fitness
+</a>
+<a
+href="https://www.popsugar.com/food/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="food"
+>
+Food
+</a>
+<a
+href="https://www.popsugar.com/tech/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="tech"
+>
+Tech
+</a>
+<a
+href="https://www.popsugar.com/home/videos"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="video:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="home"
+>
+Home
+</a>
+</div>
+</li>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="shop"
+data-omniture-type="front-page-link"
+data-omniture-subtype="nav:shop"
+data-hero-show="SHOP"
+class="ga-track omniture-track shop"
+href="https://www.popsugar.com/shop/">
+SHOP
+</a>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/shop/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-latest"
+data-omniture-subtype="shop:subnav-uber-tag-latest}"
+data-ga-category="nav"
+data-ga-action="latest shop"
+>
+Latest SHOP
+</a>
+<a
+href="http://goto.target.com/6bk7PN"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="shop:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="disney princess x popsugar"
+>
+Disney Princess x POPSUGAR
+</a>
+<a
+href="/shop/beauty"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="shop:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="beauty"
+>
+Beauty
+</a>
+<a
+href="http://shop.popsugar.com/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="shop:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="the pop shop"
+>
+The Pop Shop
+</a>
+<a
+href="https://swipe.shop/"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="shop:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="swipe shop"
+>
+Swipe Shop
+</a>
+<a
+href="https://www.popsugar.com/family/turn-your-home-into-summer-funland-48334986"
+class="omniture-track ga-track"
+data-omniture-type="sub-nav-link"
+data-omniture-subtype="shop:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="summer fun"
+>
+Summer Fun
+</a>
+</div>
+</li>
+</ul>
+</nav>
+<nav class="nav-menu">
+<i class="overlay-menu-toggle hamburger icon-menu"></i>
+</nav>
+<div class="top-nav-btns">
+<div class="nav-favorite favorite-tooltip ">
+<a class="icon icon-star-round-filled omniture-track" href="https://www.popsugar.com/favorites" data-omniture-type="front-page-link" data-omniture-subtype="nav:favorite"></a>
+<div class="submenu-favorite">
+Love It. Save Your Favorites Now.
+</div>
+</div>
+<div class="nav-search-wrapper  ">
+<div class="nav-search ">
+<a class="icon icon-search omniture-track" href="#" data-omniture-type="front-page-link" data-omniture-subtype="nav:search box"></a>
+</div>
+<div class="search-overlay">
+<form class="search-overlay-form" action="/gsearch" >
+<input
+class="search-overlay-input nav-search-box"
+name="query"
+value=""
+type="search"
+placeholder="Search...">
+<button class="search-overlay-submit" type="submit"><i class="icon-search"></i></button>
+</form>
+<i class="icon-close close-search-overlay"></i>
+</div>
+</div>
+</div>
+</header>
+</div>
+</div>
+</div>
+<div class="feature-section-channel-page">
+<a
+href="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257"
+data-omniture-type="front-page-link" data-omniture-subtype="carousel0:48451257"
+data-ga-label="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257" data-ga-category="internal click" data-ga-action="carousel0"
+class="hero omniture-track ga-track">
+<div class="hero-image-container">
+<div class="hero-image text ">
+<img  alt="Does The Suicide Squad Have a Postcredits Scene?" class="image preview ikb-image-fill-vertical" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/dbQFieoUA2EPCvJC_jDc350lbaY/332x325:1503x1496/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/753/n/1922283/fd36f495610d6b9642de31.60551795_/i/the-suicide-squad-postcredits-scene.jpg" title="Does The Suicide Squad Have a Postcredits Scene?" />
+</div>
+</div>
+<div class="hero-content">
+<div class="hero-channel">
+Movies
+</div>
+<div class="hero-title">
+The Suicide Squad Might Have Multiple Postcredits Scenes, but Only 1 Made Us Laugh
+</div>
+<div class="meta">
+<span class="by"> by </span> Grayson Gilcrease
+</div>
+</div>
+</a>
+<a
+href="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027"
+data-omniture-type="front-page-link" data-omniture-subtype="carousel1:48451027"
+data-ga-label="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027" data-ga-category="internal click" data-ga-action="carousel1"
+class="hero omniture-track ga-track">
+<div class="hero-image-container">
+<div class="hero-image gallery ">
+<img  alt="Watch Quan Hongchan&#039;s Perfect Dives" class="image preview ikb-image-fill-vertical" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/sB1iig_RArYDLlUXZW1YlSpjl4g/1802x0:5719x3917/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/670/n/1922729/384fc5da610d4fa67d6748.58868735_/i/quan-hongchan-gold-medal-diving-2021-olympics.jpg" title="Watch Quan Hongchan&#039;s Perfect Dives" />
+</div>
+</div>
+<div class="hero-content">
+<div class="hero-channel">
+Summer Olympics 2021
+</div>
+<div class="hero-title">
+China&apos;s 14-Year-Old Diving Sensation Quan Hongchan Scored Two Perfect 10s and Set a New Olympic Record
+</div>
+<div class="meta">
+<span class="by"> by </span> Angelica Wilson
+</div>
+</div>
+</a>
+<a
+href="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898"
+data-omniture-type="front-page-link" data-omniture-subtype="carousel2:48423898"
+data-ga-label="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898" data-ga-category="internal click" data-ga-action="carousel2"
+class="hero omniture-track ga-track">
+<div class="hero-image-container">
+<div class="hero-image text ">
+<img  alt="Kanye West&#039;s Donda Album Release Date" class="image preview ikb-image-fill-vertical" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/T5gOdgpq532vW53Kic2fWGPLXoo/916x0:4583x3667/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/07/19/671/n/1922283/385a3a9d60f5953633bde5.71562447_/i/is-kanye-west-releasing-new-album-in-2021.jpg" title="Kanye West&#039;s Donda Album Release Date" />
+</div>
+</div>
+<div class="hero-content">
+<div class="hero-channel">
+Kanye West
+</div>
+<div class="hero-title">
+So . . . Where Is Kanye West&apos;s Donda Album?
+</div>
+<div class="meta">
+<span class="by"> by </span> Grayson Gilcrease
+</div>
+</div>
+</a>
+<a
+href="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331"
+data-omniture-type="front-page-link" data-omniture-subtype="carousel3:48444331"
+data-ga-label="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331" data-ga-category="internal click" data-ga-action="carousel3"
+class="hero omniture-track ga-track">
+<div class="hero-image-container">
+<div class="hero-image text ">
+<img  alt="How Latinxs Are Reclaiming Ancestral Healing Practices" class="image preview ikb-image-fill-vertical" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/as63M6595JXycel7HXPXHZKVWhc/0x1008:3024x4032/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/02/982/n/43931700/40ca996161087333358e27.42583091_/i/how-latinxs-are-reclaiming-ancestral-healing-practices.jpg" title="How Latinxs Are Reclaiming Ancestral Healing Practices" />
+</div>
+</div>
+<div class="hero-content">
+<div class="hero-channel">
+Wellness
+</div>
+<div class="hero-title">
+For Latinx Communities, Wellness Often Means Reclaiming Ancestral Practices
+</div>
+<div class="meta">
+<span class="by"> by </span> Raquel Reichard
+</div>
+</div>
+</a>
+</div>
+<a href="https://www.popsugar.com/fitness/allyson-felix-wins-bronze-in-400m-at-2021-olympics-48450852"
+class="featured-post  featured-story omniture-track ga-track gallery"
+data-omniture-type="front-page-link"
+data-omniture-subtype="front-page:top-story"
+data-ga-label="https://www.popsugar.com/fitness/allyson-felix-wins-bronze-in-400m-at-2021-olympics-48450852" data-ga-category="internal click" data-ga-action="top story"
+>
+<div class="top-story-image">
+<img  alt="Allyson Felix Wins Bronze in the 400m at the 2021 Olympics" class="image xxxlarge@2x ikb-image-fill-vertical" width="2048" height="844" src="https://media1.popsugar-assets.com/files/thumbor/Lg6kxDIgJvNBiGzBvm1IbT2VKik/0x347:4961x2391/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/614/n/1922729/72017bfc610d3cafbf9754.07073507_/i/allyson-felix-wins-bronze-in-400m-at-2021-olympics.jpg" title="Allyson Felix Wins Bronze in the 400m at the 2021 Olympics" />
+</div>
+<div class="top-story-info">
+<div class="top-story-channel">
+Summer Olympics 2021
+</div>
+<div class="top-story-title">
+Watch Allyson Felix Win Bronze in the 400m Dash, Her 10th Career Olympic Medal
+</div>
+<div class="top-story-author-name">
+<span class="by"> by </span> Jenny Sugar
+</div>
+</div>
+</a>
+<div id="header-wrapper">
+</div>
+<div id="page-wrapper" class="clearfix  ">
+<div id="content-wrapper" >
+<div id="content" class="">
+<div class="topSearches-homepage">
+<div class="topSearches_image">
+<img src="https://media1.popsugar-assets.com/files/thumbor/cn27joOCPoO1A01OvyKzOwo5ejA/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/06/03/067/n/44344577/42a5389760b975bd85d5f5.93732087_/i/shop-homepage-module-6121.jpg">
+</div>
+<div id="ShopStyle_TopSearches">
+<div class="topSearches">
+<div class="topSearch_bg"></div>
+<div class="topSearch_wrap">
+<div class="topSearch_title">Shop Disney Princess x POPSUGAR</div>
+<div class="topSearch_kicker">Discover the Happily Ever Home Collection, available exclusively at Target.</div>
+<div class="topSearch_results">
+<div class="topSearch_searches">
+<ul id="ShopStyle_SearchResults">
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/u15-XHBtDKyX4EN3DKmZVQMT6Sg/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/a6c812146b90edc2_PSxDisney_Icon_Organizers/i/Organizers.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Organizers</a></p>
+</li>
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/Q7XNnyCYGZrUxNPj4RBjrPgXK2Q/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/bc7f721689e6efc8_PSxDisney_Icon_Fridge/i/Beauty-Fridge.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Beauty Fridge</a></p>
+</li>
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/w3XArCDWU2PlvG2GgyI52EtctWo/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/503682de2401a8bc_PSxDisney_Icon_Lamps/i/Lighting.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Lighting</a></p>
+</li>
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/4elhg64BJvDK4n5MCn4jHWBLgr0/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/21b6c73a55145229_PSxDisney_Icon_Storage/i/Storage.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Storage</a></p>
+</li>
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/hKXCVe2zD6JCXhrzVdeAYjtHuFI/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/c9e27d9fcfe1a599_PSxDisney_Icon_Candle/i/Candles.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Candles</a></p>
+</li>
+<li class="topSearch_item omniture-track" data-omniture-type="front-page-shop-link">
+<img src="https://media1.popsugar-assets.com/files/thumbor/rZPNMBtJAwo6Hti9iR6Lp9SK3RM/50x50/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2021/06/02/858/n/44344577/a49ce186226f3112_PSxDisney_Icon_Towels/i/Towels.jpg"> <p><a href="http://goto.target.com/BX5Bz9" class="track-outbound" >Towels</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div id="frontdoor">
+<div class="ikb-header">
+<div class="title">Now You Know</div>
+</div>
+<div class="ikb-post-grid now_you_know">
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451709" data-timestamp="1628283663"
+>
+<a     href="https://www.popsugar.com/fashion/ivy-park-rodeo-collection-48451709"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48451709"
+data-ga-label="https://www.popsugar.com/fashion/ivy-park-rodeo-collection-48451709" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48451709"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Beyoncé&#039;s Ivy Park Rodeo Themed Collection Is Coming Aug. 19" class="image preview" src="https://media1.popsugar-assets.com/files/thumbor/Qa1600aWOUHVypQUqg0sAgbowRY/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/039/n/1922564/dc24c4d1610dcc5200dba7.21041612_/i/ivy-park-rodeo-collection.tif" title="Beyoncé&#039;s Ivy Park Rodeo Themed Collection Is Coming Aug. 19" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/ivy-park-rodeo-collection-48451709"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48451709"
+data-ga-label="https://www.popsugar.com/fashion/ivy-park-rodeo-collection-48451709" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48451709"
+>
+<div class="ikb-post-header">
+Beyoncé Knowles
+</div>
+<div class="ikb-post-title">
+Beyoncé Is Dropping a Rodeo-Themed Ivy Park Collection — So, Giddy Up!
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Hannah Weil McKinley
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48446638" data-timestamp="1628283603"
+>
+<a     href="https://www.popsugar.com/entertainment/nas-kings-disease-ii-album-48446638"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48446638"
+data-ga-label="https://www.popsugar.com/entertainment/nas-kings-disease-ii-album-48446638" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48446638"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Nas&#039;s King&#039;s Disease II Features Lauryn Hill and More" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/tyBlDoTGBUYlSjv8NDDaRVCJczs/580x0:2437x1857/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/03/912/n/1922283/97e4d75d6109ace06c80c7.50713416_/i/nas-kings-disease-ii-album.jpg" title="Nas&#039;s King&#039;s Disease II Features Lauryn Hill and More" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/nas-kings-disease-ii-album-48446638"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48446638"
+data-ga-label="https://www.popsugar.com/entertainment/nas-kings-disease-ii-album-48446638" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48446638"
+>
+<div class="ikb-post-header">
+Music
+</div>
+<div class="ikb-post-title">
+Nas&apos;s New Album Doesn&apos;t Feature Just 1 Music Legend, It Features Many
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48430707" data-timestamp="1628283006"
+>
+<a     href="https://www.popsugar.com/entertainment/tinashe-333-album-48430707"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48430707"
+data-ga-label="https://www.popsugar.com/entertainment/tinashe-333-album-48430707" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48430707"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Tinashe Releases New and Evolutionary 333 Album" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/Ic7hVDmkRXA5sHf6fGVeVdDWTeY/216x0:1598x1382/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/889/n/1922283/ebea695c610d99c01368e9.72522082_/i/tinashe-333-album.jpg" title="Tinashe Releases New and Evolutionary 333 Album" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/tinashe-333-album-48430707"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48430707"
+data-ga-label="https://www.popsugar.com/entertainment/tinashe-333-album-48430707" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48430707"
+>
+<div class="ikb-post-header">
+Tinashe
+</div>
+<div class="ikb-post-title">
+Tinashe&apos;s Newest Album Is an &quot;Evolution Into the Future&quot; — Listen For Yourself Here
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Monica Sisavat
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-46009174" data-timestamp="1628271903"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_46009174_1628090055"
+data-ab-test-nid="46009174"
+data-ab-test-title1="Rihanna Is Officially a Billionaire, but Are You Really Surprised?"
+data-ab-test-title2="Rihanna Has Earned Every Damn Penny of Her Massive Net Worth"
+data-ab-test-id1="376866"
+data-ab-test-id2="376867"
+>
+<a     href="https://www.popsugar.com/celebrity/What-Rihanna-Net-Worth-46009174"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:46009174"
+data-ga-label="https://www.popsugar.com/celebrity/What-Rihanna-Net-Worth-46009174" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="46009174"
+>
+<div class="ikb-post-image text">
+<img  alt="What Is Rihanna&#039;s Net Worth?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/hv5a0Z7w9hFcrtVKdJszclzW_7Y/1820x104:4910x3194/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/04/676/n/1922398/f722a44b610aaec671f3e9.51869383_/i/What-Rihanna-Net-Worth.jpg" title="What Is Rihanna&#039;s Net Worth?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/celebrity/What-Rihanna-Net-Worth-46009174"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:46009174"
+data-ga-label="https://www.popsugar.com/celebrity/What-Rihanna-Net-Worth-46009174" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="46009174"
+>
+<div class="ikb-post-header">
+Rihanna
+</div>
+<div class="ikb-post-title">
+Rihanna Reacts to Her New Billionaire Status: &quot;God Is Good&quot;
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Amanda Prahl
+<span class="time"> 
+7 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451156" data-timestamp="1628271363"
+>
+<a     href="https://www.popsugar.com/celebrity/simone-biles-reunites-family-after-tokyo-olympics-48451156"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48451156"
+data-ga-label="https://www.popsugar.com/celebrity/simone-biles-reunites-family-after-tokyo-olympics-48451156" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48451156"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Simone Biles Reunites With Family After Tokyo Olympics" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/vkY-lQSLVash-BlV3QMVqz225_Q/641x0:3222x2581/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/777/n/1922398/f7d0db4f610d73c6bd95b5.21334830_/i/simone-biles-reunites-family-after-tokyo-olympics.jpg" title="Simone Biles Reunites With Family After Tokyo Olympics" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/celebrity/simone-biles-reunites-family-after-tokyo-olympics-48451156"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48451156"
+data-ga-label="https://www.popsugar.com/celebrity/simone-biles-reunites-family-after-tokyo-olympics-48451156" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48451156"
+>
+<div class="ikb-post-header">
+Simone Biles
+</div>
+<div class="ikb-post-title">
+No One Is Happier to Have Simone Biles Home Than Her Family: &quot;It Was Super Emotional&quot;
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+7 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48423898" data-timestamp="1628269204"
+>
+<a     href="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48423898"
+data-ga-label="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48423898"
+>
+<div class="ikb-post-image text">
+<img  alt="Kanye West&#039;s Donda Album Release Date" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/T5gOdgpq532vW53Kic2fWGPLXoo/916x0:4583x3667/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/07/19/671/n/1922283/385a3a9d60f5953633bde5.71562447_/i/is-kanye-west-releasing-new-album-in-2021.jpg" title="Kanye West&#039;s Donda Album Release Date" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="now_you_know:48423898"
+data-ga-label="https://www.popsugar.com/entertainment/is-kanye-west-releasing-new-album-in-2021-48423898" data-ga-category="internal click" data-ga-action="now you know"
+data-nid="48423898"
+>
+<div class="ikb-post-header">
+Kanye West
+</div>
+<div class="ikb-post-title">
+So . . . Where Is Kanye West&apos;s Donda Album?
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+8 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+</div>
+<style type="text/css">.ikb-post-container .main-tentpole-mobile {
+top: -10px;
+}
+.main-tentpole-title {
+margin-top: 15px;
+text-transform: uppercase;
+font-style: italic;
+font-size: 24px;
+}
+.featured-tentpole-post .top-story-title {
+color: #002FA7 !important;
+}
+.feature-button {
+font-size: 15px;
+letter-spacing: .1em;
+font-weight: 600;
+padding: 4px 30px;
+vertical-align: middle;
+text-transform: uppercase;
+color: #ffffff;
+}
+.light-button {
+background-color: #002FA7;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.light-button:hover {
+color: #ffffff;
+}</style>
+<a href="http://goto.target.com/gbA1Yg"
+class="featured-post featured-tentpole-post featured-story omniture-track ga-track link"
+data-omniture-type="front-page-link"
+data-omniture-subtype="front-page:top-story"
+data-ga-label="http://goto.target.com/gbA1Yg" data-ga-category="internal click" data-ga-action="top story"
+>
+<div class="top-story-image">
+<img  alt="You&#039;ve Got This!" class="image xxxlarge@2x ikb-image-fill-vertical" width="1456" height="600" src="https://media1.popsugar-assets.com/files/thumbor/RxRuE_HOl2ow9-hHIHW6S1jIyk4/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/08/03/718/n/44344577/c8690cc761096b68371853.82099414_/i/Youve-Got-This.jpg" title="You&#039;ve Got This!" />
+</div>
+<div class="top-story-info">
+<div class="top-story-title">
+You&apos;ve Got This!
+</div>
+<div class="top-story-excerpt">
+Introducing our first-ever creative guidebook that's chock-full of activities focused on mindfulness, goal-setting, and self-confidence.
+</div>
+<div class="top-story-author-name">
+<span class="feature-button light-button">Get the Book</span>
+</div>
+</div>
+</a>            
+<div class="ikb-header">
+<div class="title lastest-news-header">Latest News</div>
+<div class="meta">62 Posts Last 24 Hours</div>
+</div>
+<div class="ikb-post-grid linear_grid">
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48442447" data-timestamp="1628298123"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48442447_1627672484"
+data-ab-test-nid="48442447"
+data-ab-test-title1="We're Calling It Now! Here Are 2021's Buzziest Halloween Costume Ideas"
+data-ab-test-title2="We Don't Need a Crystal Ball to Predict the Hottest Halloween Costume Ideas of 2021"
+data-ab-test-id1="376624"
+data-ab-test-id2="376625"
+>
+<a     href="https://www.popsugar.com/smart-living/halloween-costume-ideas-2021-48442447"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48442447"
+data-ga-label="https://www.popsugar.com/smart-living/halloween-costume-ideas-2021-48442447" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48442447"
+>
+<div class="ikb-post-image gallery">
+<img  alt="The Best Halloween Costume Ideas For 2021" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/PucjvYTVtC2FGniwY76BxYNC_ME/120x0:2120x2000/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/043/n/1922441/739c8918610dcd743abf59.59646228_/i/halloween-costume-ideas-2021.jpg" title="The Best Halloween Costume Ideas For 2021" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/smart-living/halloween-costume-ideas-2021-48442447"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48442447"
+data-ga-label="https://www.popsugar.com/smart-living/halloween-costume-ideas-2021-48442447" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48442447"
+>
+<div class="ikb-post-header">
+Halloween
+</div>
+<div class="ikb-post-title">
+We&apos;re Calling It Now! Here Are 2021&apos;s Buzziest Halloween Costume Ideas
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Haley Lyndes
+<span class="time"> 
+17 minutes ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451883" data-timestamp="1628295603"
+>
+<a     href="https://www.popsugar.com/fitness/team-usa-molly-seidel-wins-bronze-in-2021-olympic-marathon-48451883"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451883"
+data-ga-label="https://www.popsugar.com/fitness/team-usa-molly-seidel-wins-bronze-in-2021-olympic-marathon-48451883" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451883"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Team USA&#039;s Molly Seidel Wins Bronze in 2021 Olympic Marathon" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/BEYbVjS4Hd3UZWxQ5S7kZhFpUNQ/153x0:2604x2451/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/045/n/1922729/fc367308610dce4ef34989.99045873_/i/team-usa-molly-seidel-wins-bronze-in-2021-olympic-marathon.jpg" title="Team USA&#039;s Molly Seidel Wins Bronze in 2021 Olympic Marathon" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fitness/team-usa-molly-seidel-wins-bronze-in-2021-olympic-marathon-48451883"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451883"
+data-ga-label="https://www.popsugar.com/fitness/team-usa-molly-seidel-wins-bronze-in-2021-olympic-marathon-48451883" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451883"
+>
+<div class="ikb-post-header">
+Summer Olympics 2021
+</div>
+<div class="ikb-post-title">
+In Her 3rd Career Marathon, American Molly Seidel Shocks the Field to Win Olympic Bronze
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Maggie Ryan
+<span class="time"> 
+59 minutes ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48450033" data-timestamp="1628291199"
+>
+<a     href="https://www.popsugar.com/fashion/amazon-making-cut-season-2-finale-recap-results-48450033"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450033"
+data-ga-label="https://www.popsugar.com/fashion/amazon-making-cut-season-2-finale-recap-results-48450033" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450033"
+>
+<div class="ikb-post-image text">
+<img  alt="Amazon Making the Cut Season 2 Finale Recap and Results" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/iaYwQDmXZf7g_bwF8Eoy5v4UrpA/369x0:1734x1365/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/05/848/n/1922564/c4d09116610c3a53b779d1.50224347_/i/amazon-making-cut-season-2-finale-recap-results.jpg" title="Amazon Making the Cut Season 2 Finale Recap and Results" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/amazon-making-cut-season-2-finale-recap-results-48450033"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450033"
+data-ga-label="https://www.popsugar.com/fashion/amazon-making-cut-season-2-finale-recap-results-48450033" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450033"
+>
+<div class="ikb-post-header">
+Making The Cut
+</div>
+<div class="ikb-post-title">
+The Final 2 Episodes of Making the Cut Season 2 Drop Today — Meet the Winner!
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Anvita Reddy
+<span class="time"> 
+2 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-44370476" data-timestamp="1628288702"
+>
+<a     href="https://www.popsugar.com/celebrity/Who-Has-Cara-Delevingne-Dated-44370476"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44370476"
+data-ga-label="https://www.popsugar.com/celebrity/Who-Has-Cara-Delevingne-Dated-44370476" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44370476"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Who Has Cara Delevingne Dated?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/Tsy68X_5SNzKzNTyvseGMSq8sT4/1375x0:6879x5504/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/05/860/n/1922398/f4c35575610c3e7d2023a7.69003594_/i/Who-Has-Cara-Delevingne-Dated.jpg" title="Who Has Cara Delevingne Dated?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/celebrity/Who-Has-Cara-Delevingne-Dated-44370476"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44370476"
+data-ga-label="https://www.popsugar.com/celebrity/Who-Has-Cara-Delevingne-Dated-44370476" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44370476"
+>
+<div class="ikb-post-header">
+Cara Delevingne
+</div>
+<div class="ikb-post-title">
+11 People Lucky Enough to Have Been Linked to Cara Delevingne
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Nneya Richards
+<span class="time"> 
+2 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451792" data-timestamp="1628288402"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451792_1628283774"
+data-ab-test-nid="48451792"
+data-ab-test-title1="Allyson Felix Shows Off C-Section Scar in Powerful Photo"
+data-ab-test-title2="Allyson Felix Celebrates Olympic Record With Powerful C-Section Photo"
+data-ab-test-id1="377090"
+data-ab-test-id2="377091"
+>
+<a     href="https://www.popsugar.com/family/allyson-felix-photo-with-c-section-scar-olympic-medals-48451792"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451792"
+data-ga-label="https://www.popsugar.com/family/allyson-felix-photo-with-c-section-scar-olympic-medals-48451792" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451792"
+>
+<div class="ikb-post-image text">
+<img  alt="Allyson Felix Photo With C-Section Scar and Olympic Medals" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/-R-o2g7Jnwh7sARGoyyR6n3KPSg/913x0:3935x3022/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/918/n/24155406/4670a6bd610da37d493d44.88361289_/i/allyson-felix-photo-with-c-section-scar-olympic-medals.jpg" title="Allyson Felix Photo With C-Section Scar and Olympic Medals" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/family/allyson-felix-photo-with-c-section-scar-olympic-medals-48451792"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451792"
+data-ga-label="https://www.popsugar.com/family/allyson-felix-photo-with-c-section-scar-olympic-medals-48451792" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451792"
+>
+<div class="ikb-post-header">
+Summer Olympics 2021
+</div>
+<div class="ikb-post-title">
+Allyson Felix Shows Off C-Section Scar in Powerful Photo
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Kate Schweitzer
+<span class="time"> 
+2 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451250" data-timestamp="1628287980"
+>
+<a     href="https://www.popsugar.com/fitness/quinn-is-first-openly-transgender-nonbinary-olympic-medalist-48451250"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451250"
+data-ga-label="https://www.popsugar.com/fitness/quinn-is-first-openly-transgender-nonbinary-olympic-medalist-48451250" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451250"
+>
+<div class="ikb-post-image text">
+<img  alt="Quinn Makes History With a Gold Medal at the 2021 Olympics" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/_7oxfbBHs20pVhNdguzsUQrDoic/854x0:4270x3416/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/752/n/44498184/3b047063610d6b5abb1074.23553174_/i/quinn-is-first-openly-transgender-nonbinary-olympic-medalist.jpg" title="Quinn Makes History With a Gold Medal at the 2021 Olympics" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fitness/quinn-is-first-openly-transgender-nonbinary-olympic-medalist-48451250"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451250"
+data-ga-label="https://www.popsugar.com/fitness/quinn-is-first-openly-transgender-nonbinary-olympic-medalist-48451250" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451250"
+>
+<div class="ikb-post-header">
+Summer Olympics 2021
+</div>
+<div class="ikb-post-title">
+Canadian Soccer Star Quinn Is the First Openly Transgender and Nonbinary Olympic Medalist
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Amanda Prahl
+<span class="time"> 
+3 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-37692037" data-timestamp="1628286783"
+>
+<a     href="https://www.popsugar.com/love/Movies-Hot-Guys-Netflix-37692037"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:37692037"
+data-ga-label="https://www.popsugar.com/love/Movies-Hot-Guys-Netflix-37692037" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="37692037"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Movies With Hot Guys on Netflix | 2021" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/vR_t05Qo3sh_zerPrxj4yrju87M/488x0:1456x968/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/888/n/3019466/6023198b610d9930cb4035.19078419_/i/Movies-Hot-Guys-Netflix.jpg" title="Movies With Hot Guys on Netflix | 2021" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/love/Movies-Hot-Guys-Netflix-37692037"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:37692037"
+data-ga-label="https://www.popsugar.com/love/Movies-Hot-Guys-Netflix-37692037" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="37692037"
+>
+<div class="ikb-post-header">
+Eye Candy
+</div>
+<div class="ikb-post-title">
+These Are the Movies You Can Watch on Netflix With the Hottest Actors — You&apos;re Welcome
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Tara Block
+<span class="time"> 
+3 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451824" data-timestamp="1628286542"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451824_1628285484"
+data-ab-test-nid="48451824"
+data-ab-test-title1="This Is Us Fans Are Really Going to Appreciate Mandy Moore's Breastfeeding Photo"
+data-ab-test-title2="This Is Us Fans Are Flipping Over Mandy Moore’s Breastfeeding Photo"
+data-ab-test-id1="377092"
+data-ab-test-id2="377093"
+>
+<a     href="https://www.popsugar.com/family/mandy-moore-breastfeeding-photo-as-this-is-us-rebecca-48451824"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451824"
+data-ga-label="https://www.popsugar.com/family/mandy-moore-breastfeeding-photo-as-this-is-us-rebecca-48451824" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451824"
+>
+<div class="ikb-post-image text">
+<img  alt="Mandy Moore Breastfeeding Photo as This Is Us&#039;s Rebecca" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/CeGkzsJ6FEuX1IvHxgQo-tOlh1s/799x0:4437x3638/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/938/n/24155406/da5e5040610daa2a1be5d5.27997466_/i/mandy-moore-breastfeeding-photo-as-this-is-us-rebecca.jpg" title="Mandy Moore Breastfeeding Photo as This Is Us&#039;s Rebecca" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/family/mandy-moore-breastfeeding-photo-as-this-is-us-rebecca-48451824"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451824"
+data-ga-label="https://www.popsugar.com/family/mandy-moore-breastfeeding-photo-as-this-is-us-rebecca-48451824" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451824"
+>
+<div class="ikb-post-header">
+Mandy Moore
+</div>
+<div class="ikb-post-title">
+This Is Us Fans Are Really Going to Appreciate Mandy Moore&apos;s Breastfeeding Photo
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Kate Schweitzer
+<span class="time"> 
+3 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451497" data-timestamp="1628285103"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451497_1628282563"
+data-ab-test-nid="48451497"
+data-ab-test-title1="We're Very Into Green Hair For Fall: Once You See How Cool It Is, You Will Be Too"
+data-ab-test-title2="Green Hair Is Going to Be One of Fall's Biggest Trends, and Everyone Can Get In on It"
+data-ab-test-id1="377088"
+data-ab-test-id2="377089"
+>
+<a     href="https://www.popsugar.com/beauty/green-hair-color-ideas-48451497"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451497"
+data-ga-label="https://www.popsugar.com/beauty/green-hair-color-ideas-48451497" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451497"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Green Hair Color Trend Inspiration and Ideas For Fall" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/eagHHDk37zMat6CN6DQjGN4XA3M/255x291:2544x2580/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/904/n/1922153/f406b0a7610d9ec071a0d7.26177144_/i/green-hair-color-ideas.jpg" title="Green Hair Color Trend Inspiration and Ideas For Fall" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/beauty/green-hair-color-ideas-48451497"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451497"
+data-ga-label="https://www.popsugar.com/beauty/green-hair-color-ideas-48451497" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451497"
+>
+<div class="ikb-post-header">
+Beauty Trends
+</div>
+<div class="ikb-post-title">
+We&apos;re Very Into Green Hair For Fall: Once You See How Cool It Is, You Will Be Too
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Jessica Harrington
+<span class="time"> 
+3 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451681" data-timestamp="1628283542"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451681_1628280866"
+data-ab-test-nid="48451681"
+data-ab-test-title1="Victoria Monét's &quot;Coastin'' Is Sure to Be a Smash Hit, and So Is Her Groovy Minidress"
+data-ab-test-title2="We're Vibing With Victoria Monét's Groovy Minidress and Headband For Her New Song"
+data-ab-test-id1="377086"
+data-ab-test-id2="377087"
+>
+<a     href="https://www.popsugar.com/fashion/victoria-monet-minidress-headband-coastin-48451681"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451681"
+data-ga-label="https://www.popsugar.com/fashion/victoria-monet-minidress-headband-coastin-48451681" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451681"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Victoria Monét&#039;s Groovy Dress and Headband For &quot;Coastin&#039;&#039;" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/IOc8GyGGnikQnU1MQEMit_uC2ws/0x788:4480x5268/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/885/n/1922564/8018b2e2610d981f9c8509.55269297_/i/victoria-monet-minidress-headband-coastin.jpg" title="Victoria Monét&#039;s Groovy Dress and Headband For &quot;Coastin&#039;&#039;" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/victoria-monet-minidress-headband-coastin-48451681"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451681"
+data-ga-label="https://www.popsugar.com/fashion/victoria-monet-minidress-headband-coastin-48451681" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451681"
+>
+<div class="ikb-post-header">
+Celebrity Style
+</div>
+<div class="ikb-post-title">
+Victoria Monét&apos;s &quot;Coastin&apos;&apos; Is Sure to Be a Smash Hit, and So Is Her Groovy Minidress
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Nikita Charuza
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451340" data-timestamp="1628283005"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451340_1628272648"
+data-ab-test-nid="48451340"
+data-ab-test-title1="We're LOLing Watching All of the Videos of TikTok's #CropChallenge — Here's How to Do It"
+data-ab-test-title2="TikTok's #CropChallenge Is Making People Jump All Across Their Screens!"
+data-ab-test-id1="377068"
+data-ab-test-id2="377069"
+>
+<a     href="https://www.popsugar.com/tech/how-to-do-crop-challenge-on-tiktok-48451340"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451340"
+data-ga-label="https://www.popsugar.com/tech/how-to-do-crop-challenge-on-tiktok-48451340" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451340"
+>
+<div class="ikb-post-image gallery">
+<img  alt="How to Do the #CropChallenge on TikTok" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/zAk4zp1lDjXFRalRSSdVUqe-ozg/0x1592:1456x3048/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/895/n/1922507/91af6937610d9b966a87a1.82704217_/i/how-to-do-crop-challenge-on-tiktok.jpg" title="How to Do the #CropChallenge on TikTok" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/tech/how-to-do-crop-challenge-on-tiktok-48451340"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451340"
+data-ga-label="https://www.popsugar.com/tech/how-to-do-crop-challenge-on-tiktok-48451340" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451340"
+>
+<div class="ikb-post-header">
+Digital Life
+</div>
+<div class="ikb-post-title">
+We&apos;re LOLing Watching All of the Videos of TikTok&apos;s #CropChallenge — Here&apos;s How to Do It
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Haley Lyndes
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451395" data-timestamp="1628283002"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451395_1628279148"
+data-ab-test-nid="48451395"
+data-ab-test-title1="Confused About The Suicide Squad? Here's a Guide to Who They Are and What They Do"
+data-ab-test-title2="The Suicide Squad Proves There's Technically No Such Thing as a Terrible Power"
+data-ab-test-id1="377082"
+data-ab-test-id2="377083"
+>
+<a     href="https://www.popsugar.com/entertainment/the-suicide-squad-powers-48451395"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451395"
+data-ga-label="https://www.popsugar.com/entertainment/the-suicide-squad-powers-48451395" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451395"
+>
+<div class="ikb-post-image gallery">
+<img  alt="What Are The Suicide Squad&#039;s Powers?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/cVMYyEbPDICfjiVjL47FY4ApJTk/462x0:2462x2000/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/828/n/1922283/2eca0d1b610d850e5428b4.10569876_/i/the-suicide-squad-powers.jpg" title="What Are The Suicide Squad&#039;s Powers?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/the-suicide-squad-powers-48451395"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451395"
+data-ga-label="https://www.popsugar.com/entertainment/the-suicide-squad-powers-48451395" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451395"
+>
+<div class="ikb-post-header">
+Movies
+</div>
+<div class="ikb-post-title">
+Confused About The Suicide Squad? Here&apos;s a Guide to Who They Are and What They Do
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-44496317" data-timestamp="1628281983"
+>
+<a     href="https://www.popsugar.com/love/Lesbian-Movies-Netflix-44496317"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44496317"
+data-ga-label="https://www.popsugar.com/love/Lesbian-Movies-Netflix-44496317" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44496317"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Lesbian Movies to Stream on Netflix | 2021" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/TD6AMmdW9LQfzEXOMA2ruZISJuM/351x0:1322x971/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/855/n/3019466/ec80e098610d8e0da0ca79.84327432_/i/Lesbian-Movies-Netflix.jpg" title="Lesbian Movies to Stream on Netflix | 2021" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/love/Lesbian-Movies-Netflix-44496317"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44496317"
+data-ga-label="https://www.popsugar.com/love/Lesbian-Movies-Netflix-44496317" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44496317"
+>
+<div class="ikb-post-header">
+Netflix
+</div>
+<div class="ikb-post-title">
+19 Lesbian Romances You Can Stream on Netflix Right Now
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Stacey Nguyen
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-47353660" data-timestamp="1628281503"
+>
+<a     href="https://www.popsugar.com/celebrity/who-are-bts-members-dating-47353660"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:47353660"
+data-ga-label="https://www.popsugar.com/celebrity/who-are-bts-members-dating-47353660" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="47353660"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Who Are the BTS Members Dating in 2021?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/MByqYoFhvXSLEbroMBNJnVTlg7c/667x0:3334x2667/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2020/03/30/920/n/44701584/ae70e1e25e825f2209bfe9.58381150_/i/who-are-bts-members-dating.jpg" title="Who Are the BTS Members Dating in 2021?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/celebrity/who-are-bts-members-dating-47353660"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:47353660"
+data-ga-label="https://www.popsugar.com/celebrity/who-are-bts-members-dating-47353660" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="47353660"
+>
+<div class="ikb-post-header">
+Celebrity Couples
+</div>
+<div class="ikb-post-title">
+Who Are the BTS Members Dating? We&apos;ve Rounded Up All of Their Rumored Romances
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Corinne Sullivan
+<span class="time"> 
+4 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451310" data-timestamp="1628280003"
+>
+<a     href="https://www.popsugar.com/fitness/team-usa-wins-silver-in-women-4x100-relay-in-2021-olympics-48451310"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451310"
+data-ga-label="https://www.popsugar.com/fitness/team-usa-wins-silver-in-women-4x100-relay-in-2021-olympics-48451310" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451310"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Team USA Wins Silver in Women&#039;s 4x100 Relay in 2021 Olympics" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/JvEkhFz2ocd5eYuVEfGzBOgqKgE/543x147:3251x2855/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/823/n/1922729/fecdda16610d835b401350.97005846_/i/team-usa-wins-silver-in-women-4x100-relay-in-2021-olympics.jpg" title="Team USA Wins Silver in Women&#039;s 4x100 Relay in 2021 Olympics" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fitness/team-usa-wins-silver-in-women-4x100-relay-in-2021-olympics-48451310"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451310"
+data-ga-label="https://www.popsugar.com/fitness/team-usa-wins-silver-in-women-4x100-relay-in-2021-olympics-48451310" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451310"
+>
+<div class="ikb-post-header">
+Summer Olympics 2021
+</div>
+<div class="ikb-post-title">
+US Women Sprint For Silver in 4x100m Relay as Star-Studded Jamaica Wins Gold
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Maggie Ryan
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451005" data-timestamp="1628279403"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451005_1628277447"
+data-ab-test-nid="48451005"
+data-ab-test-title1="Lady Gaga's Platform Boots Have Earned Her the Record For World's Strongest Ankles"
+data-ab-test-title2="A Necessary Deep Dive on Lady Gaga's Endless Platform Boot Collection"
+data-ab-test-id1="377080"
+data-ab-test-id2="377081"
+>
+<a     href="https://www.popsugar.com/fashion/lady-gaga-platform-boots-48451005"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451005"
+data-ga-label="https://www.popsugar.com/fashion/lady-gaga-platform-boots-48451005" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451005"
+>
+<div class="ikb-post-image gallery">
+<img  alt="See Lady Gaga&#039;s Best Platform Boot Outfits of Summer 2021" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/IqvE0m5hg03xD0Teq29CYN_A5oE/790x191:3380x2781/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/747/n/1922564/99b09ebe610d69cf1adaa0.93500091_/i/lady-gaga-platform-boots.jpg" title="See Lady Gaga&#039;s Best Platform Boot Outfits of Summer 2021" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/lady-gaga-platform-boots-48451005"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451005"
+data-ga-label="https://www.popsugar.com/fashion/lady-gaga-platform-boots-48451005" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451005"
+>
+<div class="ikb-post-header">
+Lady Gaga
+</div>
+<div class="ikb-post-title">
+Lady Gaga&apos;s Platform Boots Have Earned Her the Record For World&apos;s Strongest Ankles
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Victoria Messina
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48450731" data-timestamp="1628278624"
+>
+<a     href="https://www.popsugar.com/fitness/best-under-armour-workout-tops-48450731"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450731"
+data-ga-label="https://www.popsugar.com/fitness/best-under-armour-workout-tops-48450731" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450731"
+>
+<div class="ikb-post-image gallery">
+<img  alt="The Best Workout Tops From Under Armour" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/mAFuqoLe6Tq5Pf3hVQeK8IEwK8U/0x57:1836x1893/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/05/238/n/47737404/28723955610cbdcb1e4186.51625101_/i/best-under-armour-workout-tops.webp" title="The Best Workout Tops From Under Armour" />
+</div>
+<div class="go-shop-label icon-tag"></div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fitness/best-under-armour-workout-tops-48450731"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450731"
+data-ga-label="https://www.popsugar.com/fitness/best-under-armour-workout-tops-48450731" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450731"
+>
+<div class="ikb-post-header">
+Under Armour
+</div>
+<div class="ikb-post-title">
+Be at the Top of Your Game With These 12 Workout Tops From Under Armour
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Kalea Martin
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-46595725" data-timestamp="1628278623"
+>
+<a     href="https://www.popsugar.com/love/good-first-date-movies-on-netflix-46595725"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:46595725"
+data-ga-label="https://www.popsugar.com/love/good-first-date-movies-on-netflix-46595725" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="46595725"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Netflix Movies That Are Perfect to Watch on a First Date" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/03iJFh4CImDODQs7ox7jtyoZlJ4/558x0:3858x3300/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2019/09/11/716/n/41541398/1134df7a5d791ce6be0d82.84426479_/i/good-first-date-movies-on-netflix.jpg" title="Netflix Movies That Are Perfect to Watch on a First Date" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/love/good-first-date-movies-on-netflix-46595725"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:46595725"
+data-ga-label="https://www.popsugar.com/love/good-first-date-movies-on-netflix-46595725" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="46595725"
+>
+<div class="ikb-post-header">
+Netflix
+</div>
+<div class="ikb-post-title">
+18 Netflix Movies That Are Perfect to Watch on a First Date
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Stacey Nguyen
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451263" data-timestamp="1628278502"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451263_1628275808"
+data-ab-test-nid="48451263"
+data-ab-test-title1="What Do Jake Gyllenhaal, Mila Kunis, and Kristen Bell Have in Common? Their Bathing Habits"
+data-ab-test-title2="Jake Gyllenhaal Finds Bathing &quot;Less Necessary&quot; — and Mila Kunis and Kristen Bell Agree"
+data-ab-test-id1="377076"
+data-ab-test-id2="377077"
+>
+<a     href="https://www.popsugar.com/beauty/celebrity-minimal-bathing-routines-48451263"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451263"
+data-ga-label="https://www.popsugar.com/beauty/celebrity-minimal-bathing-routines-48451263" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451263"
+>
+<div class="ikb-post-image text">
+<img  alt="Jake Gyllenhaal and Other Celebs Who Don&#039;t Love Bathing" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/_xVtWcscFk3yiK39_XZ9XobcuJE/658x341:2228x1911/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/826/n/1922153/2722bc40610d845e36a0a8.41917440_/i/celebrity-minimal-bathing-routines.jpg" title="Jake Gyllenhaal and Other Celebs Who Don&#039;t Love Bathing" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/beauty/celebrity-minimal-bathing-routines-48451263"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451263"
+data-ga-label="https://www.popsugar.com/beauty/celebrity-minimal-bathing-routines-48451263" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451263"
+>
+<div class="ikb-post-header">
+Body Care
+</div>
+<div class="ikb-post-title">
+What Do Jake Gyllenhaal, Mila Kunis, and Kristen Bell Have in Common? Their Bathing Habits
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Jessica Harrington
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451274" data-timestamp="1628277903"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451274_1628275916"
+data-ab-test-nid="48451274"
+data-ab-test-title1="The Best Cover-Up Transformations on Netflix's Tattoo Redo"
+data-ab-test-title2="The Most Mind-Blowing Transformations From Netflix's Tattoo Redo"
+data-ab-test-id1="377078"
+data-ab-test-id2="377079"
+>
+<a     href="https://www.popsugar.com/beauty/best-tattoo-redo-transformations-48451274"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451274"
+data-ga-label="https://www.popsugar.com/beauty/best-tattoo-redo-transformations-48451274" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451274"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Best Tattoo Transformations From Tattoo Redo." class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/Mya2pI3wRU0QmaAjFaBYf4cqKtY/1388x0:3548x2160/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/827/n/1922153/76ee8656610d84ca532602.67194465_/i/best-tattoo-redo-transformations.jpg" title="Best Tattoo Transformations From Tattoo Redo." />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/beauty/best-tattoo-redo-transformations-48451274"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451274"
+data-ga-label="https://www.popsugar.com/beauty/best-tattoo-redo-transformations-48451274" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451274"
+>
+<div class="ikb-post-header">
+Beauty News
+</div>
+<div class="ikb-post-title">
+The Best Cover-Up Transformations on Netflix&apos;s Tattoo Redo
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Danielle Jackson
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451320" data-timestamp="1628277902"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451320_1628272335"
+data-ab-test-nid="48451320"
+data-ab-test-title1="If You Like Piña Coladas, Aldi's Summer Cheese Collection Might Be Your New Go-To Snack"
+data-ab-test-title2="Aldi's New Summer Cheese Collection Has a Booze-Inspired Twist — Piña Colada, Anyone?"
+data-ab-test-id1="377066"
+data-ab-test-id2="377067"
+>
+<a     href="https://www.popsugar.com/food/aldi-emporium-alcohol-summer-cheese-collection-48451320"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451320"
+data-ga-label="https://www.popsugar.com/food/aldi-emporium-alcohol-summer-cheese-collection-48451320" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451320"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Aldi&#039;s New Alcohol-Inspired Cheese Collection For Summer" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/OVAIdfKPcRPdAppytrlVMWm-S7A/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/786/n/1922195/4e939918610d76cf7dc037.99866720_/i/aldi-emporium-alcohol-summer-cheese-collection.jpg" title="Aldi&#039;s New Alcohol-Inspired Cheese Collection For Summer" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/food/aldi-emporium-alcohol-summer-cheese-collection-48451320"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451320"
+data-ga-label="https://www.popsugar.com/food/aldi-emporium-alcohol-summer-cheese-collection-48451320" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451320"
+>
+<div class="ikb-post-header">
+Food Shopping
+</div>
+<div class="ikb-post-title">
+If You Like Piña Coladas, Aldi&apos;s Summer Cheese Collection Might Be Your New Go-To Snack
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Chanel Vargas
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451027" data-timestamp="1628277604"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451027_1628270222"
+data-ab-test-nid="48451027"
+data-ab-test-title1="China's 14-Year-Old Diving Sensation Quan Hongchan Scored Two Perfect 10s and Set a New Olympic Record"
+data-ab-test-title2="You've Got to See China's 14-Year-Old Quan Hongchan's Spear-Like Dives"
+data-ab-test-id1="377064"
+data-ab-test-id2="377065"
+>
+<a     href="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451027"
+data-ga-label="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451027"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Watch Quan Hongchan&#039;s Perfect Dives" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/sB1iig_RArYDLlUXZW1YlSpjl4g/1802x0:5719x3917/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/670/n/1922729/384fc5da610d4fa67d6748.58868735_/i/quan-hongchan-gold-medal-diving-2021-olympics.jpg" title="Watch Quan Hongchan&#039;s Perfect Dives" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451027"
+data-ga-label="https://www.popsugar.com/fitness/quan-hongchan-gold-medal-diving-2021-olympics-48451027" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451027"
+>
+<div class="ikb-post-header">
+Summer Olympics 2021
+</div>
+<div class="ikb-post-title">
+China&apos;s 14-Year-Old Diving Sensation Quan Hongchan Scored Two Perfect 10s and Set a New Olympic Record
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Angelica Wilson
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451399" data-timestamp="1628277603"
+>
+<a     href="https://www.popsugar.com/fashion/lady-gaga-georges-hobeika-gown-at-radio-city-music-hall-48451399"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451399"
+data-ga-label="https://www.popsugar.com/fashion/lady-gaga-georges-hobeika-gown-at-radio-city-music-hall-48451399" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451399"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Lady Gaga Wearing a Shimmering Georges Hobeika Gown" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/QsgaAc_fDxn6mi9tATuek2mLqn8/456x0:2464x2008/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/833/n/1922564/4694e048610d86cf836480.17597370_/i/lady-gaga-georges-hobeika-gown-at-radio-city-music-hall.jpg" title="Lady Gaga Wearing a Shimmering Georges Hobeika Gown" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/lady-gaga-georges-hobeika-gown-at-radio-city-music-hall-48451399"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451399"
+data-ga-label="https://www.popsugar.com/fashion/lady-gaga-georges-hobeika-gown-at-radio-city-music-hall-48451399" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451399"
+>
+<div class="ikb-post-header">
+Lady Gaga
+</div>
+<div class="ikb-post-title">
+Lady Gaga Just Topped a Week&apos;s Worth of Outrageously Good Looks With This Dress
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Hannah Weil McKinley
+<span class="time"> 
+5 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48444331" data-timestamp="1628276403"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48444331_1628174847"
+data-ab-test-nid="48444331"
+data-ab-test-title1="For Latinx Communities, Wellness Often Means Reclaiming Ancestral Practices"
+data-ab-test-title2="How Latinxs Are Reclaiming Ancestral Healing Practices"
+data-ab-test-id1="376960"
+data-ab-test-id2="376961"
+>
+<a     href="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48444331"
+data-ga-label="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48444331"
+>
+<div class="ikb-post-image text">
+<img  alt="How Latinxs Are Reclaiming Ancestral Healing Practices" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/as63M6595JXycel7HXPXHZKVWhc/0x1008:3024x4032/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/02/982/n/43931700/40ca996161087333358e27.42583091_/i/how-latinxs-are-reclaiming-ancestral-healing-practices.jpg" title="How Latinxs Are Reclaiming Ancestral Healing Practices" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48444331"
+data-ga-label="https://www.popsugar.com/latina/how-latinxs-are-reclaiming-ancestral-healing-practices-48444331" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48444331"
+>
+<div class="ikb-post-header">
+Wellness
+</div>
+<div class="ikb-post-title">
+For Latinx Communities, Wellness Often Means Reclaiming Ancestral Practices
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Raquel Reichard
+<span class="time"> 
+6 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451257" data-timestamp="1628275803"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451257_1628273897"
+data-ab-test-nid="48451257"
+data-ab-test-title1="The Suicide Squad Might Have Multiple Postcredits Scenes, but Only 1 Made Us Laugh"
+data-ab-test-title2="The Suicide Squad Is Filled With Surprises, Including 2 Interesting Postcredits Scenes"
+data-ab-test-id1="377072"
+data-ab-test-id2="377073"
+>
+<a     href="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451257"
+data-ga-label="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451257"
+>
+<div class="ikb-post-image text">
+<img  alt="Does The Suicide Squad Have a Postcredits Scene?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/dbQFieoUA2EPCvJC_jDc350lbaY/332x325:1503x1496/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/753/n/1922283/fd36f495610d6b9642de31.60551795_/i/the-suicide-squad-postcredits-scene.jpg" title="Does The Suicide Squad Have a Postcredits Scene?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451257"
+data-ga-label="https://www.popsugar.com/entertainment/the-suicide-squad-postcredits-scene-48451257" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451257"
+>
+<div class="ikb-post-header">
+Movies
+</div>
+<div class="ikb-post-title">
+The Suicide Squad Might Have Multiple Postcredits Scenes, but Only 1 Made Us Laugh
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+6 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-44494752" data-timestamp="1628274182"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_44494752_1628270064"
+data-ab-test-nid="44494752"
+data-ab-test-title1="12 Free Online Erotica Sites That'll Get You Majorly in the Mood"
+data-ab-test-title2="The Hottest Online Erotica Sites That Are Completely Free to Read"
+data-ab-test-id1="377062"
+data-ab-test-id2="377063"
+>
+<a     href="https://www.popsugar.com/love/Free-Online-Erotica-44494752"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44494752"
+data-ga-label="https://www.popsugar.com/love/Free-Online-Erotica-44494752" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44494752"
+>
+<div class="ikb-post-image text">
+<img  alt="The Best Free Online Erotica Sites" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/bvqatVGqFpKmOE9ngsa2VRY2YiU/0x376:1456x1832/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/768/n/3019466/b2ef1fc6610d70e64479b1.96145955_/i/Free-Online-Erotica.jpg" title="The Best Free Online Erotica Sites" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/love/Free-Online-Erotica-44494752"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:44494752"
+data-ga-label="https://www.popsugar.com/love/Free-Online-Erotica-44494752" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="44494752"
+>
+<div class="ikb-post-header">
+Books
+</div>
+<div class="ikb-post-title">
+12 Free Online Erotica Sites That&apos;ll Get You Majorly in the Mood
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Isadora Baum
+<span class="time"> 
+6 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451185" data-timestamp="1628273403"
+>
+<a     href="https://www.popsugar.com/beauty/what-is-toner-48451185"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451185"
+data-ga-label="https://www.popsugar.com/beauty/what-is-toner-48451185" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451185"
+>
+<div class="ikb-post-image text">
+<img  alt="What Does Toner Do? We Asked Skin-Care Experts" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/jN6Rz8glP8KxTKMxQ7A4--WbrGc/639x0:5119x4480/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/789/n/1922153/bdb3f31b610d77fa315671.67975798_/i/what-is-toner.jpg" title="What Does Toner Do? We Asked Skin-Care Experts" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/beauty/what-is-toner-48451185"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451185"
+data-ga-label="https://www.popsugar.com/beauty/what-is-toner-48451185" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451185"
+>
+<div class="ikb-post-header">
+Beauty Products
+</div>
+<div class="ikb-post-title">
+What Does a Toner Do? 2 Experts Demystify the Skin-Care Step, Once and For All
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Jessica Harrington
+<span class="time"> 
+7 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-47314906" data-timestamp="1628272203"
+>
+<a     href="https://www.popsugar.com/beauty/how-often-should-you-shower-47314906"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:47314906"
+data-ga-label="https://www.popsugar.com/beauty/how-often-should-you-shower-47314906" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="47314906"
+>
+<div class="ikb-post-image gallery">
+<img  alt="How Often Do You Need to Shower? We Asked 3 Experts" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/db1I8brRJMXFalajFAWnJ5Efzxw/521x0:2190x1669/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2020/03/18/700/n/1922153/6ac1f1405e7242c2d07d75.47296602_/i/how-often-should-you-shower.jpg" title="How Often Do You Need to Shower? We Asked 3 Experts" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/beauty/how-often-should-you-shower-47314906"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:47314906"
+data-ga-label="https://www.popsugar.com/beauty/how-often-should-you-shower-47314906" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="47314906"
+>
+<div class="ikb-post-header">
+Beauty Interview
+</div>
+<div class="ikb-post-title">
+Yep, This Is Actually How Often You Should Be Showering Right Now . . .
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Kelsey Castañon
+<span class="time"> 
+7 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48450099" data-timestamp="1628271003"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48450099_1628190159"
+data-ab-test-nid="48450099"
+data-ab-test-title1="Why Didn't Anybody Tell Me I Need a Cast Iron Pan in My Life Until Now?"
+data-ab-test-title2="If You've Been Eyeing a Cast Iron Pan, Grab This Under-$100 Option From Target ASAP"
+data-ab-test-id1="377000"
+data-ab-test-id2="377001"
+>
+<a     href="https://www.popsugar.com/food/cast-iron-skillet-review-48450099"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450099"
+data-ga-label="https://www.popsugar.com/food/cast-iron-skillet-review-48450099" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450099"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Cast Iron Skillet Review" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/7nfeT2xnM9dk3VqFPEVgNRqGsJ4/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/05/835/n/1922195/3ea9a449610c35cde4f606.79869018_/i/cast-iron-skillet-review.webp" title="Cast Iron Skillet Review" />
+</div>
+<div class="go-shop-label icon-tag"></div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/food/cast-iron-skillet-review-48450099"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450099"
+data-ga-label="https://www.popsugar.com/food/cast-iron-skillet-review-48450099" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450099"
+>
+<div class="ikb-post-header">
+Product Reviews
+</div>
+<div class="ikb-post-title">
+Why Didn&apos;t Anybody Tell Me I Need a Cast Iron Pan in My Life Until Now?
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> India Yaffe
+<span class="time"> 
+7 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post ab-test-headline ab-node" id="post-48451079" data-timestamp="1628269268"
+data-ab-count="2"
+data-ab-test="1"
+data-ab-test-name="headline_test_48451079_1628263469"
+data-ab-test-nid="48451079"
+data-ab-test-title1="Lori Harvey's Sexy Outfit Reminded Us It's Time to Dust Off Our Espadrille Sandals"
+data-ab-test-title2="Lori Harvey Looks Incredible in This Body-Hugging Tank Dress and White Espadrilles"
+data-ab-test-id1="377054"
+data-ab-test-id2="377055"
+>
+<a     href="https://www.popsugar.com/fashion/lori-harvey-white-espadrilles-sandals-48451079"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451079"
+data-ga-label="https://www.popsugar.com/fashion/lori-harvey-white-espadrilles-sandals-48451079" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451079"
+>
+<div class="ikb-post-image gallery">
+<img  alt="Lori Harvey Styled a Tank Dress With Espadrille Sandals" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/_j_zWkuCTqRMDvQj5Apz-IjKwYA/8x188:1955x2135/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/683/n/1922564/33f34e49610d542c438ac6.88273875_/i/lori-harvey-white-espadrilles-sandals.jpg" title="Lori Harvey Styled a Tank Dress With Espadrille Sandals" />
+</div>
+<div class="go-shop-label icon-tag"></div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/fashion/lori-harvey-white-espadrilles-sandals-48451079"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451079"
+data-ga-label="https://www.popsugar.com/fashion/lori-harvey-white-espadrilles-sandals-48451079" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451079"
+>
+<div class="ikb-post-header">
+Summer Fashion
+</div>
+<div class="ikb-post-title">
+Lori Harvey&apos;s Sexy Outfit Reminded Us It&apos;s Time to Dust Off Our Espadrille Sandals
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Nikita Charuza
+<span class="time"> 
+8 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48451064" data-timestamp="1628268902"
+>
+<a     href="https://www.popsugar.com/entertainment/victoria-monet-coastin-video-48451064"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451064"
+data-ga-label="https://www.popsugar.com/entertainment/victoria-monet-coastin-video-48451064" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451064"
+>
+<div class="ikb-post-image video">
+<img  alt="Listen to Victoria Monét&#039;s New Single &quot;Coastin&#039;&quot;" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/S0PoAjo7i8dURTk9x03HWJSr_n4/672x0:2243x1571/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/688/n/1922283/1589c96e610d55da87c4d4.90161565_/i/victoria-monet-coastin-video.png" title="Listen to Victoria Monét&#039;s New Single &quot;Coastin&#039;&quot;" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/victoria-monet-coastin-video-48451064"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48451064"
+data-ga-label="https://www.popsugar.com/entertainment/victoria-monet-coastin-video-48451064" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48451064"
+>
+<div class="ikb-post-header">
+Music
+</div>
+<div class="ikb-post-title">
+Victoria Monét&apos;s &quot;Coastin&apos;&quot; Is the Groovy Summer Song We&apos;ve Been Looking For
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Grayson Gilcrease
+<span class="time"> 
+8 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48450642" data-timestamp="1628267702"
+>
+<a     href="https://www.popsugar.com/entertainment/will-there-be-ted-lasso-season-3-48450642"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450642"
+data-ga-label="https://www.popsugar.com/entertainment/will-there-be-ted-lasso-season-3-48450642" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450642"
+>
+<div class="ikb-post-image text">
+<img  alt="Will There Be a Ted Lasso Season 3?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/PYYOMtFRmJsWEgzwGsJ5F44FrIw/899x0:2773x1874/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/05/202/n/44242355/df2b4a08610cb1ee2700f8.59563520_/i/will-there-be-ted-lasso-season-3.jpg" title="Will There Be a Ted Lasso Season 3?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/will-there-be-ted-lasso-season-3-48450642"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48450642"
+data-ga-label="https://www.popsugar.com/entertainment/will-there-be-ted-lasso-season-3-48450642" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48450642"
+>
+<div class="ikb-post-header">
+Jason Sudeikis
+</div>
+<div class="ikb-post-title">
+Here&apos;s Everything You Need to Know About Season 3 of Ted Lasso
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Kamrun Nesa
+<span class="time"> 
+8 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+<div class="ikb-post-container">
+<div class="ikb-post" id="post-48448946" data-timestamp="1628265003"
+>
+<a     href="https://www.popsugar.com/entertainment/who-plays-ruby-mcdaniel-in-american-horror-stories-48448946"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48448946"
+data-ga-label="https://www.popsugar.com/entertainment/who-plays-ruby-mcdaniel-in-american-horror-stories-48448946" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48448946"
+>
+<div class="ikb-post-image text">
+<img  alt="Who Plays Ruby McDaniel in American Horror Stories?" class="image preview" width="550" height="550" src="https://media1.popsugar-assets.com/files/thumbor/gzh3EsjFlP8-qkm7h5kqC9wxaWQ/746x0:4211x3465/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2021/08/06/617/n/47856405/83ac2973610d3dedd00b17.06005086_/i/who-plays-ruby-mcdaniel-in-american-horror-stories.jpg" title="Who Plays Ruby McDaniel in American Horror Stories?" />
+</div>
+</a>
+<div class="ikb-post-info ">
+<a     href="https://www.popsugar.com/entertainment/who-plays-ruby-mcdaniel-in-american-horror-stories-48448946"
+class="ga-track omniture-track"
+data-omniture-type="front-page-link" data-omniture-subtype="latest:48448946"
+data-ga-label="https://www.popsugar.com/entertainment/who-plays-ruby-mcdaniel-in-american-horror-stories-48448946" data-ga-category="internal click" data-ga-action="latest stack"
+data-nid="48448946"
+>
+<div class="ikb-post-header">
+Kaia Gerber
+</div>
+<div class="ikb-post-title">
+The Actress Behind American Horror Stories&apos;s Ruby Is Runway Royalty
+</div>
+<div class="ikb-post-meta">
+<span class="by"> by </span> Sarah Felbin
+<span class="time"> 
+9 hours ago
+</span>
+</div>
+</a>
+</div>
+</div>                                    </div>
+</div>
+<div class="fd-pager pager-container" data-position="front-page"><nav id="pager"
+class="pager clearfix"
+data-nomore-text="The End."
+data-scroll-no-more="0"
+data-not-nids="48450852,48451037,46451065,48451289,48450221"                  >
+<span><a href="https://www.popsugar.com/?page=1" class="pager-next omniture-track" data-omniture-type="pager-next">Load More</a></span>
+</nav></div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="columns clearfix">
+<div class="column">
+<a href="https://www.groupninemedia.com/careers"><strong>We&rsquo;re Hiring!</strong></a>
+<a href="https://www.popsugar.com/voices">Write For Us</a>
+<a href="https://www.groupninemedia.com/advertise#work-with-us">Advertise With Us</a>
+<a href="https://www.groupninemedia.com/brands/popsugar">About Us</a>
+<a href="https://www.popsugar.com/tos">Terms</a>
+<a href="https://www.popsugar.com/privacy">Privacy Policy</a>
+<a href="mailto:community@popsugar.com" target="_blank">Contact</a>
+<a href="https://groupninemedia.com/ccpa">Do Not Sell My Personal Information</a>
+<a href="https://www.groupninemedia.com/cookie-policy">Cookie Policy</a>
+</div>
+<div class="column">
+<strong>More POPSUGAR:</strong>
+<a href="https://www.poweryourhappy.com" target="_blank" class="link omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:poweryourhappy">Power Your Happy</a>
+<a href="https://insights.popsugar.com" target="_blank" class="link omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:PS insights">POPSUGAR Insights</a>
+</div>
+<div class="column">
+<strong>POPSUGAR International:</strong>
+<a href="https://www.popsugar.co.uk/">UK</a>
+<a href="https://www.popsugar.com.au/">Australia</a>
+<a href="https://me.popsugar.com/">Middle East</a>
+<a href="https://ar.popsugar.com/">الشرق الأوسط</a>
+</div>
+<div class="column follow-column">
+<a href="https://www.popsugar.com/tech/All-POPSUGAR-Mobile-Apps-41161458">
+<strong>Get POPSUGAR On The Go:</strong>
+</a>
+<div class="description">Visit the App Store to see all our apps:</div>
+<div class="app-store">
+<div class="badge">
+<a href="https://itunes.apple.com/us/developer/popsugar-inc./id314673840">
+<img src="https://media1.popsugar-assets.com/v4715/static/imgs/Download_on_the_App_Store_Badge_US-UK_135x40.svg" width="135" height="40" />
+</a>
+</div>
+</div>
+<strong>Follow Us</strong>
+<div class="social-follow-buttons">
+<div class="button-container">
+<a target="_blank"
+class="facebook omniture-track"
+data-omniture-type="footer-follow"
+href="https://www.facebook.com/PopSugar">
+<i class="icon-facebook"></i>
+</a>
+</div>
+<div class="button-container">
+<a target="_blank"
+class="instagram omniture-track"
+data-omniture-type="footer-follow"
+href="https://www.instagram.com/POPSUGAR">
+<i class="icon-instagram"></i>
+</a>
+</div>
+<div class="button-container">
+<a target="_blank"
+class="flipboard omniture-track"
+data-omniture-type="footer-follow"
+href="https://flipboard.com/@POPSUGAR">
+<i class="icon-flipboard"></i>
+</a>
+</div>
+<div class="button-container">
+<a target="_blank"
+class="pinterest omniture-track"
+data-omniture-type="footer-follow"
+href="https://www.pinterest.com/POPSUGAR">
+<i class="icon-pinterest"></i>
+</a>
+</div>
+<div class="button-container">
+<a target="_blank"
+class="twitter omniture-track"
+data-omniture-type="footer-follow"
+href="https://www.twitter.com/POPSUGAR">
+<i class="icon-twitter"></i>
+</a>
+</div>
+<div class="button-container">
+<a target="_blank"
+class="youtube omniture-track"
+data-omniture-type="footer-follow"
+href="https://www.youtube.com/popsugargirlsguide">
+<i class="icon-youtube"></i>
+</a>
+</div>
+</div>        </div>
+</div>
+<div class="copy">
+<span class="copyright">
+&copy;2021
+</span>
+<a href="https://www.groupninemedia.com/brands/popsugar">Group Nine Media Inc.</a>
+</div>
+</footer>            </div>
+<div id="background-overlay"></div>
+<!-- Modal -->
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-dismiss" data-dismiss="modal" aria-hidden="true">×</div>
+<div class="modal-body">
+<div class="modal-waiting" id="modal-waiting">
+<i class="icon-ps-mark fa-flash"></i>
+</div>
+</div>
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<div id="overlay-menu" class="homepage-overlay-menu activated white">
+<a href="/" class="nav-header">
+<span class="main-logo"></span>
+</a>
+<div class="menu">
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="celebrity"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:celebrity"
+data-hero-show="Celebrity"
+class="ga-track omniture-track celebrity"
+href="https://www.popsugar.com/celebrity/">
+<span>Celebrity</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/celebrity-news"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="celebrity news"
+>
+Celebrity News
+</a>
+<a
+href="https://www.popsugar.com/entertainment"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="entertainment news"
+>
+Entertainment News
+</a>
+<a
+href="https://www.popsugar.com/Movies"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="movies"
+>
+Movies
+</a>
+<a
+href="https://www.popsugar.com/TV"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="tv"
+>
+TV
+</a>
+<a
+href="https://www.popsugar.com/Music"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="music"
+>
+Music
+</a>
+<a
+href="https://link.chtbl.com/NotOverIt"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="not over it podcast"
+>
+Not Over It Podcast
+</a>
+<a
+href="https://www.popsugar.com/marsaimartin?utm_source=popsugar.com&utm_medium=celebrity-dropdown&utm_campaign=marsaimartin-coverstory"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="celebrity:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="marsai martin interview"
+>
+Marsai Martin Interview
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="fashion"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:fashion"
+data-hero-show="Fashion"
+class="ga-track omniture-track fashion"
+href="https://www.popsugar.com/fashion/">
+<span>Fashion</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/Street-Style"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fashion:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="street style"
+>
+Street Style
+</a>
+<a
+href="https://www.popsugar.com/Celebrity-Style"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fashion:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="celebrity style"
+>
+Celebrity Style
+</a>
+<a
+href="/latest/Perfect-Outfit"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fashion:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="perfect outfit"
+>
+Perfect Outfit
+</a>
+<a
+href="https://www.popsugar.com/fashion/fashion-forward-47873055?utm_source=popsugar.com&utm_medium=fashion-dropdown&utm_campaign=fashionforward"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fashion:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="fashion forward"
+>
+Fashion Forward
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="fitness"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:fitness"
+data-hero-show="Fitness"
+class="ga-track omniture-track fitness"
+href="https://www.popsugar.com/fitness/">
+<span>Fitness</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/Workouts"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="workouts"
+>
+Workouts
+</a>
+<a
+href="https://www.popsugar.com/mental-health-month-2021-48295300?utm_source=popsugar.com&utm_medium=fitnavbar&utm_campaign=mentalhealthmonth2021"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="mental health matters"
+>
+Mental Health Matters
+</a>
+<a
+href="https://www.popsugar.com/fitness/Tips-Live-Happy-Healthy-Life-45446976?utm_source=popsugar.com&utm_medium=fitness-dropdown&utm_campaign=thewell"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="wellness tips"
+>
+Wellness Tips
+</a>
+<a
+href="https://www.popsugar.com/fitness/stories-tips-information-about-women-health-47555339?utm_source=popsugar.com&utm_medium=fitness-dropdown&utm_campaign=fulldisclosure"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="women's health"
+>
+Women's Health
+</a>
+<a
+href="https://www.popsugar.com/fitness/sweat-2-weeks-to-strong-workout-plan-48389042"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="sweat 2 weeks to strong"
+>
+Sweat 2 Weeks to Strong
+</a>
+<a
+href="https://www.thebodybook.net/"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="fitness:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="the body book"
+>
+The Body Book
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="love"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:love"
+data-hero-show="Love"
+class="ga-track omniture-track love"
+href="https://www.popsugar.com/love/">
+<span>Love</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/Sex"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="love:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="sex"
+>
+Sex
+</a>
+<a
+href="https://www.popsugar.com/latest/Singlehood"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="love:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="singlehood"
+>
+Singlehood
+</a>
+<a
+href="https://www.popsugar.com/Relationships"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="love:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="relationships"
+>
+Relationships
+</a>
+<a
+href="https://www.popsugar.com/news/pride-month-2021-48337611"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="love:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="pride outside"
+>
+Pride Outside
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="beauty"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:beauty"
+data-hero-show="Beauty"
+class="ga-track omniture-track beauty"
+href="https://www.popsugar.com/beauty/">
+<span>Beauty</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/Hair"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="hair"
+>
+Hair
+</a>
+<a
+href="https://www.popsugar.com/Skin-Care"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="skin care"
+>
+Skin Care
+</a>
+<a
+href="https://www.makeup.com?utm_medium=cpc&utm_source=POPSUGAR.com&utm_campaign=MUDC_nav"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="makeup"
+>
+Makeup
+</a>
+<a
+href="https://www.popsugar.com/Beauty-Reviews"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="product reviews"
+>
+Product Reviews
+</a>
+<a
+href="https://dabble.popsugar.com/?utm_source=popsugar&utm_medium=topnav&utm_campaign=dabble"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="free beauty samples"
+>
+Free Beauty Samples
+</a>
+<a
+href="https://www.popsugar.com/beauty/at-home-beauty-reviews-guides-47733153?utm_source=popsugar.com&utm_medium=beauty-dropdown&utm_campaign=thathomeglow"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="at-home beauty tips"
+>
+At-Home Beauty Tips
+</a>
+<a
+href="https://www.popsugar.com/beauty/acne-advice-tips-treatments-47455893"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="beauty:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="acne tips and advice"
+>
+Acne Tips and Advice
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="family"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:family"
+data-hero-show="Family"
+class="ga-track omniture-track family"
+href="https://www.popsugar.com/family/">
+<span>Family</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/Parenting"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="parenting"
+>
+Parenting
+</a>
+<a
+href="https://www.popsugar.com/Pregnancy"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="pregnancy"
+>
+Pregnancy
+</a>
+<a
+href="https://www.popsugar.com/Babies"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="babies"
+>
+Babies
+</a>
+<a
+href="https://www.popsugar.com/Toddlers"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="toddlers"
+>
+Toddlers
+</a>
+<a
+href="https://www.popsugar.com/family/back-to-school-tips-for-parents-2020-47605417?utm_source=popsugar.com&utm_medium=family-dropdown&utm_campaign=chalkboard"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="back-to-school tips"
+>
+Back-to-School Tips
+</a>
+<a
+href="https://www.popsugar.com/family/indoor-activities-for-families-47337673?utm_source=popsugar.com&utm_medium=familly-dropdown&utm_campaign=upcloseandparental"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="indoor activities"
+>
+Indoor Activities
+</a>
+<a
+href="https://www.popsugar.com/family/47635590?utm_source=popsugar.com&utm_medium=familly-dropdown&utm_campaign=lunchbox"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="family:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="lunchbox"
+>
+Lunchbox
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="living"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:living"
+data-hero-show="Living"
+class="ga-track omniture-track living"
+href="https://www.popsugar.com/living/">
+<span>Living</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/food"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="food"
+>
+Food
+</a>
+<a
+href="https://www.popsugar.com/home"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="home"
+>
+Home
+</a>
+<a
+href="https://www.popsugar.com/smart-living"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="smart living"
+>
+Smart Living
+</a>
+<a
+href="https://www.popsugar.com/money"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="money & career"
+>
+Money & Career
+</a>
+<a
+href="https://www.popsugar.com/pets"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="pets"
+>
+Pets
+</a>
+<a
+href="https://www.popsugar.com/smart-living/2-week-sustainability-challenge-48251304"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="sustainability tips"
+>
+Sustainability Tips
+</a>
+<a
+href="https://www.popsugar.com/smart-living/treat-yourself-time-48250645"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="time to treat yourself"
+>
+Time to Treat Yourself
+</a>
+<a
+href="https://www.popsugar.com/home/best-houseplant-advice-plant-decor-inspiration-48410630"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="living:subnav-uber-tag8"
+data-ga-category="nav"
+data-ga-action="plant powered"
+>
+Plant Powered
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="culture"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:culture"
+data-hero-show="Culture"
+class="ga-track omniture-track culture"
+href="https://www.popsugar.com/culture/">
+<span>Culture</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/news"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="news"
+>
+News
+</a>
+<a
+href="https://www.popsugar.com/love"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="love & sex"
+>
+Love & Sex
+</a>
+<a
+href="https://www.popsugar.com/tech"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="tech"
+>
+Tech
+</a>
+<a
+href="https://www.popsugar.com/travel"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="travel"
+>
+Travel
+</a>
+<a
+href="https://www.popsugar.com/inspirational-women-2021-48179327"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="unstoppable"
+>
+Unstoppable
+</a>
+<a
+href="https://www.popsugar.com/stories-centering-black-experiences-48266222"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="in our own right"
+>
+In Our Own Right
+</a>
+<a
+href="https://www.popsugar.com/asian-and-pacific-islander-american-heritage-month-2021-48303751"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="we belong here"
+>
+We Belong Here
+</a>
+<a
+href="https://www.popsugar.com/all-popsugar-podcasts-48109853"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag8"
+data-ga-category="nav"
+data-ga-action="podcasts"
+>
+Podcasts
+</a>
+<a
+href="https://www.popsugar.com/entertainment/bookmarked-47873899?utm_source=popsugar.com&utm_medium=living-dropdown&utm_campaign=bookmarked"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag9"
+data-ga-category="nav"
+data-ga-action="books"
+>
+Books
+</a>
+<a
+href="https://www.popsugar.com/thestep"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="culture:subnav-uber-tag10"
+data-ga-category="nav"
+data-ga-action="the step"
+>
+The Step
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="latina"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:latina"
+data-hero-show="Latina"
+class="ga-track omniture-track latina"
+href="https://www.popsugar.com/latina/">
+<span>Latina</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="/latest/Latina-Living"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="cultura y vida"
+>
+Cultura y Vida
+</a>
+<a
+href="/Latina-Food"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="cocina"
+>
+Cocina
+</a>
+<a
+href="/Latina-Moms"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="familia"
+>
+Familia
+</a>
+<a
+href="/Latina-Celebrity"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="estrellas"
+>
+Estrellas
+</a>
+<a
+href="/Latina-Fashion"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="moda"
+>
+Moda
+</a>
+<a
+href="https://www.popsugar.com/latina/hispanic-heritage-month-2020-47733143?utm_source=popsugar.com&utm_medium=latina-dropdown&utm_campaign=hispanicheritagemonth2020"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="latinx rise up"
+>
+Latinx Rise Up
+</a>
+<a
+href="https://www.popsugar.com/latina/celebrating-latinx-culture-48108983"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="latina:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="celebrate tu cultura"
+>
+Celebrate Tu Cultura
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="video"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:video"
+data-hero-show="Video"
+class="ga-track omniture-track video"
+href="https://www.popsugar.tv">
+<span>Video</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="https://www.popsugar.com/entertainment/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="entertainment"
+>
+Entertainment
+</a>
+<a
+href="https://www.popsugar.com/fashion/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="fashion"
+>
+Fashion
+</a>
+<a
+href="https://www.popsugar.com/beauty/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="beauty"
+>
+Beauty
+</a>
+<a
+href="https://www.popsugar.com/fitness/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="fitness"
+>
+Fitness
+</a>
+<a
+href="https://www.popsugar.com/food/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="food"
+>
+Food
+</a>
+<a
+href="https://www.popsugar.com/tech/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag6"
+data-ga-category="nav"
+data-ga-action="tech"
+>
+Tech
+</a>
+<a
+href="https://www.popsugar.com/home/videos"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="video:subnav-uber-tag7"
+data-ga-category="nav"
+data-ga-action="home"
+>
+Home
+</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<a
+data-ga-category="nav"
+data-ga-action="shop"
+data-omniture-type="front-page-link"
+data-omniture-subtype="side-nav:shop"
+data-hero-show="SHOP"
+class="ga-track omniture-track shop"
+href="https://www.popsugar.com/shop/">
+<span>SHOP</span>
+</a>
+<i class="show-sub-menu icon-dot-3"></i>
+<div class="submenu">
+<a
+href="http://goto.target.com/6bk7PN"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="shop:subnav-uber-tag1"
+data-ga-category="nav"
+data-ga-action="disney princess x popsugar"
+>
+Disney Princess x POPSUGAR
+</a>
+<a
+href="/shop/beauty"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="shop:subnav-uber-tag2"
+data-ga-category="nav"
+data-ga-action="beauty"
+>
+Beauty
+</a>
+<a
+href="http://shop.popsugar.com/"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="shop:subnav-uber-tag3"
+data-ga-category="nav"
+data-ga-action="the pop shop"
+>
+The Pop Shop
+</a>
+<a
+href="https://swipe.shop/"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="shop:subnav-uber-tag4"
+data-ga-category="nav"
+data-ga-action="swipe shop"
+>
+Swipe Shop
+</a>
+<a
+href="https://www.popsugar.com/family/turn-your-home-into-summer-funland-48334986"
+class="omniture-track ga-track"
+data-omniture-type="front-page-link"
+data-omniture-subtype="shop:subnav-uber-tag5"
+data-ga-category="nav"
+data-ga-action="summer fun"
+>
+Summer Fun
+</a>
+</div>
+</li>
+</ul>
+<div class="separator"></div>
+<ul id="nav-sidebar-login-ikb" class="sugar-sso-refresh" data-src="/ajax/lightspeed/nav_login">
+<li><a id="account" class="login-button  omniture-track" data-omniture-type="account-icon-logged-out"><span>Login / Register</span></a></li>
+</ul>
+<div class="secondary-menu">
+<div class="menu-about">
+<div class="submenu front-page-links">
+<a href="https://www.groupninemedia.com/careers" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:we are hiring">We're Hiring!</a>
+<a href="https://www.popsugar.com/voices" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:write for us">Write For Us</a>
+<a href="https://www.groupninemedia.com/advertise#work-with-us" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:advertising">Advertise With Us</a>
+<a href="https://www.groupninemedia.com/brands/popsugar" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:about us">About Us</a>
+<a href="mailto:community@popsugar.com" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:contact">Contact</a>
+<a href="https://www.popsugar.com/calendar" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:archives">Archives</a>
+</div><div class="submenu sister-sites">
+<a href="https://www.poweryourhappy.com?utm_source=popsugar.com&utm_medium=ad&utm_campaign=homepage_popsugarinfo" target="_blank" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:poweryourhappy">Power Your Happy</a>
+<a href="https://insights.popsugar.com" target="_self" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:PS insights">POPSUGAR Insights</a>
+</div>            </div>
+<div class="separator"></div>
+<div class="submenu privacy">
+<a href="https://www.popsugar.com/tos" target="_blank" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:terms">Terms</a>
+<a href="https://www.popsugar.com/privacy" target="_blank" class="omniture-track" data-omniture-type="front-page-link" data-omniture-subtype="side-nav:privacy policy">Privacy Policy</a>
+<div class="separator"></div>
+<div class="extra">&copy;2021 <small class="legal">Group Nine Media Inc.</small></div>
+</div>
+</div>
+</div>
+<i id="close-overlay-menu" class="icon-x-thin"></i>
+</div>
+<div id="one-signal-ntf-modal" class="one-signal-ntf-modal hidden step-one clearfix">
+<div class="wrap">
+<div class="step-one">
+<div class="ntf-content">
+<h3 class="ntf-title">
+Don't Miss Out!
+</h3>
+<p class="ntf-text">
+Would you like to turn on POPSUGAR desktop notifications to get breaking news ASAP?
+</p>
+<div class="ntf-actions">
+<a class="button confirm-button" href="javascript:;">Yes, Please</a>
+<a class="cancel-button" href="javascript:;">No Thanks</a>
+</div>
+<img src='https://media1.popsugar-assets.com/v4715/themes/onsugar_themes/lightspeed/imgs/push_notification_icon.png' width='109' height='125' class='ntf-img' data-pin-nopin="true"/>
+</div>
+</div>
+<div class="step-two">
+<div class="ntf-content">
+<h3 class="ntf-icon">
+<i aria-hidden="true" class="icon-fire"></i>
+</h3>
+<p class="ntf-prompt">
+Great, Click the ‘Allow’ Button Above
+<span class="ntf-emoji">☝️</span>
+</p>
+</div>
+</div>
+<div class="step-done">
+<div class="ntf-content">
+<h3 class="ntf-icon">
+<i aria-hidden="true" class="icon-check"></i>
+</h3>
+<p class="ntf-prompt">
+Awesome, You’re All Set!
+<span class="ntf-emoji">🎉</span>
+</p>
+</div>
+</div>
+</div>
+</div>    
+<!--[if lt IE 9]>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<!--<![endif]-->
+<script>jQuery.fx.interval = 4</script>
+<script src="/static/js/vendor/pubexchange/pubexchange-tracker.js" type='text/javascript'>
+</script>
+<!--BottomSpecificScripts-->
+<script  src="https://media1.popsugar-assets.com/assets/80b1984275a7703f952ffbaf4f272ee1.js?v=4715"></script>
+<script async src="https://media1.popsugar-assets.com/assets/cbeeaafe848b15e657dcc114bd613059.js?v=4715"></script>
+<script type="text/javascript">
+// Load universal ga async first, then we can use ga() function
+// If ga already added, do nothing.
+if(!window.universal_ga_added) {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+window.universal_ga_added = true;
+}
+var urlpath = '';
+var permalink_ga = '';
+var title_ga = '';
+window.trackerNames = [];
+(function () {
+window.overrideReferrer = false;
+if (window.ONSUGAR && ONSUGAR.Util) {
+var cookie = ONSUGAR.Util.getCookie('sugarSSOReferrer');
+if (cookie !== null) {
+window.overrideReferrer = cookie;
+ONSUGAR.Util.deleteCookie('sugarSSOReferrer');
+}
+}
+})();
+// Set sugarNetworkTracker
+ga('create', 'UA-145722-12', 'auto', {'name': 'sugarNetworkTracker', 'useAmpClientId': true});
+if (window.overrideReferrer) {
+ga('sugarNetworkTracker.set', 'referrer', window.overrideReferrer);
+}
+var ad_block = $("#ad-block-buster").is(":visible");
+var dimension8 = $('[data-bonsai-product-id]').length > 0 ? 'bonsai' : '';
+var dimensions = {
+dimension1: "POPSUGAR",
+dimension2: "homepage",
+dimension4: "",
+dimension7: "",
+dimension8: dimension8,
+dimension9: "",
+dimension10: "",
+dimension11: "",
+dimension12: "",
+dimension14: "",
+dimension17: "",
+dimension27: "desktop",
+dimension28: ad_block.toString(),
+dimension52: "",
+dimension58: ""
+}
+var gtmData = {
+"vertical": "POPSUGAR",
+"pageType": "homepage",
+"nid": "",
+"author": "",
+"tags": "",
+"hiddenTags": "",
+"title": "",
+"is_sponsored": Boolean("")
+}
+Object.keys(dimensions).forEach(function(dim) {
+if (dimensions[dim]) {
+ga('sugarNetworkTracker.set', dim, dimensions[dim]);
+}
+})
+window.trackerNames.push('sugarNetworkTracker');
+// Tracker for collection pages (aka "Swipe Shop")
+// Anonymize IPs for all trackers
+window.trackerNames.forEach(function(tracker) {
+ga(tracker + '.set', 'anonymizeIp', true);
+})
+// Set the Title and Location for all trackers in NativeBoost
+// Do a ga('send') for all the trackers pushed above
+SUGAR.Analytics.gaSend(urlpath);
+// Also send some node data to GTM
+SUGAR.CommonAnalytics.gtmSend(gtmData, );
+</script>
+<!-- SiteCatalyst code version: H.26.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script>
+(function() {
+s.events = 'event1';
+s.channel = 'content';
+s.pageName = 'content:us:homepage';
+s.eVar1 = 'content:us';
+s.eVar12 = '2021-08-06';
+s.prop56 = 'POPSUGAR';
+var channels = ["home-page","entertainment","celebrity","fashion","fitness","love","beauty","family","living","culture","career","home","tech","smart-living","pets","travel","food","latina","news","video","celebrity-news","shop"];
+// If s.evar1 is not set, we would not like to set evar1. Omniture would
+// not include send any vars if their value is an empty string or is not set.
+if (s.eVar1.length !== 0) {s.eVar1 += ':' + ONSUGAR.UserProfile.getUserDevice();}
+var evar45 = SUGAR.CommonAnalytics.getOmnitureSiteChange(channels);
+if (evar45) {s.eVar45 = evar45;} else {s.campaign = SUGAR.CommonAnalytics.getOmnitureCampaign(channels);
+if (document.referrer == '') {
+s.referrer = SUGAR.CommonAnalytics.getOmnitureReferrer();}
+}
+s.eVar3 = 'homepage';
+s.eVar5 = 'Unknown';
+s.eVar98 = 'https://www.popsugar.com/';
+s.prop13 = 'desktop';
+s.prop32 = 1;
+s.t();
+s.events = s.events.replace(',event2','');
+ONSUGAR.Event.fire('omniturePageViewComplete');
+})();
+</script>
+<script>
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+</script>
+<noscript>
+<img src="https://ts.popsugar.com/b/ss/popsugarglobalprod/1/H.26--NS/?v1=content%3Aus:nojs" height="1" width="1" border="0" alt="" />
+</noscript>
+<!-- End SiteCatalyst code version: H.26. --><!-- BEGIN Nielsen DCR Tracking -->
+<script defer type="text/javascript" src="https://secure-dcr.imrworldwide.com/novms/js/2/ggcmb500.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function() {
+if (typeof NOLCMB !== 'undefined'){
+var _nolggGlobalParams = {
+apid: "PD3A6DEA7-9BB3-4CE4-9387-5111D128B2AA",
+apn: "popsugar",
+sfcode: "dcr"          };
+window.nSdkInstance = NOLCMB.getInstance(_nolggGlobalParams.apid);
+window.nSdkInstance.ggInitialize(_nolggGlobalParams);
+(function() {
+var staticmeta = {
+type: "static",
+assetid: Math.floor(Math.random() * 99999999999),
+section: "POPSUGAR",
+segA: "POPSUGAR"              };
+// FB App
+// Make variables available
+var theUserAgent = navigator.userAgent;
+var theBrowser = "";
+var theDevice = "";
+// Check whether the device is FB App
+if (theUserAgent.indexOf("[FB") !== -1  ) {
+theBrowser = "FBApp";
+} else {
+theBrowser = "OtherBrowser";
+}
+// Assign the Device Type
+if (theUserAgent.indexOf("Android") !== -1 ) {
+if(theUserAgent.indexOf("Mobile") !== -1) {
+theDevice = "PHN";
+} else {
+theDevice = "TAB";
+}
+} else if (theUserAgent.indexOf("iPad") !== -1) {
+theDevice = "TAB";
+} else if (theUserAgent.indexOf("iPhone") !== -1) {
+theDevice = "PHN";
+} else {
+theDevice = "OtherDevice";
+}
+// Assign metadata to metadata object
+staticmeta.segB = theDevice + "-" + theBrowser;
+window.nSdkInstance.ggPM("staticstart", staticmeta);
+})();
+}
+});
+</script>
+<!-- END Nielsen DCR Tracking -->
+<!-- BEGIN Salesforce DMP ControlTag for "PopSugar" -->
+<script class="kxct" data-id="tlk57iwit" data-timing="async" data-version="3.0" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+window.addEventListener('DOMContentLoaded', function() {
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/tlk57iwit.js';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+Krux('ns:popsugar','consent:set', {
+dc: true,
+al: true,
+tg: true,
+cd: true,
+sh: true,
+re: true
+});
+// Handle AJAX
+$(window).on('infinite-scroll:loaded-more', function() {
+Krux('ns:popsugar', 'page:load', function(err) {}, {pageView: true});
+});
+});
+</script>
+<!-- END Salesforce DMP ControlTag -->
+<div class="gpt-ad ad-analytics_pixel" id="analytics_pixel-0" data-l10n-ad="Advertisement" data-sizes="[1,1]"></div>
+<script id="social-hover-share-tpl" type="text/x-js-tpl">
+<div class="share-open actions-toggle icon-share" data-container="shares"></div>
+<div class="share-image actions-container shares">
+<div class="flexbox">
+<span class="pinterest omniture-track social-button" data-omniture-type="social-share-content" data-share-type="pinterest"><i aria-hidden="true" class="social-icon icon-pinterest"></i></span>
+<span class="twitter omniture-track social-button" data-omniture-type="social-share-content" data-share-type="twitter"><i aria-hidden="true" class="social-icon icon-twitter"></i></span>
+<span class="tumblr omniture-track social-button" data-omniture-type="social-share-content" data-share-type="tumblr"><i aria-hidden="true" class="social-icon icon-tumblr"></i></span>
+<span class="mail omniture-track social-button" data-omniture-type="social-share-content" data-share-type="email"><i aria-hidden="true" class="social-icon icon-mail"></i></span>
+<span class="link omniture-track social-button" data-omniture-type="social-share-content" data-share-type="link"><i aria-hidden="true" class="social-icon icon-link"></i></span>
+</div>
+</div>
+<span class="share-link">
+<span>Share This Link</span>
+<input type="text" value="" class="copy-box" placeholder="Getting URL" />
+<span class="btn copy-button" data-fallback-text="Press Ctrl+C/Cmd+C to copy" data-copied-text="Copied!" role="button">Copy</span>
+<b class="x"></b>
+</span>
+</script>
+<script id="social-share-fb-pin" type="text/x-js-tpl">
+<div class="material-social-sharing social-share-buttons">
+<a class="icon-facebook facebook social-button omniture-track ga-track" aria-hidden="true" data-omniture-type="social-share-content" data-share-type="facebook" data-ga-category="article share" data-ga-action="article image" data-ga-label="facebook"></a>
+<a class="icon-pinterest pinterest social-button omniture-track ga-track" aria-hidden="true" data-omniture-type="social-share-content" data-share-type="pinterest" data-ga-category="article share" data-ga-action="article image" data-ga-label="pinterest"></a>
+</div>
+</script>    <script id="search-autocomplete-tpl" type="text/x-js-tpl">
+<div class="tt-item">
+<a href="#{permalink}">
+#{image}
+<span>#{value}</span>
+</a>
+</div>
+</script>
+<script id="search-autocomplete-celebrity-tpl" type="text/x-js-tpl">
+<div class="tt-item" data-nid="#{nid}">
+#{image}
+<span>#{value}</span>
+</div>
+</script>
+<script id="search-autocomplete-tag-tpl" type="text/x-js-tpl">
+<div class="tt-item">
+<a href="#{permalink}">
+<span>#{value}</span>
+</a>
+</div>
+</script>
+<script id="search-autocomplete-search-tpl" type="text/x-js-tpl">
+<div class="tt-item">
+<a href="/shop/?s=#{value}">
+<span>#{value}</span>
+</a>
+</div>
+</script>
+<div id="sugar-skin-tracker" class="flat"></div>
+<div class="hidden" id="highlight-share-button">
+<button class="highlight-share-facebook share-button icon-facebook omniture-track" data-omniture-type="highlight-facebook-share"></button>
+<button class="highlight-share-twitter share-button icon-twitter omniture-track" data-omniture-type="highlight-twitter-share"></button>
+</div>
+<div class="highlight-share-arrow-clip hidden" id="highlight-arrow">
+<span class="highlight-menu-arrow"></span>
+</div>
+<script type='text/javascript'>
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 59379;
+_sf_async_config.domain = 'popsugar.com';
+_sf_async_config.useCanonical = true;
+_sf_async_config.sections = "POPSUGAR";
+_sf_async_config.authors = "";
+/** CONFIGURATION END **/
+(function(){function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() {oldonload(); loadChartbeat();};
+})();
+</script>
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='4c2c4b5e990a78c632155e4d6f83ac9b675ba22e088e51cc359fd8e61f0c95e1';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+<div class="modal shared-modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content"></div>
+</div>
+</div>
+<script>if (ONSUGAR.SSO.getSSOMasterURL() == null) {ONSUGAR.SSO.setSSOMasterURL('https://secure.onsugar.com')}                </script>
+                <script async src="https://secure.onsugar.com/remotelogin"></script>
+<div id="fb-root"></div><script>    window.fbAsyncInit = function() {
+FB.init({
+appId     : '175338224756',
+status    : true, // check login status
+xfbml     : true, // parse XFBML
+version : 'v8.0'
+});
+ONSUGAR.Event.fire('fb:loaded');
+};
+// Load the SDK Asynchronously
+(function(d){
+var id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+if (typeof scriptsList !== "undefined") {
+scriptsList.push({'src': 'https://connect.facebook.net/en_US/sdk.js', 'attrs': {'id':id, 'async': true}});
+}
+}(document));</script>
+<!-- Hamsters typed up this page on Fri, 06 Aug 2021 18:19:53 -0700 in 173.17ms : web33 -->
+</body>
+</html>

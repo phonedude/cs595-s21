@@ -131,7 +131,7 @@ let u = urls.split("\n");
     if(iframed===true)sites.push({url: link, frameable: true});
     else sites.push({url: link, frameable: false});
 }
-console.log(console.table(sites));
+console.table(sites);
 
 	
 })().catch((error) => {

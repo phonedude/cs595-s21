@@ -1,0 +1,668 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sat, 07 Aug 2021 01:32:23 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+P3P: CP="CAO PSA"
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Sat, 07 Aug 2021 01:32:23 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Location: https://en.gravatar.com/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 07 Aug 2021 01:32:24 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+P3P: CP="CAO PSA"
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Sat, 07 Aug 2021 01:32:24 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+		    <title>Gravatar - Globally Recognized Avatars</title>
+		<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="https://s.gravatar.com/dist/css/style.min.css?141" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://s.gravatar.com/dist/css/profile.min.css?141" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://s.gravatar.com/dist/css/jquery.Jcrop.0.9.12.min.css?141" type="text/css" rel="stylesheet" media="screen" />
+	<script type="text/javascript" src="https://s.gravatar.com/js/jquery.js?141"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jquery-migrate.js?141"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jquery.Jcrop.0.9.12.js?141"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/application.js?141"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jcarousel/lib/jquery.jcarousel.pack.js?141"></script>
+<link rel="stylesheet" type="text/css" href="/js/jcarousel/lib/jquery.jcarousel.css" />
+<link rel="stylesheet" type="text/css" href="/js/jcarousel/skins/tango/skin.css" />	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blog.gravatar.com/feed/" />
+	<style type="text/css">
+	/* Fonts */
+	@font-face {
+	  font-family: 'Automatticons';
+	  src: url('https://s.gravatar.com/fonts/automatticons-regular-webfont.eot');
+	  src: url('https://s.gravatar.com/fonts/automatticons-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://s.gravatar.com/fonts/automatticons-regular-webfont.woff') format('woff'), url('https://s.gravatar.com/fonts/automatticons-regular-webfont.ttf') format('truetype'), url('https://s.gravatar.com/fonts/automatticons-regular-webfont.svg#automatticonsregular') format('svg');
+	  font-weight: normal;
+	  font-style: normal;
+	  -webkit-font-smoothing: antialiased;
+	}
+	</style>
+
+		<script type='text/javascript' src='//s1.wp.com/_static/??/wp-includes/js/swfobject.js,/wp-content/plugins/video/assets/js/videopress.js?m=1340848398j'></script>
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" src="/js/webtoolkit.base64.js"></script>
+		<!--[if lt IE 7.]>
+		<script defer type="text/javascript" src="/js/pngfix.js"></script>
+		<script defer type="text/javascript" src="/js/old-ie-hacks.js"></script>
+	<![endif]-->
+	
+	<script src="/js/login.js"></script>
+	<script type="text/javascript">
+	$(function() {
+		$( '#a8c-service-toggle' ).click( function() {
+			var body = $( 'body' ),
+				header = $( '#unified-header' ),
+				dops = $( '#a8c-dops' );
+
+			$( this ).parent().toggleClass( 'active' );
+			body.toggleClass( 'dropped' );
+			header.toggleClass( 'dropped' );
+			dops.toggleClass( 'dropped' );
+		});
+	});
+	</script>
+
+	<link rel="stylesheet" href="//s0.wp.com/i/noticons/noticons.css">
+
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&family=Varela+Round&display=swap" />
+			<link href="https://s.gravatar.com/dist/css/homepage.min.css?141" type="text/css" rel="stylesheet" media="screen" />
+		<script type="text/javascript" src="/js/homepage-client.js"></script>
+	</head>
+
+
+<body id="page" >
+
+<div id="wrap">
+	<div id="a8c-dops">
+		<ul>
+			<li class="wordpresscom">
+				<a href="http://wordpress.com">
+					<strong>WordPress.com</strong>
+					<small>Create a free website.</small>
+				</a>
+			</li>
+			<li class="vaultpress">
+				<a href="http://vaultpress.com">
+					<strong>VaultPress</strong>
+					<small>Backup and security scanning for your site.</small>
+				</a>
+			</li>
+			<li class="akismet">
+				<a href="http://akismet.com">
+					<strong>Akismet</strong>
+					<small>The anti-spam service for the web.</small>
+				</a>
+			</li>
+			<li class="crowdsignal">
+				<a href="https://crowdsignal.com">
+					<img class="a8c-dops__logo" src="/images/logo-crowdsignal.svg" alt="Crowdsignal" />
+					<strong>Crowdsignal</strong>
+					<small>Create surveys for the web and mobile.</small>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="unified-header">
+		<nav>
+			<ul class="main-nav">
+				<li class="g-main-nav">
+					<a href="/" class="g-home">
+						<svg class="g-logo g-logo--name-gravatar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146 27" role="presentation" aria-hidden="true">
+							<path class="g-fill-brand" d="M10.8 2.699v9.45a2.699 2.699 0 005.398 0V5.862a8.101 8.101 0 11-8.423 1.913 2.702 2.702 0 00-3.821-3.821A13.5 13.5 0 1013.499 0 2.699 2.699 0 0010.8 2.699z"></path>
+							<path d="M46.109 24.138c2.246 0 4.445-.537 6.595-1.612.326-.154.59-.39.792-.706.202-.317.302-.677.302-1.08v-6.538c0-.384-.134-.71-.403-.979a1.333 1.333 0 00-.979-.403h-5.674c-.326 0-.604.115-.835.346-.23.23-.345.508-.345.835 0 .326.115.605.345.835.23.23.509.346.835.346h4.752v5.212a10.393 10.393 0 01-5.04 1.268c-1.612 0-3.01-.341-4.19-1.023a6.89 6.89 0 01-2.707-2.793c-.624-1.181-.936-2.52-.936-4.018 0-1.632.331-3.038.993-4.22a6.635 6.635 0 012.75-2.692c1.172-.614 2.487-.922 3.946-.922 1.056 0 2.036.135 2.938.404.902.268 1.805.672 2.707 1.21.192.095.394.143.605.143.365 0 .658-.115.878-.345.221-.23.332-.51.332-.836 0-.23-.058-.441-.173-.633a1.013 1.013 0 00-.403-.403 14.434 14.434 0 00-3.24-1.527c-1.124-.365-2.434-.547-3.932-.547-1.862 0-3.556.432-5.083 1.296-1.526.864-2.731 2.083-3.614 3.658C36.442 9.988 36 11.793 36 13.828c0 1.997.422 3.778 1.267 5.342a9.095 9.095 0 003.571 3.658c1.536.874 3.293 1.31 5.27 1.31zm12.33-.144c.365 0 .677-.124.936-.374s.389-.557.389-.922v-8.755a5.837 5.837 0 011.93-1.857 4.912 4.912 0 012.534-.677h.144c.384 0 .7-.115.95-.346.25-.23.374-.528.374-.893 0-.364-.12-.672-.36-.921a1.205 1.205 0 00-.907-.375h-.144c-1.67 0-3.177.903-4.521 2.708v-1.239c0-.365-.13-.677-.39-.936a1.276 1.276 0 00-.935-.389c-.365 0-.672.13-.922.39-.25.258-.374.57-.374.935v12.355c0 .365.125.672.374.922.25.25.557.374.922.374zm12.578.144c2.189 0 3.994-.73 5.415-2.188v.748c0 .365.124.672.374.922s.557.374.922.374c.364 0 .676-.124.936-.374.259-.25.388-.557.388-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.355-.807-1.69 0-3.35.346-4.982 1.037-.5.211-.749.576-.749 1.095 0 .307.106.566.317.777.211.211.46.317.749.317.096 0 .22-.02.374-.058.691-.23 1.32-.403 1.886-.518a9.818 9.818 0 011.944-.173c1.325 0 2.3.279 2.924.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.94 1.268-1.123.845-1.684 1.978-1.684 3.398 0 .864.211 1.628.633 2.29a4.088 4.088 0 001.714 1.512c.72.346 1.502.518 2.347.518zm.98-2.304c-1.095 0-1.877-.21-2.348-.633-.47-.423-.705-.98-.705-1.67 0-1.517 1.45-2.276 4.348-2.276h3.14v2.42a6.805 6.805 0 01-1.988 1.54 5.207 5.207 0 01-2.448.62zm15.803 2.16c.346 0 .663-.1.95-.302.289-.202.5-.456.634-.763l5.012-11.981a1.61 1.61 0 00.144-.605c0-.365-.125-.677-.375-.936a1.23 1.23 0 00-.921-.389c-.25 0-.485.072-.706.216-.22.144-.38.322-.475.533l-4.407 11.175L83.25 9.767a1.257 1.257 0 00-.475-.533 1.27 1.27 0 00-.706-.216c-.365 0-.672.13-.921.39-.25.258-.375.57-.375.935 0 .173.048.375.144.605l5.011 11.98c.135.308.346.562.634.764.288.202.605.302.95.302h.288zm12.435.144c2.189 0 3.993-.73 5.414-2.188v.748c0 .365.125.672.375.922s.556.374.921.374.677-.124.936-.374c.26-.25.389-.557.389-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.355-.807-1.69 0-3.35.346-4.983 1.037-.499.211-.748.576-.748 1.095 0 .307.105.566.316.777.212.211.461.317.75.317.095 0 .22-.02.374-.058.69-.23 1.32-.403 1.886-.518a9.818 9.818 0 011.944-.173c1.325 0 2.3.279 2.923.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.939 1.268-1.123.845-1.685 1.978-1.685 3.398 0 .864.212 1.628.634 2.29a4.088 4.088 0 001.714 1.512c.72.346 1.502.518 2.347.518zm.979-2.304c-1.094 0-1.877-.21-2.347-.633-.47-.423-.706-.98-.706-1.67 0-1.517 1.45-2.276 4.349-2.276h3.14v2.42a6.805 6.805 0 01-1.988 1.54 5.207 5.207 0 01-2.448.62zm15.286 2.304c.844 0 1.641-.172 2.39-.518.442-.23.662-.566.662-1.008a.977.977 0 00-.316-.734 1.015 1.015 0 00-.72-.303c-.135 0-.245.01-.332.029a9.58 9.58 0 00-.244.058 3.991 3.991 0 01-1.152.172c-.538 0-.984-.1-1.34-.302-.355-.202-.532-.677-.532-1.426V11.41h3.254c.326 0 .595-.11.806-.331.212-.221.317-.485.317-.792 0-.327-.105-.596-.317-.807a1.092 1.092 0 00-.806-.317h-3.254V6.858a.578.578 0 00-.159-.403.507.507 0 00-.389-.173c-.153 0-.316.087-.49.26l-3.916 3.83c-.173.134-.26.298-.26.49 0 .153.054.283.16.388a.529.529 0 00.388.159h2.045v8.928c0 2.534 1.401 3.801 4.205 3.801zm8.776 0c2.19 0 3.994-.73 5.415-2.188v.748c0 .365.125.672.374.922.25.25.557.374.922.374s.677-.124.936-.374.389-.557.389-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.356-.807-1.69 0-3.35.346-4.982 1.037-.5.211-.749.576-.749 1.095 0 .307.106.566.317.777.211.211.46.317.749.317.096 0 .22-.02.374-.058.691-.23 1.32-.403 1.887-.518a9.818 9.818 0 011.944-.173c1.324 0 2.299.279 2.923.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.94 1.268-1.122.845-1.684 1.978-1.684 3.398 0 .864.211 1.628.634 2.29a4.088 4.088 0 001.713 1.512c.72.346 1.503.518 2.347.518zm.98-2.304c-1.095 0-1.877-.21-2.348-.633-.47-.423-.705-.98-.705-1.67 0-1.517 1.45-2.276 4.349-2.276h3.139v2.42a6.805 6.805 0 01-1.987 1.54 5.207 5.207 0 01-2.448.62zm11.858 2.16c.365 0 .677-.124.936-.374.26-.25.389-.557.389-.922v-8.755a5.837 5.837 0 011.93-1.857 4.912 4.912 0 012.534-.677h.144c.384 0 .7-.115.95-.346.25-.23.375-.528.375-.893 0-.364-.12-.672-.36-.921a1.205 1.205 0 00-.908-.375h-.144c-1.67 0-3.177.903-4.521 2.708v-1.239c0-.365-.13-.677-.389-.936a1.276 1.276 0 00-.936-.389c-.365 0-.672.13-.922.39-.25.258-.374.57-.374.935v12.355c0 .365.125.672.374.922.25.25.557.374.922.374z"></path>
+						</svg>
+					</a>
+				</li>
+				<div class="g-main-nav__menu-items">
+																				</div>
+			</ul>
+
+			<ul class="user-nav">
+								<li>
+					<a href="https://en.gravatar.com/connect/" class="g-sign-in">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+							<path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zM3.5 12c0-1.232.264-2.402.736-3.459L8.291 19.65A8.5 8.5 0 013.5 12zm8.5 8.501c-.834 0-1.64-.122-2.401-.346l2.551-7.411 2.613 7.158a.718.718 0 00.061.117 8.497 8.497 0 01-2.824.482zm1.172-12.486c.512-.027.973-.081.973-.081.458-.054.404-.727-.054-.701 0 0-1.377.108-2.266.108-.835 0-2.239-.108-2.239-.108-.459-.026-.512.674-.054.701 0 0 .434.054.892.081l1.324 3.629-1.86 5.579-3.096-9.208c.512-.027.973-.081.973-.081.458-.054.403-.727-.055-.701 0 0-1.376.108-2.265.108-.16 0-.347-.004-.547-.01A8.491 8.491 0 0112 3.5c2.213 0 4.228.846 5.74 2.232-.037-.002-.072-.007-.11-.007-.835 0-1.427.727-1.427 1.509 0 .701.404 1.293.835 1.994.323.566.701 1.293.701 2.344 0 .727-.28 1.572-.647 2.748l-.848 2.833-3.072-9.138zm3.101 11.332l2.596-7.506c.485-1.213.646-2.182.646-3.045 0-.313-.021-.603-.057-.874A8.455 8.455 0 0120.5 12a8.493 8.493 0 01-4.227 7.347z"></path>
+						</svg>
+						Sign in					</a>
+				</li>
+											</ul>
+
+		</nav>
+	</div>
+
+	<!-- Home page start -->
+<section class="g-section g-is-style-white g-pt-10 g-pb-0 g-pb-10@M g-pb-12@L" id="g-hero-animation" data-g-animation-delay="500" data-g-animation-step-duration="2000" data-g-image-paths='["https://2.gravatar.com/avatar/67c5ef957e55a650cbe65dda6f31a380?s=360","https://0.gravatar.com/avatar/5dbdc3f7ce1095dddac315d4956af900?s=360","https://1.gravatar.com/avatar/be8819126bd50fa16210bc5dd249beb2?s=360","https://0.gravatar.com/avatar/c7b760c7afa619a20780a4487da65d26?s=360","https://2.gravatar.com/avatar/eafdc971bacd7d19e41ea0be40b6aedd?s=360","https://2.gravatar.com/avatar/350a70e175305fac28923d0622c87080?s=360","https://0.gravatar.com/avatar/4e8763cd343611171849e8f27d0132a3?s=360","https://2.gravatar.com/avatar/c1e06475bf3496e81c1925d90d7c890a?s=360","https://2.gravatar.com/avatar/418dd05f7543ba1298a81d0d567d2a1a?s=360","images/avatar-matt.jpg","https://1.gravatar.com/avatar/538daf0f4bf624b92d958659a83f88f0?s=360","https://0.gravatar.com/avatar/ec8ee628ee51ae70ce9b7ccb0a514765?s=360","https://2.gravatar.com/avatar/d97a806f4e8e5f9e99e1f3d19a44eb36?s=360","https://2.gravatar.com/avatar/a34b989795e9cec49238648283efb2ab?s=360","https://1.gravatar.com/avatar/faf37de1edc1992d7fad860b94f57617?s=360","https://1.gravatar.com/avatar/8be94139fba3931699d23861915de7ad?s=360"]'>	<div class="g-wrapper">
+		<div class="g-columns g-columns--shift-right">
+			<div>
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<h1 class="g-brand g-has-huge-font-size">
+						One avatar for
+						<span class="g-no-wrap">everything, everywhere.</span>
+					</h1>
+					<p>Gravatar powers your public profile, visible wherever you&nbsp;post,&nbsp;comment, and interact&nbsp;online.</p>
+					<ul class="g-button-group">
+						<li><a class="g-button" href="https://gravatar.com/connect/?source=_signup">Create your Gravatar</a></li>
+						<li><a class="g-button g-button--is-outline g-has-chevron" href="/site/implement">Implement Gravatar API</a></li>
+					</ul>
+					<p class="g-color-auxiliary g-has-tiny-font-size">Gravatar is free for everyone—forever.</p>
+				</div>
+			</div>
+			<div class="g-pt-6 g-pt-0@M">
+				<div class="g-wrapper g-wrapper--has-content" role="presentation" aria-hidden="true">
+					<div class="g-browser-group g-browser-group--name-hero">
+						<div class="g-browser g-browser--name-trello">
+							<div class="g-browser__content">
+								<div class="g-browser__content__avatar g-browser__content__avatar--1">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+								<div class="g-browser__content__avatar g-browser__content__avatar--2">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="g-browser g-browser--name-slack">
+							<div class="g-browser__content">
+								<div class="g-browser__content__avatar g-browser__content__avatar--1">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+								<div class="g-browser__content__avatar g-browser__content__avatar--2">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="g-browser g-browser--name-p2">
+							<div class="g-browser__content">
+								<div class="g-browser__content__avatar g-browser__content__avatar--1">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+								<div class="g-browser__content__avatar g-browser__content__avatar--2">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+							</div>
+						</div>
+						<div class="g-browser g-browser--name-github">
+							<div class="g-browser__content">
+								<div class="g-browser__content__avatar">
+									<!-- prettier-ignore -->
+									<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Video overlay start -->
+<div class="g-modal g-is-style-black" role="dialog" data-g-key="intro" aria-label="Introduction to Gravatar" aria-hidden="true">
+	<div class="g-modal__overlay" role="button" tabindex="-1">
+		<span class="g-hidden">Close</span>
+	</div>
+	<div class="g-modal__content">
+		<div class="g-wrapper">
+			<div class="g-video g-video--name-intro">
+				<video class="g-video__content" src="https://videos.files.wordpress.com/HNyK67JS/sequence-01_hd.mp4" preload="none" controls=""></video>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Video overlay end -->
+
+<section class="g-section g-is-style-blue">
+	<div class="g-wrapper">
+		<div class="g-columns">
+			<div>
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<div class="g-icon g-icon--size-48 g-color-primary" role="presentation" aria-hidden="true">
+						<svg class="g-icon__content" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 90 48">
+							<path d="M24 0a24 24 0 1 1 0 48 24 24 0 0 1 0-48zm42 0a24 24 0 1 1-19.8 37.55c.38-.64.75-1.3 1.09-1.98a22.05 22.05 0 0 0 12.53 9.55c-2.05-2.05-3.77-5.1-4.97-8.78l-.22-.68-.06-.23-.23-.06-.68-.22a27.11 27.11 0 0 1-5.21-2.28c.23-.64.44-1.3.62-1.95 1.4.85 3.06 1.61 4.91 2.23l-.08-.36A41.93 41.93 0 0 1 53 25h-3.03a26.46 26.46 0 0 0 0-2H53c.06-2.74.37-5.36.89-7.79l.08-.36a24.4 24.4 0 0 0-4.91 2.23c-.18-.66-.39-1.3-.62-1.95a27.05 27.05 0 0 1 5.21-2.28l.68-.22.23-.06.06-.23.22-.68c1.2-3.69 2.92-6.73 4.97-8.78a22.05 22.05 0 0 0-12.53 9.55 23.8 23.8 0 0 0-1.1-1.98A23.97 23.97 0 0 1 66 0zm-9.15 36.02c1.84 5.49 4.87 9.24 8.15 9.88V37a41.93 41.93 0 0 1-7.79-.89l-.36-.08zm18.3 0-.36.08a41.7 41.7 0 0 1-7.79.89v8.91c3.28-.64 6.3-4.4 8.15-9.88zm11.97-5.84-.12.11c-2.04 2-5.04 3.69-8.66 4.86l-.68.22-.23.06-.06.23-.22.68c-1.2 3.69-2.92 6.73-4.97 8.78a22.05 22.05 0 0 0 14.94-14.94zM65 25h-9.99c.05 1.88.21 3.69.48 5.4l.13.76.14.74.15.73.28 1.18c.4.1.78.2 1.18.28l.73.15.74.14.75.13c1.72.27 3.53.43 5.4.48L65 25zm11.99 0H67v9.99c1.88-.05 3.69-.21 5.4-.48l.76-.13.74-.14.73-.15 1.18-.28c.1-.39.2-.78.28-1.18l.15-.73.14-.74.13-.75c.27-1.72.43-3.53.48-5.4zm-42.86-9.53L20 29.6 14.4 24l-1.87 1.87L20 33.33l16-16-1.87-1.86zM87.9 25H79a41.93 41.93 0 0 1-.89 7.79l-.08.36c5.49-1.84 9.24-4.87 9.88-8.15zM67 13.01V23h9.99a40.88 40.88 0 0 0-.48-5.4l-.13-.76-.14-.74-.15-.73-.28-1.18c-.4-.1-.78-.2-1.18-.28l-.73-.15-.74-.14-.75-.13a40.58 40.58 0 0 0-4.6-.45L67 13zm-2 0c-1.88.05-3.69.21-5.4.48l-.76.13-.74.14-.73.15-1.18.28c-.1.39-.2.78-.28 1.18l-.15.73-.14.74-.13.75a40.88 40.88 0 0 0-.48 5.41H65v-9.99zm13.02 1.84.08.36c.52 2.43.83 5.05.89 7.79h8.91c-.64-3.28-4.4-6.3-9.88-8.15zM72.18 2.88l.11.12c2 2.04 3.69 5.04 4.86 8.66l.22.68.06.23.23.06.68.22c3.69 1.2 6.73 2.92 8.78 4.97A22.05 22.05 0 0 0 72.18 2.88zM65 2.1c-3.28.64-6.3 4.4-8.15 9.88l.36-.08a41.7 41.7 0 0 1 7.79-.89V2.1zm2 0V11c2.74.06 5.36.37 7.79.89l.36.08C73.31 6.49 70.28 2.74 67 2.1z" />
+						</svg>
+					</div>
+					<h1 class="g-brand g-has-medium-font-size">Set once, seen&nbsp;everywhere.</h1>
+					<p>Create, upload, and manage your globally recognized avatar from a single place.</p>
+					<button class="g-button g-button--is-outline" data-g-key="intro" aria-haspopup="true" aria-expanded="false">
+								<span class="g-icon g-icon--is-inline g-icon--position-left" role="presentation" aria-hidden="true">
+									<svg class="g-icon__content" viewbox="0 0 24 24">
+										<path d="M12 2a10 10 0 1010 10A10 10 0 0012 2zm-2 14.5v-9l6 4.5z" /></svg></span
+								>Play video					</button>
+				</div>
+			</div>
+			<div class="g-pt-7 g-pt-0@M">
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<div class="g-icon g-icon--size-48 g-color-primary" role="presentation" aria-hidden="true">
+						<svg class="g-icon__content" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 90 48">
+							<path fill-rule="evenodd" d="M24 0a24 24 0 1 1 0 48 24 24 0 0 1 0-48zm42 0a24 24 0 1 1-19.8 37.55c.38-.64.75-1.3 1.09-1.98a22 22 0 1 0 0-23.15 25.4 25.4 0 0 0-1.1-1.97A23.97 23.97 0 0 1 66 0zm0 13.95a10 10 0 0 1 10 9.72v1.71a3.51 3.51 0 0 1-3.5 3.57 3.7 3.7 0 0 1-2.96-1.47A5 5 0 1 1 71 23.73v1.65c0 .79.71 1.57 1.5 1.57.75 0 1.42-.7 1.5-1.44v-1.56c0-4.34-3.66-8-8-8a8.1 8.1 0 0 0-8 8 8.1 8.1 0 0 0 7.76 8H71v2h-5a10 10 0 0 1 0-20zM28 18a6 6 0 1 1 0 12h-3v-2h3.24a3.99 3.99 0 0 0 2.59-6.83 3.99 3.99 0 0 0-2.6-1.16L28 20h-3v-2h3zm-5 0v2h-3.24a3.99 3.99 0 0 0-2.59 6.83 4 4 0 0 0 2.6 1.16L20 28h3v2h-3a6 6 0 1 1 0-12h3zm43 2.95a3 3 0 1 1 0 6 3 3 0 0 1 0-6zM28 23h-8v2h8v-2z" />
+						</svg>
+					</div>
+					<h1 class="g-brand g-has-medium-font-size">More than just&nbsp;an&nbsp;image.</h1>
+					<p>Instantly tell the web who you are and where people can find you. Gravatar can display links, photos, contact info, wallet addresses, and other&nbsp;details.</p>
+				</div>
+			</div>
+			<div class="g-pt-7">
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<div class="g-icon g-icon--size-48 g-color-primary" role="presentation" aria-hidden="true">
+						<svg class="g-icon__content" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 102 48">
+							<path d="M78 0a24 24 0 1 1 0 48 24 24 0 0 1 0-48zM24 0a24 24 0 0 1 7.6 46.77c-1.16.22-1.6-.44-1.65-1.06v-.1l.03-5.9v-.68c0-2.24-.77-3.7-1.63-4.44l.45-.05.22-.03.45-.07.44-.07.45-.08.44-.1.44-.1.43-.11c4.12-1.14 7.64-3.94 7.64-11.23 0-2.62-.93-4.77-2.47-6.44l.08-.21.06-.2.07-.22.07-.26.06-.3c.22-1.14.3-2.96-.58-5.17l-.06-.01-.15-.03h-.17l-.14-.01h-.17l-.19.01-.2.03-.24.03-.26.05-.13.03-.3.07-.31.1-.35.11-.36.14c-.44.17-.94.4-1.48.68l-.48.27c-.5.28-1.03.6-1.6 1a23.01 23.01 0 0 0-12.02 0c-.57-.4-1.1-.72-1.6-1l-.48-.27-.45-.23-.43-.2-.4-.17-.2-.08-.37-.14-.34-.11-.32-.1-.29-.07-.27-.06-.12-.02-.24-.03-.2-.03h-.2l-.16-.01h-.14l-.17.01-.17.03-.05.01a9.24 9.24 0 0 0-.57 5.17l.06.3.03.13.07.25.03.1.07.2.08.2a9.28 9.28 0 0 0-2.47 6.45c0 7.02 3.27 9.88 7.19 11.11l.43.13.21.06.44.1.44.1.44.1.22.03.45.08.44.06.45.06.22.03a5.1 5.1 0 0 0-1.52 3.2l-.19.09-.2.08-.23.08-.25.08-.13.04-.27.07c-1.61.4-3.95.38-5.58-2.2l-.21-.35-.1-.14-.12-.17a4.87 4.87 0 0 0-3.14-2.02l-.25-.02h-.18l-.16.02-.12.01-.12.03-.12.03c-.44.13-.72.46.38 1.25l.16.12.15.08.11.07.14.1.07.06.17.14.19.17a7.78 7.78 0 0 1 1.73 2.63l.12.3.05.14.07.17.11.21.1.17.1.17.12.19.07.1.15.2c1 1.24 3.11 2.73 7.3 1.82l.03 4.09c0 .63-.44 1.37-1.64 1.15A24 24 0 0 1 24 0z" />
+							<path fill="#e01e5a" d="M74.13 24.79c1.7 0 3.08 1.38 3.08 3.08v7.72a3.09 3.09 0 0 1-6.16 0v-7.72c0-1.7 1.38-3.08 3.08-3.08zm-4.64 0v3.08a3.09 3.09 0 0 1-6.16 0c0-1.7 1.39-3.08 3.08-3.08h3.08z" />
+							<path fill="#36c5f0" d="M74.13 17.05a3.09 3.09 0 0 1 0 6.16H66.4a3.09 3.09 0 0 1 0-6.16h7.72zm0-7.72c1.7 0 3.08 1.39 3.08 3.08v3.08h-3.08a3.09 3.09 0 0 1 0-6.16z" />
+							<path fill="#2eb67d" d="M81.87 9.33c1.7 0 3.08 1.39 3.08 3.08v7.72a3.09 3.09 0 0 1-6.16 0V12.4c0-1.7 1.38-3.08 3.08-3.08zm7.72 7.72a3.09 3.09 0 0 1 0 6.16H86.5v-3.08c0-1.7 1.38-3.08 3.08-3.08z" />
+							<path fill="#ecb22e" d="M81.87 32.5a3.09 3.09 0 0 1 0 6.17 3.09 3.09 0 0 1-3.08-3.08V32.5h3.08zm7.72-7.71a3.09 3.09 0 0 1 0 6.16h-7.72a3.09 3.09 0 0 1 0-6.16h7.72z" />
+						</svg>
+					</div>
+					<h1 class="g-brand g-has-medium-font-size">Trusted by top&nbsp;brands.</h1>
+					<p>The biggest companies you know use Gravatar. Your avatar is automatically recognized by Slack, GitHub, WordPress, and other popular services.</p>
+				</div>
+			</div>
+			<div class="g-pt-7">
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<div class="g-icon g-icon--size-48 g-color-primary" role="presentation" aria-hidden="true">
+						<svg class="g-icon__content" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 90 48">
+							<path d="M24 0a24 24 0 1 1 0 48 24 24 0 0 1 0-48zm42 0a24 24 0 1 1-19.8 37.55c.38-.64.75-1.3 1.09-1.98a22.05 22.05 0 0 0 12.53 9.55c-2.05-2.05-3.77-5.1-4.97-8.78l-.22-.68-.06-.23-.23-.06-.68-.22a27.11 27.11 0 0 1-5.21-2.28c.23-.64.44-1.3.62-1.95 1.4.85 3.06 1.61 4.91 2.23l-.08-.36A41.93 41.93 0 0 1 53 25h-3.03a26.46 26.46 0 0 0 0-2H53c.06-2.74.37-5.36.89-7.79l.08-.36a24.4 24.4 0 0 0-4.91 2.23c-.18-.66-.39-1.3-.62-1.95a27.05 27.05 0 0 1 5.21-2.28l.68-.22.23-.06.06-.23.22-.68c1.2-3.69 2.92-6.73 4.97-8.78a22.05 22.05 0 0 0-12.53 9.55 23.8 23.8 0 0 0-1.1-1.98A23.97 23.97 0 0 1 66 0zm-9.15 36.02c1.84 5.49 4.87 9.24 8.15 9.88V37a41.93 41.93 0 0 1-7.79-.89l-.36-.08zm18.3 0-.36.08a41.7 41.7 0 0 1-7.79.89v8.91c3.28-.64 6.3-4.4 8.15-9.88zm11.97-5.84-.12.11c-2.04 2-5.04 3.69-8.66 4.86l-.68.22-.23.06-.06.23-.22.68c-1.2 3.69-2.92 6.73-4.97 8.78a22.05 22.05 0 0 0 14.94-14.94zM24 11.91l-10 4.44v6.97c.14 5.8 4.12 11.12 9.47 12.58l.3.07.23.06.24-.06.29-.07c5.35-1.46 9.33-6.79 9.47-12.58v-6.97l-10-4.44zM65 25h-9.99c.05 1.88.21 3.69.48 5.4l.13.76.14.74.15.73.28 1.18c.4.1.78.2 1.18.28l.73.15.74.14.75.13c1.72.27 3.53.43 5.4.48L65 25zm11.99 0H67v9.99c1.88-.05 3.69-.21 5.4-.48l.76-.13.74-.14.73-.15 1.18-.28c.1-.39.2-.78.28-1.18l.15-.73.14-.74.13-.75c.27-1.72.43-3.53.48-5.4zM24 14.1l8 3.55v5.64l-.02.3c-.24 4.6-3.31 8.8-7.42 10.2l-.27.1-.29.08-.3-.09c-4.32-1.33-7.57-5.77-7.7-10.58v-5.65l8-3.56zM87.9 25H79a41.93 41.93 0 0 1-.89 7.79l-.08.36c5.49-1.84 9.24-4.87 9.88-8.15zm-59.3-5.42L22 26.17l-2.59-2.58L18 25l4 4 8-8-1.41-1.42zM67 13.01V23h9.99a40.88 40.88 0 0 0-.48-5.4l-.13-.76-.14-.74-.15-.73-.28-1.18c-.4-.1-.78-.2-1.18-.28l-.73-.15-.74-.14-.75-.13a40.58 40.58 0 0 0-4.6-.45L67 13zm-2 0c-1.88.05-3.69.21-5.4.48l-.76.13-.74.14-.73.15-1.18.28c-.1.39-.2.78-.28 1.18l-.15.73-.14.74-.13.75a40.88 40.88 0 0 0-.48 5.41H65v-9.99zm13.02 1.84.08.36c.52 2.43.83 5.05.89 7.79h8.91c-.64-3.28-4.4-6.3-9.88-8.15zM72.18 2.88l.11.12c2 2.04 3.69 5.04 4.86 8.66l.22.68.06.23.23.06.68.22c3.69 1.2 6.73 2.92 8.78 4.97A22.05 22.05 0 0 0 72.18 2.88zM65 2.1c-3.28.64-6.3 4.4-8.15 9.88l.36-.08a41.7 41.7 0 0 1 7.79-.89V2.1zm2 0V11c2.74.06 5.36.37 7.79.89l.36.08C73.31 6.49 70.28 2.74 67 2.1z" />
+						</svg>
+					</div>
+					<h1 class="g-brand g-has-medium-font-size">Public, open, and responsible.</h1>
+					<p>Your avatar is linked to a public email address. You choose what to display on Gravatar-enabled sites: what you share on your profile is open to the world.</p>
+					<p>As always, your data is yours.</p>
+					<a class="g-button g-button--is-outline g-has-chevron-external" href="http://automattic.com/privacy/">Read our Privacy Policy</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="g-section g-is-style-black">
+	<div class="g-wrapper">
+		<div class="g-columns g-columns--is-reversed g-columns--align-middle">
+			<div>
+				<div class="g-content g-wrapper g-wrapper--has-content">
+					<h1 class="g-color-accent g-caps g-bold g-has-tiny-font-size">
+								<span class="g-icon g-icon--is-inline g-icon--position-left" role="presentation" aria-hidden="true">
+									<svg class="g-icon__content" viewbox="0 0 24 24">
+										<path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2a3 3 0 013 3c0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98a77.245 77.245 0 01-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34A4.466 4.466 0 0017.5 12 4.5 4.5 0 0022 7.5c0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507A4.45 4.45 0 0017.5 3 4.5 4.5 0 0013 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848a68.733 68.733 0 005.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425a68.392 68.392 0 00-5.448-5.977z" /></svg></span
+								>For Site Owners &amp; Developers					</h1>
+					<h2 class="g-brand g-has-medium-font-size">Join a network of brands building&nbsp;an&nbsp;open&nbsp;web.</h2>
+					<p>Resources and plugins for popular content management systems will help you use Gravatar in no time. From a streamlined signup flow to image manipulation and other built‑in benefits, Gravatar offers many possibilities through open standards.</p>
+					<a class="g-button g-button--is-outline g-has-chevron" href="/site/implement">Implement Gravatar API</a>
+				</div>
+			</div>
+			<div class="g-none g-block@M">
+				<!-- Editor mockup start -->
+				<div class="g-editor" role="presentation" aria-hidden="true">
+					<input class="g-hidden" id="g-editor-1" type="radio" name="g-editor" tabindex="-1" checked="" />
+					<input class="g-hidden" id="g-editor-2" type="radio" name="g-editor" tabindex="-1" />
+					<div class="g-editor-bar">
+						<label class="g-editor-bar__tab" for="g-editor-1">example.js</label>
+						<label class="g-editor-bar__tab" for="g-editor-2">example.php</label>
+					</div>
+					<div class="g-editor-content">
+						<div class="g-editor-content__tab g-editor-content__tab--has-layout">
+							<div class="g-editor-content__tab__line-numbers">1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12<br />13<br />14</div>
+							<pre class="g-editor-content__tab__code language-js"><code>const md5 = require( 'md5' );
+
+function getGravatarURL( email ) {
+  // Trim leading and trailing whitespace from
+  // an email address and force all characters
+  // to lower case
+  const address = String( email ).trim().toLowerCase();
+
+  // Create an MD5 hash of the final string
+  const hash = md5( address );
+
+  // Grab the actual image URL
+  return `https://www.gravatar.com/avatar/${ hash }`;
+}</code></pre>
+						</div>
+						<div class="g-editor-content__tab">
+							<div class="g-editor-content__tab__line-numbers">1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12</div>
+							<pre class="g-editor-content__tab__code language-php"><code>function get_gravatar_url( $email ) {
+  // Trim leading and trailing whitespace from
+  // an email address and force all characters
+  // to lower case
+  $address = strtolower( trim( $email ) );
+
+  // Create an MD5 hash of the final string
+  $hash = md5( address );
+
+  // Grab the actual image URL
+  return 'https://www.gravatar.com/avatar/' . $hash;
+}</code></pre>
+						</div>
+					</div>
+				</div>
+				<!-- Editor mockup end -->
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="g-section g-is-style-white g-pt-5" id="g-bottom-animation" data-g-animation-delay="1500" data-g-animation-step-duration="1000" data-g-image-paths='["https://2.gravatar.com/avatar/c1e06475bf3496e81c1925d90d7c890a?s=360","https://0.gravatar.com/avatar/4e8763cd343611171849e8f27d0132a3?s=360","https://0.gravatar.com/avatar/5dbdc3f7ce1095dddac315d4956af900?s=360","https://1.gravatar.com/avatar/be8819126bd50fa16210bc5dd249beb2?s=360"]'>
+	<div class="g-wrapper">
+		<!-- Logo strip start -->
+		<div class="g-logo-group g-color-dimmed" role="presentation" aria-hidden="true">
+			<svg class="g-logo g-logo--name-wordpress-org-mark" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 36">
+				<path d="M16 3c8.837 0 16 7.163 16 16s-7.163 16-16 16S0 27.837 0 19 7.163 3 16 3zm0 .96a14.943 14.943 0 00-8.408 2.568 15.148 15.148 0 00-4.064 4.064A14.944 14.944 0 00.96 19a14.944 14.944 0 002.568 8.408 15.148 15.148 0 004.064 4.064A14.943 14.943 0 0016 34.04a14.944 14.944 0 008.408-2.568 15.148 15.148 0 004.064-4.064A14.944 14.944 0 0031.04 19a14.944 14.944 0 00-2.568-8.408 15.148 15.148 0 00-4.064-4.064A14.944 14.944 0 0016 3.96zm.234 16.206l4.098 11.228c.027.066.06.126.096.183a13.324 13.324 0 01-8.067.25l-.128-.037 4.001-11.624zM3.821 13.573L10.181 31c-4.448-2.161-7.514-6.722-7.514-12 0-1.933.414-3.768 1.154-5.426zm23.88-.97A13.27 13.27 0 0129.332 19c0 4.87-2.612 9.127-6.51 11.454l-.12.07 4.073-11.774c.76-1.902 1.014-3.423 1.014-4.776 0-.49-.032-.946-.09-1.37zM16 5.667c3.471 0 6.632 1.327 9.004 3.5l-.114-.009a.936.936 0 00-.059-.002c-1.31 0-2.239 1.141-2.239 2.367 0 .778.318 1.472.744 2.2l.076.13.078.13.12.196.292.471.082.145.055.1.056.1.027.052.056.104.055.107c.037.072.073.146.109.22l.053.115c.333.73.606 1.616.606 2.734 0 .436-.052.902-.15 1.417l-.03.15-.032.15-.017.078-.036.155-.038.16-.04.162-.021.082-.044.167-.023.085-.047.172-.05.176-.052.179-.054.183-.056.187-.058.191-.06.195-.063.2-.098.306-1.376 4.359-4.818-14.333.22-.012.16-.01.205-.016.238-.02.327-.03.376-.038c.708-.084.636-1.112-.055-1.1l-.042.002-.726.051-.516.033-.487.027-.307.015-.207.01-.26.01-.24.008-.238.007-.231.005-.223.002h-.245l-.195-.003-.1-.002-.207-.005-.213-.007a39.964 39.964 0 01-.107-.004l-.155-.006-.232-.01-.433-.021-.388-.022-.527-.032-.817-.057c-.709-.042-.8 1.025-.114 1.096l.05.005.265.03.242.025.29.027.2.016.21.015.171.011 2.077 5.692-2.918 8.75-4.855-14.442.22-.012.16-.01.205-.016.239-.02.327-.03.16-.015.215-.023c.708-.084.635-1.112-.056-1.1l-.048.002-.64.046-.499.032-.527.03-.253.013-.21.01-.13.005-.237.01-.103.004-.244.007c-.202.006-.398.01-.583.011h-.264l-.165-.003-.262-.005-.276-.008c2.384-3.62 6.482-6.01 11.14-6.01z" />
+			</svg>
+			<svg class="g-logo g-logo--name-wordpress-org" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 157 36">
+				<path d="M16 3c8.837 0 16 7.163 16 16s-7.163 16-16 16S0 27.837 0 19 7.163 3 16 3zm0 .96a14.943 14.943 0 00-8.408 2.568 15.148 15.148 0 00-4.064 4.064A14.944 14.944 0 00.96 19a14.944 14.944 0 002.568 8.408 15.148 15.148 0 004.064 4.064A14.943 14.943 0 0016 34.04a14.944 14.944 0 008.408-2.568 15.148 15.148 0 004.064-4.064A14.944 14.944 0 0031.04 19a14.944 14.944 0 00-2.568-8.408 15.148 15.148 0 00-4.064-4.064A14.944 14.944 0 0016 3.96zm.234 16.206l4.098 11.228c.027.066.06.126.096.183a13.324 13.324 0 01-8.067.25l-.128-.037 4.001-11.624zM3.821 13.573L10.181 31c-4.448-2.161-7.514-6.722-7.514-12 0-1.933.414-3.768 1.154-5.426zm23.88-.97A13.27 13.27 0 0129.332 19c0 4.87-2.612 9.127-6.51 11.454l-.12.07 4.073-11.774c.76-1.902 1.014-3.423 1.014-4.776 0-.49-.032-.946-.09-1.37zm13.792-1.283v.711l-.124.001-.12.002c-.04 0-.078.002-.117.003l-.113.005-.11.006c-1.524.094-1.96.636-1.438 2.367l.039.124.041.129.022.065 2.382 7.254 3.591-10.667h.676l3.52 10.667 2.453-7.254.042-.124.038-.12.037-.117.034-.114.03-.11.03-.107.012-.052.025-.102c.274-1.202-.058-1.7-1.342-1.823l-.109-.01-.114-.007a7.293 7.293 0 00-.058-.004l-.12-.005-.062-.002-.128-.003a11.635 11.635 0 00-.2-.002v-.711h6.685v.711l-.132.001-.128.002-.125.003-.12.005-.06.003-.115.008c-1.322.095-1.92.534-2.5 1.84l-.05.115-.049.118-.05.123-.05.127-.05.132-.05.137-.052.141-.052.146-.052.151-.027.077-4.053 12.16h-.462L45.19 16.191 41.493 27.32h-.462l-3.946-12.16-.051-.153-.05-.148-.05-.144-.05-.139a16.195 16.195 0 00-.024-.068l-.05-.132a12.01 12.01 0 00-.096-.25l-.049-.118-.048-.114c-.567-1.307-1.16-1.746-2.388-1.841l-.107-.008a6.774 6.774 0 00-.055-.003l-.111-.005-.116-.003-.118-.002H33.6v-.712h7.893zM16 5.667c3.471 0 6.632 1.327 9.004 3.5l-.114-.009a.936.936 0 00-.059-.002c-1.31 0-2.239 1.141-2.239 2.367 0 .778.318 1.472.744 2.2l.076.13.078.13.12.196.292.471.082.145.055.1.056.1.027.052.056.104.055.107c.037.072.073.146.109.22l.053.115c.333.73.606 1.616.606 2.734 0 .436-.052.902-.15 1.417l-.03.15-.032.15-.017.078-.036.155-.038.16-.04.162-.021.082-.044.167-.023.085-.047.172-.05.176-.052.179-.054.183-.056.187-.058.191-.06.195-.063.2-.098.306-1.376 4.359-4.818-14.333.22-.012.16-.01.205-.016.238-.02.327-.03.376-.038c.708-.084.636-1.112-.055-1.1l-.042.002-.726.051-.516.033-.487.027-.307.015-.207.01-.26.01-.24.008-.238.007-.231.005-.223.002h-.245l-.195-.003-.1-.002-.207-.005-.213-.007a39.964 39.964 0 01-.107-.004l-.155-.006-.232-.01-.433-.021-.388-.022-.527-.032-.817-.057c-.709-.042-.8 1.025-.114 1.096l.05.005.265.03.242.025.29.027.2.016.21.015.171.011 2.077 5.692-2.918 8.75-4.855-14.442.22-.012.16-.01.205-.016.239-.02.327-.03.16-.015.215-.023c.708-.084.635-1.112-.056-1.1l-.048.002-.64.046-.499.032-.527.03-.253.013-.21.01-.13.005-.237.01-.103.004-.244.007c-.202.006-.398.01-.583.011h-.264l-.165-.003-.262-.005-.276-.008c2.384-3.62 6.482-6.01 11.14-6.01zm45.83 8.746c3.911 0 7.111 2.88 7.111 6.365 0 3.52-3.2 6.4-7.111 6.4-3.91 0-7.111-2.88-7.111-6.4 0-3.485 3.2-6.365 7.11-6.365zm94.019 0v4.196h-.747l-.016-.1a5.81 5.81 0 00-.008-.051l-.019-.1a5.603 5.603 0 00-.01-.05l-.02-.098a5.204 5.204 0 00-.06-.242l-.028-.095a4.843 4.843 0 00-.014-.047l-.03-.094c-.412-1.253-1.31-2.18-2.852-2.18-.996 0-1.92.568-1.92 1.457 0 .505.222.883.704 1.25l.072.053c.074.054.154.107.239.16l.087.055.045.026.093.055.097.054.1.055.105.055.109.057.112.056.117.058.12.058.124.06.194.09.135.062 1.955.96c1.707.818 2.382 2.134 2.382 3.2 0 2.24-1.955 3.805-4.337 3.805-1.12 0-2.128-.463-2.768-.885l-.077-.053-.074-.051-.07-.051a4.257 4.257 0 01-.034-.026l-.063-.049-.06-.048-.054-.046c-.178.178-.498.711-.569 1.209h-.676V22.27h.711c.285 2.347 1.92 3.733 4.018 3.733 1.138 0 2.062-.64 2.062-1.706 0-.812-.631-1.46-1.774-2.064l-.12-.062-.061-.03-.125-.063-.195-.092-2.027-.96c-1.422-.676-2.489-1.85-2.489-3.414 0-1.706 1.6-3.164 3.805-3.164 1.173 0 2.168.427 2.773.925.178-.143.355-.534.462-.96h.676zm-10.751 0v4.196h-.747l-.016-.1a5.6 5.6 0 00-.069-.348l-.023-.097a5.114 5.114 0 00-.013-.048l-.026-.096a4.516 4.516 0 00-.175-.505l-.038-.087c-.464-1.043-1.327-1.777-2.697-1.777-.996 0-1.92.57-1.92 1.458 0 .505.223.883.704 1.25l.072.053c.074.054.154.107.24.16l.086.055.091.054.095.054.05.027.1.055.104.055.109.057.112.056.117.058.12.058.124.06.195.09.134.062 1.955.96c1.707.818 2.382 2.134 2.382 3.2 0 2.24-1.955 3.805-4.337 3.805-1.166 0-2.212-.502-2.845-.938l-.074-.051-.07-.051a4.257 4.257 0 01-.034-.026l-.063-.049-.06-.048-.054-.046c-.178.178-.498.711-.569 1.209h-.675V22.27h.71c.285 2.347 1.92 3.733 4.018 3.733 1.138 0 2.063-.64 2.063-1.706 0-.812-.632-1.46-1.774-2.064l-.12-.062-.062-.03-.125-.063-.195-.092-2.026-.96c-1.423-.676-2.49-1.85-2.49-3.414 0-1.706 1.6-3.164 3.805-3.164 1.173 0 2.169.427 2.773.925.178-.143.356-.534.463-.96h.675zm-27.839.463c3.13 0 4.8 1.493 4.8 3.448 0 1.55-1.15 2.924-3.311 3.33l-.067.013 1.636 1.778.132.144.13.14.065.069.127.134c1.18 1.227 2.137 1.893 3.464 2.095l.092-.005.09-.007.043-.004.085-.009c.056-.006.11-.013.162-.022l.076-.013.074-.015c.686-.148 1-.518 1.133-1.338l.013-.088.006-.045.011-.093.01-.097.01-.1a7.6 7.6 0 00.004-.051l.007-.106.006-.109.006-.113.004-.116.005-.182.002-.127.002-.197v-4.763l-.002-.218-.002-.139-.001-.067-.004-.132-.002-.065-.005-.125a10.58 10.58 0 00-.003-.06l-.007-.119a8.37 8.37 0 00-.004-.057l-.009-.112-.01-.107c-.115-1.104-.464-1.508-1.385-1.63l-.089-.01-.093-.01-.097-.007a5.893 5.893 0 00-.05-.003l-.101-.006-.106-.004-.054-.001-.112-.003h-.175v-.676h10.453l.249 3.342h-.569l-.178-.675-.019-.07-.02-.068-.02-.066a4.582 4.582 0 00-.01-.032l-.02-.063a3.68 3.68 0 00-.01-.031l-.022-.061a3.046 3.046 0 00-.011-.03l-.023-.058a2.385 2.385 0 00-.036-.084l-.026-.054a1.943 1.943 0 00-.013-.027l-.027-.051a1.673 1.673 0 00-.028-.05l-.03-.049a1.46 1.46 0 00-.031-.047l-.033-.045c-.23-.304-.58-.499-1.192-.607l-.091-.015a5.389 5.389 0 00-.145-.02l-.1-.013-.106-.011a7.622 7.622 0 00-.054-.005l-.112-.01a9.35 9.35 0 00-.116-.007l-.12-.007-.125-.006-.13-.005-.066-.002-.136-.003-.07-.001-.144-.002h-2.104v3.981h.243l.154-.002.148-.002.143-.003.137-.004.132-.004.126-.006.12-.007.116-.008.056-.004.108-.01.104-.011c.94-.11 1.254-.4 1.355-1.108l.01-.077.008-.081.007-.084.006-.087.004-.091.004-.095.002-.097.002-.102v-.105l.001-.11h.676v5.299h-.676v-.163l-.002-.103-.002-.1-.003-.096-.004-.092-.005-.09a4.993 4.993 0 00-.003-.043l-.007-.084-.008-.08-.01-.078c-.104-.732-.438-1.017-1.459-1.119l-.108-.01a7.74 7.74 0 00-.056-.004l-.115-.008-.121-.007-.126-.005-.132-.005-.137-.004-.143-.003-.225-.003-.238-.001h-.082v1.71l.001.218.003.14.003.134.004.13.005.124.006.12.003.06.008.113.01.11.01.105.012.1c.127.99.469 1.361 1.287 1.477l.084.011.042.005.089.008.091.007.095.005.099.004.05.002.104.002.107.001h.628l.218-.002.14-.002.067-.002.132-.004.064-.003.124-.006.12-.007.117-.008.111-.009.107-.01.104-.012.05-.006.097-.014a5.09 5.09 0 00.047-.007l.091-.015c.746-.132 1.103-.393 1.328-.823l.027-.053c.013-.026.025-.053.037-.081l.024-.057.023-.058.022-.06.01-.03.022-.063.02-.064.02-.066.03-.103.186-.674h.534l-.214 3.341h-14.612l-3.947-4.941h-.604v1.355l.002.218.002.139.001.068.004.132.005.128.005.123.007.119.004.057.01.113.01.107c.121 1.182.508 1.582 1.566 1.68l.097.008.1.007.051.002.106.005.11.003.113.002h.118v.675h-7.075v-.675h.117l.114-.002.055-.002.108-.003.104-.005.1-.007.096-.008.047-.004.091-.01c.955-.122 1.313-.537 1.43-1.666l.01-.107.008-.113.008-.116.003-.06.006-.123.003-.063.004-.13.001-.067.003-.137.002-.142v-4.848l-.001-.218-.002-.139-.002-.067-.003-.132-.002-.065-.006-.125a10.58 10.58 0 00-.003-.06l-.007-.119a8.498 8.498 0 00-.004-.057l-.008-.112-.01-.107c-.115-1.104-.464-1.508-1.385-1.63l-.09-.01-.093-.01-.096-.007a5.893 5.893 0 00-.05-.003l-.102-.006-.106-.004-.054-.001-.112-.003h-.175v-.676h6.258zm-41.456 0c3.129 0 4.8 1.493 4.8 3.448 0 1.55-1.15 2.924-3.311 3.33l-.067.013 1.635 1.778.133.144.065.07.13.139.126.133.126.13c1.143 1.166 2.089 1.796 3.403 1.98l.117-.001.114-.002.055-.002.108-.003.104-.005.1-.007.096-.008.047-.004.091-.01.088-.013.084-.014c.826-.15 1.148-.58 1.257-1.639l.01-.107.005-.056.008-.114a9.21 9.21 0 00.004-.06l.006-.12.005-.125.003-.065.003-.132.002-.068.003-.21V18.28l-.003-.21-.003-.135-.002-.065-.005-.128-.003-.062-.006-.12a9.1 9.1 0 00-.004-.059l-.008-.113a7.276 7.276 0 00-.005-.056l-.01-.107c-.114-1.104-.463-1.508-1.384-1.63l-.09-.01a4.369 4.369 0 00-.046-.005l-.094-.008a5.67 5.67 0 00-.099-.007l-.102-.006-.106-.004-.054-.001-.112-.003h-.175v-.676h6.365c5.085 0 7.289 2.667 7.289 5.902 0 3.203-2.16 5.883-7.137 5.937H78.86l-3.946-4.941h-.604v1.355l.001.216.002.138.003.133.004.129.006.124.006.12.007.116.004.056.01.11.01.104c.122 1.1.484 1.506 1.432 1.624l.09.01.095.009.147.01.103.005.107.004.11.002.115.001h.059v.675h-7.076v-.675h.118l.113-.002.055-.002.108-.003a6.78 6.78 0 00.104-.005l.1-.007.097-.008.047-.004.091-.01a3.53 3.53 0 00.088-.013l.084-.014c.84-.152 1.158-.595 1.262-1.692l.01-.11.008-.114.007-.119.003-.061.005-.125.002-.065.004-.132.001-.068.003-.21.001-.147V18.28l-.004-.21-.003-.135-.002-.065-.004-.128-.003-.062-.006-.12a9.1 9.1 0 00-.004-.059l-.008-.113-.01-.11c-.109-1.144-.454-1.559-1.39-1.683l-.09-.01a4.369 4.369 0 00-.045-.005l-.095-.008a5.67 5.67 0 00-.098-.007l-.102-.006-.106-.004-.055-.001-.111-.003h-.175v-.676h6.258zm28.692-3.556c3.662 0 5.69 1.885 5.69 4.41 0 2.452-2.028 4.372-5.69 4.372h-2.027v1.848l.002.206.002.2.001.097.004.19.006.182.006.176.009.17.01.163c.135 2.057.668 2.587 2.297 2.66l.13.006.202.004h.14v.711h-8.142v-.71l.14-.001.203-.004.13-.005c1.607-.073 2.148-.59 2.292-2.582l.01-.16c.005-.082.01-.166.013-.252l.007-.176.003-.09.004-.187.004-.192.002-.2.001-.206v-5.9l-.001-.206-.002-.2-.004-.192-.004-.185-.003-.09-.007-.176-.013-.252-.01-.16c-.148-2.035-.713-2.504-2.422-2.553l-.134-.003-.138-.001h-.07v-.712h7.359zM61.83 15.516c-3.27 0-4.409 2.95-4.409 5.262 0 2.347 1.138 5.262 4.409 5.262 3.307 0 4.444-2.915 4.444-5.262 0-2.311-1.137-5.262-4.444-5.262zm27.484.427h-1.707v7.816l.002.146.002.138.003.088.003.085.005.082.005.079.005.075.007.073.008.07.009.066.005.033.01.062.006.03.012.059c.1.438.308.64.733.722l.056.01.03.004.06.008.03.004.065.006.067.005.07.004.035.001.074.003.076.001h.329c3.512 0 4.298-2.438 4.367-4.542l.004-.132.002-.132v-.128l-.002-.127-.004-.129c-.069-2.02-.838-4.43-4.257-4.48h-.11zm27.91 0h-1.458v4.728h1.458c1.6 0 2.31-1.102 2.31-2.347 0-1.265-.695-2.357-2.257-2.381h-.053zm-41.457 0H74.31v4.728h1.457c1.582 0 2.296-1.078 2.311-2.305v-.042c0-1.265-.695-2.357-2.258-2.381h-.053zm28.728-3.343h-2.027v6.187h2.027c1.991 0 2.915-1.387 2.915-3.058 0-1.706-.924-3.13-2.915-3.13z" />
+			</svg>
+			<svg class="g-logo g-logo--name-github" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 73 36">
+				<path d="M8.194 9.5h.121l.237.003.23.005c.075.001.15.004.223.007l.217.009.21.01.204.014.197.015.192.016.185.019.179.02.087.01.17.022.164.023.158.024.152.025.147.026.071.014.138.027.067.014.13.029.124.029.12.03.113.029.108.03.104.03.098.03.093.03.088.03.124.044.112.043.07.028.095.04.085.04.051.024.043.022.036.018.063.034.051.03.058.037.014.01a.26.26 0 01.108.197v.025l-.675 2.862c0 .156-.163.332-.34.278l-.397-.127-.117-.036-.126-.037-.089-.024-.094-.025-.098-.024-.156-.036-.11-.023-.116-.023a8.299 8.299 0 00-.06-.011l-.124-.022-.13-.02a9.336 9.336 0 00-.136-.02l-.142-.018a10.203 10.203 0 00-.073-.01l-.152-.015-.159-.015a11.759 11.759 0 00-.082-.007l-.169-.012a12.875 12.875 0 00-.087-.005l-.18-.01-.093-.003-.192-.006-.2-.004-.207-.001h-.142l-.07.002-.143.004-.071.002-.143.007c-2.182.126-4.313 1.11-4.313 6.004 0 4.307 1.587 5.54 3.11 5.854l.112.021c.113.02.225.035.335.047l.11.01.11.007.054.003.107.005.107.002.104.001.232-.002.216-.004.134-.004.128-.006.18-.01.163-.011.15-.013.091-.009.165-.02.14-.019.091-.015.102-.018.08-.017.06-.014.066-.019v-3.68H7.83a.284.284 0 01-.282-.257l-.001-.027V18.13c0-.148.112-.269.255-.282l.028-.002h6.059c.147 0 .268.112.282.256l.001.028v9.239l-.001.034c-.004.052-.02.125-.07.166l-.064.044-.072.045-.059.036-.097.057-.117.066-.066.036-.11.057-.12.06-.13.064-.094.043-.15.067-.105.045-.11.045-.115.046-.12.045-.124.046-.129.045-.133.045-.137.044-.142.044-.073.021-.148.042-.153.04a10.8 10.8 0 01-.827.18l-.177.03A11.39 11.39 0 018.755 29C4.75 29 0 27.767 0 19.494S4.15 9.5 8.194 9.5zm42.312 6.58c.147 0 .267.113.28.258l.002.027v7.634c0 .06.001.12.003.177l.004.113c.055.995.42 1.46 1.538 1.46.503 0 .945-.108 1.29-.233l.101-.039c.033-.012.064-.025.095-.038l.088-.04a3.94 3.94 0 00.042-.018l.08-.038.071-.037.066-.035.084-.048.068-.04.05-.033.046-.031v-8.754c0-.148.112-.27.254-.284l.027-.001h3.386c.147 0 .267.113.281.258l.001.027.001 11.984c0 .148-.112.27-.255.284l-.027.001-2.186.01a.298.298 0 01-.249-.154.264.264 0 01-.015-.048l-.011-.052-.019-.099-.013-.075-.03-.197-.036-.257-.07.046-.096.06-.105.061-.128.072-.11.06-.082.042-.085.044-.139.068-.098.046-.103.047-.108.047-.112.048-.058.024-.119.047-.122.046-.063.023-.129.046-.132.044-.137.043a7.005 7.005 0 01-2.038.32l-.16-.001a10.857 10.857 0 01-.395-.012l-.154-.009a9.093 9.093 0 01-.076-.005l-.152-.013a8.182 8.182 0 01-.074-.007l-.148-.016c-2.082-.251-3.508-1.308-3.541-4.25v-8.318c0-.148.112-.27.254-.284l.027-.001h3.436zm13.316-5.874c.146 0 .266.113.28.258l.001.027v6.046l.045-.028.085-.05.098-.053.09-.046.069-.034.074-.036.08-.037.087-.038.092-.038.098-.04.103-.04.054-.02.111-.038.058-.02.12-.038a6.69 6.69 0 01.124-.038l.129-.036.134-.035a6.588 6.588 0 011.58-.193h.117l.118.003.06.002.121.007c.163.01.33.025.5.05l.127.02c1.767.3 3.73 1.572 3.73 6.14 0 5.502-1.784 7.08-4.893 7.08a7 7 0 01-2.594-.477l-.12-.049a6.158 6.158 0 01-.114-.05l-.11-.05-.105-.05-.1-.05-.094-.05-.09-.05-.083-.048-.08-.047-.073-.046-.101-.066-.061-.042-.056-.04-.096-.07-.09-.071-.07-.06-.01-.01-.028.216-.029.201-.02.124-.013.077-.014.07a.548.548 0 01-.04.135c-.055.087-.125.14-.217.15l-.031.002H60.4a.284.284 0 01-.281-.259l-.001-.027V10.491c0-.148.111-.27.254-.283l.027-.002h3.422zM27.11 12.478c.138 0 .204.056.213.167v.025l.004 3.381h2.56c.146 0 .267.113.28.257l.002.028v2.75c0 .148-.112.27-.255.284h-2.587v5.02c0 .757.426 1.341 1.683 1.341.104 0 .206-.004.304-.01l.17-.013.327-.03.068-.005a.958.958 0 01.055-.002c.14 0 .267.113.281.257l.002.028-.003 2.415c0 .114-.06.219-.16.256l-.03.01-.065.02-.086.025-.07.019-.077.02-.13.03-.145.034-.104.022-.109.021-.113.021-.176.03-.12.018-.124.017a5.686 5.686 0 01-.622.047h-.23l-.115-.003-.117-.003-.119-.005-.12-.007-.121-.008a8.026 8.026 0 01-.061-.005l-.123-.011-.123-.013-.124-.016a6.554 6.554 0 01-.062-.009l-.124-.02a5.947 5.947 0 01-.125-.021l-.125-.025c-1.493-.315-2.94-1.272-2.98-4.046v-5.398h-1.788a.283.283 0 01-.281-.258l-.001-.027V16.89c0-.13.086-.238.204-.272l.223-.056 1.643-.4v-3.494c0-.121.063-.181.182-.189h3.514zm8.43-2.272c.147 0 .266.113.28.258l.001.027v6.594h5.318V10.49c0-.148.112-.27.255-.283l.027-.002h3.411c.148 0 .267.113.28.258l.002.027v17.853c0 .148-.111.27-.255.284l-.027.002h-3.42a.284.284 0 01-.28-.259l-.002-.027.01-7.636h-5.319v7.636c0 .148-.11.27-.254.284l-.027.002h-3.412a.284.284 0 01-.28-.259l-.002-.027V10.491c0-.148.113-.27.255-.283l.027-.002h3.412zM19.8 16.053c.147 0 .267.113.28.257l.002.027v11.834c0 .28-.076.443-.381.455l-.038.001H16.6c-.27 0-.48-.096-.495-.413V16.37c0-.148.124-.3.269-.316l.026-.001h3.4zm45.978 2.894c-.294.027-.57.09-.814.164l-.102.033-.098.034-.093.034-.088.034-.082.035-.077.033-.105.048-.09.044-.096.05-.066.036-.04.023v5.654l.06.036.073.042.046.024.053.028.091.044.068.031.075.033.08.033.086.033.091.033.048.016.099.031a4.19 4.19 0 001.032.182l.119.004h.235l.089-.003.087-.005.042-.004.083-.008.08-.01.079-.012.076-.015.073-.017c.456-.116.77-.381.972-.895l.031-.083.03-.088.027-.091.038-.146.023-.103.021-.107.01-.056.02-.114.008-.06.017-.121.014-.127.007-.065.013-.135.011-.14.01-.144.008-.15.006-.156.006-.16.005-.253.003-.265v-.091c0-.582-.047-1.062-.132-1.457l-.027-.116a3.897 3.897 0 00-.029-.11l-.03-.107c-.156-.5-.385-.833-.66-1.047l-.058-.043a1.556 1.556 0 00-.436-.212l-.067-.02a1.874 1.874 0 00-.067-.016l-.068-.014-.068-.012a2.19 2.19 0 00-.035-.005l-.07-.01-.07-.006-.07-.005a2.77 2.77 0 00-.036-.002l-.072-.002h-.072l-.108.002-.073.004-.11.007a4.656 4.656 0 00-.036.003zm-47.652-8.334c1.215 0 2.2.992 2.2 2.221a2.211 2.211 0 01-2.2 2.223c-1.214 0-2.2-.996-2.2-2.223a2.21 2.21 0 012.2-2.221z" />
+			</svg>
+			<svg class="g-logo g-logo--name-p2" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 58 36">
+				<path d="M28.376 8c.86 0 1.558.7 1.558 1.563v21.874A1.56 1.56 0 0128.376 33H6.492c-.86 0-1.558-.7-1.558-1.563V9.563A1.56 1.56 0 016.492 8zm-9.312 14.706h-6.63v4.412h6.63v-4.412zm22.088-8.824c3 0 4.734 1.855 4.734 4.485 0 2.644-1.767 4.46-4.805 4.46h-2.347v4.29H35.94V13.883zM52.41 13.7c2.839 0 4.714 1.62 4.714 3.911 0 1.504-.73 2.743-3.453 5.222l-1.934 1.891v.09H57.3V27.1h-9.442v-2.014l4.715-4.357c1.202-1.156 1.849-1.879 1.849-2.93 0-1.163-.866-1.885-2.03-1.885-1.21 0-2.012.774-2.005 2.04h-2.658c-.007-2.596 1.901-4.254 4.682-4.254zm-11.793 2.47h-1.883v4.414h1.896c1.599 0 2.38-.905 2.38-2.217 0-1.318-.781-2.197-2.393-2.197zm-18.183-2.288h-10v6.5h10v-6.5z" />
+			</svg>
+			<svg class="g-logo g-logo--name-slack" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 86 36">
+				<path d="M8.02 20.47a2.28 2.28 0 0 1 2.29 2.29v5.71a2.28 2.28 0 1 1-4.58 0v-5.71a2.28 2.28 0 0 1 2.3-2.3zm5.74 5.72a2.28 2.28 0 1 1-2.3 2.28V26.2h2.3zm19.1-11.47c1.76 0 3.5.43 4.75 1.42l-1 2.54a7.58 7.58 0 0 0-3.92-1.24c-.92 0-1.52.43-1.52.98 0 .56.66.85 1.56 1.12l.18.05.28.08.58.15.2.06.2.06c1.83.52 3.82 1.32 3.86 3.7 0 2.39-2.03 4.07-4.94 4.07-2.13 0-4.09-.5-5.58-1.58l1.08-2.5a7.16 7.16 0 0 0 4.22 1.33c1.13 0 1.84-.44 1.84-1.1 0-.58-.7-.84-1.64-1.06l-.18-.04-.86-.19-.2-.04-.2-.05-.2-.05c-1.72-.44-3.49-1.22-3.51-3.57-.02-2.34 2.06-4.14 5-4.14zm33.16 0c2.4 0 4.51 1.32 5.63 3.25l.04.07-2.96 1.65a3.1 3.1 0 1 0-.03 3.1l.03-.05 2.96 1.64a6.5 6.5 0 1 1-5.67-9.67zm-15.47 0c1.55 0 3.04.68 3.66 1.68l.03.05v-1.47h3.71v12.47h-3.7v-1.47c-.61 1.02-2.12 1.73-3.7 1.73-3.25 0-5.82-2.91-5.82-6.51 0-3.6 2.57-6.48 5.82-6.48zm-7.32-5.4v18.15h-3.71V9.33h3.7zm33.62 0v10.66l4.2-5h4.53L80.4 21l5.6 6.46h-4.75l-4.4-5.44v5.44h-3.7V9.33h3.7zM4.6 20.48v2.29a2.28 2.28 0 1 1-2.29-2.3h2.3zm14.9 0a2.28 2.28 0 1 1 0 4.57h-5.73a2.28 2.28 0 1 1 0-4.57h5.73zm31.86-2.36a3.1 3.1 0 1 0 0 6.2 3.4 3.4 0 0 0 2.86-1.49l.03-.05v-3.06a3.42 3.42 0 0 0-2.89-1.6zM8.02 14.73a2.28 2.28 0 1 1 0 4.58H2.3a2.28 2.28 0 1 1 0-4.58h5.73zm11.45 0a2.28 2.28 0 1 1 0 4.58H17.2v-2.29a2.28 2.28 0 0 1 2.28-2.29zM13.76 9a2.28 2.28 0 0 1 2.28 2.29v5.73a2.28 2.28 0 1 1-4.57 0V11.3A2.28 2.28 0 0 1 13.76 9zM8.02 9a2.28 2.28 0 0 1 2.29 2.29v2.28H8.02a2.28 2.28 0 1 1 0-4.57z" />
+			</svg>
+			<svg class="g-logo g-logo--name-atlassian" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 137 36">
+				<path d="M80.606 13.266c1.802 0 3.355.364 4.397.855l.17.083v3.172c-1.498-.685-3.07-1.167-4.67-1.167-1.318 0-2.029.355-2.029 1.142 0 .613.45 1.06 2.291 1.479l.195.043c3.604.787 4.898 1.929 4.898 4.339 0 2.563-1.523 4.288-5.43 4.288-2.268 0-3.667-.417-4.715-.877l-.255-.116-.36-.174v-3.324c1.397.837 3.553 1.446 5.355 1.446 1.573 0 2.03-.457 2.03-1.167 0-.624-.329-.975-1.777-1.345l-.328-.08-.364-.081a27.477 27.477 0 00-.195-.042c-3.705-.71-4.644-2.334-4.644-4.364 0-2.563 1.853-4.11 5.43-4.11zm13.396 0c1.803 0 3.355.364 4.398.855l.17.083v3.172c-1.498-.685-3.071-1.167-4.67-1.167-1.319 0-2.03.355-2.03 1.142 0 .613.452 1.06 2.292 1.479l.196.043c3.602.787 4.896 1.929 4.896 4.339 0 2.563-1.522 4.288-5.43 4.288-1.984 0-3.303-.32-4.303-.707l-.278-.113-.133-.057-.255-.116-.359-.174v-3.324c1.396.837 3.553 1.446 5.354 1.446 1.573 0 2.03-.457 2.03-1.167 0-.624-.329-.975-1.777-1.345l-.328-.08-.363-.081a27.48 27.48 0 00-.196-.042c-3.705-.71-4.644-2.334-4.644-4.364 0-2.563 1.852-4.11 5.43-4.11zm35.548.203l3.349 6.343 1.117 2.588v-8.931h2.943v13.828h-3.704l-4.162-7.739-1.243-2.816v10.555h-2.943V13.469h4.643zm-76.094 0v10.834h4.415l-1.04 2.994h-6.623V13.469h3.248zm-5.658 0v2.994h-3.832v10.834H40.72V16.463h-3.553v-2.994h10.632zM4.486 18.188c.127 0 .279.05.355.152 2.157 2.284 2.918 6.217 1.675 8.754-.044.109-.162.18-.275.198l-.055.005H.35a.363.363 0 01-.152-.05.341.341 0 01-.18-.422l.027-.06 4.187-8.374a.403.403 0 01.254-.203zM8.469 10.5c.106 0 .194.053.25.144l.564 1.121 7.504 14.99a.15.15 0 00.005.01c.025.05.025.1.025.151 0 .18-.12.321-.29.35l-.065.006h-5.836a.35.35 0 01-.304-.152L7.48 21.46c-1.7-3.4-1.472-7.434.634-10.758a.41.41 0 01.267-.197l.063-.006h.025zm97.712 2.969v13.803h-3.222V13.469h3.222zm-73.709 0l4.847 13.803h-3.68l-.685-2.335c-.837.254-1.7.38-2.588.38-.799 0-1.56-.116-2.28-.298l-.308-.082-.685 2.335h-3.679l4.821-13.803h4.237zm35.751 0l4.847 13.803h-3.68l-.685-2.335c-.837.254-1.7.38-2.588.38-.8 0-1.56-.116-2.281-.298l-.307-.082-.685 2.335h-3.68l4.822-13.803h4.237zm49.554 0l4.846 13.803h-3.679l-.685-2.335c-.837.254-1.7.38-2.588.38-.8 0-1.56-.116-2.281-.298l-.307-.082-.685 2.335h-3.68l4.821-13.803h4.238zM30.34 16.184l-1.776 6.038a6.822 6.822 0 001.776.254c.522 0 1.044-.074 1.534-.192l.242-.062-1.776-6.038zm35.776 0l-1.776 6.038a6.823 6.823 0 001.776.254 6.65 6.65 0 001.526-.192l.25-.062-1.776-6.038zm49.528 0l-1.775 6.038a6.823 6.823 0 001.775.254 6.48 6.48 0 001.536-.192l.24-.062-1.776-6.038z" />
+			</svg>
+			<svg class="g-logo g-logo--name-stack-overflow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 156 36">
+				<path d="M35.73 20.167l-1.796-.159c-1.41-.113-1.955-.682-1.955-1.637 0-1.137.864-1.842 2.5-1.842 1.16 0 2.184.273 2.98.887l1.07-1.069c-1.002-.819-2.434-1.205-4.026-1.205-2.387 0-4.116 1.227-4.116 3.274 0 1.814 1.125 2.79 3.243 2.993l1.942.168c1.296.114 1.865.66 1.865 1.637 0 1.32-1.137 1.978-2.98 1.978-1.387 0-2.592-.363-3.48-1.296l-1.092 1.092c1.228 1.182 2.706 1.614 4.594 1.614 2.706 0 4.548-1.252 4.548-3.41 0-1.734-.922-2.546-2.35-2.878l-.15-.032a6.159 6.159 0 00-.076-.015l-.154-.028-.158-.024a7.814 7.814 0 00-.162-.022l-.164-.018a9.103 9.103 0 00-.084-.008zm14-5.025c-1.795 0-2.926.353-3.916 1.608-.001 0 .002.006.008.013l.03.033.074.079.189.19.654.643.119.117c.66-.933 1.387-1.273 2.82-1.273 2.046 0 2.865.818 2.865 2.455v1.069h-3.365c-2.501 0-3.866 1.274-3.866 3.23a3.223 3.223 0 00.842 2.274c.705.728 1.614 1.023 3.16 1.023 1.501 0 2.32-.295 3.23-1.205v1.068h1.638v-7.595c0-2.433-1.478-3.729-4.48-3.729h-.002zm2.844 7.368c0 .933-.182 1.57-.569 1.933-.617.597-1.338.725-2.148.747l-.175.004h-.178c-1.774 0-2.57-.614-2.57-1.91 0-1.296.819-1.978 2.502-1.978h3.138v1.204zm8.05-5.912c1.068 0 1.727.319 2.569 1.25l.69-.673.336-.335.052-.054.009-.012c-1.148-1.228-2.123-1.63-3.656-1.63-2.82 0-4.957 1.91-4.957 5.73 0 3.82 2.137 5.73 4.957 5.73 1.547 0 2.524-.41 3.684-1.66l-1.114-1.07c-.841.933-1.501 1.274-2.57 1.274a3.031 3.031 0 01-2.592-1.273c-.523-.728-.728-1.592-.728-3.002 0-1.41.205-2.274.728-3.001a3.03 3.03 0 012.505-1.276l.086.002zm14.022-1.335h-2.041L67.532 20.2l.008-9.925h-1.638v16.191h1.638l-.008-4.083 1.986-1.993 3.752 6.076h2.024l-4.642-7.21 3.994-3.993zm7.565-.276c-1.64 0-2.76.625-3.46 1.345l-.049.05c-.94.98-1.238 2.145-1.28 3.916l-.004.24-.001.122v.124l.001.25.004.242c.041 1.747.327 2.899 1.219 3.867l.061.065c.698.741 1.83 1.395 3.509 1.395 1.678 0 2.833-.654 3.53-1.395.941-.98 1.239-2.145 1.281-3.932l.004-.242.002-.25-.002-.247-.004-.24c-.042-1.77-.34-2.934-1.28-3.915-.698-.74-1.853-1.395-3.531-1.395zm1.33 8.565a1.791 1.791 0 01-1.33.5 1.74 1.74 0 01-1.307-.5c-.482-.481-.613-1.24-.645-2.144l-.006-.204-.001-.103-.002-.21v-.213l.002-.21.001-.103.006-.202c.032-.9.163-1.643.645-2.124a1.74 1.74 0 011.307-.501 1.79 1.79 0 011.33.5c.48.482.612 1.226.644 2.125l.006.202.001.103.002.21v.213l-.002.21-.001.103-.006.203c-.032.905-.163 1.663-.644 2.145zm11.03-8.434l-2.288 7.017-2.31-7.018h-2.986l4.185 11.354h2.223l4.162-11.354H94.57zm7.806-.131c-2.942 0-4.947 2.092-4.947 5.797 0 3.725 1.687 5.233 3.753 5.672l.154.03c.334.063.677.098 1.024.11l.16.005.161.002c1.965 0 3.068-.582 4.174-1.649l.141-.139-1.721-1.677-.123.12c-.668.638-1.278.948-2.45.948-1.59 0-2.484-1.068-2.484-2.53h7.105v-1.262c0-3.117-1.787-5.427-4.947-5.427zm-2.158 4.75c.005-.42.094-.835.262-1.22a2.116 2.116 0 013.792 0c.168.386.257.8.262 1.22h-4.316zm11.284-3.53v-1.09h-2.768v11.355h2.833v-6.843c0-1.412.924-2.068 1.783-2.092h.048a1.864 1.864 0 011.495.667l2.145-2.15c-.785-.784-1.57-1.067-2.68-1.067a3.842 3.842 0 00-2.855 1.22zm6.415-2.273V26.46h2.833v-8.952h2.092v-2.157h-2.092v-1.242c0-.654.327-1.025 1.001-1.025h1.09v-2.397h-1.613c-2.31 0-3.312 1.635-3.312 3.247zm16.588 1.052c-1.64 0-2.76.624-3.46 1.344l-.049.05c-.94.981-1.238 2.145-1.28 3.916l-.004.24-.001.122v.375l.005.241c.041 1.747.327 2.899 1.219 3.867l.061.066c.698.74 1.83 1.395 3.509 1.395 1.678 0 2.833-.654 3.53-1.395.941-.981 1.238-2.145 1.28-3.933l.005-.242.001-.25-.001-.246-.004-.24c-.043-1.77-.34-2.935-1.28-3.916-.698-.74-1.853-1.394-3.531-1.394zm1.33 8.564a1.791 1.791 0 01-1.33.501 1.74 1.74 0 01-1.308-.5c-.48-.482-.612-1.24-.644-2.145l-.006-.203-.001-.104-.002-.21v-.213l.002-.21.001-.102.006-.203c.032-.899.163-1.643.644-2.124a1.74 1.74 0 011.308-.5 1.79 1.79 0 011.33.5c.48.481.612 1.225.644 2.124l.006.203.001.103.002.21v.212l-.002.21-.001.103-.006.204c-.032.904-.163 1.662-.644 2.144zm16.871-8.434l-1.83 7.019-2.332-7.017h-2.07l-2.31 7.017-1.83-7.018h-3.008l3.487 11.354h2.331l2.376-7.126 2.375 7.126h2.332l3.465-11.354h-2.986zm-25.685 7.934V10.687h-2.832v12.538c0 1.612.98 3.247 3.312 3.247h1.613v-2.398h-1.09c-.719 0-1.001-.348-1.001-1.024h-.002zM2.754 20.983v8.263h19.28v-8.263h2.754V32H0V20.983h2.754zm16.526 2.754v2.754H5.509v-2.754h13.77zm22.702-11.893v3.68h3.1l-1.515 1.514h-1.585v6.381c0 1.001.456 1.61 1.455 1.637h.933v1.41h-1.16c-1.88 0-2.835-1.3-2.864-2.925V11.844h1.637zM6.325 17.459l13.527 2.844-.569 2.704-13.527-2.843.569-2.705zm2.388-6.278l12.531 5.836-1.167 2.506-12.531-5.836 1.167-2.506zm4.07-5.766l10.623 8.846-1.77 2.125-10.623-8.847 1.77-2.124zM17.87 1l8.25 11.092-2.219 1.65-8.25-11.092L17.871 1z" />
+			</svg>
+			<svg class="g-logo g-logo--name-disqus" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 82 36">
+				<path d="M5.51 13.286H0v14.286h5.429c5.143 0 8.143-3.061 8.143-7.184v-.04c0-4.123-2.96-7.062-8.062-7.062zm4 7.163c0 2.306-1.57 3.613-3.938 3.613H3.959v-7.266h1.613c2.367 0 3.938 1.327 3.938 3.612v.041zm6.694 7.122h3.98V13.286h-3.98V27.57zm13.164-8.897c-1.98-.45-2.47-.735-2.47-1.388v-.041c0-.51.47-.918 1.429-.918 1.265 0 2.694.489 4 1.408l1.98-2.797c-1.552-1.244-3.45-1.898-5.878-1.898-3.429 0-5.53 1.918-5.53 4.572v.04c0 2.94 2.346 3.797 5.387 4.49 1.939.449 2.408.775 2.408 1.368v.04c0 .612-.572.98-1.633.98-1.653 0-3.224-.592-4.632-1.714l-2.204 2.633c1.755 1.571 4.163 2.368 6.694 2.368 3.47 0 5.775-1.735 5.775-4.654v-.04c0-2.674-2.04-3.735-5.326-4.45zm22.653 1.755v-.041c0-4.102-3.266-7.388-7.674-7.388s-7.714 3.327-7.714 7.429v.04c0 4.103 3.265 7.389 7.674 7.389a7.94 7.94 0 004.346-1.266L50.225 28l2-2.224-1.47-1.245c.816-1.163 1.266-2.592 1.266-4.102zM48 20.51c0 .49-.082.96-.246 1.388l-1.938-1.755-2 2.245 1.98 1.694a4.068 4.068 0 01-1.45.265c-2.183 0-3.652-1.816-3.652-3.877v-.041c0-2.061 1.449-3.857 3.612-3.857 2.204 0 3.694 1.816 3.694 3.898v.04zm15.693.817c0 2-1.041 2.938-2.633 2.938-1.591 0-2.632-.98-2.632-3.04v-7.94h-4.02v8.021c0 4.47 2.55 6.531 6.612 6.531 4.061 0 6.694-2.02 6.694-6.632v-7.92h-4.02v8.042zm12.939-2.653c-1.98-.45-2.47-.735-2.47-1.388v-.041c0-.51.47-.918 1.43-.918 1.264 0 2.693.489 4 1.408l1.98-2.796c-1.552-1.245-3.45-1.898-5.878-1.898-3.429 0-5.53 1.918-5.53 4.571v.041c0 2.94 2.346 3.796 5.387 4.49 1.939.449 2.408.775 2.408 1.368v.04c0 .612-.572.98-1.633.98-1.653 0-3.225-.592-4.632-1.715L69.49 25.45c1.755 1.572 4.163 2.367 6.693 2.367 3.47 0 5.776-1.734 5.776-4.652v-.042c0-2.673-2.041-3.734-5.327-4.448z" />
+			</svg>
+		</div>
+		<!-- Logo strip end -->
+	</div>
+	<div class="g-wrapper g-wrapper--has-content g-pt-8 g-has-text-align-center@M">
+		<div class="g-js-animation-trigger">
+			<div role="presentation" aria-hidden="true">
+				<!-- prettier-ignore -->
+				<span class="g-avatar"><span class="g-avatar__content"><span class="g-avatar__content__image"></span></span></span>
+			</div>
+			<div class="g-content g-wrapper g-wrapper--width-center-minus g-pt-4">
+				<h1 class="g-brand g-has-large-font-size">Building a better web for&nbsp;over 15&nbsp;years.</h1>
+				<div class="g-button-group">
+					<a class="g-button" href="https://gravatar.com/connect/?source=_signup">Create your Gravatar</a>
+				</div>
+			</div>
+			<footer class="g-content g-wrapper g-wrapper--width-center-plus g-pt-5 g-pt-4@M g-has-text-align-left g-has-text-align-center@M g-has-small-font-size g-color-auxiliary">
+				<p>Integrated on millions of sites, Gravatar is a&nbsp;free service for site owners, developers, and anyone else who wants an&nbsp;effortless and verified way to establish their identity online.</p>
+				<p>An <a class="g-bold" href="https://automattic.com/">Automattic</a> project since 2007, Gravatar is built into every <a class="g-bold" href="https://wordpress.com/">WordPress.com</a><span class="g-none g-block@M"></span> account and is widely implemented across the&nbsp;open&nbsp;web.</p>
+			</footer>
+		</div>
+	</div>
+</section>
+<!-- Home page end -->
+
+
+        	</div> <!--#main-->
+
+    	<footer class="g-footer">
+			<div class="g-footer__top">
+				<div class="g-footer__top-content g-footer__grid">
+					<div class="g-footer__brand">
+						<svg class="g-footer__gravatar-logo" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 146 27" role="presentation" aria-hidden="true">
+							<path d="M10.8 2.699v9.45a2.699 2.699 0 005.398 0V5.862a8.101 8.101 0 11-8.423 1.913 2.702 2.702 0 00-3.821-3.821A13.5 13.5 0 1013.499 0 2.699 2.699 0 0010.8 2.699z" />
+							<path d="M46.109 24.138c2.246 0 4.445-.537 6.595-1.612.326-.154.59-.39.792-.706.202-.317.302-.677.302-1.08v-6.538c0-.384-.134-.71-.403-.979a1.333 1.333 0 00-.979-.403h-5.674c-.326 0-.604.115-.835.346-.23.23-.345.508-.345.835 0 .326.115.605.345.835.23.23.509.346.835.346h4.752v5.212a10.393 10.393 0 01-5.04 1.268c-1.612 0-3.01-.341-4.19-1.023a6.89 6.89 0 01-2.707-2.793c-.624-1.181-.936-2.52-.936-4.018 0-1.632.331-3.038.993-4.22a6.635 6.635 0 012.75-2.692c1.172-.614 2.487-.922 3.946-.922 1.056 0 2.036.135 2.938.404.902.268 1.805.672 2.707 1.21.192.095.394.143.605.143.365 0 .658-.115.878-.345.221-.23.332-.51.332-.836 0-.23-.058-.441-.173-.633a1.013 1.013 0 00-.403-.403 14.434 14.434 0 00-3.24-1.527c-1.124-.365-2.434-.547-3.932-.547-1.862 0-3.556.432-5.083 1.296-1.526.864-2.731 2.083-3.614 3.658C36.442 9.988 36 11.793 36 13.828c0 1.997.422 3.778 1.267 5.342a9.095 9.095 0 003.571 3.658c1.536.874 3.293 1.31 5.27 1.31zm12.33-.144c.365 0 .677-.124.936-.374s.389-.557.389-.922v-8.755a5.837 5.837 0 011.93-1.857 4.912 4.912 0 012.534-.677h.144c.384 0 .7-.115.95-.346.25-.23.374-.528.374-.893 0-.364-.12-.672-.36-.921a1.205 1.205 0 00-.907-.375h-.144c-1.67 0-3.177.903-4.521 2.708v-1.239c0-.365-.13-.677-.39-.936a1.276 1.276 0 00-.935-.389c-.365 0-.672.13-.922.39-.25.258-.374.57-.374.935v12.355c0 .365.125.672.374.922.25.25.557.374.922.374zm12.578.144c2.189 0 3.994-.73 5.415-2.188v.748c0 .365.124.672.374.922s.557.374.922.374c.364 0 .676-.124.936-.374.259-.25.388-.557.388-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.355-.807-1.69 0-3.35.346-4.982 1.037-.5.211-.749.576-.749 1.095 0 .307.106.566.317.777.211.211.46.317.749.317.096 0 .22-.02.374-.058.691-.23 1.32-.403 1.886-.518a9.818 9.818 0 011.944-.173c1.325 0 2.3.279 2.924.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.94 1.268-1.123.845-1.684 1.978-1.684 3.398 0 .864.211 1.628.633 2.29a4.088 4.088 0 001.714 1.512c.72.346 1.502.518 2.347.518zm.98-2.304c-1.095 0-1.877-.21-2.348-.633-.47-.423-.705-.98-.705-1.67 0-1.517 1.45-2.276 4.348-2.276h3.14v2.42a6.805 6.805 0 01-1.988 1.54 5.207 5.207 0 01-2.448.62zm15.803 2.16c.346 0 .663-.1.95-.302.289-.202.5-.456.634-.763l5.012-11.981a1.61 1.61 0 00.144-.605c0-.365-.125-.677-.375-.936a1.23 1.23 0 00-.921-.389c-.25 0-.485.072-.706.216-.22.144-.38.322-.475.533l-4.407 11.175L83.25 9.767a1.257 1.257 0 00-.475-.533 1.27 1.27 0 00-.706-.216c-.365 0-.672.13-.921.39-.25.258-.375.57-.375.935 0 .173.048.375.144.605l5.011 11.98c.135.308.346.562.634.764.288.202.605.302.95.302h.288zm12.435.144c2.189 0 3.993-.73 5.414-2.188v.748c0 .365.125.672.375.922s.556.374.921.374.677-.124.936-.374c.26-.25.389-.557.389-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.355-.807-1.69 0-3.35.346-4.983 1.037-.499.211-.748.576-.748 1.095 0 .307.105.566.316.777.212.211.461.317.75.317.095 0 .22-.02.374-.058.69-.23 1.32-.403 1.886-.518a9.818 9.818 0 011.944-.173c1.325 0 2.3.279 2.923.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.939 1.268-1.123.845-1.685 1.978-1.685 3.398 0 .864.212 1.628.634 2.29a4.088 4.088 0 001.714 1.512c.72.346 1.502.518 2.347.518zm.979-2.304c-1.094 0-1.877-.21-2.347-.633-.47-.423-.706-.98-.706-1.67 0-1.517 1.45-2.276 4.349-2.276h3.14v2.42a6.805 6.805 0 01-1.988 1.54 5.207 5.207 0 01-2.448.62zm15.286 2.304c.844 0 1.641-.172 2.39-.518.442-.23.662-.566.662-1.008a.977.977 0 00-.316-.734 1.015 1.015 0 00-.72-.303c-.135 0-.245.01-.332.029a9.58 9.58 0 00-.244.058 3.991 3.991 0 01-1.152.172c-.538 0-.984-.1-1.34-.302-.355-.202-.532-.677-.532-1.426V11.41h3.254c.326 0 .595-.11.806-.331.212-.221.317-.485.317-.792 0-.327-.105-.596-.317-.807a1.092 1.092 0 00-.806-.317h-3.254V6.858a.578.578 0 00-.159-.403.507.507 0 00-.389-.173c-.153 0-.316.087-.49.26l-3.916 3.83c-.173.134-.26.298-.26.49 0 .153.054.283.16.388a.529.529 0 00.388.159h2.045v8.928c0 2.534 1.401 3.801 4.205 3.801zm8.776 0c2.19 0 3.994-.73 5.415-2.188v.748c0 .365.125.672.374.922.25.25.557.374.922.374s.677-.124.936-.374.389-.557.389-.922v-8.15c0-.998-.216-1.925-.648-2.78-.432-.854-1.104-1.55-2.016-2.087-.912-.538-2.03-.807-3.356-.807-1.69 0-3.35.346-4.982 1.037-.5.211-.749.576-.749 1.095 0 .307.106.566.317.777.211.211.46.317.749.317.096 0 .22-.02.374-.058.691-.23 1.32-.403 1.887-.518a9.818 9.818 0 011.944-.173c1.324 0 2.299.279 2.923.835.624.557.936 1.47.936 2.736v.23h-3.485c-2.17 0-3.816.423-4.94 1.268-1.122.845-1.684 1.978-1.684 3.398 0 .864.211 1.628.634 2.29a4.088 4.088 0 001.713 1.512c.72.346 1.503.518 2.347.518zm.98-2.304c-1.095 0-1.877-.21-2.348-.633-.47-.423-.705-.98-.705-1.67 0-1.517 1.45-2.276 4.349-2.276h3.139v2.42a6.805 6.805 0 01-1.987 1.54 5.207 5.207 0 01-2.448.62zm11.858 2.16c.365 0 .677-.124.936-.374.26-.25.389-.557.389-.922v-8.755a5.837 5.837 0 011.93-1.857 4.912 4.912 0 012.534-.677h.144c.384 0 .7-.115.95-.346.25-.23.375-.528.375-.893 0-.364-.12-.672-.36-.921a1.205 1.205 0 00-.908-.375h-.144c-1.67 0-3.177.903-4.521 2.708v-1.239c0-.365-.13-.677-.389-.936a1.276 1.276 0 00-.936-.389c-.365 0-.672.13-.922.39-.25.258-.374.57-.374.935v12.355c0 .365.125.672.374.922.25.25.557.374.922.374z" />
+						</svg>
+						<a href="/site/translations/" class="g-footer__language-link">
+							<span class="" role="presentation" aria-hidden="true">
+								<svg class="g-footer__globe-logo" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+									<path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm6.918 6h-3.215a49.088 49.088 0 00-.565-3.357A8.048 8.048 0 0118.918 8zm-5.904-3.928c.068.352.387 2.038.645 3.928h-3.318c.258-1.89.577-3.576.645-3.928C11.319 4.029 11.656 4 12 4s.681.029 1.014.072zM14 12c0 .598-.043 1.286-.109 2h-3.782c-.066-.714-.109-1.402-.109-2s.043-1.286.109-2h3.782c.066.714.109 1.402.109 2zM8.862 4.643A49.088 49.088 0 008.297 8H5.082a8.048 8.048 0 013.78-3.357zM4.263 10h3.821C8.033 10.668 8 11.344 8 12s.033 1.332.085 2H4.263C4.097 13.359 4 12.692 4 12s.098-1.359.263-2zm.819 6h3.215c.188 1.424.42 2.65.565 3.357A8.048 8.048 0 015.082 16zm5.904 3.928A77.282 77.282 0 0110.341 16h3.318a78.303 78.303 0 01-.645 3.928c-.333.043-.67.072-1.014.072s-.681-.029-1.014-.072zm4.152-.571c.145-.707.377-1.933.565-3.357h3.215a8.048 8.048 0 01-3.78 3.357zM19.737 14h-3.821c.051-.668.084-1.344.084-2s-.033-1.332-.085-2h3.821c.166.641.264 1.308.264 2s-.097 1.359-.263 2z" />
+								</svg>
+							</span>
+							Languages						</a>
+					</div>
+					<div class="g-footer__links">
+						<ul>
+							<li>
+								<a href="/site/implement/">Developer Resources</a>
+							</li>
+							<li>
+								<a class="g-footer__external-link" href="http://automattic.com/privacy/">Privacy Policy</a>
+							</li>
+							<li>
+								<a href="/support/">Support</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="g-footer__bottom">
+				<div class="g-footer__grid">
+					<div class="g-footer__made-by">
+						<a class="g-color-primary g-no-hover" href="https://automattic.com/">
+							An
+							<svg class="g-footer__automattic-logo" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 154 13" role="presentation" aria-hidden="true">
+								<path d="M147.622.49c2.33 0 4.446.975 5.587 2.199l-1.29 1.305c-.991-.909-2.446-1.768-4.413-1.768-2.942 0-4.595 2.016-4.595 4.116v.215c0 2.082 1.67 4.032 4.744 4.032 1.835 0 3.355-.876 4.314-1.768l1.24 1.306c-1.207 1.19-3.257 2.198-5.686 2.198-4.166 0-6.695-2.71-6.695-5.686v-.364c0-2.975 2.76-5.785 6.794-5.785zM19.372.887V7.35c0 2.033 1.339 3.24 3.884 3.24 2.612 0 3.686-1.207 3.686-3.24V.887h2.066v6.43c0 2.727-1.752 5.008-5.9 5.008-3.95 0-5.786-2.149-5.786-5.008V.887h2.05zM55.554.49c3.918 0 6.447 2.76 6.447 5.736v.363c0 2.926-2.529 5.736-6.447 5.736-3.9 0-6.43-2.81-6.43-5.736v-.363c0-2.976 2.53-5.736 6.43-5.736zM45.323.887v1.719h-4.81v9.29h-2.066v-9.29h-4.81V.886h11.686zm24.661 0l4.347 7.554.513.925.513-.925L79.654.887h2.827v11.008h-2.067v-8.71l-.545.958-4.612 7.752H74.25l-4.562-7.752-.546-.959v8.711h-2.016V.887h2.86zm43.472 0v1.719h-4.81v9.29h-2.066v-9.29h-4.81V.886h11.686zm15.158 0v1.719h-4.81v9.29h-2.067v-9.29h-4.81V.886h11.687zm7.124 0v11.008h-2.034V1.928c.827 0 1.157-.446 1.157-1.041h.877zM7.67.887l6.05 11.008h-2.215L10.05 9.168H3.587l-1.405 2.727H0L5.95.887h1.72zm86.596 0l6.05 11.008H98.1l-1.455-2.727h-6.463l-1.405 2.727h-2.181L92.547.887h1.72zM55.554 2.225c-2.81 0-4.347 1.902-4.347 4.034v.264c0 2.133 1.538 4.067 4.347 4.067 2.81 0 4.364-1.934 4.364-4.067V6.26c0-2.132-1.554-4.034-4.364-4.034zm1.361 2.095c.373.24.477.74.235 1.114l-1.884 2.92a.805.805 0 01-1.112.242.805.805 0 01-.235-1.113l1.884-2.92a.805.805 0 011.112-.243zM6.761 3.036L4.364 7.664H9.24L6.76 3.036zm86.596 0L90.96 7.664h4.876l-2.48-4.628z" />
+							</svg>
+							venture
+						</a>
+					</div>
+					<ul class="g-footer__work-with-us">
+						<li>
+							<a class="g-footer__external-link" href="https://automattic.com/work-with-us/">Work With Us</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+	</footer>
+	
+	<span class="clear"></span>
+</div><!--/ #wrap -->
+ <div id="overlay" style="display: none;"></div>
+  <div style="display: none;" id="gravatar_confirmation_container">
+ 	<div id="gravatar_confirmation">
+		&nbsp;
+	</div>
+ </div>
+         <!-- cookie banner [start] -->
+<script type="text/javascript" src="//s1.wp.com/wp-content/lib/cookie-banner/cookie-banner-v2.js?v=1234" charset="utf-8" async></script>
+<script type="text/javascript">
+    ( function() {
+        'use strict'
+        var cb = window.a8cCookieBanner = window.a8cCookieBanner || function ( config ) {
+            cb.init ? cb.init( config ) : cb.config = config;
+        };
+        cb( {"skipBanner":false,"text":"Our websites and dashboards use cookies. By continuing, you agree to their use. <a target=\"_blank\" href=\"https:\/\/automattic.com\/cookies\">Learn more<\/a>, including how to control cookies.","buttonText":"Got It!","cookieName":"cb_eu","gdprCountries":["AT","BE","BG","CY","CZ","DE","DK","EE","ES","FI","FR","GR","HR","HU","IE","IT","LT","LU","LV","MT","NL","PL","PT","RO","SE","SI","SK","GB","CH","IS","LI","NO"]} );
+    } )();
+</script>
+<script type="text/javascript">
+    (function() {
+        'use strict';
+        window.cookieBannerKit = {
+            doNotTrack: function() {
+                // Internet Explorer 11 uses window.doNotTrack rather than navigator.doNotTrack.
+                // Safari 7.1.3+ uses window.doNotTrack rather than navigator.doNotTrack.
+                // MDN ref: https://developer.mozilla.org/en-US/docs/Web/API/navigator/doNotTrack#Browser_compatibility
+                return ( window.doNotTrack === '1' || ( window.navigator && window.navigator.doNotTrack === '1' ) );
+            },
+            createScriptElement: function( url, attrs, onLoad, onError ) {
+                var script = document.createElement( 'script' );
+                script.src = url;
+                script.type = 'text/javascript';
+                script.async = true;
+                script.onload = onLoad;
+                script.onerror = onError;
+                if ( attrs ) {
+                    jQuery.each( attrs, function( key, val ) {
+                        script.setAttribute( key, val );
+                    } );
+                }
+                return script;
+            },
+            attachToBody: function( element ) {
+                document.body.appendChild( element );
+                return element;
+            },
+            attachScriptElement: function( url, attrs, onLoad, onError ) {
+                return this.attachToBody( this.createScriptElement( url, attrs, onLoad, onError ) );
+            },
+            loadPixelImage: function( url ) {
+                return jQuery( '<img>', {
+                    src: url,
+                    width: 1,
+                    height: 1,
+                    border: 0,
+                });
+            },
+        }
+    })();
+</script>
+<!-- cookie banner [end] -->
+        <script type="text/javascript">
+            (function () {
+                jQuery( window.document ).on( 'a8c-cookie-banner:fire-sensitive-pixels', function() {
+                    var cbk = window.cookieBannerKit;
+
+                    (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+                    var _gaq = _gaq || [];
+                    _gaq.push(function () {
+                        var pageTracker = _gat._getTracker("UA-52447-14");
+                        pageTracker._initData();
+                        pageTracker._trackPageview();
+                    });
+                } )
+            })();
+
+        </script>
+
+<script type="text/javascript">
+
+    var setupDoNotSellCallback = function() {
+
+        window.doNotSellCallback = function( $ ) {
+            var privacyLink = jQuery( '<li><a class="g-footer__external-link" href="https://automattic.com/privacy/#california-consumer-privacy-act-ccpa">Privacy Notice for California Users</a></li>' );
+            var menuContainer = jQuery( '.g-footer__links ul' );
+
+            if ( 0 === menuContainer.length ) {
+                return false;
+            }
+
+            menuContainer.append(privacyLink);
+            return true;
+        }
+    };
+
+    setupDoNotSellCallback();
+</script>
+
+ 		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Minimal Mozilla Cookie library
+						// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+						var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( value ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', value, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						if ( null !== usprivacyCookie ) {
+							maybeCallDoNotSellCallback();
+							return;
+						}
+
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										var data = JSON.parse( this.response );
+										var ccpa_applies = data['region'] && data['region'].toLowerCase() === 'california';
+
+										setCcpaAppliesCookie( ccpa_applies );
+
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												setDefaultOptInCookie();
+											}
+										}
+									} else {
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											setDefaultOptInCookie();
+										}
+									}
+								}
+							};
+
+							request.send();
+						} else {
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									setDefaultOptInCookie();
+								}
+							}
+						}
+					} );
+				};
+
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+		
+</body>
+</html>
