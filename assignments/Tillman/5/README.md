@@ -13,9 +13,11 @@ var corsOptions = {
 ```
 
 Before code above is added
+
 ![](https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/5/images/5.1_request_failed.png)
 
 After code above is added
+
 ![](https://github.com/MylesTillman495/cs595-s21/blob/main/assignments/Tillman/5/images/5.1_request_succeed.png)
 
 ## 5.2
