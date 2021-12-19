@@ -1,0 +1,12 @@
+<h1>Making a request to http://localhost:3002/assignment1 for my 3 favorite parts of assignment 1</h1>
+<script>
+
+const Http = new XMLHttpRequest();
+const url='http://localhost:3002/assignment1';
+Http.open("GET", url);
+Http.send();
+
+Http.onreadystatechange = (e) => {
+  alert(Http.responseText)
+}
+</script>

@@ -1,0 +1,976 @@
+HTTP/1.1 302 Found : Moved Temporarily
+Location: https://epa.gov/
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 07 Aug 2021 01:32:19 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; preload
+Location: https://www.epa.gov/
+Content-Length: 228
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Content-Language: en
+Content-Security-Policy: block-all-mixed-content; default-src * data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html; charset=UTF-8
+ETag: "1628295950"
+Feature-Policy: geolocation 'none';midi 'none';microphone 'none';camera 'none';magnetometer 'none';gyroscope 'none';fullscreen 'self';payment 'none'
+Last-Modified: Sat, 07 Aug 2021 00:25:50 GMT
+Link: <https://www.epa.gov/>; rel="canonical", <https://www.epa.gov/>; rel="shortlink"
+Link: <https://www.epa.gov/home>; rel="revision"
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx/1.21.1
+X-Drupal-Cache: HIT
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Powered-By: PHP/7.3.28
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1
+Cache-Control: public, max-age=601385
+Expires: Sat, 14 Aug 2021 00:35:24 GMT
+Date: Sat, 07 Aug 2021 01:32:19 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+Strict-Transport-Security: max-age=31536000; preload;
+X-Content-Type-Options: nosniff
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.epa.gov/" />
+<link rel="shortlink" href="https://www.epa.gov/" />
+<meta property="og:site_name" content="US EPA" />
+<meta property="og:url" content="https://www.epa.gov/home" />
+<meta property="og:image" content="https://www.epa.gov/sites/all/themes/epa/img/epa-seal-large.png" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"ead36e43ac",applicationID:"529886857"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<link rel="revision" href="https://www.epa.gov/home" />
+
+    <title>U.S. Environmental Protection Agency | US EPA</title>
+    <link rel="icon" type="image/x-icon" href="/themes/epa_theme/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/themes/epa_theme/images/favicon-144.png">
+    <meta name="application-name" content="">
+    <meta name="msapplication-config" content="/themes/epa_theme/images/ieconfig.xml">
+    <link rel="apple-touch-icon-precomposed" sizes="196x196" href="/themes/epa_theme/images/favicon-196.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/themes/epa_theme/images/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/themes/epa_theme/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/themes/epa_theme/images/favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/themes/epa_theme/images/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/themes/epa_theme/images/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="/themes/epa_theme/images/favicon-180.png">
+    <link rel="icon" href="/themes/epa_theme/images/favicon-32.png" sizes="32x32">
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/filter/filter.caption.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/media/filter.caption.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/themes/epa_theme/css/styles.css?qxebyx" />
+<link rel="stylesheet" media="all" href="/themes/epa_theme/css-lib/colorbox.min.css?qxebyx" />
+
+    <script src="/themes/epa_theme/js/libraries/modernizr.min.js?v=3.8.0"></script>
+<script src="/core/misc/modernizr-additional-tests.js?v=3.8.0"></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-L8ZB');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body class="path-frontpage front node-page node-page--node-type-web-area" id="top">
+    
+<div class="skiplinks" role="navigation" aria-labelledby="skip-to-main">
+  <a id="skip-to-main" href="#main" class="skiplinks__link visually-hidden focusable">Skip to main content</a>
+</div>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <section class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">  <header class="usa-banner__header">
+    <div class="usa-banner__inner">
+      <div class="grid-col-auto">
+        <img class="usa-banner__header-flag" src="/themes/epa_theme/images/us_flag_small.png" alt="U.S. flag" />
+      </div>
+      <div class="grid-col-fill tablet:grid-col-auto">
+        <p class="usa-banner__header-text">An official website of the United States government</p>
+              <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p></div>
+        <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+          </div>
+  </header>
+      <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+                  <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" src="/themes/epa_theme/images/icon-dot-gov.svg" alt="Dot gov">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Official websites use .gov</strong>
+                <br> A <strong>.gov</strong> website belongs to an official government organization in the United States.
+              </p>
+            </div>
+          </div>
+                  <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" src="/themes/epa_theme/images/icon-https.svg" alt="HTTPS">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Secure .gov websites use HTTPS</strong>
+                <br> A <strong>lock</strong> (<span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span>) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              </p>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+  </section>
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+      <div >
+  
+      <div class="js-view-dom-id-epa-alerts--public">
+  <noscript>
+    <div class="sitewide-alert sitewide-alert--information">
+      <div class="l-constrain">
+        <div class="sitewide-alert__body">
+          <div class="sitewide-alert__content">
+            <p>JavaScript appears to be disabled on this computer. Please <a href="/alerts">click here to see any active alerts</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </noscript>
+</div>
+
+  
+      </div>
+  
+  
+
+
+
+<div class="usa-overlay"></div>
+<header class="l-header">
+  <div class="l-constrain">
+    <div class="l-header__navbar">
+      <div class="l-header__branding">
+            <a class="site-logo" href="/" aria-label="Home" title="Home" rel="home">
+  <span class="site-logo__image">
+    <svg class="site-logo__svg" viewBox="0 0 1061 147" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+              <path d="M112.8 53.5C108 72.1 89.9 86.8 69.9 86.8c-20.1 0-38-14.7-42.9-33.4h.2s9.8 10.3-.2 0c3.1 3.1 6.2 4.4 10.7 4.4s7.7-1.3 10.7-4.4c3.1 3.1 6.3 4.5 10.9 4.4 4.5 0 7.6-1.3 10.7-4.4 3.1 3.1 6.2 4.4 10.7 4.4 4.5 0 7.7-1.3 10.7-4.4 3.1 3.1 6.3 4.5 10.9 4.4 4.3 0 7.4-1.2 10.5-4.3zM113.2 43.5c0-24-19.4-43.5-43.3-43.5-24 0-43.5 19.5-43.5 43.5h39.1c-4.8-1.8-8.1-6.3-8.1-11.6 0-7 5.7-12.5 12.5-12.5 7 0 12.7 5.5 12.7 12.5 0 5.2-3.1 9.6-7.6 11.6h38.2zM72.6 139.3c.7-36.9 29.7-68.8 66.9-70 0 37.2-30 68-66.9 70zM67.1 139.3c-.7-36.9-29.7-68.8-67.1-70 0 37.2 30.2 68 67.1 70zM240 3.1h-87.9v133.1H240v-20.4h-60.3v-36H240v-21h-60.3v-35H240V3.1zM272.8 58.8h27.1c9.1 0 15.2-8.6 15.1-17.7-.1-9-6.1-17.3-15.1-17.3h-25.3v112.4h-27.8V3.1h62.3c20.2 0 35 17.8 35.2 38 .2 20.4-14.8 38.7-35.2 38.7h-36.3v-21zM315.9 136.2h29.7l12.9-35h54.2l-8.1-21.9h-38.4l18.9-50.7 39.2 107.6H454L400.9 3.1h-33.7l-51.3 133.1zM473.3.8v22.4c0 1.9.2 3.3.5 4.3s.7 1.7 1 2.2c1.2 1.4 2.5 2.4 3.9 2.9 1.5.5 2.8.7 4.1.7 2.4 0 4.2-.4 5.5-1.3 1.3-.8 2.2-1.8 2.8-2.9.6-1.1.9-2.3 1-3.4.1-1.1.1-2 .1-2.6V.8h4.7v24c0 .7-.1 1.5-.4 2.4-.3 1.8-1.2 3.6-2.5 5.4-1.8 2.1-3.8 3.5-6 4.2-2.2.6-4 .9-5.3.9-1.8 0-3.8-.3-6.2-1.1-2.4-.8-4.5-2.3-6.2-4.7-.5-.8-1-1.8-1.4-3.2-.4-1.3-.6-3.3-.6-5.9V.8h5zM507.5 14.5v-2.9l4.6.1-.1 4.1c.2-.3.4-.7.8-1.2.3-.5.8-.9 1.4-1.4.6-.5 1.4-.9 2.3-1.3.9-.3 2.1-.5 3.4-.4.6 0 1.4.1 2.4.3.9.2 1.9.6 2.9 1.2s1.8 1.5 2.4 2.6c.6 1.2.9 2.8.9 4.7l-.4 17-4.6-.1.4-16c0-.9 0-1.7-.2-2.4-.1-.7-.5-1.3-1.1-1.9-1.2-1.2-2.6-1.8-4.3-1.8-1.7 0-3.1.5-4.4 1.7-1.3 1.2-2 3.1-2.1 5.7l-.3 14.5-4.5-.1.5-22.4zM537.2.9h5.5V6h-5.5V.9m.5 10.9h4.6v25.1h-4.6V11.8zM547.8 11.7h4.3V6.4l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V37c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V15.1h-4.3v-3.4zM570.9 25.2c-.1 2.6.5 4.8 1.7 6.5 1.1 1.7 2.9 2.6 5.3 2.6 1.5 0 2.8-.4 3.9-1.3 1-.8 1.6-2.2 1.8-4h4.6c0 .6-.2 1.4-.4 2.3-.3 1-.8 2-1.7 3-.2.3-.6.6-1 1-.5.4-1 .7-1.7 1.1-.7.4-1.5.6-2.4.8-.9.3-2 .4-3.3.4-7.6-.2-11.3-4.5-11.3-12.9 0-2.5.3-4.8 1-6.8s2-3.7 3.8-5.1c1.2-.8 2.4-1.3 3.7-1.6 1.3-.2 2.2-.3 3-.3 2.7 0 4.8.6 6.3 1.6s2.5 2.3 3.1 3.9c.6 1.5 1 3.1 1.1 4.6.1 1.6.1 2.9 0 4h-17.5m12.9-3v-1.1c0-.4 0-.8-.1-1.2-.1-.9-.4-1.7-.8-2.5s-1-1.5-1.8-2c-.9-.5-2-.8-3.4-.8-.8 0-1.5.1-2.3.3-.8.2-1.5.7-2.2 1.3-.7.6-1.2 1.3-1.6 2.3-.4 1-.7 2.2-.8 3.6h13zM612.9.9h4.6V33c0 1 .1 2.3.2 4h-4.6l-.1-4c-.2.3-.4.7-.7 1.2-.3.5-.8 1-1.4 1.5-1 .7-2 1.2-3.1 1.4l-1.5.3c-.5.1-.9.1-1.4.1-.4 0-.8 0-1.3-.1s-1.1-.2-1.7-.3c-1.1-.3-2.3-.9-3.4-1.8s-2.1-2.2-2.9-3.8c-.8-1.7-1.2-3.9-1.2-6.6.1-4.8 1.2-8.3 3.4-10.5 2.1-2.1 4.7-3.2 7.6-3.2 1.3 0 2.4.2 3.4.5.9.3 1.6.7 2.2 1.2.6.4 1 .9 1.3 1.4.3.5.6.8.7 1.1V.9m0 23.1c0-1.9-.2-3.3-.5-4.4-.4-1.1-.8-2-1.4-2.6-.5-.7-1.2-1.3-2-1.8-.9-.5-2-.7-3.3-.7-1.7 0-2.9.5-3.8 1.3-.9.8-1.6 1.9-2 3.1-.4 1.2-.7 2.3-.7 3.4-.1 1.1-.2 1.9-.1 2.4 0 1.1.1 2.2.3 3.4.2 1.1.5 2.2 1 3.1.5 1 1.2 1.7 2 2.3.9.6 2 .9 3.3.9 1.8 0 3.2-.5 4.2-1.4 1-.8 1.7-1.8 2.1-3 .4-1.2.7-2.4.8-3.4.1-1.4.1-2.1.1-2.6zM643.9 26.4c0 .6.1 1.3.3 2.1.1.8.5 1.6 1 2.3.5.8 1.4 1.4 2.5 1.9s2.7.8 4.7.8c1.8 0 3.3-.3 4.4-.8 1.1-.5 1.9-1.1 2.5-1.8.6-.7 1-1.5 1.1-2.2.1-.7.2-1.2.2-1.7 0-1-.2-1.9-.5-2.6-.4-.6-.9-1.2-1.6-1.6-1.4-.8-3.4-1.4-5.9-2-4.9-1.1-8.1-2.2-9.5-3.2-1.4-1-2.3-2.2-2.9-3.5-.6-1.2-.8-2.4-.8-3.6.1-3.7 1.5-6.4 4.2-8.1 2.6-1.7 5.7-2.5 9.1-2.5 1.3 0 2.9.2 4.8.5 1.9.4 3.6 1.4 5 3 .5.5.9 1.1 1.2 1.7.3.5.5 1.1.6 1.6.2 1.1.3 2.1.3 2.9h-5c-.2-2.2-1-3.7-2.4-4.5-1.5-.7-3.1-1.1-4.9-1.1-5.1.1-7.7 2-7.8 5.8 0 1.5.5 2.7 1.6 3.5 1 .8 2.6 1.4 4.7 1.9 4 1 6.7 1.8 8.1 2.2.8.2 1.4.5 1.8.7.5.2 1 .5 1.4.9.8.5 1.4 1.1 1.9 1.8s.8 1.4 1.1 2.1c.3 1.4.5 2.5.5 3.4 0 3.3-1.2 6-3.5 8-2.3 2.1-5.8 3.2-10.3 3.3-1.4 0-3.2-.3-5.4-.8-1-.3-2-.7-3-1.2-.9-.5-1.8-1.2-2.5-2.1-.9-1.4-1.5-2.7-1.7-4.1-.3-1.3-.4-2.4-.3-3.2h5zM670 11.7h4.3V6.4l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V37c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V15.1H670v-3.4zM705.3 36.9c-.3-1.2-.5-2.5-.4-3.7-.5 1-1.1 1.8-1.7 2.4-.7.6-1.4 1.1-2 1.4-1.4.5-2.7.8-3.7.8-2.8 0-4.9-.8-6.4-2.2-1.5-1.4-2.2-3.1-2.2-5.2 0-1 .2-2.3.8-3.7.6-1.4 1.7-2.6 3.5-3.7 1.4-.7 2.9-1.2 4.5-1.5 1.6-.1 2.9-.2 3.9-.2s2.1 0 3.3.1c.1-2.9-.2-4.8-.9-5.6-.5-.6-1.1-1.1-1.9-1.3-.8-.2-1.6-.4-2.3-.4-1.1 0-2 .2-2.6.5-.7.3-1.2.7-1.5 1.2-.3.5-.5.9-.6 1.4-.1.5-.2.9-.2 1.2h-4.6c.1-.7.2-1.4.4-2.3.2-.8.6-1.6 1.3-2.5.5-.6 1-1 1.7-1.3.6-.3 1.3-.6 2-.8 1.5-.4 2.8-.6 4.2-.6 1.8 0 3.6.3 5.2.9 1.6.6 2.8 1.6 3.4 2.9.4.7.6 1.4.7 2 .1.6.1 1.2.1 1.8l-.2 12c0 1 .1 3.1.4 6.3h-4.2m-.5-12.1c-.7-.1-1.6-.1-2.6-.1h-2.1c-1 .1-2 .3-3 .6s-1.9.8-2.6 1.5c-.8.7-1.2 1.7-1.2 3 0 .4.1.8.2 1.3s.4 1 .8 1.5.9.8 1.6 1.1c.7.3 1.5.5 2.5.5 2.3 0 4.1-.9 5.2-2.7.5-.8.8-1.7 1-2.7.1-.9.2-2.2.2-4zM714.5 11.7h4.3V6.4l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V37c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V15.1h-4.3v-3.4zM737.6 25.2c-.1 2.6.5 4.8 1.7 6.5 1.1 1.7 2.9 2.6 5.3 2.6 1.5 0 2.8-.4 3.9-1.3 1-.8 1.6-2.2 1.8-4h4.6c0 .6-.2 1.4-.4 2.3-.3 1-.8 2-1.7 3-.2.3-.6.6-1 1-.5.4-1 .7-1.7 1.1-.7.4-1.5.6-2.4.8-.9.3-2 .4-3.3.4-7.6-.2-11.3-4.5-11.3-12.9 0-2.5.3-4.8 1-6.8s2-3.7 3.8-5.1c1.2-.8 2.4-1.3 3.7-1.6 1.3-.2 2.2-.3 3-.3 2.7 0 4.8.6 6.3 1.6s2.5 2.3 3.1 3.9c.6 1.5 1 3.1 1.1 4.6.1 1.6.1 2.9 0 4h-17.5m12.9-3v-1.1c0-.4 0-.8-.1-1.2-.1-.9-.4-1.7-.8-2.5s-1-1.5-1.8-2c-.9-.5-2-.8-3.4-.8-.8 0-1.5.1-2.3.3-.8.2-1.5.7-2.2 1.3-.7.6-1.2 1.3-1.6 2.3-.4 1-.7 2.2-.8 3.6h13zM765.3 29.5c0 .5.1 1 .2 1.4.1.5.4 1 .8 1.5s.9.8 1.6 1.1c.7.3 1.6.5 2.7.5 1 0 1.8-.1 2.5-.3.7-.2 1.3-.6 1.7-1.2.5-.7.8-1.5.8-2.4 0-1.2-.4-2-1.3-2.5s-2.2-.9-4.1-1.2c-1.3-.3-2.4-.6-3.6-1-1.1-.3-2.1-.8-3-1.3-.9-.5-1.5-1.2-2-2.1-.5-.8-.8-1.9-.8-3.2 0-2.4.9-4.2 2.6-5.6 1.7-1.3 4-2 6.8-2.1 1.6 0 3.3.3 5 .8 1.7.6 2.9 1.6 3.7 3.1.4 1.4.6 2.6.6 3.7h-4.6c0-1.8-.6-3-1.7-3.5-1.1-.4-2.1-.6-3.1-.6h-1c-.5 0-1.1.2-1.7.4-.6.2-1.1.5-1.5 1.1-.5.5-.7 1.2-.7 2.1 0 1.1.5 1.9 1.3 2.3.7.4 1.5.7 2.1.9 3.3.7 5.6 1.3 6.9 1.8 1.3.4 2.2 1 2.8 1.7.7.7 1.1 1.4 1.4 2.2.3.8.4 1.6.4 2.5 0 1.4-.3 2.7-.9 3.8-.6 1.1-1.4 2-2.4 2.6-1.1.6-2.2 1-3.4 1.3-1.2.3-2.5.4-3.8.4-2.5 0-4.7-.6-6.6-1.8-1.8-1.2-2.8-3.3-2.9-6.3h5.2zM467.7 50.8h21.9V55h-17.1v11.3h16.3v4.2h-16.3v12.1H490v4.3h-22.3zM499 64.7l-.1-2.9h4.6v4.1c.2-.3.4-.8.7-1.2.3-.5.8-1 1.3-1.5.6-.5 1.4-1 2.3-1.3.9-.3 2-.5 3.4-.5.6 0 1.4.1 2.4.2.9.2 1.9.5 2.9 1.1 1 .6 1.8 1.4 2.5 2.5.6 1.2 1 2.7 1 4.7V87h-4.6V71c0-.9-.1-1.7-.2-2.4-.2-.7-.5-1.3-1.1-1.9-1.2-1.1-2.6-1.7-4.3-1.7-1.7 0-3.1.6-4.3 1.8-1.3 1.2-2 3.1-2 5.7V87H499V64.7zM524.6 61.8h5.1l7.7 19.9 7.6-19.9h5l-10.6 25.1h-4.6zM555.7 50.9h5.5V56h-5.5v-5.1m.5 10.9h4.6v25.1h-4.6V61.8zM570.3 67c0-1.8-.1-3.5-.3-5.1h4.6l.1 4.9c.5-1.8 1.4-3 2.5-3.7 1.1-.7 2.2-1.2 3.3-1.3 1.4-.2 2.4-.2 3.1-.1v4.6c-.2-.1-.5-.2-.9-.2h-1.3c-1.3 0-2.4.2-3.3.5-.9.4-1.5.9-2 1.6-.9 1.4-1.4 3.2-1.3 5.4v13.3h-4.6V67zM587.6 74.7c0-1.6.2-3.2.6-4.8.4-1.6 1.1-3 2-4.4 1-1.3 2.2-2.4 3.8-3.2 1.6-.8 3.6-1.2 5.9-1.2 2.4 0 4.5.4 6.1 1.3 1.5.9 2.7 2 3.6 3.3.9 1.3 1.5 2.8 1.8 4.3.2.8.3 1.5.4 2.2v2.2c0 3.7-1 6.9-3 9.5-2 2.6-5.1 4-9.3 4-4-.1-7-1.4-9-3.9-1.9-2.5-2.9-5.6-2.9-9.3m4.8-.3c0 2.7.6 5 1.8 6.9 1.2 2 3 3 5.6 3.1.9 0 1.8-.2 2.7-.5.8-.3 1.6-.9 2.3-1.7.7-.8 1.3-1.9 1.8-3.2.4-1.3.6-2.9.6-4.7-.1-6.4-2.5-9.6-7.1-9.6-.7 0-1.5.1-2.4.3-.8.3-1.7.8-2.5 1.6-.8.7-1.4 1.7-1.9 3-.6 1.1-.9 2.8-.9 4.8zM620.2 64.7l-.1-2.9h4.6v4.1c.2-.3.4-.8.7-1.2.3-.5.8-1 1.3-1.5.6-.5 1.4-1 2.3-1.3.9-.3 2-.5 3.4-.5.6 0 1.4.1 2.4.2.9.2 1.9.5 2.9 1.1 1 .6 1.8 1.4 2.5 2.5.6 1.2 1 2.7 1 4.7V87h-4.6V71c0-.9-.1-1.7-.2-2.4-.2-.7-.5-1.3-1.1-1.9-1.2-1.1-2.6-1.7-4.3-1.7-1.7 0-3.1.6-4.3 1.8-1.3 1.2-2 3.1-2 5.7V87h-4.6V64.7zM650 65.1l-.1-3.3h4.6v3.6c1.2-1.9 2.6-3.2 4.1-3.7 1.5-.4 2.7-.6 3.8-.6 1.4 0 2.6.2 3.6.5.9.3 1.7.7 2.3 1.1 1.1 1 1.9 2 2.3 3.1.2-.4.5-.8 1-1.3.4-.5.9-1 1.5-1.6.6-.5 1.5-.9 2.5-1.3 1-.3 2.2-.5 3.5-.5.9 0 1.9.1 3 .3 1 .2 2 .7 3 1.3 1 .6 1.7 1.5 2.3 2.7.6 1.2.9 2.7.9 4.6v16.9h-4.6V70.7c0-1.1-.1-2-.2-2.5-.1-.6-.3-1-.6-1.3-.4-.6-1-1.2-1.8-1.6-.8-.4-1.8-.6-3.1-.6-1.5 0-2.7.4-3.6 1-.4.3-.8.5-1.1.9l-.8.8c-.5.8-.8 1.8-1 2.8-.1 1.1-.2 2-.1 2.6v14.1h-4.6V70.2c0-1.6-.5-2.9-1.4-4-.9-1-2.3-1.5-4.2-1.5-1.6 0-2.9.4-3.8 1.1-.9.7-1.5 1.2-1.8 1.7-.5.7-.8 1.5-.9 2.5-.1.9-.2 1.8-.2 2.6v14.3H650V65.1zM700.5 75.2c-.1 2.6.5 4.8 1.7 6.5 1.1 1.7 2.9 2.6 5.3 2.6 1.5 0 2.8-.4 3.9-1.3 1-.8 1.6-2.2 1.8-4h4.6c0 .6-.2 1.4-.4 2.3-.3 1-.8 2-1.7 3-.2.3-.6.6-1 1-.5.4-1 .7-1.7 1.1-.7.4-1.5.6-2.4.8-.9.3-2 .4-3.3.4-7.6-.2-11.3-4.5-11.3-12.9 0-2.5.3-4.8 1-6.8s2-3.7 3.8-5.1c1.2-.8 2.4-1.3 3.7-1.6 1.3-.2 2.2-.3 3-.3 2.7 0 4.8.6 6.3 1.6s2.5 2.3 3.1 3.9c.6 1.5 1 3.1 1.1 4.6.1 1.6.1 2.9 0 4h-17.5m12.8-3v-1.1c0-.4 0-.8-.1-1.2-.1-.9-.4-1.7-.8-2.5s-1-1.5-1.8-2c-.9-.5-2-.8-3.4-.8-.8 0-1.5.1-2.3.3-.8.2-1.5.7-2.2 1.3-.7.6-1.2 1.3-1.6 2.3-.4 1-.7 2.2-.8 3.6h13zM725.7 64.7l-.1-2.9h4.6v4.1c.2-.3.4-.8.7-1.2.3-.5.8-1 1.3-1.5.6-.5 1.4-1 2.3-1.3.9-.3 2-.5 3.4-.5.6 0 1.4.1 2.4.2.9.2 1.9.5 2.9 1.1 1 .6 1.8 1.4 2.5 2.5.6 1.2 1 2.7 1 4.7V87h-4.6V71c0-.9-.1-1.7-.2-2.4-.2-.7-.5-1.3-1.1-1.9-1.2-1.1-2.6-1.7-4.3-1.7-1.7 0-3.1.6-4.3 1.8-1.3 1.2-2 3.1-2 5.7V87h-4.6V64.7zM752.3 61.7h4.3v-5.2l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V87c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V65.1h-4.3v-3.4zM787.6 86.9c-.3-1.2-.5-2.5-.4-3.7-.5 1-1.1 1.8-1.7 2.4-.7.6-1.4 1.1-2 1.4-1.4.5-2.7.8-3.7.8-2.8 0-4.9-.8-6.4-2.2-1.5-1.4-2.2-3.1-2.2-5.2 0-1 .2-2.3.8-3.7.6-1.4 1.7-2.6 3.5-3.7 1.4-.7 2.9-1.2 4.5-1.5 1.6-.1 2.9-.2 3.9-.2s2.1 0 3.3.1c.1-2.9-.2-4.8-.9-5.6-.5-.6-1.1-1.1-1.9-1.3-.8-.2-1.6-.4-2.3-.4-1.1 0-2 .2-2.6.5-.7.3-1.2.7-1.5 1.2-.3.5-.5.9-.6 1.4-.1.5-.2.9-.2 1.2h-4.6c.1-.7.2-1.4.4-2.3.2-.8.6-1.6 1.3-2.5.5-.6 1-1 1.7-1.3.6-.3 1.3-.6 2-.8 1.5-.4 2.8-.6 4.2-.6 1.8 0 3.6.3 5.2.9 1.6.6 2.8 1.6 3.4 2.9.4.7.6 1.4.7 2 .1.6.1 1.2.1 1.8l-.2 12c0 1 .1 3.1.4 6.3h-4.2m-.5-12.1c-.7-.1-1.6-.1-2.6-.1h-2.1c-1 .1-2 .3-3 .6s-1.9.8-2.6 1.5c-.8.7-1.2 1.7-1.2 3 0 .4.1.8.2 1.3s.4 1 .8 1.5.9.8 1.6 1.1c.7.3 1.5.5 2.5.5 2.3 0 4.1-.9 5.2-2.7.5-.8.8-1.7 1-2.7.1-.9.2-2.2.2-4zM800.7 50.9h4.6V87h-4.6zM828.4 50.8h11.7c2.1 0 3.9.1 5.5.4.8.2 1.5.4 2.2.9.7.4 1.3.9 1.8 1.6 1.7 1.9 2.6 4.2 2.6 7 0 2.7-.9 5.1-2.8 7.1-.8.9-2 1.7-3.6 2.2-1.6.6-3.9.9-6.9.9h-5.7V87h-4.8V50.8m4.8 15.9h5.8c.8 0 1.7-.1 2.6-.2.9-.1 1.8-.3 2.6-.7.8-.4 1.5-1 2-1.9.5-.8.8-2 .8-3.4s-.2-2.5-.7-3.3c-.5-.8-1.1-1.3-1.9-1.7-1.6-.5-3.1-.8-4.5-.7h-6.8v11.9zM858.1 67c0-1.8-.1-3.5-.3-5.1h4.6l.1 4.9c.5-1.8 1.4-3 2.5-3.7 1.1-.7 2.2-1.2 3.3-1.3 1.4-.2 2.4-.2 3.1-.1v4.6c-.2-.1-.5-.2-.9-.2h-1.3c-1.3 0-2.4.2-3.3.5-.9.4-1.5.9-2 1.6-.9 1.4-1.4 3.2-1.3 5.4v13.3H858V67zM875.5 74.7c0-1.6.2-3.2.6-4.8.4-1.6 1.1-3 2-4.4 1-1.3 2.2-2.4 3.8-3.2 1.6-.8 3.6-1.2 5.9-1.2 2.4 0 4.5.4 6.1 1.3 1.5.9 2.7 2 3.6 3.3.9 1.3 1.5 2.8 1.8 4.3.2.8.3 1.5.4 2.2v2.2c0 3.7-1 6.9-3 9.5-2 2.6-5.1 4-9.3 4-4-.1-7-1.4-9-3.9-1.9-2.5-2.9-5.6-2.9-9.3m4.8-.3c0 2.7.6 5 1.8 6.9 1.2 2 3 3 5.6 3.1.9 0 1.8-.2 2.7-.5.8-.3 1.6-.9 2.3-1.7.7-.8 1.3-1.9 1.8-3.2.4-1.3.6-2.9.6-4.7-.1-6.4-2.5-9.6-7.1-9.6-.7 0-1.5.1-2.4.3-.8.3-1.7.8-2.5 1.6-.8.7-1.4 1.7-1.9 3-.7 1.1-.9 2.8-.9 4.8zM904.1 61.7h4.3v-5.2l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V87c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V65.1h-4.3v-3.4zM927.2 75.2c-.1 2.6.5 4.8 1.7 6.5 1.1 1.7 2.9 2.6 5.3 2.6 1.5 0 2.8-.4 3.9-1.3 1-.8 1.6-2.2 1.8-4h4.6c0 .6-.2 1.4-.4 2.3-.3 1-.8 2-1.7 3-.2.3-.6.6-1 1-.5.4-1 .7-1.7 1.1-.7.4-1.5.6-2.4.8-.9.3-2 .4-3.3.4-7.6-.2-11.3-4.5-11.3-12.9 0-2.5.3-4.8 1-6.8s2-3.7 3.8-5.1c1.2-.8 2.4-1.3 3.7-1.6 1.3-.2 2.2-.3 3-.3 2.7 0 4.8.6 6.3 1.6s2.5 2.3 3.1 3.9c.6 1.5 1 3.1 1.1 4.6.1 1.6.1 2.9 0 4h-17.5m12.9-3v-1.1c0-.4 0-.8-.1-1.2-.1-.9-.4-1.7-.8-2.5s-1-1.5-1.8-2c-.9-.5-2-.8-3.4-.8-.8 0-1.5.1-2.3.3-.8.2-1.5.7-2.2 1.3-.7.6-1.2 1.3-1.6 2.3-.4 1-.7 2.2-.8 3.6h13zM966.1 69.8c0-.3 0-.8-.1-1.4-.1-.6-.3-1.1-.6-1.8-.2-.6-.7-1.2-1.4-1.6-.7-.4-1.6-.6-2.7-.6-1.5 0-2.7.4-3.5 1.2-.9.8-1.5 1.7-1.9 2.8-.4 1.1-.6 2.2-.7 3.2-.1 1.1-.2 1.8-.1 2.4 0 1.3.1 2.5.3 3.7.2 1.2.5 2.3.9 3.3.8 2 2.4 3 4.8 3.1 1.9 0 3.3-.7 4.1-1.9.8-1.1 1.2-2.3 1.2-3.6h4.6c-.2 2.5-1.1 4.6-2.7 6.3-1.7 1.8-4.1 2.7-7.1 2.7-.9 0-2.1-.2-3.6-.6-.7-.2-1.4-.6-2.2-1-.8-.4-1.5-1-2.2-1.7-.7-.9-1.4-2.1-2-3.6-.6-1.5-.9-3.5-.9-6.1 0-2.6.4-4.8 1.1-6.6.7-1.7 1.6-3.1 2.7-4.2 1.1-1 2.3-1.8 3.6-2.2 1.3-.4 2.5-.6 3.7-.6h1.6c.6.1 1.3.2 1.9.4.7.2 1.4.5 2.1 1 .7.4 1.3 1 1.8 1.7.9 1.1 1.4 2.1 1.7 3.1.2 1 .3 1.8.3 2.6h-4.7zM973.6 61.7h4.3v-5.2l4.5-1.5v6.8h5.4v3.4h-5.4v15.1c0 .3 0 .6.1 1 0 .4.1.7.4 1.1.2.4.5.6 1 .8.4.3 1 .4 1.8.4 1 0 1.7-.1 2.2-.2V87c-.9.2-2.1.3-3.8.3-2.1 0-3.6-.4-4.6-1.2-1-.8-1.5-2.2-1.5-4.2V65.1h-4.3v-3.4zM993.5 50.9h5.5V56h-5.5v-5.1m.5 10.9h4.6v25.1H994V61.8zM1006.1 74.7c0-1.6.2-3.2.6-4.8.4-1.6 1.1-3 2-4.4 1-1.3 2.2-2.4 3.8-3.2 1.6-.8 3.6-1.2 5.9-1.2 2.4 0 4.5.4 6.1 1.3 1.5.9 2.7 2 3.6 3.3.9 1.3 1.5 2.8 1.8 4.3.2.8.3 1.5.4 2.2v2.2c0 3.7-1 6.9-3 9.5-2 2.6-5.1 4-9.3 4-4-.1-7-1.4-9-3.9-1.9-2.5-2.9-5.6-2.9-9.3m4.7-.3c0 2.7.6 5 1.8 6.9 1.2 2 3 3 5.6 3.1.9 0 1.8-.2 2.7-.5.8-.3 1.6-.9 2.3-1.7.7-.8 1.3-1.9 1.8-3.2.4-1.3.6-2.9.6-4.7-.1-6.4-2.5-9.6-7.1-9.6-.7 0-1.5.1-2.4.3-.8.3-1.7.8-2.5 1.6-.8.7-1.4 1.7-1.9 3-.6 1.1-.9 2.8-.9 4.8zM1038.6 64.7l-.1-2.9h4.6v4.1c.2-.3.4-.8.7-1.2.3-.5.8-1 1.3-1.5.6-.5 1.4-1 2.3-1.3.9-.3 2-.5 3.4-.5.6 0 1.4.1 2.4.2.9.2 1.9.5 2.9 1.1 1 .6 1.8 1.4 2.5 2.5.6 1.2 1 2.7 1 4.7V87h-4.6V71c0-.9-.1-1.7-.2-2.4-.2-.7-.5-1.3-1.1-1.9-1.2-1.1-2.6-1.7-4.3-1.7-1.7 0-3.1.6-4.3 1.8-1.3 1.2-2 3.1-2 5.7V87h-4.6V64.7zM479.1 100.8h5.2l14.1 36.1h-5.3l-3.8-9.4h-16.2l-3.8 9.4h-5l14.8-36.1m-4.4 22.7H488l-6.5-17.8-6.8 17.8zM508.7 138.8c.1.7.2 1.4.4 1.9.2.6.5 1.1.9 1.6.8.9 2.3 1.4 4.4 1.5 1.6 0 2.8-.3 3.7-.9.9-.6 1.5-1.4 1.9-2.4.4-1.1.6-2.3.7-3.7.1-1.4.1-2.9.1-4.6-.5.9-1.1 1.7-1.8 2.3-.7.6-1.5 1-2.3 1.3-1.7.4-3 .6-3.9.6-1.2 0-2.4-.2-3.8-.6-1.4-.4-2.6-1.2-3.7-2.5-1-1.3-1.7-2.8-2.1-4.4-.4-1.6-.6-3.2-.6-4.8 0-4.3 1.1-7.4 3.2-9.5 2-2.1 4.6-3.1 7.6-3.1 1.3 0 2.3.1 3.2.4.9.3 1.6.6 2.1 1 .6.4 1.1.8 1.5 1.2l.9 1.2v-3.4h4.4l-.1 4.5v15.7c0 2.9-.1 5.2-.2 6.7-.2 1.6-.5 2.8-1 3.7-1.1 1.9-2.6 3.2-4.6 3.7-1.9.6-3.8.8-5.6.8-2.4 0-4.3-.3-5.6-.8-1.4-.5-2.4-1.2-3-2-.6-.8-1-1.7-1.2-2.7-.2-.9-.3-1.8-.4-2.7h4.9m5.3-5.8c1.4 0 2.5-.2 3.3-.7.8-.5 1.5-1.1 2-1.8.5-.6.9-1.4 1.2-2.5.3-1 .4-2.6.4-4.8 0-1.6-.2-2.9-.4-3.9-.3-1-.8-1.8-1.4-2.4-1.3-1.4-3-2.2-5.2-2.2-1.4 0-2.5.3-3.4 1-.9.7-1.6 1.5-2 2.4-.4 1-.7 2-.9 3-.2 1-.2 2-.2 2.8 0 1 .1 1.9.3 2.9.2 1.1.5 2.1 1 3 .5.9 1.2 1.6 2 2.2.8.7 1.9 1 3.3 1zM537.6 125.2c-.1 2.6.5 4.8 1.7 6.5 1.1 1.7 2.9 2.6 5.3 2.6 1.5 0 2.8-.4 3.9-1.3 1-.8 1.6-2.2 1.8-4h4.6c0 .6-.2 1.4-.4 2.3-.3 1-.8 2-1.7 3-.2.3-.6.6-1 1-.5.4-1 .7-1.7 1.1-.7.4-1.5.6-2.4.8-.9.3-2 .4-3.3.4-7.6-.2-11.3-4.5-11.3-12.9 0-2.5.3-4.8 1-6.8s2-3.7 3.8-5.1c1.2-.8 2.4-1.3 3.7-1.6 1.3-.2 2.2-.3 3-.3 2.7 0 4.8.6 6.3 1.6s2.5 2.3 3.1 3.9c.6 1.5 1 3.1 1.1 4.6.1 1.6.1 2.9 0 4h-17.5m12.9-3v-1.1c0-.4 0-.8-.1-1.2-.1-.9-.4-1.7-.8-2.5s-1-1.5-1.8-2.1c-.9-.5-2-.8-3.4-.8-.8 0-1.5.1-2.3.3-.8.2-1.5.7-2.2 1.3-.7.6-1.2 1.3-1.6 2.3-.4 1-.7 2.2-.8 3.7h13zM562.9 114.7l-.1-2.9h4.6v4.1c.2-.3.4-.8.7-1.2.3-.5.8-1 1.3-1.5.6-.5 1.4-1 2.3-1.3.9-.3 2-.5 3.4-.5.6 0 1.4.1 2.4.2.9.2 1.9.5 2.9 1.1 1 .6 1.8 1.4 2.5 2.5.6 1.2 1 2.7 1 4.7V137h-4.6v-16c0-.9-.1-1.7-.2-2.4-.2-.7-.5-1.3-1.1-1.9-1.2-1.1-2.6-1.7-4.3-1.7-1.7 0-3.1.6-4.3 1.8-1.3 1.2-2 3.1-2 5.7V137h-4.6v-22.3zM607 119.8c0-.3 0-.8-.1-1.4-.1-.6-.3-1.1-.6-1.8-.2-.6-.7-1.2-1.4-1.6-.7-.4-1.6-.6-2.7-.6-1.5 0-2.7.4-3.5 1.2-.9.8-1.5 1.7-1.9 2.8-.4 1.1-.6 2.2-.7 3.2-.1 1.1-.2 1.8-.1 2.4 0 1.3.1 2.5.3 3.7.2 1.2.5 2.3.9 3.3.8 2 2.4 3 4.8 3.1 1.9 0 3.3-.7 4.1-1.9.8-1.1 1.2-2.3 1.2-3.6h4.6c-.2 2.5-1.1 4.6-2.7 6.3-1.7 1.8-4.1 2.7-7.1 2.7-.9 0-2.1-.2-3.6-.6-.7-.2-1.4-.6-2.2-1-.8-.4-1.5-1-2.2-1.7-.7-.9-1.4-2.1-2-3.6-.6-1.5-.9-3.5-.9-6.1 0-2.6.4-4.8 1.1-6.6.7-1.7 1.6-3.1 2.7-4.2 1.1-1 2.3-1.8 3.6-2.2 1.3-.4 2.5-.6 3.7-.6h1.6c.6.1 1.3.2 1.9.4.7.2 1.4.5 2.1 1 .7.4 1.3 1 1.8 1.7.9 1.1 1.4 2.1 1.7 3.1.2 1 .3 1.8.3 2.6H607zM629.1 137.1l-3.4 9.3H621l3.8-9.6-10.3-25h5.2l7.6 19.8 7.7-19.8h5z"/>
+          </svg>
+  </span>
+</a>
+          <button class="usa-menu-btn usa-button l-header__menu-button">Menu</button>
+      </div>
+      <div class="l-header__search">
+            
+<form class="usa-search usa-search--small usa-search--epa" method="get" action="https://search.epa.gov/epasearch">
+  <div role="search">
+    <label class="usa-sr-only" for="search-box">Search</label>
+    <input class="usa-input" id="search-box" type="search" name="querytext" placeholder="Search EPA.gov">
+    <button class="usa-button" type="submit">
+      <span class="usa-sr-only">Search</span>
+    </button>
+    <input type="hidden" name="areaname" value="">
+    <input type="hidden" name="areacontacts" value="">
+    <input type="hidden" name="areasearchurl" value="">
+    <input type="hidden" name="typeofsearch" value="epa">
+    <input type="hidden" name="result_template" value="">
+
+      </div>
+</form>
+            </div>
+    </div>
+
+  </div>
+  <div class="l-header__nav">
+        <nav class="usa-nav usa-nav--epa" role="navigation" aria-label="Primary navigation">
+  <div class="usa-nav__inner">
+    <button class="usa-nav__close" aria-label="Close">
+      
+<svg class="icon icon--nav-close" aria-hidden="true" role="img"><title>Primary navigation</title><use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#close"></use></svg>    </button>
+    <div class="usa-nav__menu">
+              
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+      
+
+                                      <ul  class="menu menu--main">
+        
+                        
+                                                                          
+      
+      
+      <li  class="menu__item has-subnav is-expanded"><button  class="menu__link has-subnav is-expanded usa-nav__link" aria-expanded="false">
+              Environmental Topics
+            </button><ul class="menu menu__subnav"><li  class="menu__item"><a href="/environmental-topics" class="menu__link" data-drupal-link-system-path="node/164839">Environmental Topics</a></li><li  class="menu__item"><a href="/environmental-topics/air-topics" class="menu__link" data-drupal-link-system-path="node/165225">Air</a></li><li  class="menu__item"><a href="/bedbugs" class="menu__link" data-drupal-link-system-path="node/17591">Bed Bugs</a></li><li  class="menu__item"><a href="/environmental-topics/chemicals-and-toxics-topics" class="menu__link" data-drupal-link-system-path="node/165371">Chemicals and Toxics</a></li><li  class="menu__item"><a href="/climate-change" class="menu__link" data-drupal-link-system-path="node/37925">Climate Change</a></li><li  class="menu__item"><a href="/environmental-topics/location-specific-environmental-information" class="menu__link" data-drupal-link-system-path="node/165443">Environmental Information by Location </a></li><li  class="menu__item"><a href="/environmental-topics/greener-living" class="menu__link" data-drupal-link-system-path="node/165399">Greener Living</a></li><li  class="menu__item"><a href="/environmental-topics/health-topics" class="menu__link" data-drupal-link-system-path="node/165317">Health</a></li><li  class="menu__item"><a href="/environmental-topics/land-waste-and-cleanup-topics" class="menu__link" data-drupal-link-system-path="node/165171">Land, Waste, and Cleanup</a></li><li  class="menu__item"><a href="/lead" class="menu__link" data-drupal-link-system-path="node/3085">Lead</a></li><li  class="menu__item"><a href="/mold" class="menu__link" data-drupal-link-system-path="node/37083">Mold</a></li><li  class="menu__item"><a href="/pesticides" class="menu__link" data-drupal-link-system-path="node/107939">Pesticides</a></li><li  class="menu__item"><a href="/radon" class="menu__link" data-drupal-link-system-path="node/38609">Radon</a></li><li  class="menu__item"><a href="/environmental-topics/science-topics" class="menu__link" data-drupal-link-system-path="node/172685">Science Topics</a></li><li  class="menu__item"><a href="/environmental-topics/water-topics" class="menu__link" data-drupal-link-system-path="node/164827">Water Topics</a></li></ul></li>    
+                        
+                                                                          
+      
+      
+      <li  class="menu__item has-subnav is-expanded"><button  class="menu__link has-subnav is-expanded usa-nav__link" aria-expanded="false">
+              Laws &amp; Regulations
+            </button><ul class="menu menu__subnav"><li  class="menu__item"><a href="/laws-regulations" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement" class="menu__link" data-drupal-link-system-path="node/3157">Laws &amp; Regulations</a></li><li  class="menu__item"><a href="/regulatory-information-sector" class="menu__link" data-drupal-link-system-path="node/3173">By Business Sector</a></li><li  class="menu__item"><a href="/regulatory-information-topic" class="menu__link" data-drupal-link-system-path="node/66677">By Topic</a></li><li  class="menu__item"><a href="/compliance" class="menu__link" data-drupal-link-system-path="node/19411">Compliance</a></li><li  class="menu__item"><a href="/enforcement" class="menu__link" data-drupal-link-system-path="node/10885">Enforcement</a></li><li  class="menu__item"><a href="/guidance" class="menu__link" data-drupal-link-system-path="node/237295">Guidance</a></li><li  class="menu__item"><a href="/laws-regulations/laws-and-executive-orders" class="menu__link" data-drupal-link-system-path="node/66719">Laws and Executive Orders</a></li><li  class="menu__item"><a href="/laws-regulations/regulations" class="menu__link" data-drupal-link-system-path="node/11249">Regulations</a></li></ul></li>    
+                        
+                                                                          
+      
+      
+      <li  class="menu__item has-subnav is-expanded"><button  class="menu__link has-subnav is-expanded usa-nav__link" aria-expanded="false">
+              About EPA
+            </button><ul class="menu menu__subnav"><li  class="menu__item"><a href="/aboutepa" class="menu__link" data-drupal-link-system-path="node/851">About EPA</a></li><li  class="menu__item"><a href="/aboutepa/epa-organization-chart" class="menu__link" data-drupal-link-system-path="node/2481">Organization Chart</a></li><li  class="menu__item"><a href="https://cfpub.epa.gov/locator/index.cfm" class="menu__link">Staff Directory</a></li><li  class="menu__item"><a href="/planandbudget" class="menu__link" data-drupal-link-system-path="node/863">Planning, Budget, and Results</a></li><li  class="menu__item"><a href="/careers" class="menu__link" data-drupal-link-system-path="node/32663">Jobs and Internships</a></li><li  class="menu__item"><a href="/aboutepa" class="menu__link" data-drupal-link-system-path="node/851">Headquarters Offices</a></li><li  class="menu__item"><a href="/aboutepa/regional-and-geographic-offices" class="menu__link" data-drupal-link-system-path="node/254965">Regional Offices</a></li><li  class="menu__item"><a href="/aboutepa/research-centers-programs-and-science-advisory-organizations" class="menu__link" data-drupal-link-system-path="node/254969">Lab and Research Centers</a></li></ul></li>        </ul>
+  
+
+
+  
+  
+  
+
+
+          </div>
+  </div>
+</nav>
+    </div>
+</header>
+
+<main id="main" class="main" role="main" tabindex="-1">
+        
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+
+
+
+<div class="l-page  has-footer">
+  <div class="l-constrain">
+
+          <div class="l-page__header">
+        <div class="l-page__header-first">
+              
+          </div>
+        <div class="l-page__header-last">
+                
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+      
+  <a href="/home/forms/send-request-technical-support" class="header-link">Contact Us</a>
+
+  
+  
+  
+
+
+          </div>
+      </div>
+    
+        <article class="article">
+        
+<h1 class="page-title">
+  U.S. Environmental Protection Agency
+</h1>
+
+        <div data-drupal-messages-fallback class="hidden"></div>
+
+  
+        
+  
+  
+
+  
+    
+  
+
+
+
+
+<div class="hero-slideshow js-hero-slideshow u-full-width">
+  <ul class="hero-slideshow__list js-hero-slideshow__container">
+          <li class="hero-slideshow__item">
+                  
+
+
+<section class="usa-hero usa-hero--slideshow usa-hero--reversed" style="background-image:url(/sites/default/files/styles/hero/public/images/banners/2021-08/20210806_ghg_hero2.png?VersionId=4T0KKc_54d0VJNYB0Rq0c61rV8XvFWmG&amp;h=35d2ff27&amp;itok=KProJORg)">
+  <div class="grid-container">
+    <div class="usa-hero__callout usa-dark-background">
+      <h2 class="usa-hero__heading">
+                Paving the Way for a Zero-Emission Future
+      </h2>
+              <p>EPA’s proposed clean cars plan would reduce greenhouse gas emissions, expand the use of clean technologies, and save consumers billions in fuel costs.</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="aa399eaf-5323-46bd-af58-741796656c64" href="/newsreleases/epa-overhaul-pollution-standards-passenger-vehicles-and-heavy-duty-trucks-paving-way">Read the news release</a>.<br />
+<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="621f10a5-504c-4170-b5ec-c65bdfcab7d3" href="/regulations-emissions-vehicles-and-engines/proposed-rule-revise-existing-national-ghg-emissions">Read the proposed rule</a>.</p>
+                      </div>
+  </div>
+</section>
+
+              </li>
+          <li class="hero-slideshow__item">
+                  
+
+
+<section class="usa-hero usa-hero--slideshow usa-hero--reversed" style="background-image:url(/sites/default/files/styles/hero/public/2021-03/epa-banner-images/banner_cc.jpg?h=35d2ff27&amp;itok=swgSsyl7)">
+  <div class="grid-container">
+    <div class="usa-hero__callout usa-dark-background">
+      <h2 class="usa-hero__heading">
+                Climate Change
+      </h2>
+              <p>EPA relaunches Climate Indicators website showing how climate change is impacting peoples' health and environment.<br />
+<a href="/newsreleases/epa-relaunches-climate-indicators-website-showing-how-climate-change-impacting-peoples" id="051421-climateindicators-readrelease">Read the news release</a><br />
+<a href="/climate-indicators" id="051421-climateindicators-gotosite">Go to the Climate Indicators site</a></p>
+                      </div>
+  </div>
+</section>
+
+              </li>
+          <li class="hero-slideshow__item">
+                  
+
+
+<section class="usa-hero usa-hero--slideshow usa-hero--reversed" style="background-image:url(/sites/default/files/styles/hero/public/images/banners/2021-06/scientific_integrity_hero.jpg?VersionId=qBu8PkieS6CBJqqtmiNMxvIPJe1jc9aJ&amp;h=35d2ff27&amp;itok=6hMvyjT0)">
+  <div class="grid-container">
+    <div class="usa-hero__callout usa-dark-background">
+      <h2 class="usa-hero__heading">
+                Help Strengthen Scientific Integrity
+      </h2>
+              <p>Share your ideas for improving scientific integrity policies across the federal government. Comments are accepted through July 28.</p>
+
+<p class="text-center"><a class="usa-button" href="https://www.federalregister.gov/documents/2021/06/28/2021-13640/request-for-information-to-improve-federal-scientific-integrity-policies">Submit your ideas</a></p>
+                      </div>
+  </div>
+</section>
+
+              </li>
+          <li class="hero-slideshow__item">
+                  
+
+
+<section class="usa-hero usa-hero--slideshow usa-hero--reversed" style="background-image:url(/sites/default/files/styles/hero/public/images/banners/2021-07/20210808_healthcaregov_hero_0.png?VersionId=4pk073jvbUrk2kuoROA02TRDR8MoqoUi&amp;h=35d2ff27&amp;itok=wbNaYYoO)">
+  <div class="grid-container">
+    <div class="usa-hero__callout usa-dark-background">
+      <h2 class="usa-hero__heading">
+                Special Healthcare Enrollment
+      </h2>
+              <p>Sprint over to HealthCare.gov to find affordable health coverage before the Special Enrollment Period ends Aug. 15. Don't miss out on an affordable plan that includes emergency care &amp; prescriptions.</p>
+
+<p><a class="usa-button" href="https://www.healthcare.gov/get-coverage">Get Covered Today</a></p>
+                      </div>
+  </div>
+</section>
+
+              </li>
+      </ul>
+  <div class="hero-slideshow__nav">
+    <div class="l-constrain js-hero-slideshow__nav"><button class="hero-slideshow__nav-button">1</button><button class="hero-slideshow__nav-button">2</button><button class="hero-slideshow__nav-button">3</button><button class="hero-slideshow__nav-button">4</button></div>
+  </div>
+</div>
+
+
+
+
+      <div>
+    <div >
+      
+
+
+  
+  
+
+  <div class="grid-row grid-gap">
+<div class="grid-col-8">
+<div class="box box--highlight">
+<div class="box__title">Resources related to COVID-19</div>
+
+<div class="box__content">
+<ul>
+	<li><ins data-date="2021,1,27"><a href="https://www.whitehouse.gov/priorities/covid-19/">Read the Biden-Harris Plan to Beat COVID-19</a>.</ins></li>
+	<li><a href="/coronavirus">Coronavirus (COVID-19) information from EPA.</a>
+	<ul>
+		<li><a href="https://espanol.epa.gov/espanol/enfermedad-del-coronavirus-2019-covid-19" title="Spanish">Español</a><span> | </span><a href="/lep/mrd-fyrws-kwrwn-2019-covid-19" id="arabicLink" title="Arabic">عربى</a><span> | </span><a href="/lep/simplified-chinese-covid19" title="simplified Chinese">中文: 简体版</a><span> | </span><a href="/lep/traditional-chinese-covid19" title="traditional Chinese">中文: 繁體版</a><span> | </span><a href="/lep/korean-covid19" title="Korean">한국어</a><span> | </span><a href="/lep/maladi-kowonaviris-2019-covid-19" title="Haitian Creole">Kreyòl ayisyen</a><span> | </span><a href="/lep/portugese-covid19" title="Portuguese">Português</a><span> | </span><a href="/lep/koronavirus-2019-covid-19" title="Russian">Pусский</a><span> | </span><a href="/lep/tagalog-covid19" title="Tagalog">Tagalog</a><span> | </span><a href="/lep/benh-coronavirus-2019-covid-19" title="Vietnamese">Tiếng Việt</a>​</li>
+	</ul>
+	</li>
+	<li>Find Vaccine Information 
+	<ul>
+		<li><a href="https://teams.microsoft.com/_" rel="noreferrer noopener" tabindex="-1" target="_blank" title="">Vaccines.gov</a> (English) | ​<a href="https://teams.microsoft.com/_" rel="noreferrer noopener" tabindex="-1" target="_blank" title="">Vacunas.gov</a> (Spanish)</li>
+		<li>Text your zip code to 438829 (GETVAX) in English or 822862 (VACUNA) in Spanish</li>
+		<li>Call 1-800-232-0233 for assistance in English, Spanish, and 150+ other languages</li>
+	</ul>
+	</li>
+	<li><a href="/aboutepa/notice-regarding-hard-copy-submissions-epa-during-covid-19-national-emergency">Impo</a><a href="/aboutepa/notice-regarding-hard-copy-submissions-epa-during-covid-19-national-emergency">rtant notice regarding "hard copy" submissions to EPA.</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="grid-col-4">
+
+<a href="https://www.vaccines.gov/">
+  
+  
+
+  
+
+
+<figure class="figure figure--original is-centered">
+  <div class="figure__media">
+    <img src="/sites/default/files/2021-05/vaccine_button.png" width="332" height="336" alt="find vaccine information" loading="lazy" />
+
+
+</div>
+  </figure>
+
+
+</a><strong>Find Vaccine Information </strong>
+
+<ul>
+	<li><a href="https://vaccines.gov/" rel="noreferrer noopener" tabindex="-1" target="_blank" title="">Vaccines.gov</a> (English)</li>
+	<li>​<a href="https://vacunas.gov/" rel="noreferrer noopener" tabindex="-1" target="_blank" title="">Vacunas.gov</a> (Spanish)</li>
+</ul>
+</div>
+</div>
+
+
+
+
+    </div>
+  </div>
+  <div>
+    <div >
+      
+    </div>
+  </div>
+
+  
+  
+  
+
+    <div class="l-grid l-grid--3-col">
+          <div>
+
+
+  
+
+
+  
+  
+
+      <h2 >Key Topics</h2>
+  
+  
+
+  
+        
+  
+
+
+
+
+
+
+<div class="box">    <div class="box__content">
+
+  <div><a href="/environmental-topics/z-index">
+  
+  
+
+  
+
+
+<figure class="figure figure--small">
+  <div class="figure__media">
+  
+    <img srcset="/sites/default/files/styles/small/public/2018-05/keytopics.jpg?itok=c5H4Oc9o 289w" sizes="(max-width: 320px) calc(100vw - 2rem), 320px" width="289" src="/sites/default/files/styles/small/public/2018-05/keytopics.jpg?itok=c5H4Oc9o" alt="checkboxes" />
+
+
+
+</div>
+  </figure>
+
+
+</a></div>
+
+<div class="grid-row">
+<div class="grid-col-6"><a href="https://www.airnow.gov">Air quality, local</a><br />
+<a href="/acidrain">Acid rain</a><br />
+<a href="/brownfields">Brownfields</a><br />
+<a href="/climate-change">Climate Change</a><br />
+<a href="/ground-water-and-drinking-water/basic-information-about-your-drinking-water">Drinking water</a><br />
+<a href="/environmentaljustice">Env Justice</a></div>
+
+<div class="grid-col-6"><a href="/lead">Lead</a><br />
+<a href="/mold">Mold</a><br />
+<a href="/pfas">PFAS</a><br />
+<a href="/radon">Radon</a><br />
+<a href="/superfund">Superfund</a><br />
+<a href="/environmental-topics/z-index">A-Z index</a></div>
+</div>
+
+<p> <a href="/environmental-topics">Browse more environmental topics</a></p>
+
+</div>
+  </div>
+
+
+
+    
+  
+  
+
+</div>
+    
+          <div>
+
+
+  
+
+
+  
+  
+
+      <h2 >Your Community</h2>
+  
+  
+
+  
+        
+  
+
+
+
+
+
+
+<div class="box">    <div class="box__content">
+
+  <form action="https://enviro.epa.gov/enviro/em4ef.find" method="get">
+<div>
+  
+  
+
+  
+
+
+<figure class="figure figure--small">
+  <div class="figure__media">
+  
+    <img srcset="/sites/default/files/styles/small/public/2016-11/hp-mycommunity2-jm.jpg?itok=wpK7G31c 288w" sizes="(max-width: 320px) calc(100vw - 2rem), 320px" width="288" src="/sites/default/files/styles/small/public/2016-11/hp-mycommunity2-jm.jpg?itok=wpK7G31c" alt="My Community" />
+
+
+
+</div>
+  </figure>
+
+
+</div>
+
+<div id="form-content"><label for="zipcode">Learn about conditions where you live.</label> <input id="zipcode" name="pQuery" placeholder=" address, ZIP Code, or place" size="20" type="text" /> <input class="usa-button" name="GO" type="submit" value="Go" /></div>
+</form>
+
+<form action="https://www3.epa.gov/cgi-bin/redirect.pl" id="statelist" method="post"><label for="list">Go to EPA's page about your state.</label> <select id="list" name="Target"><option value="https://www.epa.gov">- choose -</option><option value="https://www.epa.gov/al">Alabama</option><option value="https://www.epa.gov/aboutepa/epa-alaska">Alaska</option><option value="https://www.epa.gov/pi">American Samoa</option><option value="https://www.epa.gov/az">Arizona</option><option value="https://www.epa.gov/ar">Arkansas</option><option value="https://www.epa.gov/ca">California</option><option value="https://www.epa.gov/co">Colorado</option><option value="https://www.epa.gov/ct">Connecticut</option><option value="https://www.epa.gov/de">Delaware</option><option value="https://www.epa.gov/dc">District of Columbia</option><option value="https://www.epa.gov/fl">Florida</option><option value="https://www.epa.gov/ga">Georgia</option><option value="https://www.epa.gov/pi">Guam</option><option value="https://www.epa.gov/hi">Hawaii</option><option value="https://www.epa.gov/aboutepa/epa-idaho">Idaho</option><option value="https://www.epa.gov/il">Illinois</option><option value="https://www.epa.gov/in">Indiana</option><option value="https://www.epa.gov/ia">Iowa</option><option value="https://www.epa.gov/ks">Kansas</option><option value="https://www.epa.gov/ky">Kentucky</option><option value="https://www.epa.gov/la">Louisiana</option><option value="https://www.epa.gov/me">Maine</option><option value="https://www.epa.gov/md">Maryland</option><option value="https://www.epa.gov/ma">Massachusetts</option><option value="https://www.epa.gov/mi">Michigan</option><option value="https://www.epa.gov/mn">Minnesota</option><option value="https://www.epa.gov/ms">Mississippi</option><option value="https://www.epa.gov/mo">Missouri</option><option value="https://www.epa.gov/mt">Montana</option><option value="https://www.epa.gov/ne">Nebraska</option><option value="https://www.epa.gov/nv">Nevada</option><option value="https://www.epa.gov/nh">New Hampshire</option><option value="https://www.epa.gov/nj">New Jersey</option><option value="https://www.epa.gov/nm">New Mexico</option><option value="https://www.epa.gov/ny">New York</option><option value="https://www.epa.gov/nc">North Carolina</option><option value="https://www.epa.gov/nd">North Dakota</option><option value="https://www.epa.gov/pi">N Mariana Islands</option><option value="https://www.epa.gov/oh">Ohio</option><option value="https://www.epa.gov/ok">Oklahoma</option><option value="https://www.epa.gov/aboutepa/epa-oregon">Oregon</option><option value="https://www.epa.gov/pa">Pennsylvania</option><option value="https://www.epa.gov/pr">Puerto Rico</option><option value="https://www.epa.gov/ri">Rhode Island</option><option value="https://www.epa.gov/sc">South Carolina</option><option value="https://www.epa.gov/sd">South Dakota</option><option value="https://www.epa.gov/tn">Tennessee</option><option value="https://www.epa.gov/tx">Texas</option><option value="https://www.epa.gov/pi">Trust Territories</option><option value="https://www.epa.gov/ut">Utah</option><option value="https://www.epa.gov/vt">Vermont</option><option value="https://www.epa.gov/vi">Virgin Islands</option><option value="https://www.epa.gov/va">Virginia</option><option value="https://www.epa.gov/aboutepa/epa-washington">Washington</option><option value="https://www.epa.gov/wv">West Virginia</option><option value="https://www.epa.gov/wi">Wisconsin</option><option value="https://www.epa.gov/wy">Wyoming</option> </select> <input class="usa-button" name="submit" type="submit" value="Go" /> </form>
+
+</div>
+  </div>
+
+
+
+    
+  
+  
+
+</div>
+    
+          <div>
+
+
+  
+  
+
+
+  
+
+
+
+<div class="box box--rss">    <div class="box__title">            
+<svg class="icon is-spaced-after" aria-hidden="true"><use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#rss"></use></svg>  News from EPA
+          </div>
+      <div class="box__content">
+
+  <p id="newsfeedr"><span id="loading"><em>Loading...</em></span></p>
+
+<p>  <a href="/newsreleases/search">Read more news releases</a><br />
+ </p>
+
+</div>
+  </div>
+
+
+
+</div>
+    
+      </div>
+  <div>
+    <div >
+      
+
+
+  
+  
+
+
+
+
+
+
+<div class="box">    <div class="box__title">        Multilingual Links
+          </div>
+      <div class="box__content">
+
+  <p><a href="http://espanol.epa.gov/" title="Spanish">Español</a> || <a href="/lep/arabic" id="arabicLink" title="Arabic">عربى</a> | <a href="/lep/simplified-chinese" title="simplified Chinese">中文: 简体版</a> | <a href="/lep/traditional-chinese" title="traditional Chinese">中文: 繁體版</a> | <a href="/lep/korean" title="Korean">한국어</a> | <a href="/lep/sante-ak-anviwonman-enfomasyon-kreyol-ayisyen" title="Haitian Creole">Kreyòl ayisyen</a> | <a href="/lep/saude-e-informacoes-ambientais-em-portugues" title="Portuguese">Português</a> | <a href="/lep/russian" title="Russian">Pусский</a> | <a href="/lep/tagalog" title="Tagalog">Tagalog</a> | <a href="/lep/vietnamese" title="Vietnamese">Tiếng Việt</a></p>
+
+</div>
+  </div>
+
+
+
+
+    </div>
+  </div>
+
+
+
+    </article>
+    </div>
+
+      <div class="l-page__footer">
+      <div class="l-constrain">
+              
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+      
+  <a href="/home/forms/send-request-technical-support">Contact Us</a> to ask a question, provide feedback, or report a problem.
+
+  
+  
+  
+
+
+        </div>
+    </div>
+  </div>
+
+
+  
+</main>
+
+
+<footer class="footer" role="contentinfo">
+  <div class="l-constrain">
+    <img class="footer__epa-seal" src="/themes/epa_theme/images/epa-seal.svg" alt="United States Environmental Protection Agency" height="100" width="100">
+    <div class="footer__content contextual-region">
+          
+
+
+
+        <div class="footer__column">
+        <h2>Discover.</h2>
+        <ul class="menu menu--footer">
+          <li class="menu__item">
+            <a href="/accessibility" class="menu__link">Accessibility</a>
+          </li>
+          <!--li class="menu__item">
+            <a href="#" class="menu__link">EPA Administrator</a>
+          </li-->
+          <li class="menu__item">
+            <a href="/planandbudget" class="menu__link">Budget &amp; Performance</a>
+          </li>
+          <li class="menu__item">
+            <a href="/contracts" class="menu__link">Contracting</a>
+          </li>
+          <li class="menu__item">
+            <a href="/home/wwwepagov-snapshots" class="menu__link">EPA www Web Snapshot</a>
+          </li>
+          <li class="menu__item">
+            <a href="/grants" class="menu__link">Grants</a>
+          </li>
+          <li class="menu__item">
+            <a href="/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees" class="menu__link">No FEAR Act Data</a>
+          </li>
+          <li class="menu__item">
+            <a href="/privacy" class="menu__link">Privacy</a>
+          </li>
+          <li class="menu__item">
+            <a href="/privacy/privacy-and-security-notice" class="menu__link">Privacy and Security Notice</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer__column">
+        <h2>Connect.</h2>
+        <ul class="menu menu--footer">
+          <li class="menu__item">
+            <a href="https://www.data.gov/" class="menu__link">Data.gov</a>
+          </li>
+          <li class="menu__item">
+            <a href="/office-inspector-general/about-epas-office-inspector-general" class="menu__link">Inspector General</a>
+          </li>
+          <li class="menu__item">
+            <a href="/careers" class="menu__link">Jobs</a>
+          </li>
+          <li class="menu__item">
+            <a href="/newsroom" class="menu__link">Newsroom</a>
+          </li>
+          <li class="menu__item">
+            <a href="/data" class="menu__link">Open Government</a>
+          </li>
+          <li class="menu__item">
+            <a href="https://www.regulations.gov/" class="menu__link">Regulations.gov</a>
+          </li>
+          <li class="menu__item">
+            <a href="/newsroom/email-subscriptions-epa-news-releases" class="menu__link">Subscribe</a>
+          </li>
+          <li class="menu__item">
+            <a href="https://www.usa.gov/" class="menu__link">USA.gov</a>
+          </li>
+          <li class="menu__item">
+            <a href="https://www.whitehouse.gov/" class="menu__link">White House</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer__column">
+        <h2>Ask.</h2>
+        <ul class="menu menu--footer">
+          <li class="menu__item">
+            <a href="/home/forms/contact-epa" class="menu__link">Contact EPA</a>
+          </li>
+          <li class="menu__item">
+            <a href="/web-policies-and-procedures/epa-disclaimers" class="menu__link">EPA Disclaimers</a>
+          </li>
+          <li class="menu__item">
+            <a href="/home/epa-hotlines" class="menu__link">Hotlines</a>
+          </li>
+          <li class="menu__item">
+            <a href="/foia" class="menu__link">FOIA Requests</a>
+          </li>
+          <li class="menu__item">
+            <a href="/home/frequent-questions-specific-epa-programstopics" class="menu__link">Frequent Questions</a>
+          </li>
+        </ul>
+        <h2>Follow.</h2>
+        <ul class="menu menu--social">
+          <li class="menu__item">
+            <a class="menu__link" aria-label="EPA’s Facebook" href="https://www.facebook.com/EPA">
+              <svg class="icon icon--social" aria-hidden="true">
+                <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#facebook-square"></use>
+              </svg> </a>
+          </li>
+          <li class="menu__item">
+            <a class="menu__link" aria-label="EPA’s Twitter" href="https://twitter.com/epa">
+              <svg class="icon icon--social" aria-hidden="true">
+                <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#twitter-square"></use>
+              </svg> </a>
+          </li>
+          <li class="menu__item">
+            <a class="menu__link" aria-label="EPA’s Youtube" href="https://www.youtube.com/user/USEPAgov">
+              <svg class="icon icon--social" aria-hidden="true">
+                <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#youtube-square"></use>
+              </svg> </a>
+          </li>
+          <li class="menu__item">
+            <a class="menu__link" aria-label="EPA’s Flickr" href="https://www.flickr.com/photos/usepagov">
+              <svg class="icon icon--social" aria-hidden="true">
+                <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#flickr-square"></use>
+              </svg> </a>
+          </li>
+          <li class="menu__item">
+            <a class="menu__link" aria-label="EPA’s Instagram" href="https://www.instagram.com/epagov">
+              <svg class="icon icon--social" aria-hidden="true">
+                <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#instagram-square"></use>
+              </svg> </a>
+          </li>
+        </ul>
+        <p class="footer__last-updated">Last updated on August 6, 2021</p>
+      </div>
+
+
+
+      </div>
+  </div>
+</footer>
+
+  </div>
+
+    
+    <a href="#top" class="back-to-top" title="Back to top" aria-hidden="true">
+  <svg class="back-to-top__icon" role="img" aria-label="Back to top">
+    <use xlink:href="/themes/epa_theme/images/sprite.artifact.svg#arrow"></use>
+  </svg>
+</a>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/19429","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/picturefill,epa_alerts\/epaAlerts,epa_theme\/global,epa_theme\/hero_slideshow,epa_theme\/media_link,epa_wysiwyg\/epa-new,media\/filter.caption,paragraphs\/drupal.paragraphs.unpublished,system\/base","theme":"epa_theme","theme_token":null},"ajaxTrustedUrl":[],"ckeditorheight":{"offset":1,"line_height":1.5,"unit":"em","disable_autogrow":false},"epaAlerts":{"context":"public"},"mediaelement":{"attachSitewide":0},"user":{"uid":0,"permissionsHash":"311ea3f006616a03837cc49d8d77fce78a026f631684dc73097b2a112680a6c5"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.1.9"></script>
+<script src="/core/misc/drupal.js?v=9.1.9"></script>
+<script src="/core/misc/drupal.init.js?v=9.1.9"></script>
+<script src="/core/assets/vendor/picturefill/picturefill.min.js?v=3.0.3"></script>
+<script src="/modules/custom/epa_wysiwyg/js/plugins/epaNew/epaNew.js?qxebyx"></script>
+<script src="/themes/epa_theme/js/dist/common.min.js?v=9.1.9"></script>
+<script src="/themes/epa_theme/js/dist/scripts.min.js?v=9.1.9"></script>
+<script src="/themes/epa_theme/js/dist/sitewide-alert.min.js?v=9.1.9"></script>
+<script src="/themes/epa_theme/js/dist/definition.min.js?v=9.1.9"></script>
+<script src="/themes/epa_theme/js/dist/media-link.min.js?v=9.1.9"></script>
+<script src="/themes/epa_theme/js/dist/hero-slideshow.min.js?v=9.1.9"></script>
+<script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.22"></script>
+<script src="/core/misc/progress.js?v=9.1.9"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.1.9"></script>
+<script src="/core/misc/ajax.js?v=9.1.9"></script>
+<script src="/core/themes/stable/js/ajax.js?v=9.1.9"></script>
+<script src="/modules/custom/epa_alerts/js/epaAlerts.js?qxebyx"></script>
+
+    <style>
+/* to make MyEnv & State page choosers match */
+#zipcode, #list { width:200px; height:28px; }
+/* Tw feed */
+#arabicLink {font-size:larger; }
+</style>
+
+<script src="https://www.epa.gov/sites/all/libraries/cycle/jquery.cycle.all.js"></script> 
+<script>
+
+/* VIDEO STUFF - DO NOT REMOVE*/
+ jQuery('iframe').attr('allowfullscreen','0');
+/* featured video change-out */
+
+/* RSS NEWS FEED */
+jQuery(document).ready(function() {
+  jQuery.ajax({
+    type: "GET",
+    url: "/newsreleases/search/rss/press_office/headquarters-226129",
+    dataType: "xml",
+    success: parseXml
+  });
+  function parseXml(xml) {
+    var content = jQuery('<ul id="thefeedlist" class="feed-list roomy" style="padding-top:.2em"></ul>');
+    jQuery(xml).find("item").each(function(i, item) {
+  //find each instance of loc in xml file and wrap it in a link
+  var title = jQuery(this).find('title').text(); 
+  if (title.length > 100 ){
+  title = title.substring(0,96); var lastSpace = title.lastIndexOf(' ');
+  title = title.substring(0,lastSpace); var lastChar = title.charAt(title.length-1);
+  if( lastChar == "." || lastChar=="," ){ title = title.substring(0,title.length-1); }
+  title = title + "...";
+  }
+  description = jQuery(this).find('description').text(),
+  date = jQuery(this).find('pubDate').text(),
+  date = date.substr(0,15);//to remove time-zone error.
+  link = jQuery(this).find('link').text();
+  var date = new Date (date); var fixMo = parseInt( date.getMonth() ) + 1;
+
+  content.append('<li><a href="' + link + '">'  + title + '</a></li>');  
+  
+  jQuery('.box--rss > .box__content').prepend(content);
+   var showThisMany=2;/*number+1 is how many will appear in list*/
+   return i < showThisMany;
+});
+    jQuery('#loading').remove();
+  }
+});
+jQuery("#newsfeedr").parent().css({'border-color':'#005ea2','padding':'0px 0px 0px 5px'});
+/* END OF RSS NEWS FEED */
+
+
+/* Google Analyltics clicks ========== */
+/* Remember, every ID must be different & unique */
+/* (1) GA BANNER LINKS: add unique id="MMDDYY-banner-link" to each "a" link in banners */
+   jQuery(".banner-content a").click( function(){ ga('EPA.send', 'event', 'Banner', 'epahome Click', this.id); });
+/* (2) for top-right graphic: add id="MMDDYY-topright" to the "a" link in top right graphic */
+    jQuery('.microsite-aside-content p a').click( function(){ ga('EPA.send', 'event', 'TopRightGraphic', 'epahome Click', this.id); });
+/* (3) for panelizer items*/
+   jQuery('.pane-content a, .pane-content area').click( function(){ ga('EPA.send', 'event', 'Panelizer', 'epahome Click', this.id); });
+/* (3) GA non-BANNER LINKS: create a separate jQuery here for links other than banners */
+/*    */
+
+</script>
+
+<script>
+/* Enforcement Badge on HP only */
+ jQuery('.region-preface').prepend('<a href="/tips" style="float:right"><img alt="Report an environmental violation" src="/sites/production/files/2013-07/epa_enforcement.png" width="70"></a>');
+</script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"529886857,529885622","transactionName":"MwRbbRdWDUUHVkdaWgpOeFoRXgxYSUVSVFA7AlhaDVI=","queueTime":0,"applicationTime":88,"atts":"H0NYG19MHks=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

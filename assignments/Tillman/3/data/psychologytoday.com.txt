@@ -1,0 +1,2278 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Date: Sat, 07 Aug 2021 01:32:47 GMT
+Location: https://www.psychologytoday.com/
+Server: Apache/2.4.39 (Amazon)
+Content-Length: 240
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+Date: Sat, 07 Aug 2021 01:32:47 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 218
+Connection: keep-alive
+Server: Apache/2.4.39 (Amazon)
+Location: https://www.psychologytoday.com/us
+
+HTTP/1.1 200 OK
+Date: Sat, 07 Aug 2021 01:32:47 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 166988
+Connection: keep-alive
+Server: Apache/2.4.48 ()
+X-Powered-By: PHP/7.4.15
+X-Drupal-Cache: MISS
+X-Content-Type-Options: nosniff
+Content-Language: en-US
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+Link: <https://www.psychologytoday.com/us>; rel="canonical",<https://www.psychologytoday.com/us>; rel="shortlink",<https://cdn.psychologytoday.com/sites/all/themes/psychologytoday/img/touch-icons/favicon.ico>; rel="shortcut icon"
+Cache-Control: public, max-age=900
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Last-Modified: Sat, 07 Aug 2021 01:27:34 GMT
+X-Varnish-Backend: content_www(172.28.212.104)
+x-url: /us
+x-host: www.psychologytoday.com
+X-Varnish: 150765581 143919178
+Age: 312
+Via: 1.1 varnish-v4
+ETag: W/"1628299654-1"
+X-Cache: HIT
+X-Cache-Hits: 266
+X-Served-By: content-varnish-primary-i-03a13165c29710f41.ptwww.internal
+Accept-Ranges: bytes
+Via: 1.1 ZZ
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="alexaVerifyID" content="ruuD3Gzrr-EaY185APFbxF69Va4" />
+  <meta name="google-site-verification" content="G-wasBQCXXJoehIaVW5BsO9VYKt4oqmWGo155wSSakQ" />
+  <meta name="y_key" content="0f29d521db0a2863" />
+  <meta name="msvalidate.01" content="9AD6650A37790044983CFB6B27D77607" />
+    <title>Psychology Today: Health, Help, Happiness + Find a Therapist</title>
+  <!-- Font preload -->
+  <link rel="preload" href="https://cdn.psychologytoday.com/sites/all/themes/pt_brand/fonts/proxima-nova/proxima-nova-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://cdn.psychologytoday.com/sites/all/themes/pt_brand/fonts/proxima-nova/proxima-nova-semibold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://cdn.psychologytoday.com/sites/all/themes/pt_brand/fonts/proxima-nova/proxima-nova-bold.woff2" as="font" type="font/woff2" crossorigin>
+
+  <!-- Touch icon settings -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Psych Today">
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-57x57-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-76x76-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-114x114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-120x120-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-144x144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sites/all/themes/pt_brand/img/touch-icons/apple-touch-icon-152x152-precomposed.png" />
+
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn.psychologytoday.com" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn.psychologytoday.com" />
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" href="https://www.psychologytoday.com/us/front/feed" title="The Latest" />
+<meta name="robots" content="index,follow" />
+<script src="https://resources.psychologytoday.com/directory/search-components/v1.0.12/search-suggestions.min.js" type="text/javascript" async="true"></script>
+<meta property="fb:pages" content="15687708844" />
+<link href="https://www.psychologytoday.com/au" rel="alternate" hreflang="en-AU" />
+<link href="https://www.psychologytoday.com/ca" rel="alternate" hreflang="en-CA" />
+<link href="https://www.psychologytoday.com/ie" rel="alternate" hreflang="en-IE" />
+<link href="https://www.psychologytoday.com/nz" rel="alternate" hreflang="en-NZ" />
+<link href="https://www.psychologytoday.com/sg" rel="alternate" hreflang="en-SG" />
+<link href="https://www.psychologytoday.com/za" rel="alternate" hreflang="en-ZA" />
+<link href="https://www.psychologytoday.com/gb" rel="alternate" hreflang="en-GB" />
+<link href="https://www.psychologytoday.com/us" rel="alternate" hreflang="en-US" />
+<link href="https://www.psychologytoday.com/intl" rel="alternate" hreflang="x-default" />
+<link href="https://www.psychologytoday.com/at" rel="alternate" hreflang="en-AT" />
+<link href="https://www.psychologytoday.com/be" rel="alternate" hreflang="en-BE" />
+<link href="https://www.psychologytoday.com/hk" rel="alternate" hreflang="en-HK" />
+<link href="https://www.psychologytoday.com/ch" rel="alternate" hreflang="en-CH" />
+<link href="https://www.psychologytoday.com/dk" rel="alternate" hreflang="en-DK" />
+<link href="https://www.psychologytoday.com/se" rel="alternate" hreflang="en-SE" />
+<meta name="description" content="View the latest from the world of psychology: from behavioral research to practical guidance on relationships, mental health and addiction. Find help from our directory of therapists, psychologists and counselors." />
+<link rel="canonical" href="https://www.psychologytoday.com/us" />
+<link rel="shortlink" href="https://www.psychologytoday.com/us" />
+<meta property="og:site_name" content="Psychology Today" />
+<meta property="og:url" content="https://www.psychologytoday.com/" />
+<meta property="og:description" content="View the latest from the world of psychology: from behavioral research to practical guidance on relationships, mental health and addiction. Find help from our directory of therapists, psychologists and counselors." />
+<link rel="shortcut icon" href="https://cdn.psychologytoday.com/sites/all/themes/psychologytoday/img/touch-icons/favicon.ico" type="image/vnd.microsoft.icon" />
+<link type="text/css" rel="stylesheet" href="https://cdn.psychologytoday.com/sites/default/files/advagg_css/css__pY5FUMnShQHCTo22z_Vu9cW-IxBSu4UT7lbMeQw2zNA__EimIh4AlxVFG6FKRQYkStgqhDcbmFgIBUAS8LWufSJQ__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.psychologytoday.com/sites/default/files/advagg_css/css__Rc9-hrMCG5U6f8lx1dDCt1-uBsJqSPWcFxctobwt1-4__6EKVbKUGrpuF-aV2036e4L9Xsk-w4HvPu4qFkK3FLy4__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.psychologytoday.com/sites/default/files/advagg_css/css__PwAetr0hQrjTyd5ejyp0bXgy4QMavT3kmwVl6xhTSI0__D7lBET4u2gBAuGSqMH7XR27jvzQhOPAK-TJCmycvSBg__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.psychologytoday.com/sites/default/files/advagg_css/css__F7kP3L7Ie7ILqPr3ewdGUktTuu3z0haq2fwWRMywF-U__6Fti9Gnrpm-A-xyOgbtTvS3V6t1tVA0yMz2-lrQ31Ns__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.css" media="print" />
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__b-4AXeYvwchL8zM_EqluNbhauyeweia2zfXMZtjzCFI__sj7bH1NR9LE-o742Knqqwi9EWi6_1K45tAmXQq04RUo__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__4LwGn8SspaM9J3we6IDh3_veuwfF6kBeFAG5a0GU8eY__p9dbkdJlx4Kf1pXsEJlIZYZnDZOqCODoBF1WrIgAevk__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__hZKIJUc6-qi7-h3OiDSmx6F6W03HZcei6tbw3MSvbvs__MMtXzKociJ-8jKScUcL33tPCXLV9OLAwsl0aWosBWpQ__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__o6B8fiZxagLn5_6w0_W-PQcYqA823Yj3MfNKrLJVKMY__Ih_vbrs-FNepfURC6nPWGnLDLCH6DZTZURygMcY1aq0__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(typeof googletag === 'undefined') {
+    var googletag = {
+      cmd : []
+    };
+}
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+
+if (window.innerWidth <= 640) {
+
+} else if (window.innerWidth > 640 && window.innerWidth <= 800) {
+
+} else {
+googletag.defineSlot("/1032688/728x90_Bottom_www_site_Ad_Slot", [728, 90], "div-gpt-ad-1390414551849-1").addService(googletag.pubads());
+googletag.defineSlot("/1032688/300x*_Right_www", [[300, 250], [300, 600]], "div-gpt-ad-1391201642419-0").setTargeting('pos', ['aboveright1']).addService(googletag.pubads());
+googletag.defineSlot("/1032688/300x305_Voices_in_Recovery", [300, 305], "div-gpt-ad-1435258789766-0").addService(googletag.pubads());
+googletag.defineSlot("/1032688/300x600_Right2_www_site_Ad_Slot", [300, 600], "div-gpt-ad-1390414551849-0").addService(googletag.pubads());
+googletag.defineSlot("/1032688/260x160_TheAuthorSpeaks_Right", [260, 160], "div-gpt-ad-1425917288483-0").addService(googletag.pubads());
+googletag.defineSlot("/1032688/300x305_Degrees_of_Success", [300, 305], "div-gpt-ad-1461966406781-0").addService(googletag.pubads());
+
+}
+googletag.pubads().setTargeting("HealthCat", [""]);
+googletag.pubads().setTargeting("OtherCat", [""]);
+googletag.pubads().setTargeting("SpecialCat", ["HomePage"]);
+googletag.pubads().setTargeting("PageNid", [""]);
+googletag.pubads().setTargeting("BlogNid", [""]);
+googletag.pubads().setTargeting("NodeType", [""]);
+
+googletag.enableServices();
+});
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__VzRZQ_9eZNrLNM_j9isyzUmzbIX1qsitdrxJ4XH-dHA__XnaGWd5B8NShbIu0FQAYiNVBJq4C0RMixK8asRLM-Zw__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__gA2ryV9trKha5q0ticzmI0drbHa5VumteFWe95pF-18__0C2lQNWSHd-YcQjh5j_AvDGZ4zm1S8ZAjeja2MpIwc4__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us\/","ajaxPageState":{"theme":"pt_brand","theme_token":"ub2jQdVvBj4ouYqWSvKnEFrWIal3BfOJqLRl_HEykeA","css":{"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/custom\/pt_cachecontrol\/css\/pt_cachecontrol.aggregate_cachebuster.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/amazon_pa\/amazon.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/elf\/css\/elf.css":1,"sites\/all\/modules\/contrib\/quote\/quote.css":1,"sites\/all\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"sites\/all\/themes\/pt_brand\/brand\/css\/styles.css":1,"sites\/all\/themes\/pt_brand\/system.menus.css":1,"sites\/all\/themes\/pt_brand\/system.theme.css":1,"sites\/all\/themes\/pt_brand\/field.css":1,"sites\/all\/themes\/pt_brand\/contextual.css":1,"sites\/all\/themes\/pt_brand\/brand\/css\/print.css":1},"js":{"sites\/all\/modules\/contrib\/browserclass\/js\/browserclass.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/libraries\/modernizr\/modernizr-custom.min.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/quote\/quote.js":1,"sites\/all\/modules\/custom\/pt_ads\/js\/pt_ads.js":1,"sites\/all\/modules\/custom\/pt_image_lazy\/js\/IntersectionObserver\/polyfill\/intersection-observer.js":1,"sites\/all\/modules\/custom\/pt_image_lazy\/js\/pt_image_lazy.js":1,"sites\/all\/modules\/contrib\/hide_submit\/js\/hide_submit.js":1,"sites\/all\/themes\/pt_brand\/js\/tether-1.3.3\/dist\/js\/tether.min.js":1,"sites\/all\/themes\/pt_brand\/brand\/js\/popper.min.js":1,"sites\/all\/themes\/pt_brand\/brand\/js\/bootstrap.min.js":1,"sites\/all\/themes\/pt_brand\/js\/search-facetapi-sort-alterations.js":1,"sites\/all\/themes\/pt_brand\/js\/search-facetapi-author-filter.js":1,"sites\/all\/themes\/pt_brand\/js\/dropdown-select.js":1,"sites\/all\/themes\/pt_brand\/js\/search-facetapi-dropdown-select.js":1,"sites\/all\/themes\/pt_brand\/js\/safari-back-cache.js":1,"sites\/all\/themes\/pt_brand\/js\/tests-menu-to-select.js":1,"sites\/all\/themes\/pt_brand\/js\/tests.js":1,"sites\/all\/themes\/pt_brand\/js\/select-to-ul.js":1,"sites\/all\/themes\/pt_brand\/js\/td_subhead.js":1,"sites\/all\/themes\/pt_brand\/js\/profile-books.js":1,"sites\/all\/themes\/pt_brand\/js\/script.js":1}},"quote_nest":0,"pt_ad_slot_positions":{"ad_1_position":"0","ad_2_position":"4","ad_3_position":"7","ad_4_position":"10"},"pt_ad_content_positions":{"content_1":"5","content_2":"8"},"better_exposed_filters":{"views":{"blog_posts":{"displays":{"page":{"filters":[]}}},"essentials":{"displays":{"block_2":{"filters":[]},"block_1":{"filters":[]}}},"personal_perspectives":{"displays":{"block_1":{"filters":[]}}},"brand_header_essential_reads":{"displays":{"block_us":{"filters":[]}}},"magazine_issues":{"displays":{"block_4":{"filters":[]}}},"brand_header_magazine_archive_lazy":{"displays":{"block":{"filters":[]}}},"brand_header_news":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"brand_footer_magazine_archive_lazy":{"displays":{"block":{"filters":[]}}},"latest_collection":{"displays":{"block":{"filters":[]}}}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"(psychologytoday\\.com\\\/*)|(member\\.psychologytoday\\.com\\\/*)|(psychtests\\.com\\\/*)|(https:\\\/\\\/secure\\.sussexdirectories\\.com\\\/*)|(https:\\\/\\\/dl\\.dropboxusercontent\\.com\\\/u\\\/106433937\\\/*)","extInclude":"","extCssExclude":".block-pt-topics-topic-tests, .page-subscriptions","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"pt_ads":[],"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":0,"hide_submit_reset_time":0},"urlIsAjaxTrusted":{"https:\/\/www.psychologytoday.com\/us\/archive":true}});
+//--><!]]>
+</script>
+
+  <!-- Google Tag Manager Data Layer -->
+  <script>
+    dataLayer = [];
+  </script>
+  <!-- End Google Tag Manager Data Layer -->
+</head>
+
+<body class="html front not-logged-in one-sidebar sidebar-first page-blog-posts i18n-en-US user-role-anonymous-user" >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NW5PKS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){
+    if (typeof w[l] == 'undefined') { w[l] = [] };
+    w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NW5PKS');</script>
+<!-- End Google Tag Manager -->
+<div class="backdrop-screen d-lg-none"></div>
+      
+  <nav class="navbar navbar-default navbar-default-public navbar-toggleable-md container-fluid d-block lg-bg-swatch-primary xs-bg-swatch-primary  has-main-nav">
+  <header class="lg-bg-swatch-primary xs-bg-swatch-primary">
+    <div class="container container-static navbar-flex-positioning">
+
+              <button id="enabled-mobile-nav-control" class="mobile-nav-control text-indent-hidden" data-target="#navbarNavDropdown">Open mobile menu</button>
+      
+      <h1 class="logo">
+        <a href="/us">Psychology Today</a>
+      </h1>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav d-flex flex-row align-items-center justify-content-center">
+                      <li class="nav-item dropdown">
+              <a class="nav-link dropdownmenu-toggle dropdown-toggle" href='#' id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                Find a Therapist              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <div class="container">
+                                      <div class="row justify-content-center" >
+                      <div class="col-lg-12">
+                        <h1 class="text-center"><a href="https://www.psychologytoday.com/us/therapists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Therapist1">Find a Therapist</a></h1>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-md-6">
+                        
+<form
+  action="https://www.psychologytoday.com/us/therapists"
+  method="POST" target="_top" autocomplete="off" autocorrect="off" autocapitalize="off"
+  data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Therapist"
+  class="mb-1 td_callout__form form__input-lg fat__callout_form top_fat__form">
+  <!-- PT-1716 add wrapper to form for JSON application top-search -->
+  <div class="container-fat__callout_form"
+       data-search-suggest="sussex"
+       data-placeholder="City or Zip" data-size="medium" data-menu="true"
+       data-mobile-fullscreen="true"
+       data-input-aria-label="Search input"
+       data-button-aria-label="Search button"
+       data-menu-items='[{"label":"Therapists","suggestionsUrl":"https://www.psychologytoday.com/us/therapists/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/therapists?search={query}","title":"Search for Therapists near you."},{"label":"Psychiatrists","suggestionsUrl":"https://www.psychologytoday.com/us/psychiatrists/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/psychiatrists?search={query}","title":"Search for Psychiatrists near you."},{"label":"Treatment Centers","suggestionsUrl":"https://www.psychologytoday.com/us/treatment-rehab/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/treatment-rehab?search={query}","title":"Search for Treatment Centers near you."},{"label":"Support Groups","suggestionsUrl":"https://www.psychologytoday.com/us/groups/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/groups?search={query}","title":"Search for Support Groups near you."}]'>
+    <div class="search td_search">
+      <div class="popover-selector input-group-addon">
+        <div class="popover-selector-control">
+          <a class="current-selection" href="#"></a>
+          <span class="current-selection-name">Therapists</span>
+          <input class="current-selection-value"
+                 value="https://www.psychologytoday.com/us/therapists"/>
+          <!-- form input here -->
+          <button>v</button>
+        </div>
+        <ul class="selector-options popover-content">
+                      <li class="selected"><a href="#" data-selector-option-text="Therapists" data-selector-option-value="https://www.psychologytoday.com/us/therapists" data-selector-event-label="PT_TopNavF_Therapist" title="Search for Therapists near you">Therapists</a></li>
+          
+                      <li><a href="#" data-selector-option-text="Treatment Centers"
+                   data-selector-option-value="https://www.psychologytoday.com/us/treatment-rehab"
+                   data-selector-event-label="PT_TopNavF_Treatment"
+                   title="Search for Treatment Centers near you">Treatment Centers</a></li>
+          
+                      <li><a href="#" data-selector-option-text="Psychiatrists"
+                   data-selector-option-value="https://www.psychologytoday.com/us/psychiatrists"
+                   data-selector-event-label="PT_TopNavF_Psychiatrist" title="Search for https://www.psychologytoday.com/us/psychiatrists near you"
+              >Psychiatrists</a></li>
+          
+                      <li><a href="#" data-selector-option-text="Support Groups"
+                   data-selector-option-value="https://www.psychologytoday.com/us/groups"
+                   data-selector-event-label="PT_TopNavF_Therapygroup" title="Search for Support Groups near you">Support Groups</a></li>
+                  </ul>
+      </div>
+      <div class="search-entry">
+        <div class="close-mobile-search">
+          <button>x</button>
+        </div>
+        <input type="text" id="searchField" class="searchGeo placeholder-processed" name="search" aria-label="Search input"
+               placeholder="City or Zip" size="25" required=""
+               oninvalid="this.setCustomValidity(this.willValidate?\'\':\'City or Zip\');">
+      </div>
+        <button type="submit" name="Submit" value="Search" title="Search for Therapists near you." aria-label="Search button"></button>
+    </div>
+  </div>
+</form>
+
+<div class="td_existing">
+      <span
+      class="td_existing__label">Therapists: </span> <a href="https://member.psychologytoday.com/us/login" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_TherapistLogIn">Log In</a> | <a href="https://member.psychologytoday.com/us/signup" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_SignupN">Sign Up</a>  </div>
+                      </div>
+                    </div>
+                  
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdownmenu-toggle dropdown-toggle" href='#' id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                Get Help              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="col-lg-8 col-border-right">
+                      <div class="row">
+                        <div class="col">
+                          <h4 class="mb-lg-3">Mental Health</h4>
+                          <ul class="nav-group">
+                            <li><a href="/us/basics/addiction">Addiction</a></li>
+                            <li><a href="/us/basics/adhd">ADHD</a></li>
+                            <li><a href="/us/basics/anxiety">Anxiety</a></li>
+                            <li><a href="/us/basics/aspergers-syndrome">Asperger's</a></li>
+                            <li><a href="/us/basics/autism">Autism</a></li>
+                            <li><a href="/us/basics/bipolar-disorder">Bipolar Disorder</a></li>
+                            <li><a href="/us/basics/chronic-pain">Chronic Pain</a></li>
+                            <li><a href="/us/basics/depression">Depression</a></li>
+                            <li><a href="/us/basics/eating-disorders">Eating Disorders</a></li>
+                          </ul>
+                        </div>
+                        <div class="col">
+                          <h4 class="mb-lg-3">Personality</h4>
+                          <ul class="nav-group">
+                            <li><a href="/us/basics/passive-aggression">Passive Aggression</a></li>
+                            <li><a href="/us/basics/personality">Personality</a></li>
+                            <li><a href="/us/basics/shyness">Shyness</a></li>
+                          </ul>
+                          <h4 class="mb-lg-3">Personal Growth</h4>
+                          <ul class="nav-group">
+                            <li><a href="/us/basics/motivation">Goal Setting</a></li>
+                            <li><a href="/us/basics/happiness">Happiness</a></li>
+                            <li><a href="/us/basics/positive-psychology">Positive Psychology</a></li>
+                            <li><a href="/us/basics/smoking">Stopping Smoking</a></li>
+                          </ul>
+                        </div>
+                        <div class="col">
+                        <h4 class="mb-lg-3">Relationships</h4>
+                        <ul class="nav-group">
+                            <li><a href="/us/basics/low-sexual-desire">Low Sexual Desire</a></li>
+                            <li><a href="/us/basics/relationships">Relationships</a></li>
+                            <li><a href="/us/basics/sex">Sex</a></li>
+                        </ul>
+                        <h4 class="mb-lg-3">Family Life</h4>
+                        <ul class="nav-group">
+                            <li><a href="/us/basics/child-development">Child Development</a></li>
+                            <li><a href="/us/basics/parenting">Parenting</a></li>
+                        </ul>
+                        <h4><a class="right-chevron-after" href="/us/basics">View Help Index</a></h4>
+                      </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 pl-5">
+                      <div class="row">
+                      <div class="col px-lg-0 px-xl-3">
+                      <h4 class="mb-lg-3">Do I Need Help?</h4>
+                      <ul class="nav-group">
+                          <li><a href="/us/tests">Self Tests</a></li>
+                          <li><a href="/us/basics/therapy">Therapy Center <div class="result-tag">NEW</div></a></li>
+                      </ul>
+                      <h4 class="mb-lg-3">Recently Diagnosed?</h4>
+                      <ul class="nav-group">
+                          <li><a href="/us/conditions">Diagnosis Dictionary</a></li>
+                          <li><a href="/us/types-of-therapy">Types of Therapy</a></li>
+                      </ul>
+
+                      <h4 class="mb-lg-3">Talk to Someone</h4>
+                      <ul class="nav-group">
+                                                  <li><a href="https://www.psychologytoday.com/us/therapists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_GHelp">Find a Therapist</a></li>
+                        
+                                                  <li><a href="https://www.psychologytoday.com/us/treatment-rehab" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_GHelpT">Find a Treatment Center</a></li>
+                        
+                                                  <li><a href="https://www.psychologytoday.com/us/psychiatrists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_GHelpP">Find a Psychiatrist</a></li>
+                        
+                                                  <li><a href="https://www.psychologytoday.com/us/groups" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_GHelpG">Find a Support Group</a></li>
+                        
+                                                  <li><a href="https://www.psychologytoday.com/us/therapists/online-counseling" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_OnlineTherapy">Find Teletherapy</a></li>
+                                              </ul>
+
+                    </div>
+                    </div>
+                      </div>
+                  </div>
+
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdownmenu-toggle dropdown-toggle" href='#' id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                Magazine              </a>
+              <div class="dropdown-menu nav__magazine" aria-labelledby="navbarDropdownMenuLink">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="col-lg-4">
+                      <h4 class="mb-lg-3">Current</h4>
+                      <div class="view view-magazine-issues view-id-magazine_issues view-display-id-block_4 magazine-card current-issue view-dom-id-15bec8ee36d38770479ead5e119fa22a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <div class="magazine_card media flex-column flex-lg-row" >
+  <div class="magazine_card__cover d-flex mr-0 mr-lg-3">
+    <a href="https://www.psychologytoday.com/us/magazine/archive/2021/07" title="July 2021">  <div class="field field-name-field-magazine-cover field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-07.png?itok=QmJK-WRd" width="384" height="504" alt="July 2021 magazine cover" title="" /></div>
+
+</a>  </div>
+  <div class="magazine_card__text media-body vertical-align-font-offset  align-self-center">
+    <h4 class="magazine_card__title" >
+      <a href="https://www.psychologytoday.com/us/magazine/archive/2021/07" title="July 2021"></a>    </h4>
+    <p></p>
+  </div>
+</div>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                      <a href="https://subscribe.psychologytoday.com" class="btn btn-info btn-md-cta">Subscribe</a>
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                      <h4 class="mb-lg-3">Recent</h4>
+                      <div class="nav_magazine--issue_archive">
+                        <div class="view view-brand-header-magazine-archive-lazy view-id-brand_header_magazine_archive_lazy view-display-id-block view-dom-id-692f351b252fe3c6ac512b01799d9599">
+        
+  
+  
+      <div class="view-content">
+          <ul class="list-inline">          <li class="list-inline-item header-magazine-thumbnail img-bg-default">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/05" title="May 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-05.png?itok=AEApp_4U" width="384" height="504" alt="May 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item header-magazine-thumbnail img-bg-default">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/03" title="March 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-03.png?itok=q83-MfrF" width="384" height="504" alt="March 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item header-magazine-thumbnail img-bg-default">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/01" title="January 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-01.png?itok=fOkfkICT" width="384" height="504" alt="January 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item header-magazine-thumbnail img-bg-default">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2020/11" title="November 2020"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-11.png?itok=NuPGwD50" width="384" height="504" alt="November 2020 magazine cover" title="" /></a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>                            <a class="btn btn-secondary btn-md-cta" href="/us/magazine/archive">Issue Archive</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdownmenu-toggle dropdown-toggle" href='#' id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                Today              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                      <h4 class="mb-lg-3">News</h4>
+                      <div class="view view-brand-header-news view-id-brand_header_news view-display-id-block view-dom-id-e550784f9ff3defac8f10916f4d99273">
+        
+  
+  
+      <div class="view-content">
+          <ul class="news news--header-feed">          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/how-do-life/202108/hope-grand-explanatory-theory-cognitive-disease" title="Hope for a Grand Explanatory Theory of Cognitive Disease?">Hope for a Grand Explanatory Theory of Cognitive Disease?</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/lets-face-it/202108/how-make-yourself-happier-during-pandemic" title="How to Make Yourself Happier During a Pandemic">How to Make Yourself Happier During a Pandemic</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/202108/depression-inhibits-neural-plasticity-exercise-restores-it" title="Depression Inhibits Neural Plasticity. Exercise Restores It.">Depression Inhibits Neural Plasticity. Exercise Restores It.</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202108/the-diversity-problem-in-face-research" title="The Diversity Problem in Face Research">The Diversity Problem in Face Research</a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>                    </div>
+                    <div class="col-lg-4">
+                      <h4 class="mb-lg-3">Essential Reads</h4>
+                      <div class="view view-brand-header-essential-reads view-id-brand_header_essential_reads view-display-id-block_us view-dom-id-e837b81355537f392a93b63f88c765b3">
+        
+  
+  
+      <div class="view-content">
+          <ul class="list-unstyled">          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/visual-construction/202108/cognitive-biases-make-reasoning-about-vaccines-difficult">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/humphrey-muleba-cuuvjlhiceu-unsplash.jpg?itok=ihUNrSZw" width="50" height="50" alt="" title="Photo by Humphrey Muleba on Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  Cognitive Biases Make Reasoning About Vaccines Difficult</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/the-modern-brain/202108/4-key-pathways-in-the-brain-biology-depression">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/brain2_0.jpg?itok=eMyzp4sn" width="50" height="50" alt="" title="Robina Weermeijer/Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  4 Key Pathways in the Brain Biology of Depression</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/heal-the-mind-heal-the-body/202108/two-stories-behind-the-mrna-vaccines-you-probably-havent">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/cdc-uc9_ityaafm-unsplash_0.jpg?itok=SgGYLdDY" width="50" height="50" alt="" title="Free photo by Jeremy Bishop for CDC on Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  Two Stories Behind the mRNA Vaccines You Probably Haven&#039;t Heard Before</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/1-2-3-adhd/202108/the-late-show-procrastination">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/ntkris.jpg?itok=d4SGlvfh" width="50" height="50" alt="" title="ntkris/Shutterstock" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  The Late Show: Procrastination</div>
+</a>
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>                    </div>
+                    <div class="col-lg-3">
+                            <h4 class="mb-lg-3">Trending Topics</h4>
+    <ul class="nav-group">
+      <li><a href="/us/basics/coronavirus-disease-2019">COVID-19</a></li>
+      <li><a href="/us/basics/narcissism">Narcissism</a></li>
+      <li><a href="/us/basics/dementia">Alzheimer's</a></li>
+      <li><a href="/us/basics/bias">Bias</a></li>
+      <li><a href="/us/basics/affective-forecasting">Affective Forecasting</a></li>
+      <li><a href="/us/basics/neuroscience">Neuroscience</a></li>
+      <li class="mt-lg-4"><h4 class="link"><a class="right-chevron-after" href="/us/basics">See All</a></h4></li>
+    </ul>
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+                    <div  class="navbar-location nav-item mr-2 mr-sm-4 mr-lg-5">
+                      <a class="nav-link popover-menu-toggle" href="https://www.psychologytoday.com/intl/counsellors?domain=content&cc=us&cl=en" >US</a>
+                  </div>
+                  <div class="navbar-search nav-item">
+        <a class="nav-link dropdownmenu-toggle dropdown-toggle" href='#' id="navbarSearchMenuLink"  aria-haspopup="true" aria-expanded="false" title="Open menu to search Psychology Today Archives">Search Psychology Today Archives</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <div class="container">
+            <div class="row justify-content-center hidden-xs-down" >
+              <div class="col-lg-12">
+                <h1 class="text-center">Search</h1>
+              </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-lg-5 col-md-8 py-sm-4 py-lg-0">
+                <form class="form--search-block-form" action="https://www.psychologytoday.com/us/archive" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="search form-group mb-0">
+  <div class="form-item form-type-textfield form-item-search">
+ <label for="edit-search">Search </label>
+ <input title="Enter the terms you wish to search for." class="search--global form-text" placeholder="Search Archives" type="text" id="edit-search" name="search" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><div class="btn-text icon search"></div><label for="edit-submit" class="element-invisible">Submit form</label><input class="mr-sm-2 mb-md-0 mb-2 btn-info btn btn-default form-submit" type="submit" id="edit-submit" value="Search submit" /></div></div>
+</div></form>              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </header>
+</nav>
+
+    <!-- MAIN Sidebar mobile menu pane -->
+          <div class="d-lg-none sidebar sidebar-main" data-sidebar-location="main">
+    
+      <div class="header xs-bg-swatch-primary">
+        <a class="sidebar-back-arrow">Back</a>
+        <div class="h1 logo">
+            <a href="/us">Psychology Today</a>
+        </div>
+      </div>
+
+                    <ul class="sidenav main-menu">
+          <li><a href="/us">Home</a></li>
+          <li><a href="https://www.psychologytoday.com/us/therapists" data-sidebar-target="find-a-therapist">Find a Therapist</a></li>
+          <li><a href="#" data-sidebar-target="get-help">Get Help</a></li>
+          <li><a href="#" data-sidebar-target="magazine">Magazine</a></li>
+          <li><a href="#" data-sidebar-target="today">Today</a></li>
+        </ul>
+          </div>
+
+  <!-- FIND A THERAPIST Sidebar mobile menu pane -->
+  <div class="sidebar" data-sidebar-location="find-a-therapist">
+    <div class="header xs-bg-swatch-primary">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div>
+        <h3>Find a Therapist</h3>
+      </div>
+    </div>
+    <ul class="sidenav">
+      <h4>Get Help</h4>
+      <li>
+        <ul class="nav-group">
+                      <li><a href="https://www.psychologytoday.com/us/therapists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Therapist">Find a Therapist</a></li>
+          
+                      <li><a href="https://www.psychologytoday.com/us/treatment-rehab" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Treatment">Find a Treatment Center</a></li>
+          
+                      <li><a href="https://www.psychologytoday.com/us/psychiatrists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Psychiatrist">Find a Psychiatrist</a></li>
+          
+                      <li><a href="https://www.psychologytoday.com/us/groups" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Therapygroup">Find a Support Group</a></li>
+          
+                      <li><a href="https://www.psychologytoday.com/us/therapists/online-counseling" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_OnlineTherapy">Find Teletherapy</a></li>
+                  </ul>
+      </li>
+      <li>
+        <h4>Members</h4>
+        <ul class="nav-group">
+
+                    <li><a href="https://member.psychologytoday.com/us/login" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_TherapistLogIn">Login</a></li>
+        
+                  <li><a href="https://member.psychologytoday.com/us/signup" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_SignupN">Sign Up</a></li>
+                </ul>
+      </li>
+      <li>
+              </li>
+    </ul>
+  </div>
+
+  <!-- GET HELP Sidebar mobile menu pane -->
+  <div class="sidebar" data-sidebar-location="get-help">
+    <div class="header xs-bg-swatch-primary">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div>
+        <h3>Get Help</h3>
+      </div>
+    </div>
+    <ul class="sidenav">
+      <h4>Mental Health</h4>
+      <li>
+        <ul class="nav-group">
+            <li><a href="/us/basics/addiction">Addiction</a></li>
+            <li><a href="/us/basics/adhd">ADHD</a></li>
+            <li><a href="/us/basics/anxiety">Anxiety</a></li>
+            <li><a href="/us/basics/aspergers-syndrome">Asperger's</a></li>
+            <li><a href="/us/basics/autism">Autism</a></li>
+            <li><a href="/us/basics/bipolar-disorder">Bipolar Disorder</a></li>
+            <li><a href="/us/basics/chronic-pain">Chronic Pain</a></li>
+            <li><a href="/us/basics/depression">Depression</a></li>
+            <li><a href="/us/basics/eating-disorders">Eating Disorders</a></li>
+        </ul>
+        <h4>Personality</h4>
+        <ul class="nav-group">
+            <li><a href="/us/basics/passive-aggression">Passive Aggression</a></li>
+            <li><a href="/us/basics/personality">Personality</a></li>
+            <li><a href="/us/basics/shyness">Shyness</a></li>
+        </ul>
+        <h4>Personal Growth</h4>
+        <ul class="nav-group">
+            <li><a href="/us/basics/motivation">Goal Setting</a></li>
+            <li><a href="/us/basics/happiness">Happiness</a></li>
+            <li><a href="/us/basics/positive-psychology">Positive Psychology</a></li>
+            <li><a href="/us/basics/smoking">Stopping Smoking</a></li>
+        </ul>
+        <h4>Relationships</h4>
+        <ul class="nav-group">
+            <li><a href="/us/basics/low-sexual-desire">Low Sexual Desire</a></li>
+            <li><a href="/us/basics/relationships">Relationships</a></li>
+            <li><a href="/us/basics/sex">Sex</a></li>
+        </ul>
+        <h4>Family Life</h4>
+        <ul class="nav-group">
+            <li><a href="/us/basics/child-development">Child Development</a></li>
+            <li><a href="/us/basics/parenting">Parenting</a></li>
+        </ul>
+        <h4 class="link"><a class="right-chevron-after" href="/us/basics">View Help Index</a></h4>
+        <ul>
+          <li></li>
+        </ul>
+        <h4>Do I Need Help?</h4>
+          <ul class="nav-group">
+            <li><a href="/us/tests">Self Tests</a></li>
+            <li><a href="/us/basics/therapy">Therapy Center <div class="result-tag">NEW</div></a></li>
+          </ul>
+        <h4>Recently Diagnosed?</h4>
+        <ul class="nav-group">
+            <li><a href="/us/conditions">Diagnosis Dictionary</a></li>
+            <li><a href="/us/types-of-therapy">Types of Therapy</a></li>
+        </ul>
+
+          <h4>Talk to Someone</h4>
+          <ul class="nav-group">
+            <li><a href="https://www.psychologytoday.com/us/therapists">Find a Therapist</a></li>
+                          <li><a href="https://www.psychologytoday.com/us/treatment-rehab" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Treatment">Find a Treatment Center</a></li>
+                                      <li><a href="https://www.psychologytoday.com/us/psychiatrists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Psychiatrist">Find a Psychiatrist</a></li>
+                                      <li><a href="https://www.psychologytoday.com/us/groups" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNavF_Therapygroup">Find a Support Group</a></li>
+                                      <li><a href="https://www.psychologytoday.com/us/therapists/online-counseling" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_OnlineTherapy">Find Teletherapy</a></li>
+                      </ul>
+
+      </li>
+    </ul>
+  </div>
+
+  <!-- MAGAZINE Sidebar mobile menu pane -->
+  <div class="sidebar" data-sidebar-location="magazine">
+    <div class="header xs-bg-swatch-primary">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div>
+        <h3>Magazine</h3>
+      </div>
+    </div>
+    <ul class="sidenav">
+      <div class="view view-magazine-issues view-id-magazine_issues view-display-id-block_4 magazine-card current-issue view-dom-id-15bec8ee36d38770479ead5e119fa22a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <div class="magazine_card media flex-column flex-lg-row" >
+  <div class="magazine_card__cover d-flex mr-0 mr-lg-3">
+    <a href="https://www.psychologytoday.com/us/magazine/archive/2021/07" title="July 2021">  <div class="field field-name-field-magazine-cover field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-07.png?itok=QmJK-WRd" width="384" height="504" alt="July 2021 magazine cover" title="" /></div>
+
+</a>  </div>
+  <div class="magazine_card__text media-body vertical-align-font-offset  align-self-center">
+    <h4 class="magazine_card__title" >
+      <a href="https://www.psychologytoday.com/us/magazine/archive/2021/07" title="July 2021"></a>    </h4>
+    <p></p>
+  </div>
+</div>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      <div class="d-flex flex-column align-items-center">
+          <a href="https://subscribe.psychologytoday.com" class="btn btn-info btn-lg mt-4">Subscribe</a>
+          <a class="btn btn-secondary btn-lg" href="/us/magazine/archive">Issue Archive</a>
+      </div>
+    </ul>
+  </div>
+
+  <!-- TODAY Sidebar mobile menu pane -->
+  <div class="sidebar" data-sidebar-location="today">
+    <div class="header xs-bg-swatch-primary">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div>
+        <h3>Today</h3>
+      </div>
+    </div>
+    <ul class="sidenav">
+      <h4>News</h4>
+      <li>
+        <div class="view view-brand-header-news view-id-brand_header_news view-display-id-block view-dom-id-e550784f9ff3defac8f10916f4d99273">
+        
+  
+  
+      <div class="view-content">
+          <ul class="news news--header-feed">          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/how-do-life/202108/hope-grand-explanatory-theory-cognitive-disease" title="Hope for a Grand Explanatory Theory of Cognitive Disease?">Hope for a Grand Explanatory Theory of Cognitive Disease?</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/lets-face-it/202108/how-make-yourself-happier-during-pandemic" title="How to Make Yourself Happier During a Pandemic">How to Make Yourself Happier During a Pandemic</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/202108/depression-inhibits-neural-plasticity-exercise-restores-it" title="Depression Inhibits Neural Plasticity. Exercise Restores It.">Depression Inhibits Neural Plasticity. Exercise Restores It.</a>  </li>
+          <li class="news--item">  
+          <a href="https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202108/the-diversity-problem-in-face-research" title="The Diversity Problem in Face Research">The Diversity Problem in Face Research</a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>      </li>
+      <li>
+        <h4>Essential Reads</h4>
+        <div class="view view-brand-header-essential-reads view-id-brand_header_essential_reads view-display-id-block_us view-dom-id-e837b81355537f392a93b63f88c765b3">
+        
+  
+  
+      <div class="view-content">
+          <ul class="list-unstyled">          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/visual-construction/202108/cognitive-biases-make-reasoning-about-vaccines-difficult">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/humphrey-muleba-cuuvjlhiceu-unsplash.jpg?itok=ihUNrSZw" width="50" height="50" alt="" title="Photo by Humphrey Muleba on Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  Cognitive Biases Make Reasoning About Vaccines Difficult</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/the-modern-brain/202108/4-key-pathways-in-the-brain-biology-depression">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/brain2_0.jpg?itok=eMyzp4sn" width="50" height="50" alt="" title="Robina Weermeijer/Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  4 Key Pathways in the Brain Biology of Depression</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/heal-the-mind-heal-the-body/202108/two-stories-behind-the-mrna-vaccines-you-probably-havent">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/cdc-uc9_ityaafm-unsplash_0.jpg?itok=SgGYLdDY" width="50" height="50" alt="" title="Free photo by Jeremy Bishop for CDC on Unsplash" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  Two Stories Behind the mRNA Vaccines You Probably Haven&#039;t Heard Before</div>
+</a>
+</li>
+          <li class="media thumbnail-50x50-title"><a class="d-flex" href="https://www.psychologytoday.com/us/blog/1-2-3-adhd/202108/the-late-show-procrastination">
+  <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+      <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_50x50/public/field_blog_entry_teaser_image/2021-08/ntkris.jpg?itok=d4SGlvfh" width="50" height="50" alt="" title="ntkris/Shutterstock" /></div>
+
+  </div>
+<div class="blog_entry__title media-body align-self-center">
+  The Late Show: Procrastination</div>
+</a>
+</li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>      </li>
+      <li>
+              <h4 class="mb-lg-3">Trending Topics</h4>
+    <ul class="nav-group">
+      <li><a href="/us/basics/coronavirus-disease-2019">COVID-19</a></li>
+      <li><a href="/us/basics/narcissism">Narcissism</a></li>
+      <li><a href="/us/basics/dementia">Alzheimer's</a></li>
+      <li><a href="/us/basics/bias">Bias</a></li>
+      <li><a href="/us/basics/affective-forecasting">Affective Forecasting</a></li>
+      <li><a href="/us/basics/neuroscience">Neuroscience</a></li>
+      <li class="mt-lg-4"><h4 class="link"><a class="right-chevron-after" href="/us/basics">See All</a></h4></li>
+    </ul>
+        </li>
+
+    </ul>
+  </div>
+
+<!-- /page-header.inc -->
+
+  <div class="container mb-3">
+
+    <div class="row justify-content-center">
+    <div class="col-12 col-sm-10 col-lg-12">
+                    <div class="collection__td_callout__container">
+                      <div class="view view-latest-collection view-id-latest_collection view-display-id-block view-dom-id-0f2163d679a1e72e6bf38858de30ae07">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class="card card-inverse collection_hero">
+  <div class="collection_hero__image card-image">
+      <div class="field field-name-field-collection-image field-type-image field-label-hidden img-bg-default" ><a href="/us/collections/202108/ciao-baby"><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/collection_1200x460/public/field_collection_image/kiss_wayhome_shutterstock_793122178_0-1140x437-0_450-8495_3261.jpg?itok=aihSqVcv" width="1200" height="460" alt="Roman Samborskyi Shutterstock" title="Roman Samborskyi Shutterstock" /></a></div>
+
+  </div>
+  <div class="card-img-overlay row align-items-center px-0 mx-0 " style="background-color: #e4aeb3;">
+    <div class="col-10 col-lg-5 collection_hero__title">
+      <h2 class="card-title"><a href="/us/collections/202108/ciao-baby">Ciao Baby!</a></h2>
+              <h3 class="card-subtitle"><a href="/us/collections/202108/ciao-baby">When to throw in the towel</a></h3>
+          </div>
+    <div class="col-2 collection_hero__control">&nbsp;</div>
+    <div class="col-12 col-lg-6 collection_hero__items px-lg-0">
+  <div class="row">
+          <div class="col-12 col-md-6 col-lg-6 collection_hero__article align-self-center">
+        <h4><a href="/us/blog/click-here-happiness/202107/how-let-go?collection=1142901">Moving On</a></h4>
+      </div>
+          <div class="col-12 col-md-6 col-lg-6 collection_hero__article align-self-center">
+        <h4><a href="/us/blog/in-flux/202012/5-reasons-why-its-important-let-go-the-past?collection=1142901">The Past Is the Past</a></h4>
+      </div>
+          <div class="col-12 col-md-6 col-lg-6 collection_hero__article align-self-center">
+        <h4><a href="/us/blog/valley-girl-brain/202008/the-secret-mastering-acceptance?collection=1142901">Mastering Acceptance</a></h4>
+      </div>
+          <div class="col-12 col-md-6 col-lg-6 collection_hero__article align-self-center">
+        <h4><a href="/us/blog/the-inner-life-students/202003/flexibility-in-the-midst-crisis?collection=1142901">In the Midst of Crisis</a></h4>
+      </div>
+      </div>
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                                <div class="row align-items-inherit no-gutters pb-0 mt-2 td_callout">
+              <div class="td_callout__fat px-3 px-sm-5">
+                <div class="td_callout__fat__wrapper">
+                  <div class="td_callout__header clearfix">
+                    <h2><a href="https://www.psychologytoday.com/us/therapists" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_Therapist1">Find a Therapist</a></h2>
+                    <div class="td_callout__verified d-none d-sm-block float-right">
+                      <p><img alt="checkmark icon" src="/sites/all/themes/pt_brand/assets/icons/icon-check-circle.svg" /> Verified by <strong>Psychology Today</strong></p>
+                    </div>
+                  </div>
+                    <form
+  action="https://www.psychologytoday.com/us/therapists"
+  method="POST" target="_top" autocomplete="off" autocorrect="off" autocapitalize="off"
+  data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_Therapist"
+  class="td_callout__form form__input-lg fat__callout_form fat_home__form">
+  <!-- PT-1716 add wrapper to form for JSON application td-search home -->
+  <div class="container-fat__callout_form"
+       data-search-suggest="sussex"
+       data-placeholder="City or Zip"
+       data-size="large"
+       data-menu="true"
+       data-mobile-fullscreen="true"
+       data-input-aria-label="Search input"
+       data-button-aria-label="Search button"
+       data-menu-items='[{"label":"Therapists","suggestionsUrl":"https://www.psychologytoday.com/us/therapists/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/therapists?search={query}","title":"Search for Therapists near you."},{"label":"Psychiatrists","suggestionsUrl":"https://www.psychologytoday.com/us/psychiatrists/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/psychiatrists?search={query}","title":"Search for Psychiatrists near you."},{"label":"Treatment Centers","suggestionsUrl":"https://www.psychologytoday.com/us/treatment-rehab/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/treatment-rehab?search={query}","title":"Search for Treatment Centers near you."},{"label":"Support Groups","suggestionsUrl":"https://www.psychologytoday.com/us/groups/suggestions?query={query}","searchUrl":"https://www.psychologytoday.com/us/groups?search={query}","title":"Search for Support Groups near you."}]'>
+    <div class="search td_search">
+      <div class="popover-selector input-group-addon d-none d-sm-block">
+        <div class="popover-selector-control">
+          <a class="current-selection" href="#"></a>
+          <span class="current-selection-name">Therapists</span>
+          <input class="current-selection-value" value="https://www.psychologytoday.com/us/therapists"/>
+          <!-- form input here -->
+          <button></button>
+        </div>
+        <ul class="selector-options popover-content">
+                      <li class="selected"><a href="#" data-selector-option-text="Therapists" data-selector-option-value="https://www.psychologytoday.com/us/therapists" data-selector-event-label="PT_HomeTopB_Therapist" title="Search for Therapists near you">Therapists</a></li>
+          
+                      <li><a href="#" data-selector-option-text="Treatment Centers"
+                   data-selector-option-value="https://www.psychologytoday.com/us/treatment-rehab"
+                   data-selector-event-label="PT_HomeTopB_Treatment" title="Search for Treatment Centers near you">Treatment Centers</a></li>
+          
+                      <li><a href="#" data-selector-option-text="Psychiatrists"
+                   data-selector-option-value="https://www.psychologytoday.com/us/psychiatrists"
+                   data-selector-event-label="PT_HomeTopB_Psychiatrist" title="Search for https://www.psychologytoday.com/us/psychiatrists near you">Psychiatrists</a>
+            </li>
+          
+                      <li><a href="#" data-selector-option-text="Support Groups"
+                   data-selector-option-value="https://www.psychologytoday.com/us/groups"
+                   data-selector-event-label="PT_HomeTopB_Therapygroup" title="Search for Support Groups near you">Support Groups</a></li>
+                  </ul>
+      </div>
+      <div class="search-entry">
+        <div class="close-mobile-search">
+          <button>x</button>
+        </div>
+        <input type="text" id="searchField" class="searchGeo placeholder-processed" name="search"
+               placeholder="City or Zip" aria-label="Search input" size="25" required=""
+               oninvalid="this.setCustomValidity(this.willValidate?\'\':\'City or Zip\');">
+          <button type="submit" name="Submit" value="Search" title="Search for Therapists near you." aria-label="Search button"></button>
+      </div>
+    </div>
+  </div>
+</form>
+                </div>
+              </div>
+              <div class="td_callout__professionals d-none d-lg-block">
+                <div class="td_callout__professionals__wrapper">
+                  <h2>Professionals</h2>
+                                    <a href="https://member.psychologytoday.com/us/signup" class="btn btn-info btn-lg btn-cta-margin-right td_callout__signup_link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_SignupN">Sign Up and Get Listed</a> <p class="copy-small d-inline">or <a href="https://member.psychologytoday.com/us/login" class="td_callout__login_link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_TherapistLogIn">Login</a></p>
+                </div>
+              </div>
+              <div class="td_callout__links d-block d-lg-none w-100 px-3 px-sm-5 py-2">
+                <p class="copy-small d-flex align-items-center m-0">
+                                      <span class="mr-2">Therapists</span>
+                                      <a href="https://member.psychologytoday.com/us/signup" class="td_callout__signup_link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_SignupN">Sign Up</a>
+                      <span class="mx-1">|</span>
+                      <a href="https://member.psychologytoday.com/us/login" class="td_callout__login_link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_HomeTopB_TherapistLogIn">Log In</a>
+                </p>
+              </div>
+            </div>
+                  </div>
+          </div>
+    <div class="container main main--sidebar mx-0" role="main">
+      <div class="row justify-content-center">
+
+                  <div class="col-12 col-sm-10 col-lg-12 col-xl-9">
+            <div class="essential-reads__front">
+              <div class="card ">
+      <div  class="card-header">
+      <h2 class="card-title"><span class="d-none d-sm-block"><a href="/us/essentials">Today&#039;s Essential Reads</a></span> <span class="d-sm-none"><a href="/us/essentials">Today&#039;s Essentials</a></span></h2>
+          </div>
+    <div class="card-block">
+    <div class="view view-essentials view-id-essentials view-display-id-block_1 teaser-listing teaser-listing--essentials view-dom-id-273ccfeaf72d0b5c48ce7327c1f7d267">
+        
+  
+  
+      <div class="view-content">
+        <div class="teaser-listing--item">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165128" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/humphrey-muleba-cuuvjlhiceu-unsplash.jpg?itok=2NJMsZyo" width="144" height="144" alt="" title="Photo by Humphrey Muleba on Unsplash" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/cognition">Cognition</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/visual-construction/202108/cognitive-biases-make-reasoning-about-vaccines-difficult">Cognitive Biases Make Reasoning About Vaccines Difficult</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/john-m-henderson-phd">John M. Henderson Ph.D.</a> on August 06, 2021 in <a href="/us/blog/visual-construction">Visual Construction</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Learn to watch out for cognitive biases when thinking about vaccines.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Learn to watch out for cognitive biases when thinking about vaccines.</p>
+  </div>
+  </div>
+  <div class="teaser-listing--item">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165115" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/brain2_0.jpg?itok=T6S7yVQ2" width="144" height="144" alt="" title="Robina Weermeijer/Unsplash" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/depression">Depression</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-modern-brain/202108/4-key-pathways-in-the-brain-biology-depression">4 Key Pathways in the Brain Biology of Depression</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/austin-perlmutter-md">Austin Perlmutter M.D.</a> on August 06, 2021 in <a href="/us/blog/the-modern-brain">The Modern Brain</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">What&#039;s happening in the depressed brain? Here are some of the top explanations.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">What&#039;s happening in the depressed brain? Here are some of the top explanations.</p>
+  </div>
+  </div>
+  <div class="teaser-listing--item">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165091" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/cdc-uc9_ityaafm-unsplash_0.jpg?itok=yvmPIdct" width="144" height="144" alt="" title="Free photo by Jeremy Bishop for CDC on Unsplash" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/heal-the-mind-heal-the-body/202108/two-stories-behind-the-mrna-vaccines-you-probably-havent">Two Stories Behind the mRNA Vaccines You Probably Haven&#039;t Heard Before</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/chris-gilbert-md-phd">Chris Gilbert, M.D., Ph.D.</a> on August 06, 2021 in <a href="/us/blog/heal-the-mind-heal-the-body">Heal the Mind to Heal the Body</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">The story of the mRNA vaccine inventor is a life lesson we can all learn from.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">The story of the mRNA vaccine inventor is a life lesson we can all learn from.</p>
+  </div>
+  </div>
+  <div class="teaser-listing--item">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165093" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/ntkris.jpg?itok=9n_gpVj9" width="144" height="144" alt="" title="ntkris/Shutterstock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/procrastination">Procrastination</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/1-2-3-adhd/202108/the-late-show-procrastination">The Late Show: Procrastination</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/benjamin-cheyette-md-and-sarah-cheyette-md">Benjamin Cheyette, M.D., and Sarah Cheyette M.D.</a> on August 06, 2021 in <a href="/us/blog/1-2-3-adhd">1-2-3-ADHD</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Is procrastination one of your bad habits? These 4 simple recommendations can get you better at starting anything.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Is procrastination one of your bad habits? These 4 simple recommendations can get you better at starting anything.</p>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  </div>
+            </div>
+          </div>
+        
+                  <div class="col-12 col-sm-10 col-lg-12 col-xl-3 order-xl-first">
+            <div class="news-block__front">
+              <div class="card ">
+      <div  class="card-header">
+      <h2 class="card-title"><a href="/us/news">News</a></h2>
+          </div>
+    <div class="card-block">
+    <div class="view view-brand-header-news view-id-brand_header_news view-display-id-block_1 view-dom-id-6767c47d7e07be55b0ba5eb68e2e8a2a">
+        
+  
+  
+      <div class="view-content">
+          <ul class="news news--main-feed">          <li class="news--item">  
+          <a href="/us/blog/how-do-life/202108/hope-grand-explanatory-theory-cognitive-disease">Hope for a Grand Explanatory Theory of Cognitive Disease?</a>    
+  <div class="views-field views-field-published-at">        <div class="field-content news__published">12 hours</div>  </div></li>
+          <li class="news--item">  
+          <a href="/us/blog/lets-face-it/202108/how-make-yourself-happier-during-pandemic">How to Make Yourself Happier During a Pandemic</a>    
+  <div class="views-field views-field-published-at">        <div class="field-content news__published">1 day</div>  </div></li>
+          <li class="news--item">  
+          <a href="/us/blog/the-athletes-way/202108/depression-inhibits-neural-plasticity-exercise-restores-it">Depression Inhibits Neural Plasticity. Exercise Restores It.</a>    
+  <div class="views-field views-field-published-at">        <div class="field-content news__published">1 day</div>  </div></li>
+          <li class="news--item">  
+          <a href="/us/blog/brain-behavior-and-beauty/202108/the-diversity-problem-in-face-research">The Diversity Problem in Face Research</a>    
+  <div class="views-field views-field-published-at">        <div class="field-content news__published">2 days</div>  </div></li>
+          <li class="news--item">  
+          <a href="/us/blog/the-heart-and-science-attachment/202108/we-treat-others-we-have-been-treated">We Treat Others as We Have Been Treated</a>    
+  <div class="views-field views-field-published-at">        <div class="field-content news__published">2 days</div>  </div></li>
+      </ul>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/us/news">
+    See more news  </a>
+</div>
+  
+  
+  
+</div>  </div>
+  </div>
+            </div>
+          </div>
+        
+                  <div class="col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+                        <h2 class="section-title">The Latest</h2>
+          </div>
+          
+<div class="view view-blog-posts view-id-blog_posts view-display-id-page teaser-listing view-dom-id-9d3c3790d5bc613845a6ce817d9fbd05">
+        
+  
+  
+      <div class="view-content">
+      <div class="row justify-content-center mx-0">
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1164318" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-07/blog_ethics_fridat_071621.png?itok=HyLwtPu2" width="144" height="144" alt="" title="Max Pixel be freely distributed with a Creative Commons Zero - CC0 Free photo Ethics Evil Angel Devil Icons Morality Good" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/ethics-and-morality">Ethics and Morality</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/magical-enlightenment/202108/storytelling-is-useful-in-teaching-morality">Storytelling Is Useful In Teaching Morality</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/reid-j-daitzman-phd-abpp">Reid J Daitzman Ph.D., ABPP</a> on August 06, 2021 in <a href="/us/blog/magical-enlightenment">Magical Enlightenment</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Do your moral choices ever backfire? Here is why and what to do about it. Using storytelling in therapy and teaching ambiguous codes of conduct.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Do your moral choices ever backfire? Here is why and what to do about it. Using storytelling in therapy and teaching ambiguous codes of conduct.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165107" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-images field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_images/2021-08/illustration_from_melvilles_typee.png?itok=JsTCYRwR" width="144" height="144" alt="Illustration from Melville’s Typee, by American artist and illustrator Augustus Burnham Shute, 1892." title="Wikimedia Commons/Public Domain" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/creativity">Creativity</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/psychiatry-history/202108/fragile-brilliance-the-troubled-life-herman-melville">Fragile Brilliance: The Troubled Life of Herman Melville</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/wallace-b-mendelson-md">Wallace B. Mendelson M.D.</a> on August 06, 2021 in <a href="/us/blog/psychiatry-history">Psychiatry, a History</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Herman Melville&#039;s life is a vivid example of how very troubled lives can lead to remarkable creativity and productivity.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Herman Melville&#039;s life is a vivid example of how very troubled lives can lead to remarkable creativity and productivity.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165130" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/couple_helping_holding_hands_hiking.jpg?itok=3UMKUGSA" width="144" height="144" alt="" title="Maridav/Shutterstock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/extraordinary-relationships/202108/wise-feedback-new-way-addressing-relationship-conflict">Wise Feedback: A New Way of Addressing Relationship Conflict</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/emily-jamea-phd-lmft-lpc">Emily Jamea Ph.D., LMFT, LPC</a> on August 06, 2021 in <a href="/us/blog/extraordinary-relationships">Extraordinary Relationships</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">The &quot;sandwich technique&quot; is out. &quot;Wise feedback&quot; is in. This new approach can go a long way in productively communicating issues in all of your relationships.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">The &quot;sandwich technique&quot; is out. &quot;Wise feedback&quot; is in. This new approach can go a long way in productively communicating issues in all of your relationships.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165119" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/reckoning_mary_trump_cover_image.jpg?itok=Uf2q_O0R" width="144" height="144" alt="" title="St. Martin&#039;s Press/Used with Permission" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/politics">Politics</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-full-picture/202108/wrecking-ball-reckoning-mary-trump-outlines-our-trauma">Wrecking Ball to Reckoning: Mary Trump Outlines Our Trauma</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/loriann-oberlin-ms-lcpc">Loriann Oberlin MS, LCPC</a> on August 06, 2021 in <a href="/us/blog/the-full-picture">The Full Picture</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">As only the former president&#039;s niece could unravel, Mary Trump&#039;s latest book isn&#039;t what you may expect but clearly what we all may need.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">As only the former president&#039;s niece could unravel, Mary Trump&#039;s latest book isn&#039;t what you may expect but clearly what we all may need.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165129" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/6_6_choosingwisely_web_1.png?itok=X2jLBeHv" width="144" height="144" alt="" title="Character Lab, used with permission" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/parenting">Parenting</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/actionable-advice-help-kids-thrive/202108/how-help-kids-choose-wisely">How to Help Kids Choose Wisely</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/angela-duckworth-phd">Angela Duckworth Ph.D.</a> on August 06, 2021 in <a href="/us/blog/actionable-advice-help-kids-thrive">Actionable Advice to Help Kids Thrive</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">To help kids grow into strong decision-makers, parents should show the process, not just the outcome. </p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">To help kids grow into strong decision-makers, parents should show the process, not just the outcome. </p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165122" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pablo_10.png?itok=3PzwwHG1" width="144" height="144" alt="" title="ShutterStock/Pixabay" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/therapy">Therapy</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-stories-we-tell-ourselves/202108/how-choose-therapist">How to Choose a Therapist</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/rachel-d-miller-lmft">Rachel D. Miller, LMFT</a> on August 06, 2021 in <a href="/us/blog/the-stories-we-tell-ourselves-0">The Stories We Tell Ourselves</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Has reading through all those therapist profiles left you overwhelmed and undecided? Here&#039;s a framework to help you.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Has reading through all those therapist profiles left you overwhelmed and undecided? Here&#039;s a framework to help you.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165117" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pexels-burak-kostak-14303-broken_heart.jpg?itok=1ZfbXxQT" width="144" height="144" alt="" title="Burak Kostak/Pexels" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/adhd">ADHD</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/rethinking-adult-adhd/202108/relationships-and-adult-adhd">Relationships and Adult ADHD</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/russell-ramsay-phd">Russell Ramsay, Ph.D.</a> on August 06, 2021 in <a href="/us/blog/rethinking-adult-adhd">Rethinking Adult ADHD</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Does your ADHD leave you feeling alone and broken-hearted? Read this to understand ADHD, your social health and social capital, and what you can do to improve them.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Does your ADHD leave you feeling alone and broken-hearted? Read this to understand ADHD, your social health and social capital, and what you can do to improve them.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165121" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/childrensinitiative1.jpg?itok=mJjwITL4" width="144" height="144" alt="" title="Tim Wendel/personal collection" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/health">Health</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/cancer-crossings/202108/the-story-behind-st-jude-childrens-research-hospital">The Story Behind St. Jude Children&#039;s Research Hospital</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/tim-wendel">Tim Wendel</a> on August 06, 2021 in <a href="/us/blog/cancer-crossings">Cancer Crossings</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">How one doctor refused to back down and ended up helping thousands of kids with cancer.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">How one doctor refused to back down and ended up helping thousands of kids with cancer.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1164440" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-07/wiktor-karkocha-uj7l0fhjhfc-unsplash.jpg?itok=OAA6C0T-" width="144" height="144" alt="" title="Wikto Karkocha/Unsplash " /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/modern-sex/202108/my-3-biggest-dating-mistakes">My 3 Biggest Dating Mistakes </a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/caitlin-cantor-lcsw-cst-cgt">Caitlin Cantor LCSW, CST, CGT</a> on August 06, 2021 in <a href="/us/blog/modern-sex">Modern Sex</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">These three mental mistakes I made at the beginning of my dating journey were a complete waste of my time and energy. Don&#039;t make the same mistakes I made!</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">These three mental mistakes I made at the beginning of my dating journey were a complete waste of my time and energy. Don&#039;t make the same mistakes I made!</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165083" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/julia_photo367_woman_in_blue_reflecting.png?itok=3sYn6pyG" width="144" height="144" alt="" title="Julia_photo367/Pixabay" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/personality">Personality</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/life-refracted/202108/do-your-desires-reflect-who-you-are">Do Your Desires Reflect Who You Are?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/roni-beth-tower-phd-abpp">Roni Beth Tower Ph.D., ABPP</a> on August 06, 2021 in <a href="/us/blog/life-refracted">Life, Refracted</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">When sorting out your wants from your needs, your temperament can provide clues to your unique priorities. Examine the nine biologically-based traits visible following birth. </p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">When sorting out your wants from your needs, your temperament can provide clues to your unique priorities. Examine the nine biologically-based traits visible following birth. </p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165112" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pxfuel.com_.jpg?itok=HiQdgZIK" width="144" height="144" alt="" title="Pxfuel image used with permission" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/lying-the-philosophers-couch/202108/the-price-love">The Price of Love</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/susi-ferrarello-phd">Susi Ferrarello Ph.D.</a> on August 06, 2021 in <a href="/us/blog/lying-the-philosophers-couch">Lying on the Philosopher&#039;s Couch</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">How do we handle love when its price is too high? How do we choose to make the right choice toward ourselves and others when love becomes too difficult?</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">How do we handle love when its price is too high? How do we choose to make the right choice toward ourselves and others when love becomes too difficult?</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165103" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pexels-zen-chung-5748615.jpg?itok=fX99K36E" width="144" height="144" alt="" title="Zen Chung - Pexels" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/victim-victor/202108/can-dog-cat-and-octopus-protect-me-narcissists">Can a Dog, Cat and an Octopus Protect Me From Narcissists?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/mariette-jansen-phd">Mariette Jansen Ph.D.</a> on August 06, 2021 in <a href="/us/blog/victim-victor">From Victim to Victor</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Does a narcissist get to you with their unexpected behavior? A few visuals can keep you safe and sane.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Does a narcissist get to you with their unexpected behavior? A few visuals can keep you safe and sane.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165101" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/marco-lastella-iayqu_ev_3u-unsplash.jpg?itok=266--7dL" width="144" height="144" alt="" title="Marco Last/Unsplash" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/jealousy">Jealousy</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/first-blush/202108/jealousy-toxic-mix-emotions">Jealousy: That Toxic Mix of Emotions</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/lucia-f-osullivan-phd">Lucia F. O&#039;Sullivan Ph.D.</a> on August 06, 2021 in <a href="/us/blog/first-blush">At First Blush</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Is jealousy eating away at you and undermining your confidence in your relationship?</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Is jealousy eating away at you and undermining your confidence in your relationship?</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item border-0 col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165063" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/screen_shot_2021-08-05_at_9.14.50_am.png?itok=TfcPSi_D" width="144" height="144" alt="" title="David Hanscom" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/health">Health</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/anxiety-another-name-pain/202108/mortal-combat-look-how-feuding-neighbors-are-hurting-each">Mortal Combat: A Look at How Feuding Neighbors Are Hurting Each Other</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/david-hanscom-md">David Hanscom MD</a> on August 06, 2021 in <a href="/us/blog/anxiety-another-name-pain">Anxiety: Another Name for Pain</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Many people cannot let go of their anger or they need it. That historically includes me. You always have a choice. Why are these people holding on? It is destroying them.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Many people cannot let go of their anger or they need it. That historically includes me. You always have a choice. Why are these people holding on? It is destroying them.</p>
+  </div>
+  </div>
+  <div class="collection teaser-listing--item col-12 col-sm-10 col-lg-12">
+    
+<div class="card collection--teaser" style="background-color: #bc8059; border-color: #bc8059;">
+  <div class="collection_card__image">
+      <div class="field field-name-field-collection-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/collection_961x367/public/field_collection_image/soccer_aaron_amat_shutterstock_1145450048-1140x437-0_231-8061_3093.jpg?itok=dou2bvDp" width="810" height="310" alt="Aaron Amat Shutterstock" title="Aaron Amat Shutterstock" /></div>
+
+  </div>
+  <div class="card-block collection--teaser_content col-12">
+    <div class="row justify-content-center">
+      <div class="col-12 collection--teaser__title">
+        <h2 class="card-title"><a href="/us/collections/202108/the-gold-medal-mindset">The Gold-Medal Mindset</a></h2>
+              </div>
+    </div>
+    <div class="row justify-content-center mx-0">
+      <div class="col-12 px-0">
+        <div class="row justify-content-center mx-0">
+          <div class="col-12 collection--teaser__items px-sm-0">
+  <div class="row">
+          <div class="col-12 col-sm-6 collection--teaser__article align-self-center mx-0">
+        <h4><a href="/us/blog/the-path-passionate-happiness/202107/12-tips-gold-medal-mindset?collection=1164667">The Winning Mentality</a></h4>
+      </div>
+          <div class="col-12 col-sm-6 collection--teaser__article align-self-center mx-0">
+        <h4><a href="/us/blog/optimized/202011/become-the-boss-your-brain?collection=1164667">Who&#039;s the Boss of Your Brain?</a></h4>
+      </div>
+          <div class="col-12 col-sm-6 collection--teaser__article align-self-center mx-0">
+        <h4><a href="/us/blog/optimized/202011/create-prosperity-mindset?collection=1164667">Create a Prosperity Mindset</a></h4>
+      </div>
+          <div class="col-12 col-sm-6 collection--teaser__article align-self-center mx-0">
+        <h4><a href="/us/blog/anxiety-in-high-achievers/202011/the-1-misconception-about-success?collection=1164667">Misconceptions About Success</a></h4>
+      </div>
+      </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165057" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/love_1.jpg?itok=J4LX7eKK" width="144" height="144" alt="" title="KuanShu Designs, used with permission" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/relationships">Relationships</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-forgiving-life/202108/the-5-love-categories-do-you-really-know-what-love-is">The 5 Love Categories: Do You Really Know What Love Is?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/robert-enright-phd">Robert Enright Ph.D.</a> on August 06, 2021 in <a href="/us/blog/the-forgiving-life">The Forgiving Life</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Because we all use the word love, it may be too tempting to conclude that in using the word we understand what it is. I think it is more complex, richer than many people realize.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Because we all use the word love, it may be too tempting to conclude that in using the word we understand what it is. I think it is more complex, richer than many people realize.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165082" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/ff_byrne.jpg?itok=s7JKAOCH" width="144" height="144" alt="" title="Marvel Comics" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/media">Media</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/maybe-its-just-me/202108/the-fantastic-four-greater-the-sum-its-parts">The Fantastic Four: Greater Than the Sum of Its Parts</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/mark-d-white-phd">Mark D. White Ph.D.</a> on August 06, 2021 in <a href="/us/blog/maybe-its-just-me">Maybe It&#039;s Just Me, But...</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">What has kept the Fantastic Four an essential part of the Marvel Universe for 60 years? It&#039;s the unique way Reed, Sue, Johnny, and Ben relate to each other.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">What has kept the Fantastic Four an essential part of the Marvel Universe for 60 years? It&#039;s the unique way Reed, Sue, Johnny, and Ben relate to each other.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165046" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pexels-freestocksorg-987585.jpg?itok=Nu3HXIPG" width="144" height="144" alt="" title="Photo by freestocks.org from Pexels" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/politics">Politics</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/jerkology/202108/maddiction-addiction-self-righteous-outrage">Maddiction: Addiction to Self-Righteous Outrage</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/jeremy-e-sherman-phd-mpp">Jeremy E. Sherman Ph.D., MPP</a> on August 06, 2021 in <a href="/us/blog/jerkology">Jerkology</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Getting mad is addictive. It makes us feel pure. </p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Getting mad is addictive. It makes us feel pure. </p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165073" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/pexels-photo-247373.jpeg?itok=s-ZSB1NP" width="144" height="144" alt="" title="Pexels/Pixabay" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/animal-behavior">Animal Behavior</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/animal-emotions/202108/rabbits-their-fascinating-diverse-yet-unappreciated-lives">Rabbits: Their Fascinating, Diverse, Yet Unappreciated Lives</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/marc-bekoff-phd">Marc Bekoff Ph.D.</a> on August 06, 2021 in <a href="/us/blog/animal-emotions">Animal Emotions</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">A delightful, fact-filled, easy-to-read book contains everything you&#039;d like to know about these remarkable and highly adaptable animals who almost everyone sees, but rarely values.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">A delightful, fact-filled, easy-to-read book contains everything you&#039;d like to know about these remarkable and highly adaptable animals who almost everyone sees, but rarely values.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165097" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/creativity_-_13.jpg?itok=nisvzRoL" width="144" height="144" alt="" title="fernandozhiminaicela/Pixabay" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/creativity">Creativity</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/creative-insights/202108/5-creativity-strategies-nobody-told-you-about">5 Creativity Strategies Nobody Told You About</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/anthony-d-fredericks-edd">Anthony D. Fredericks Ed.D.</a> on August 06, 2021 in <a href="/us/blog/creative-insights">Creative Insights</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">If you&#039;re looking for some strategies to spice up your &quot;Creative IQ,&quot; here are some of the best. They&#039;re simple, fun, and will generate a plethora of dynamic ideas.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">If you&#039;re looking for some strategies to spice up your &quot;Creative IQ,&quot; here are some of the best. They&#039;re simple, fun, and will generate a plethora of dynamic ideas.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1164989" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/dna-3539309_640.jpg?itok=K2wLQEmd" width="144" height="144" alt="" title="Geralt, Pixabay, Public Domain" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/neuroscience">Neuroscience</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/how-do-life/202108/hope-grand-explanatory-theory-cognitive-disease">Hope for a Grand Explanatory Theory of Cognitive Disease?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/marty-nemko-phd">Marty Nemko Ph.D.</a> on August 06, 2021 in <a href="/us/blog/how-do-life">How To Do Life</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">MIT researchers find a single gene and circuitry that may be at root of autism, schizophrenia, and maybe other cognitive impairments.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">MIT researchers find a single gene and circuitry that may be at root of autism, schizophrenia, and maybe other cognitive impairments.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1163733" data-type="blog_entry">
+
+  <div class="media">
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/career">Career</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/you-according-them/202108/post-pandemic-communication">Post-Pandemic Communication</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/sara-canaday">Sara Canaday</a> on August 06, 2021 in <a href="/us/blog/you-according-them">You (According to Them)</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">We’re on the verge of a new era in business. As we make our way into the new normal, what does that mean for you as a leader? </p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">We’re on the verge of a new era in business. As we make our way into the new normal, what does that mean for you as a leader? </p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165090" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/shutterstock_1905525004.jpg?itok=MY90e5sx" width="144" height="144" alt="" title="Studio Romantic/Shutterstock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/neuroscience">Neuroscience</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-fraud-crisis/202108/catfishing-explained">Catfishing Explained</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/stacey-wood-phd">Stacey Wood, Ph.D.</a> on August 06, 2021 in <a href="/us/blog/the-fraud-crisis">The Fraud Crisis</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Science explains why so many smart people let their guard down in the realm of online dating.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Science explains why so many smart people let their guard down in the realm of online dating.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165092" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/lightbulb_questions_cubes.jpeg?itok=73xzFKro" width="144" height="144" alt="" title="iStock:cagkansayin" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/neuroscience">Neuroscience</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/functioning-flourishing/202108/do-you-need-be-more-curious">Do You Need to Be More Curious? </a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/michelle-mcquaid">Michelle McQuaid</a> on August 06, 2021 in <a href="/us/blog/functioning-flourishing">From Functioning to Flourishing</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">You can tame your advice-giving instincts and ask better questions to help you get more curious.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">You can tame your advice-giving instincts and ask better questions to help you get more curious.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1164738" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-images field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_images/2021-07/_nikole_hannah-jones_1.jpg?itok=xWijse-f" width="144" height="144" alt="“I am deliberate and afraid of nothing.” — Audre Lorde." title="nikolehannahjones/IG" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/self-help">Self-Help</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/the-color-wellness/202108/are-you-thriving-or-just-making-it-work">Are You Thriving or Just Making It Work?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/robin-d-stone-lmhc">Robin D. Stone, LMHC</a> on August 06, 2021 in <a href="/us/blog/the-color-wellness">The Color of Wellness</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Journalist Nikole Hannah-Jones’s decision is a powerful lesson in why it’s important to go where you are celebrated, not tolerated.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Journalist Nikole Hannah-Jones’s decision is a powerful lesson in why it’s important to go where you are celebrated, not tolerated.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165094" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/161901187_s.jpg?itok=-PYt9xlN" width="144" height="144" alt="" title="123rf Image ID:  161901187 Media Type:  Stock Photo Copyright:  belchonock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/gender">Gender</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/he-speaks-she-speaks/202108/what-women-olympians-wear">What Women Olympians Wear</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/audrey-nelson-phd">Audrey Nelson Ph.D.</a> on August 06, 2021 in <a href="/us/blog/he-speaks-she-speaks">He Speaks, She Speaks</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Female athletes have drawn attention to numerous incidents they say have left them feeling shamed or sexualized.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Female athletes have drawn attention to numerous incidents they say have left them feeling shamed or sexualized.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165086" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_teaser_image/2021-08/screen_shot_2021-08-05_at_6.15.21_pm.png?itok=nkBVL7Uq" width="144" height="144" alt="" title="Vicky Alvarez, used with permission" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/spirituality">Spirituality</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/finding-true-refuge/202108/please-may-i-be-kind">Please, May I Be Kind?</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/tara-brach-phd">Tara Brach Ph.D.</a> on August 05, 2021 in <a href="/us/blog/finding-true-refuge">Finding True Refuge</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">When we are caught up in the busyness of our lives, how can we remember what truly matters?</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">When we are caught up in the busyness of our lives, how can we remember what truly matters?</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165081" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-images field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_images/2021-08/img_1351.jpeg?itok=PktD346s" width="144" height="144" alt="Like a tree, our lives have &#039;rings&#039; that mark the accumulation of choices we make in how to live." title="John-Manuel Andriote/photo" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/resilience">Resilience</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/stonewall-strong/202108/5-steps-toward-creating-the-life-you-want">5 Steps Toward Creating the Life You Want</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/john-manuel-andriote">John-Manuel Andriote</a> on August 05, 2021 in <a href="/us/blog/stonewall-strong">Stonewall Strong</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">If you&#039;re feeling an urge for a better life than you are living now, these steps could help you create it.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">If you&#039;re feeling an urge for a better life than you are living now, these steps could help you create it.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165085" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-images field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_images/2021-08/volunteer_shutterstock_380382487.jpg?itok=u-PYmuyE" width="144" height="144" alt="Volunteering creates opportunity" title="Rawpixel/Shutterstock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/resilience">Resilience</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/50-plus/202108/4-ways-volunteering-provides-edge-in-the-job-market">4 Ways Volunteering Provides an Edge in the Job Market</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/kelly-clark-phd">Kelly A Clark Ph.D.</a> on August 05, 2021 in <a href="/us/blog/50-plus">50 Plus</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Are you looking for an edge in the job market? Try volunteering.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Are you looking for an edge in the job market? Try volunteering.</p>
+  </div>
+  </div>
+  <div class="blog-entry teaser-listing--item col-12 col-sm-10 col-lg-12 col-xl-9 ml-xl-auto">
+    
+<div class="blog_entry--teaser teaser--content" data-nid="1165084" data-type="blog_entry">
+
+  <div class="media">
+          <div class="blog_entry__teaser_image d-flex mr-3 mr-sm-4 mb-2 mb-sm-0">
+          <div class="field field-name-field-blog-entry-images field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail/public/field_blog_entry_images/2021-08/shutterstock_311434718-2.jpg?itok=4zTaaEXk" width="144" height="144" alt="" title="Crush Rush/Shutterstock" /></div>
+
+      </div>
+    
+    <div class="blog_entry__text media-body vertical-align-font-offset">
+              <div class="blog_entry__topic">
+          <h6 class="text-uppercase-primary-small"><a href="/us/basics/anxiety">Anxiety</a></h6>
+        </div>
+            <h2 class="blog_entry__title" ><a href="/us/blog/cultural-psychiatry/202108/why-we-see-such-extreme-social-and-political-polarization">Why We See Such Extreme Social and Political Polarization</a></h2>
+      <p class="blog_entry__publish_info text-teaser-byline d-none d-sm-block">By <a href="/us/contributors/charles-johnston-md">Charles Johnston MD</a> on August 05, 2021 in <a href="/us/blog/cultural-psychiatry">Cultural Psychiatry</a></p>
+              <p class="blog_entry__teaser d-none d-sm-block">Social and political polarization puts us all at risk. If we are to effectively move forward, it is important that we understand why we are seeing what we do.</p>
+          </div>
+  </div>
+      <p class="blog_entry__teaser d-sm-none">Social and political polarization puts us all at risk. If we are to effectively move forward, it is important that we understand why we are seeing what we do.</p>
+  </div>
+  </div>
+</div>
+    </div>
+  
+      <div class="item-list"><ul class="pagination col-lg-12 col-xl-9 ml-xl-auto d-flex justify-content-center"><li class="pager-previous page-item disabled first"><span class="page-link">Previous</span></li>
+<li class="pager-current page-item active"><span class="page-link">Page 1 <span class="sr-only">(current)</span></span></li>
+<li class="pager-next page-item  last"><a class="page-link" href="/us/blog-posts?page=1">Next</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div><div id="block-block-13" class="block-block-13 block block-block">
+        <div>
+    <style type="text/css">
+#block-pt-stats-most-popular .blog_entry__teaser_image {
+    min-width: 75px;
+    min-height: 75px;
+    background-color: #eeeeee;
+}
+
+.field-name-body a {
+    -ms-word-break: break-word;
+    word-break: break-word;
+}
+</style>  </div>
+</div>
+      </div>
+    </div> <!-- /.main -->
+    <div class="container sidebar_first mx-lg-0">
+                <div class="row justify-content-center">
+    <div id="block-pt-stats-most-popular" class="block-pt-stats-most-popular block block-pt-stats col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="card ">
+      <div  class="card-header">
+      <h2 class="card-title">Most Popular</h2>
+          </div>
+    <div class="card-block">
+    <div class="item-list"><ul class="list-unstyled mb-0"><li class="media thumbnail-75x75-title first"><a class="d-flex" href="/us/blog/finding-new-home/202108/misogynists-believe-they-are-unattractive-women">
+      <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+        <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_75x75/public/field_blog_entry_teaser_image/2021-07/man-sexism-hostile-benevolent-psychology-emamzadeh.png?itok=IX1dsd--" width="75" height="75" alt="" title="DayronV/Pixabay" /></div>
+
+    </div>
+    <div class="blog_entry__title media-body vertical-align-font-offset align-self-center">
+    Misogynists Believe They Are Unattractive to Women  </div>
+</a>
+</li>
+<li class="media thumbnail-75x75-title"><a class="d-flex" href="/us/blog/400-friends-who-can-i-call/202108/the-damage-being-breadcrumbed">
+      <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+        <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_75x75/public/field_blog_entry_teaser_image/2021-08/pixabaypasjawomanphonewater.jpg?itok=EWpAbMGG" width="75" height="75" alt="" title="Pixabay, Pasja" /></div>
+
+    </div>
+    <div class="blog_entry__title media-body vertical-align-font-offset align-self-center">
+    The Damage of Being Breadcrumbed   </div>
+</a>
+</li>
+<li class="media thumbnail-75x75-title"><a class="d-flex" href="/us/blog/talking-about-trauma/202108/in-relationship-still-lonely">
+      <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+        <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_75x75/public/field_blog_entry_teaser_image/2021-08/feature-3-470x260.jpeg?itok=I33MBY7W" width="75" height="75" alt="" title="Etienne Boulanger/Unsplash" /></div>
+
+    </div>
+    <div class="blog_entry__title media-body vertical-align-font-offset align-self-center">
+    In a Relationship, but Still Lonely  </div>
+</a>
+</li>
+<li class="media thumbnail-75x75-title"><a class="d-flex" href="/us/blog/psychological-trauma-coping-and-resilience/202108/how-improve-communication-your-partner">
+      <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+        <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_75x75/public/field_blog_entry_teaser_image/2021-07/picture1_1.jpg?itok=jFd4cYe7" width="75" height="75" alt="" title="Sebastian Voortman/Pexels" /></div>
+
+    </div>
+    <div class="blog_entry__title media-body vertical-align-font-offset align-self-center">
+    How to Improve Communication with Your Partner  </div>
+</a>
+</li>
+<li class="media thumbnail-75x75-title last"><a class="d-flex" href="/us/blog/the-heart-and-science-attachment/202108/we-treat-others-we-have-been-treated">
+      <div class="blog_entry__teaser_image d-flex mr-3 align-self-center">
+        <div class="field field-name-field-blog-entry-teaser-image field-type-image field-label-hidden img-bg-default" ><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/thumbnail_75x75/public/field_blog_entry_teaser_image/2021-08/tim-mossholder-bo3shp58c3g-unsplash.jpg?itok=m6ZnYTyN" width="75" height="75" alt="" title="Tim Mossholder/Unsplash" /></div>
+
+    </div>
+    <div class="blog_entry__title media-body vertical-align-font-offset align-self-center">
+    We Treat Others as We Have Been Treated  </div>
+</a>
+</li>
+</ul></div>  </div>
+  </div>
+  </div>
+</div>
+<div id="block-pt-ads-300x-right-www" class="block-pt-ads-300x-right-www block block-pt-ads d-none d-lg-block col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <span class="advertisement-label">advertisement</span><div class="pt-ad pt-ads-300" id="div-gpt-ad-1391201642419-0"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391201642419-0'); });</script></div>  </div>
+</div>
+<div id="block-pt-user-meet-the-experts" class="block-pt-user-meet-the-experts block block-pt-user col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="card ">
+      <div  class="card-header card-header--title--subtitle">
+      <h2 class="card-title">Meet Our Experts</h2>
+              <h6 class="card-subtitle">Our editors' current "Essential Reads"</h6>
+          </div>
+    <div class="card-block">
+    <div class="view view-essentials view-id-essentials view-display-id-block_2 teaser-listing teaser-listing--essentials view-dom-id-275f35e10e4597e126a7cb017aed1a97">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list-unstyled">          <li class="views-row views-row-1 views-row-odd views-row-first media media-small thumbnail-75x75-title">  
+  <div class="views-field views-field-field-user-blogger-photo mr-3">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/johnhen.png?itok=APFJroQ8" width="104" height="128" alt="" title="" /></div>  </div>  
+  <div class="views-field views-field-title-1">        <div class="field-content"><a href="/us/contributors/john-m-henderson-phd"><div class="name-title"><span class="text-teaser-bold-inline">John M. Henderson Ph.D.</span>, author of Visual Construction</div></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even media media-small thumbnail-75x75-title">  
+  <div class="views-field views-field-field-user-blogger-photo mr-3">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/perlmutter.jpg?itok=-6fQXv0x" width="104" height="128" alt="" title="Austin Perlmutter" /></div>  </div>  
+  <div class="views-field views-field-title-1">        <div class="field-content"><a href="/us/contributors/austin-perlmutter-md"><div class="name-title"><span class="text-teaser-bold-inline">Austin Perlmutter M.D.</span>, author of The Modern Brain</div></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd media media-small thumbnail-75x75-title">  
+  <div class="views-field views-field-field-user-blogger-photo mr-3">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/croppedchrisheadshot.png?itok=KUeOsWsO" width="104" height="128" alt="" title="" /></div>  </div>  
+  <div class="views-field views-field-title-1">        <div class="field-content"><a href="/us/contributors/chris-gilbert-md-phd"><div class="name-title"><span class="text-teaser-bold-inline">Chris Gilbert, M.D., Ph.D.</span>, author of Heal the Mind to Heal the Body</div></a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last media media-small thumbnail-75x75-title">  
+  <div class="views-field views-field-field-user-blogger-photo mr-3">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/double_cheyette.jpg?itok=XVA05iPp" width="104" height="128" alt="" title="" /></div>  </div>  
+  <div class="views-field views-field-title-1">        <div class="field-content"><a href="/us/contributors/benjamin-cheyette-md-and-sarah-cheyette-md"><div class="name-title"><span class="text-teaser-bold-inline">Benjamin Cheyette, M.D., and Sarah Cheyette M.D.</span>, author of 1-2-3-ADHD</div></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div><a class="btn__block_more btn btn-lg" href="/contributors/all">See More Experts</a></div>    </div>
+  
+  
+</div>  </div>
+  </div>
+  </div>
+</div>
+<div id="block-pt-ads-300x305-voices-in-recovery" class="block-pt-ads-300x305-voices-in-recovery block block-pt-ads col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="pt-ad pt-ads-300" id="div-gpt-ad-1435258789766-0"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435258789766-0'); });</script></div>  </div>
+</div>
+<div id="block-pt-ads-300x600-right2-www-site" class="block-pt-ads-300x600-right2-www-site block block-pt-ads d-none d-lg-block col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <span class="advertisement-label">advertisement</span><div class="pt-ad pt-ads-300" id="div-gpt-ad-1390414551849-0"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1390414551849-0'); });</script></div>  </div>
+</div>
+<div id="block-pt-ads-260x160-theauthorspeaks-right" class="block-pt-ads-260x160-theauthorspeaks-right block block-pt-ads col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="card ">
+      <div  class="card-header">
+      <h2 class="card-title"><a href="/us/blog/the-author-speaks">The Author Speaks</a></h2>
+          </div>
+    <div class="card-block">
+    <div class="pt-ad pt-ads-tas-260" id="div-gpt-ad-1425917288483-0"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425917288483-0'); });</script></div>  </div>
+      <div class="card-footer">
+      <div class="btn__block_more btn btn-lg"><a href="/us/blog/the-author-speaks">See All Interviews</a></div>    </div>
+  </div>
+  </div>
+</div>
+<div id="block-pt-ads-300x305-degrees-of-success" class="block-pt-ads-300x305-degrees-of-success block block-pt-ads col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="pt-ad pt-ads-300" id="div-gpt-ad-1461966406781-0"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461966406781-0'); });</script></div>  </div>
+</div>
+<div id="block-views-magazine-issues-block-2" class="block-views-magazine-issues-block-2 block block-views col-12 col-sm-5 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="view view-magazine-issues view-id-magazine_issues view-display-id-block_2 magazine-card current-issue view-dom-id-159db754941b57c11c0fef7bb1b53119">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          
+<div class="magazine-issues-block node node-magazine-issue node-1163928 magazine_card_large clearfix" data-nid="1163928" data-type="magazine_issue">
+    <h2 class="card-title">Current Issue</h2>
+
+    <div class="node__content">
+          <div class="field field-name-field-magazine-cover field-type-image field-label-hidden img-bg-default" ><a href="/us/magazine/archive/2021/07"><img class="img-fluid" src="https://cdn.psychologytoday.com/sites/default/files/styles/scale_width_300/public/field_magazine_cover/2021-07.png?itok=WE6Hw0mJ" width="300" height="397" alt="July 2021 magazine cover" /></a></div>
+
+    </div>
+    <div class="row col-12 p-0 m-0 justify-content-between magazine-issues-block__footer">
+        <div class="btn btn-lg btn__block_more">
+            <a href="/us/magazine/archive/2021/07">Look Inside</a>        </div>
+        <div class="btn btn-lg btn__block_more">
+            <a href="https://subscribe.psychologytoday.com">Subscribe</a>        </div>
+    </div>
+</div>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-pt-blog-personal-perspectives" class="block-pt-blog-personal-perspectives block block-pt-blog col-12 col-sm-10 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <div class="card ">
+      <div  class="card-header">
+      <h2 class="card-title"><a href="/us/topics/personal-perspectives">Personal Perspectives</a></h2>
+          </div>
+    <div class="card-block">
+    <div class="view view-personal-perspectives view-id-personal_perspectives view-display-id-block_1 view-dom-id-e404eb86ae80feecb37804c4d32b92db">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list ">    <ul class="list-unstyled d-sm-flex flex-wrap justify-content-between d-lg-block">          <li class="views-row views-row-1 views-row-odd views-row-first media media-small thumbnail-75x75-title media-sm-2-col media-md-2-col">  
+  <div class="views-field views-field-field-user-blogger-photo">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/thumbnail_cjknowles_headshotwebrgbcolor-removebg-preview.jpg?itok=NruFoeFP" width="104" height="128" alt="" title="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <div class="field-content"><div class="text-teaser-bold">
+<a href="/us/blog/shifting-forward/202108/feeling-frustrated-about-covid-asking-friend">
+Feeling Frustrated About COVID? Asking for a Friend
+</a>
+</div>
+<span class="text-teaser-byline">By  Carrie J Knowles </span>
+</div>  </div></li>
+          <li class="views-row views-row-2 views-row-even media media-small thumbnail-75x75-title media-sm-2-col media-md-2-col">  
+  <div class="views-field views-field-field-user-blogger-photo">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/tamsenfirestonephoto.jpg?itok=Vg6JMQ3j" width="104" height="128" alt="" title="Photo of Tamsen Firestone" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <div class="field-content"><div class="text-teaser-bold">
+<a href="/us/blog/daring-love/202108/genuine-relating-in-imperfect-world">
+Genuine Relating in an Imperfect World
+</a>
+</div>
+<span class="text-teaser-byline">By  Tamsen  Firestone </span>
+</div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd media media-small thumbnail-75x75-title media-sm-2-col media-md-2-col">  
+  <div class="views-field views-field-field-user-blogger-photo">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/orozco_jennifer.png?itok=hiYKFyRg" width="104" height="128" alt="" title="Jennifer Orozco" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <div class="field-content"><div class="text-teaser-bold">
+<a href="/us/blog/lifting-depression/202108/mental-health-rx-olympic-champions-lessons-apply-health-care">
+Mental Health RX: An Olympic Champion&#039;s Lessons Apply to Health Care 
+</a>
+</div>
+<span class="text-teaser-byline">By  Jennifer  Orozco </span>
+</div>  </div></li>
+          <li class="views-row views-row-4 views-row-even media media-small thumbnail-75x75-title media-sm-2-col media-md-2-col">  
+  <div class="views-field views-field-field-user-blogger-photo">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/field_user_blogger_photo/screen_shot_2020-02-21_at_1.36.10_pm.jpg?itok=SyoBNOv1" width="104" height="128" alt="" title="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <div class="field-content"><div class="text-teaser-bold">
+<a href="/us/blog/tales-grief/202108/life-after-covid-grief-growth">
+Life After COVID: From Grief to Growth
+</a>
+</div>
+<span class="text-teaser-byline">By  Edy   Nathan </span>
+</div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last media media-small thumbnail-75x75-title media-sm-2-col media-md-2-col">  
+  <div class="views-field views-field-field-user-blogger-photo">        <div class="field-content"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/perspectives/public/-1_100.jpg?itok=smYwV4p2" width="104" height="128" alt="" title="Terri Cheney" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <div class="field-content"><div class="text-teaser-bold">
+<a href="/us/blog/the-bipolar-lens/202108/simone-biles-vaults-unprecedented-height">
+Simone Biles Vaults to an Unprecedented Height
+</a>
+</div>
+<span class="text-teaser-byline">By  Terri  Cheney </span>
+</div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+      <div class="card-footer">
+      <a href="/us/topics/personal-perspectives" class="btn__block_more btn btn-lg">Read More</a>    </div>
+  </div>
+  </div>
+</div>
+<div id="block-pt-td-fat-cities" class="block-pt-td-fat-cities block block-pt-td col-12 col-sm-10 col-lg-12 sidebar_first--block">
+  <div  class="block__content">
+    <h2>
+<a
+  data-event-category="OutboundLink"
+  data-event-action="Click"
+  data-event-label="PT_Right_Find_Title"
+  href="https://www.psychologytoday.com/us/therapists"
+  class="PT_Right_Find_Title"
+>
+  Find a Therapist</a>
+
+</h2>
+  <div>
+    <p>Get the help you need from a therapist near you–a FREE service from Psychology Today.</p>
+  </div>
+
+<form name="prof_search" method="POST"
+      action="https://www.psychologytoday.com/us/therapists"
+      id="RCol_TherpistForm" data-event-category="OutboundLink" data-event-action="Click"
+      data-event-label="PT_Right_Find_Therapist" class="fat-cities-sidebar-form fat__callout_form">
+  <!-- PT-1716 add wrapper to form for JSON application fat-sidebar -->
+  <!-- PT-1810 add tracking tags to data-suggestions-url and data-search-url -->
+  <div class="container-fat__callout_form" data-search-suggest="sussex" data-placeholder="City or Zip"
+       data-size="medium" data-section-icons="false"
+       data-mobile-fullscreen="true"
+       data-suggestions-url='https://www.psychologytoday.com/us/therapists/suggestions?query={query}'
+       data-search-url='https://www.psychologytoday.com/us/therapists?search={query}'
+       data-title="Search for Therapists near you"
+       data-input-aria-label="Search input"
+       data-button-aria-label="Search button">
+    <input type="text" name="search" placeholder="City or Zip" aria-label="Search input">
+    <input type="submit" value="Search" id="RCol_TherapistSubmit" aria-label="Search button">
+      </div>
+</form>
+<div class="item-list"><h3>Cities:</h3><ul class="td_city_group"><li class="first"><a href="https://www.psychologytoday.com/us/therapists/ga/atlanta" class="RCol_TherapistCity" title="Find a Therapist in Atlanta, GA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Atlanta, GA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tx/austin" class="RCol_TherapistCity" title="Find a Therapist in Austin, TX" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Austin, TX</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/md/baltimore" class="RCol_TherapistCity" title="Find a Therapist in Baltimore, MD" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Baltimore, MD</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ma/boston" class="RCol_TherapistCity" title="Find a Therapist in Boston, MA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Boston, MA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ny/brooklyn" class="RCol_TherapistCity" title="Find a Therapist in Brooklyn, NY" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Brooklyn, NY</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/nc/charlotte" class="RCol_TherapistCity" title="Find a Therapist in Charlotte, NC" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Charlotte, NC</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/il/chicago" class="RCol_TherapistCity" title="Find a Therapist in Chicago, IL" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Chicago, IL</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/oh/columbus" class="RCol_TherapistCity" title="Find a Therapist in Columbus, OH" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Columbus, OH</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tx/dallas" class="RCol_TherapistCity" title="Find a Therapist in Dallas, TX" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Dallas, TX</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/co/denver" class="RCol_TherapistCity" title="Find a Therapist in Denver, CO" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Denver, CO</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/mi/detroit" class="RCol_TherapistCity" title="Find a Therapist in Detroit, MI" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Detroit, MI</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tx/houston" class="RCol_TherapistCity" title="Find a Therapist in Houston, TX" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Houston, TX</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/in/indianapolis" class="RCol_TherapistCity" title="Find a Therapist in Indianapolis, IN" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Indianapolis, IN</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/fl/jacksonville" class="RCol_TherapistCity" title="Find a Therapist in Jacksonville, FL" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Jacksonville, FL</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/nv/las-vegas" class="RCol_TherapistCity" title="Find a Therapist in Las Vegas, NV" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Las Vegas, NV</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/los-angeles" class="RCol_TherapistCity" title="Find a Therapist in Los Angeles, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Los Angeles, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ky/louisville" class="RCol_TherapistCity" title="Find a Therapist in Louisville, KY" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Louisville, KY</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tn/memphis" class="RCol_TherapistCity" title="Find a Therapist in Memphis, TN" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Memphis, TN</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/fl/miami" class="RCol_TherapistCity" title="Find a Therapist in Miami, FL" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Miami, FL</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/wi/milwaukee" class="RCol_TherapistCity" title="Find a Therapist in Milwaukee, WI" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Milwaukee, WI</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/mn/minneapolis" class="RCol_TherapistCity" title="Find a Therapist in Minneapolis, MN" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Minneapolis, MN</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tn/nashville" class="RCol_TherapistCity" title="Find a Therapist in Nashville, TN" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Nashville, TN</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ny/new-york" class="RCol_TherapistCity" title="Find a Therapist in New York, NY" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">New York, NY</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/oakland" class="RCol_TherapistCity" title="Find a Therapist in Oakland, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Oakland, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ne/omaha" class="RCol_TherapistCity" title="Find a Therapist in Omaha, NE" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Omaha, NE</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/pa/philadelphia" class="RCol_TherapistCity" title="Find a Therapist in Philadelphia, PA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Philadelphia, PA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/az/phoenix" class="RCol_TherapistCity" title="Find a Therapist in Phoenix, AZ" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Phoenix, AZ</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/pa/pittsburgh" class="RCol_TherapistCity" title="Find a Therapist in Pittsburgh, PA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Pittsburgh, PA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/or/portland" class="RCol_TherapistCity" title="Find a Therapist in Portland, OR" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Portland, OR</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/nc/raleigh" class="RCol_TherapistCity" title="Find a Therapist in Raleigh, NC" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Raleigh, NC</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/sacramento" class="RCol_TherapistCity" title="Find a Therapist in Sacramento, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Sacramento, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/mo/saint-louis" class="RCol_TherapistCity" title="Find a Therapist in Saint Louis, MO" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Saint Louis, MO</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/tx/san-antonio" class="RCol_TherapistCity" title="Find a Therapist in San Antonio, TX" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">San Antonio, TX</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/san-diego" class="RCol_TherapistCity" title="Find a Therapist in San Diego, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">San Diego, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/san-francisco" class="RCol_TherapistCity" title="Find a Therapist in San Francisco, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">San Francisco, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/ca/san-jose" class="RCol_TherapistCity" title="Find a Therapist in San Jose, CA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">San Jose, CA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/wa/seattle" class="RCol_TherapistCity" title="Find a Therapist in Seattle, WA" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Seattle, WA</a></li>
+<li><a href="https://www.psychologytoday.com/us/therapists/az/tucson" class="RCol_TherapistCity" title="Find a Therapist in Tucson, AZ" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Tucson, AZ</a></li>
+<li class="last"><a href="https://www.psychologytoday.com/us/therapists/dc/washington" class="RCol_TherapistCity" title="Find a Therapist in Washington, DC" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City">Washington, DC</a></li>
+</ul></div><div class="fat-footer">
+  <div>
+    Are you a Therapist?  </div>
+  <div>
+    <a href="https://member.psychologytoday.com/us/signup?src=WWWCIT" class="RCol_TherapistSignup" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_City_Signup">Get Listed Today</a>  </div>
+
+</div>
+  </div>
+</div>
+  </div>
+          </div> <!-- /.sidebar_first -->
+            <div class="col-12">
+    <div class="row justify-content-center mb-4">
+      <div id="block-pt-ads-728x90-bottom-www-site" class="block-pt-ads-728x90-bottom-www-site block block-pt-ads">
+
+      
+  <div  class="block__content">
+    <div class="pt-ad pt-ads-728" id="div-gpt-ad-1390414551849-1"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1390414551849-1'); });</script></div>  </div>
+</div>
+    </div>
+  </div>
+
+      </div>
+</div> <!-- /.container -->
+
+  <nav class="footer_nav">
+  <footer>
+    <section class="footer_nav__content__social-logo">
+      <div class="container">
+        <div class="d-flex justify-content-center justify-content-md-start flex-column flex-md-row align-items-center footer_nav__header">
+
+          <div class="footer_nav__logo mr-md-4">
+            <a class="logo" href="/us">Psychology Today</a>
+
+          </div>
+
+          <div class="flex-row d-flex pt-4 pt-md-0 justify-content-between justify-content-md-start footer_nav__social_media">
+            <!-- Social media links.-->
+            <div class="social_icon"><a href="https://www.facebook.com/psychologytoday"><img class="svg" alt="Facebook" src="/sites/all/themes/pt_brand/assets/logos/logo-facebook.svg" /></a></div>
+
+            <div class="social_icon"><a href="https://twitter.com/psychtoday"><img class="svg" alt="Twitter" src="/sites/all/themes/pt_brand/assets/logos/logo-twitter.svg" /></a></div>
+
+            <div class="social_icon"><a href="https://www.instagram.com/psych_today/"><img class="svg" alt="Instagram" src="/sites/all/themes/pt_brand/assets/logos/logo-instagram.svg" /></a></div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <section class="footer_nav__content__magazines-links-copyright">
+      <div class="container footer_nav__content">
+        <div class="footer_nav__magazine_archive">
+          <h2>Recent Issues</h2>
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-10 col-xl-10 col-md-7 footer_nav__magazine_archive__magazines">
+              <div class="view view-brand-footer-magazine-archive-lazy view-id-brand_footer_magazine_archive_lazy view-display-id-block view-dom-id-05bd6987c63df161f6b212f6c4a77f7c">
+        
+  
+  
+      <div class="view-content">
+          <ul class="list-inline">          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/07" title="July 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-07.png?itok=QmJK-WRd" width="384" height="504" alt="July 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/05" title="May 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-05.png?itok=AEApp_4U" width="384" height="504" alt="May 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/03" title="March 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-03.png?itok=q83-MfrF" width="384" height="504" alt="March 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2021/01" title="January 2021"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2021-01.png?itok=fOkfkICT" width="384" height="504" alt="January 2021 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2020/11" title="November 2020"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-11.png?itok=NuPGwD50" width="384" height="504" alt="November 2020 magazine cover" title="" /></a>  </li>
+          <li class="list-inline-item">  
+          <a href="https://www.psychologytoday.com/us/magazine/archive/2020/09" title="September 2020"><img class="img-fluid" data-src="https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4" width="384" height="504" alt="September 2020 magazine cover" title="" /></a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>            </div>
+            <div class="col-12 col-lg-2 col-xl-2 col-md-5 footer_nav__magazine_archive__button">
+              <a class="btn btn-info btn-md-cta" href="https://subscribe.psychologytoday.com">Subscribe Today!</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="row flex-column flex-md-row justify-content-between align-items-center footer_nav__links-copyright py-md-4 mb-4">
+          <div class="footer_nav__links">
+            <ul class="link-group">
+              <li>
+                <a href="/us/docs/about-psychology-today">About</a>
+              </li>
+              <li>
+                <a href="/us/docs/editorial-process">Editorial Process</a>
+              </li>
+              <li>
+                <a href="/us/privacy-policy">Privacy</a>
+              </li>
+              <li>
+                <a href="/us/terms-use">Terms</a>
+              </li>
+              <li>
+                <a href="/us/accessibility">Accessibility</a>
+              </li>
+            </ul>
+          </div>
+
+          <span class="footer-hr d-block d-md-none"></span>
+          <div class="footer_nav__links">
+            <div  class="footer-location">
+              <div class="locale-center popover-menu popover-menu-locale-selector">
+                <div class="popover-menu-control">
+                  <a class="popover-menu-toggle icon flag flag-small flag-us" href="https://www.psychologytoday.com/intl/counsellors?domain=content&cc=us&cl=en" id="footerLocationSwitch">
+                    <span class="country-display">United States</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container footer_nav__copyright">
+        <div class="row justify-content-center align-items-center">
+          Psychology Today &copy; 2021 Sussex Publishers, LLC
+        </div>
+      </div>
+    </section>
+  </footer>
+</nav>
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+dataLayer.push({
+    "ContentWeb": "Homepage"
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cdn.psychologytoday.com/sites/default/files/advagg_js/js__Wjn9cpzzy8IC6yKuE3kBQ6PL1CqRUfChw6k-lhloFIg__g9h8judblFFflQfOriufAKbpU9rm3S-T3TtESC2Ampw__x4QsnFVdstl10oht_uSv-koVglTPLXe1JL0PZF76bns.js"></script>
+</body>
+</html>

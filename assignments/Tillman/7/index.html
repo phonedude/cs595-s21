@@ -1,0 +1,2377 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+            <meta name="robots" content="index,follow">
+        <title>Psychology Today: Professional Login</title>
+                <link rel="stylesheet" href="https://resources.psychologytoday.com/v6.286.0/css/brand/psychologytoday.css">
+                <link rel="stylesheet" href="https://resources.psychologytoday.com/v6.286.0/css/pages/member-login.css">
+            <link rel="icon" href="https://resources.psychologytoday.com/v6.286.0/images/favicon-TD.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://resources.psychologytoday.com/v6.286.0/images/favicon-TD.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v6.286.0/images/apple-touch-icon-TD.png">
+            <script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/jquery/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/bootstrap/bootstrap.min.js"></script>
+        <script type="text/javascript" src="https://www.datadoghq-browser-agent.com/datadog-logs-us.js"></script>
+            <script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/polyfills/stringNormalize.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/polyfills/fileCreation.js"></script>
+
+<script>
+  (function($){
+
+    jQuery.event.props.push("dataTransfer");
+
+    var files,
+      queue_waiting = [],
+      queue_processing = [],
+      queue_next_id = 1;
+
+    $.fn.sxFileDrop = function(options) {
+      if(!$('html').hasClass('filereader')) {
+        return;
+      }
+
+      $('.uploadDropTarget', this).on('drop', drop)
+        .on('dragenter', dragEnter)
+        .on('dragover', dragOver)
+        .on('dragleave', dragLeave);
+
+      $('#edit-uploads').on("change", function (e) {
+
+        AddToQueue(this.files)
+      });
+    };
+
+
+    function drop(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      files = e.dataTransfer.files;
+
+      if (files === null || files === undefined) {
+        return false;
+      }
+
+      AddToQueue(files);
+
+    }
+
+    function AddToQueue(files) {
+
+      var allow_multiple = $('.field-file_upload').attr('multiple') ? true : false;
+
+      for (var i = 0; i < files.length; i++) {
+        // Removes all diacritics and any non-alphanumeric characters, but keeps the '.'
+        var fileName = files[i].name;
+        fileName = fileName.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^\w\s\.]/gi, '');
+        var file = new File([files[i]], fileName, {type: files[i].type});
+
+        file.queueId = queue_next_id;
+        queue_next_id++;
+
+        var imageType = /image.*/;
+
+        if (!file.type.match(imageType)) {
+          alert('');
+          continue;
+        }
+
+        if ( file.size > 20971520 ) {
+          alert('')
+          continue;
+        }
+
+        var img = document.createElement("img");
+        img.classList.add("imageUploadThumb");
+        img.file = file;
+
+        img.addEventListener('error', function() {
+          alert('');
+        });
+
+        img.addEventListener('load', function() {
+          if(this.naturalWidth < 160 || this.naturalHeight < 200) {
+            alert('');
+            return;
+          }
+          queue_waiting.push(this.file);
+          StartUploadQueue();
+
+          if (allow_multiple == false) {
+            $('.uploadItems').empty();
+          }
+
+          // Only on iOS devices, reset the orientation
+          if (!!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform)) {
+            getDataExif = EXIF.getData(this, function () {
+              srcOrientation = EXIF.getTag(this, 'Orientation');
+              ResetOrientation(this.file.queueId, this.src, srcOrientation, createThumbnail);
+            })
+          } else {
+            createThumbnail(this.src, this.file.queueId)
+          }
+        });
+
+        var reader = new FileReader();
+        reader.onload = (function(aImg) { return function(e) { aImg.src = e.target.result; }; })(img);
+        reader.readAsDataURL(file);
+      }
+
+    }
+
+    /**
+     * Creates an image thumbnail and adds it to the page
+     *
+     * @param imgSrc base64 image
+     * @param queueId The file's queue ID
+     */
+    function createThumbnail(imgSrc, queueId) {
+      var displayStarted = !$('.uploadItem').length ? ' progressInnerStarted' : '';
+
+      var output = [
+        '<div class="uploadItem" data-queue-id="' + queueId + '">',
+        '<div class="progress"><div class="progressInner' + displayStarted + '"></div></div>',
+        '<div class="uploadImage" style="background-image: url(' + imgSrc + ');">',
+        '<i class="uploadStatus icon icon-circle_ok"></i>',
+        '</div>'
+      ];
+
+      $(output.join('')).appendTo($('.uploadItems')).prepend(this)
+    }
+
+    function ResetOrientation (queueId, srcBase64, srcOrientation, callback) {
+      var img = new Image();
+
+      img.onload = function() {
+        var width = img.width,
+          height = img.height,
+          canvas = document.createElement('canvas'),
+          ctx = canvas.getContext("2d");
+
+        // set proper canvas dimensions before transform & export
+        if (4 < srcOrientation && srcOrientation < 9) {
+          canvas.width = height;
+          canvas.height = width;
+        } else {
+          canvas.width = width;
+          canvas.height = height;
+        }
+
+        // transform context before drawing image
+        switch (srcOrientation) {
+          case 2: ctx.transform(-1, 0, 0, 1, width, 0); break;
+          case 3: ctx.transform(-1, 0, 0, -1, width, height ); break;
+          case 4: ctx.transform(1, 0, 0, -1, 0, height ); break;
+          case 5: ctx.transform(0, 1, 1, 0, 0, 0); break;
+          case 6: ctx.transform(0, 1, -1, 0, height , 0); break;
+          case 7: ctx.transform(0, -1, -1, 0, height , width); break;
+          case 8: ctx.transform(0, -1, 1, 0, 0, width); break;
+          default: break;
+        }
+
+        // draw image
+        ctx.drawImage(img, 0, 0);
+
+        // export base64
+        callback(canvas.toDataURL(), queueId);
+      };
+
+      img.src = srcBase64;
+    };
+
+    function StartUploadQueue() {
+      var submitButton = $('button.btn-submit.submit-hide');
+
+      submitButton.attr('disabled', 'disabled');
+      submitButton.text('');
+
+      var allow_multiple = $('.field-file_upload').attr('multiple') ? true : false;
+
+      if(0 == queue_waiting.length) {
+        submitButton.removeAttr("disabled");
+        submitButton.text('');
+        return;
+      }
+
+      if(0 < queue_processing.length) {
+        return;
+      }
+
+      var file = queue_waiting.shift();
+      queue_processing.push(file);
+
+      var xhr = new XMLHttpRequest();
+
+      // Fixme: This is too specific
+      var formElement = document.getElementById("form-photo_upload");
+
+      // Work-around for a lot of browsers not supporting FormData.delete() to avoid uploading all files
+      var formData = new FormData();
+      for (var i = 0; i < formElement.elements.length; i++) {
+        if (formElement.elements[i].name !== 'userfile') {
+          formData.append(formElement.elements[i].name, formElement.elements[i].value)
+        }
+      }
+
+      formData.append('edit[uploads]', 1);
+      formData.append('userfile', file, file.name);
+      formData.append('edit[submit]', $('[type="submit"]:first', formElement).val());
+
+      xhr.open("POST", $(formElement).attr('action'), true);
+
+      xhr.addEventListener('load', function(e) {
+        // When the upload is complete, start the queue again
+        file = queue_processing.shift();
+        var response = JSON.parse(e.target.responseText);
+
+        if(response.status < 1) {
+          $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").addClass('uploadError');
+          $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").addClass('icon-circle_exclamation_mark');
+          $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").removeClass('icon-circle_ok');
+        } else {
+          // The progress is 100% now, so just throw away the smooth transition and blast it to 100%
+          $('[data-queue-id="' + file.queueId + '"] .progressInner').css(
+            {
+              'transition': '',
+              'width': '100%',
+            }
+          );
+
+          $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").addClass('uploadComplete');
+
+          var photo_id = response.r_photo.photo_id;
+
+          if (allow_multiple == false) {
+            $('#form-photo_upload .form-el-photo-id').remove();
+          }
+
+          $('#form-photo_upload').append('<input type="hidden" name="edit[photo_ids][]" value="'+photo_id+'" class="form-el-photo-id">');
+        }
+        StartUploadQueue();
+      });
+
+      xhr.addEventListener('error', function(jqXHR, textStatus, errorThrown) {
+        // When the upload is complete, start the queue again
+        alert(''+errorThrown);
+        file = queue_processing.shift();
+        $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").addClass('uploadError');
+        $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").addClass('icon-circle_exclamation_mark');
+        $('.uploadStatus', "div[data-queue-id='" + file.queueId + "']").removeClass('icon-circle_ok');
+
+        StartUploadQueue();
+      });
+
+      xhr.upload.addEventListener("progress", updateProgress, false);
+
+      xhr.send(formData);
+
+    }
+
+    function updateProgress(e) {
+      if (e.lengthComputable) {
+        var w = Math.min(Math.round((e.loaded * 100) / e.total), 90);
+        var file = queue_processing[0];
+
+        // Slowly raise the percentages to make it feel like a smooth upload
+        $('[data-queue-id="' + file.queueId + '"] .progressInner').css(
+          {
+            'width': w + '%',
+            'transition': 'width 20s ease',
+            '-webkit-transition': 'width 20s ease'
+          }
+        );
+      }
+    }
+
+    function dragEnter(e) {
+      $(this).addClass('dragOver');
+      e.preventDefault();
+    }
+
+    function dragOver(e) {
+      e.preventDefault();
+    }
+
+    function dragLeave(e) {
+      $(this).removeClass('dragOver');
+      e.stopPropagation();
+    }
+
+    function empty(){}
+
+  })(jQuery);
+
+</script>
+        <script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+
+  var sx;
+  var profMenuTimer;
+  var prevWindowSize = '';
+
+  /* Modernizr 2.6.2 (Custom Build) | MIT & BSD
+   * Build: http://modernizr.com/download/#-generatedcontent-csstransforms-csstransforms3d-history-input-inputtypes-localstorage-geolocation-inlinesvg-svg-touch-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-file_api
+   */
+  
+  window.Modernizr = function(a, b, c) {
+    function B(a) {
+      j.cssText = a
+    }
+
+    function C(a, b) {
+      return B(n.join(a + ";") + (b || ""))
+    }
+
+    function D(a, b) {
+      return typeof a === b
+    }
+
+    function E(a, b) {
+      return !!~("" + a).indexOf(b)
+    }
+
+    function F(a, b) {
+      for (var d in a) {
+        var e = a[d];
+        if (!E(e, "-") && j[e] !== c) return b == "pfx" ? e : !0
+      }
+      return !1
+    }
+
+    function G(a, b, d) {
+      for (var e in a) {
+        var f = b[a[e]];
+        if (f !== c) return d === !1 ? a[e] : D(f, "function") ? f.bind(d || b) : f
+      }
+      return !1
+    }
+
+    function H(a, b, c) {
+      var d = a.charAt(0).toUpperCase() + a.slice(1),
+        e = (a + " " + p.join(d + " ") + d).split(" ");
+      return D(b, "string") || D(b, "undefined") ? F(e, b) : (e = (a + " " + q.join(d + " ") + d).split(" "), G(e, b, c))
+    }
+
+    function I() {
+      e.input = function(c) {
+        for (var d = 0, e = c.length; d < e; d++) u[c[d]] = c[d] in k;
+        return u.list && (u.list = !!b.createElement("datalist") && !!a.HTMLDataListElement), u
+      }("autocomplete autofocus list placeholder max min multiple pattern required step".split(" ")), e.inputtypes = function(a) {
+        for (var d = 0, e, f, h, i = a.length; d < i; d++) k.setAttribute("type", f = a[d]), e = k.type !== "text", e && (k.value = l, k.style.cssText = "position:absolute;visibility:hidden;", /^range$/.test(f) && k.style.WebkitAppearance !== c ? (g.appendChild(k), h = b.defaultView, e = h.getComputedStyle && h.getComputedStyle(k, null).WebkitAppearance !== "textfield" && k.offsetHeight !== 0, g.removeChild(k)) : /^(search|tel)$/.test(f) || (/^(url|email)$/.test(f) ? e = k.checkValidity && k.checkValidity() === !1 : e = k.value != l)), t[a[d]] = !!e;
+        return t
+      }("search tel url email datetime date month week time datetime-local number range color".split(" "))
+    }
+
+    var d = "2.6.2",
+      e = {},
+      f = !0,
+      g = b.documentElement,
+      h = "modernizr",
+      i = b.createElement(h),
+      j = i.style,
+      k = b.createElement("input"),
+      l = ":)",
+      m = {}.toString,
+      n = " -webkit- -moz- -o- -ms- ".split(" "),
+      o = "Webkit Moz O ms",
+      p = o.split(" "),
+      q = o.toLowerCase().split(" "),
+      r = {
+        svg: "http://www.w3.org/2000/svg"
+      },
+      s = {},
+      t = {},
+      u = {},
+      v = [],
+      w = v.slice,
+      x, y = function(a, c, d, e) {
+        var f, i, j, k, l = b.createElement("div"),
+          m = b.body,
+          n = m || b.createElement("body");
+        if (parseInt(d, 10))
+          while (d--) j = b.createElement("div"), j.id = e ? e[d] : h + (d + 1), l.appendChild(j);
+        return f = ["&#173;", '<style id="s', h, '">', a, "</style>"].join(""), l.id = h, (m ? l : n).innerHTML += f, n.appendChild(l), m || (n.style.background = "", n.style.overflow = "hidden", k = g.style.overflow, g.style.overflow = "hidden", g.appendChild(n)), i = c(l, a), m ? l.parentNode.removeChild(l) : (n.parentNode.removeChild(n), g.style.overflow = k), !!i
+      },
+      z = {}.hasOwnProperty,
+      A;
+    !D(z, "undefined") && !D(z.call, "undefined") ? A = function(a, b) {
+      return z.call(a, b)
+    } : A = function(a, b) {
+      return b in a && D(a.constructor.prototype[b], "undefined")
+    }, Function.prototype.bind || (Function.prototype.bind = function(b) {
+      var c = this;
+      if (typeof c != "function") throw new TypeError;
+      var d = w.call(arguments, 1),
+        e = function() {
+          if (this instanceof e) {
+            var a = function() {};
+            a.prototype = c.prototype;
+            var f = new a,
+              g = c.apply(f, d.concat(w.call(arguments)));
+            return Object(g) === g ? g : f
+          }
+          return c.apply(b, d.concat(w.call(arguments)))
+        };
+      return e
+    }), s.touch = function() {
+      var c;
+      return "ontouchstart" in a || a.DocumentTouch && b instanceof DocumentTouch ? c = !0 : y(["@media (", n.join("touch-enabled),("), h, ")", "{#modernizr{top:9px;position:absolute}}"].join(""), function(a) {
+            c = a.offsetTop === 9
+        }), c    }, s.geolocation = function() {
+        return "geolocation" in navigator
+    }, s.history = function() {
+        return !!a.history && !!history.pushState
+    }, s.csstransforms = function() {
+        return !!H("transform")
+    }, s.csstransforms3d = function() {
+        var a = !!H("perspective");
+        return a && "webkitPerspective" in g.style && y("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}", function(b, c) {
+            a = b.offsetLeft === 9 && b.offsetHeight === 3
+        }), a
+    }, s.generatedcontent = function() {
+        var a;
+        return y(["#", h, "{font:0/0 a}#", h, ':after{content:"', l, '";visibility:hidden;font:3px/1 a}'].join(""), function(b) {
+            a = b.offsetHeight >= 3
+        }), a
+    }, s.localstorage = function() {
+        try {
+            return localStorage.setItem(h, h), localStorage.removeItem(h), !0
+        } catch (a) {
+            return !1
+        }
+    }, s.svg = function() {
+        return !!b.createElementNS && !!b.createElementNS(r.svg, "svg").createSVGRect
+    }, s.inlinesvg = function() {
+        var a = b.createElement("div");
+        return a.innerHTML = "<svg/>", (a.firstChild && a.firstChild.namespaceURI) == r.svg
+    };
+    for (var J in s) A(s, J) && (x = J.toLowerCase(), e[x] = s[J](), v.push((e[x] ? "" : "no-") + x));
+    return e.input || I(), e.addTest = function(a, b) {
+            if (typeof a == "object")
+                for (var d in a) A(a, d) && e.addTest(d, a[d]);
+            else {
+                a = a.toLowerCase();
+                if (e[a] !== c) return e;
+                b = typeof b == "function" ? b() : b, typeof f != "undefined" && f && (g.className += " " + (b ? "" : "no-") + a), e[a] = b
+            }
+            return e
+        }, B(""), i = k = null,
+        function(a, b) {
+            function k(a, b) {
+                var c = a.createElement("p"),
+                    d = a.getElementsByTagName("head")[0] || a.documentElement;
+                return c.innerHTML = "x<style>" + b + "</style>", d.insertBefore(c.lastChild, d.firstChild)
+            }
+
+            function l() {
+                var a = r.elements;
+                return typeof a == "string" ? a.split(" ") : a
+            }
+
+            function m(a) {
+                var b = i[a[g]];
+                return b || (b = {}, h++, a[g] = h, i[h] = b), b
+            }
+
+            function n(a, c, f) {
+                c || (c = b);
+                if (j) return c.createElement(a);
+                f || (f = m(c));
+                var g;
+                return f.cache[a] ? g = f.cache[a].cloneNode() : e.test(a) ? g = (f.cache[a] = f.createElem(a)).cloneNode() : g = f.createElem(a), g.canHaveChildren && !d.test(a) ? f.frag.appendChild(g) : g
+            }
+
+            function o(a, c) {
+                a || (a = b);
+                if (j) return a.createDocumentFragment();
+                c = c || m(a);
+                var d = c.frag.cloneNode(),
+                    e = 0,
+                    f = l(),
+                    g = f.length;
+                for (; e < g; e++) d.createElement(f[e]);
+                return d
+            }
+
+            function p(a, b) {
+                b.cache || (b.cache = {}, b.createElem = a.createElement, b.createFrag = a.createDocumentFragment, b.frag = b.createFrag()), a.createElement = function(c) {
+                    return r.shivMethods ? n(c, a, b) : b.createElem(c)
+                }, a.createDocumentFragment = Function("h,f", "return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&(" + l().join().replace(/\w+/g, function(a) {
+                    return b.createElem(a), b.frag.createElement(a), 'c("' + a + '")'
+                }) + ");return n}")(r, b.frag)
+            }
+
+            function q(a) {
+                a || (a = b);
+                var c = m(a);
+                return r.shivCSS && !f && !c.hasCSS && (c.hasCSS = !!k(a, "article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}mark{background:#FF0;color:#000}")), j || p(a, c), a
+            }
+            var c = a.html5 || {},
+                d = /^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,
+                e = /^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,
+                f, g = "_html5shiv",
+                h = 0,
+                i = {},
+                j;
+            (function() {
+                try {
+                    var a = b.createElement("a");
+                    a.innerHTML = "<xyz></xyz>", f = "hidden" in a, j = a.childNodes.length == 1 || function() {
+                        b.createElement("a");
+                        var a = b.createDocumentFragment();
+                        return typeof a.cloneNode == "undefined" || typeof a.createDocumentFragment == "undefined" || typeof a.createElement == "undefined"
+                    }()
+                } catch (c) {
+                    f = !0, j = !0
+                }
+            })();
+            var r = {
+                elements: c.elements || "abbr article aside audio bdi canvas data datalist details figcaption figure footer header hgroup mark meter nav output progress section summary time video",
+                shivCSS: c.shivCSS !== !1,
+                supportsUnknownElements: j,
+                shivMethods: c.shivMethods !== !1,
+                type: "default",
+                shivDocument: q,
+                createElement: n,
+                createDocumentFragment: o
+            };
+            a.html5 = r, q(b)
+        }(this, b), e._version = d, e._prefixes = n, e._domPrefixes = q, e._cssomPrefixes = p, e.testProp = function(a) {
+            return F([a])
+        }, e.testAllProps = H, e.testStyles = y, e.prefixed = function(a, b, c) {
+            return b ? H(a, b, c) : H(a, "pfx")
+        }, g.className = g.className.replace(/(^|\s)no-js(\s|$)/, "$1$2") + (f ? " js " + v.join(" ") : ""), e
+}(this, this.document), Modernizr.addTest("filereader", function() {
+    return !!(window.File && window.FileList && window.FileReader)
+});
+  
+
+function transEndEvent() {
+    var transEndEventNames = {
+        'WebkitTransition': 'webkitTransitionEnd',
+        'MozTransition': 'transitionend',
+        'OTransition': 'oTransitionEnd',
+        'msTransition': 'MSTransitionEnd',
+        'transition': 'transitionend'
+    };
+    return transEndEventNames[Modernizr.prefixed('transition')];
+}
+
+(function($) {
+
+    var displayNOTxsm = window.matchMedia("(min-width: 767px)");
+    $(function () {
+        //setup ajax error handling
+        $.ajaxSetup({
+            error: function (jqXHR, exception, error) {
+                if (jqXHR.status === 0) {
+                    // Status 0 means page unloaded before ajax completed
+                } else if (jqXHR.status == 404) {
+                    alert('Requested page not found. [404]');
+                } else if (jqXHR.status == 500) {
+                    alert('Internal Server Error [500].');
+                } else if (exception === 'parsererror') {
+                    alert('Requested JSON parse failed.');
+                } else if (exception === 'timeout') {
+                    alert('Time out error.');
+                } else if (exception === 'abort') {
+                    alert('Ajax request aborted.');
+                } else {
+                    alert('Uncaught Error. ' + jqXHR.responseText);
+                }
+            }
+        });
+    });
+
+    sx = { // Collection of global functions
+        transitionEndEvent: transEndEvent(),
+        setResponsive: function() {
+            $('html').removeClass('device-xs');
+            $('html').removeClass('device-sm');
+            $('html').removeClass('device-md');
+            $('html').removeClass('device-lg');
+
+            if (window.innerWidth < 768) {
+                $('html').addClass('device-xs');
+            } else if (window.innerWidth >= 768 && window.innerWidth < 992) {
+                $('html').addClass('device-sm');
+            } else if (window.innerWidth >= 992 && window.innerWidth < 1200) {
+                $('html').addClass('device-md');
+            } else {
+                $('html').addClass('device-lg');
+            }
+        },
+        setMinHeight: function() {
+            // Set min-height for page
+            if ($('#main').hasClass('no-min-height')) {
+                return;
+            }
+
+            var minHeight = $('#main').height() <= 300 ? 300 : $('#main').height();
+
+            $('#main').css({
+                'min-height': minHeight + 'px'
+            });
+        },
+        closeAll: function() {
+            $('.ui-popup').hide();
+            sx.hideLoading();
+            if ($('.ui-modal').is(':visible')) {
+
+                $('.ui-modal').on(sx.transitionEndEvent, function() {
+                    if (0 == $(this).css('opacity')) {
+                        $('.ui-modal').css({
+                            visibility: 'hidden',
+                            display: 'none'
+                        });
+                        $(this).off(sx.transitionEndEvent);
+                    }
+                });
+                $('.ui-modal').css({
+                    opacity: 0,
+                    visibility: 'hidden',
+                    display: 'none'
+                });
+
+                if (!sx.transitionEndEvent) {
+                    $('.ui-modal').css({
+                        visibility: 'hidden',
+                        display: 'none'
+                    });
+                }
+            }
+            //document.body.removeEventListener('touchmove', sx.disableTouchMove);
+            if (displayNOTxsm.matches) {
+                $('#ui-overlay').removeClass('overlayActive');
+            }
+            $('#ui-overlay').removeClass('in-modal');
+            $('.ui-dropdown').hide();
+            $('.dropDownOpen').removeClass('dropDownOpen');
+            $('.navOpen').removeClass('navOpen');
+            $('#gallery-large').remove();
+            $('.prof-menu-btn-open').removeClass('prof-menu-btn-open');
+            $('.prof-menu-open').removeClass('prof-menu-open');
+            $('html').removeClass('large-gallery-open');
+            $('body').css({
+                position: 'static',
+            });
+            $('body').css('padding-right', '0px');
+            $('.subBrandsOpen').removeClass('subBrandsOpen');
+            sx.showSubmit();
+        },
+        disableTouchMove: function(e) {
+            //    e.preventDefault();
+        },
+        showSubmit: function(obj) {
+            $('.submit-hide:disabled').remove();
+            $('.submit-hide').show();
+        },
+        adjustProfDetailColumns: function() {
+            var hLeft = $('.profile-middle').height();
+            var hRight = $('.profile-right').height();
+
+            var tall = Math.max(hLeft, hRight);
+            $('.profile-middle').height(tall);
+            $('.profile-right').height(tall);
+
+        },
+        hideSubmit: function(obj) {
+            $obj = $(obj);
+            $obj.clone()
+                .attr('disabled', 'disabled')
+                .attr('value', 'Working...')
+                .css({
+                    cursor: 'default',
+                    opacity: '.5'
+                })
+                .insertAfter($obj);
+            $obj.hide();
+        },
+        showOverlay: function(options) {
+            var defaults = {
+                closeOnClick: true
+            };
+
+            options = $.extend(defaults, options);
+
+            if (displayNOTxsm.matches) {
+                $('#ui-overlay').addClass('overlayActive');
+            }
+            $('#ui-overlay').css({
+                opacity: options.opacity
+            });
+
+            //document.body.addEventListener('touchmove', sx.disableTouchMove);
+
+            if (options.closeOnClick) {
+                $("#ui-overlay").on('click', function() {
+                    sx.closeAll();
+                    $(this).off('click');
+                });
+            }
+        },
+        showLoading: function() {
+            if (0 == $('#loadingAnimation').length) {
+                $('body').append('<div id="loadingAnimation"></div>');
+            }
+            $('#loadingAnimation').css({
+                visibility: 'visible',
+                opacity: 1,
+            });
+        },
+        hideLoading: function() {
+            $('#loadingAnimation').on(sx.transitionEndEvent, function() {
+                $('#loadingAnimation:visible').css({
+                    visibility: 'hidden'
+                });
+                $(this).off(sx.transitionEndEvent);
+            });
+
+            $('#loadingAnimation').css({
+                opacity: 0,
+                visibility: 'hidden',
+            });
+
+        },
+        scrollerWidth: function() {
+            var scr = null;
+            var inn = null;
+            var wNoScroll = 0;
+            var wScroll = 0;
+
+            // Outer scrolling div
+            scr = document.createElement('div');
+            scr.style.position = 'absolute';
+            scr.style.top = '-1000px';
+            scr.style.left = '-1000px';
+            scr.style.width = '100px';
+            scr.style.height = '50px';
+            // Start with no scrollbar
+            scr.style.overflow = 'hidden';
+
+            // Inner content div
+            inn = document.createElement('div');
+            inn.style.width = '100%';
+            inn.style.height = '200px';
+
+            // Put the inner div in the scrolling div
+            scr.appendChild(inn);
+            // Append the scrolling div to the doc
+            document.body.appendChild(scr);
+
+            // Width of the inner div sans scrollbar
+            wNoScroll = inn.offsetWidth;
+            // Add the scrollbar
+            scr.style.overflow = 'auto';
+            // Width of the inner div width scrollbar
+            wScroll = inn.offsetWidth;
+
+            // Remove the scrolling div from the doc
+            document.body.removeChild(document.body.lastChild);
+
+            // Pixel width of the scroller
+            return (wNoScroll - wScroll);
+        },
+        refreshPage: function(options) {
+            var defaults = {
+                'onComplete': function() {},
+            };
+
+            var sep = '?';
+            if (document.location.href.indexOf('?') > 0) {
+                sep = '&';
+            }
+            var url = document.location.href + sep +"ajax=1&ajaxRefresh=1";
+
+            $.ajax(url, {
+                dataType: 'html',
+                success: sx.displayRefreshPage
+            });
+
+        },
+        displayRefreshPage: function(data, textStatus, jqXHR) {
+            var $data = $('<div>' + data + '</div>');
+
+            $('[data-xhr-content]', $data).each(function() {
+                var $this = $(this);
+                var s = $this.data('xhr-content');
+                var $target = $('body [data-xhr-content=' + s + ']');
+                if (0 < $target.length) {
+                    $target.replaceWith($this);
+                }
+            });
+
+            doReady({
+                init: 'xhrRefresh'
+            });
+
+            //Remove the ADD_PROFILE_PHOTO task if user has uploaded an image
+            if ($('.prof-home-card-photo > img').hasClass('user-profile-photo') && typeof window.EventBus !== 'undefined') {
+                EventBus.$emit('prompts.suspend_task', {task: 'profile-management.ADD_PROFILE_PHOTO'});
+            }
+        },
+        formValidate: function(url, validator, field) {
+            $.ajax(url, {
+                data: {
+                    validate: validator,
+                    value: $('#edit-' + field).val()
+                },
+                dataType: 'json',
+                success: function(data, textStatus, jqXHR) {
+                    if ('undefined' == data.severity) {
+                        if (data.valid) {
+                            data.severity = 'valid';
+                        } else {
+                            data.severity = 'valid';
+                        }
+                    }
+
+                    $('#field-' + field).attr('data-validation-response', data.severity);
+
+					if (data.severity != 'valid') {
+						$('#field-' + field).addClass('has-danger');
+					} else {
+					    $('#field-' + field).removeClass('has-danger');
+					}
+
+                    $('#edit-' + field + '_hint').html(data.message);
+                    sx.showSubmit();
+                }
+
+            });
+        },
+    };
+
+    $.fn.extend({
+        sxAddCloseButton: function() {
+            if ($('.ui-close', this).length == 0) {
+                $(this).append('<button type="button" class="ui-sprite ui-close"></button>');
+            }
+
+            $('.ui-close').on('click', function(event) {
+                event.preventDefault();
+                sx.closeAll();
+            });
+        },
+        sxPos: function() {
+            var offset = $(this).offset();
+
+            pos = {
+                left: offset.left,
+                top: offset.top,
+                right: offset.left + $(this).outerWidth(),
+                bottom: offset.top + $(this).outerHeight(),
+                width: $(this).outerWidth(),
+                height: $(this).outerHeight()
+            };
+            return pos;
+        },
+
+        sxFixPos: function() {
+            var wScrollTop = $(window).scrollTop();
+            var wScrollLeft = $(window).scrollLeft();
+
+            var wHeight = $(window).height();
+            var wWidth = window.innerWidth;
+
+            // Mobile devices go full screen
+            if ($('html').hasClass('device-xs')) {
+              $(this).css({
+                'width': '100%',
+                'height': '100%',
+                'top': 0,
+                'left': 0,
+                'overflow': 'auto',
+                'position':'fixed'
+              });
+              return;
+            }
+
+            objPos = $(this).sxPos();
+            if ($('.region-right').length) {
+                containerPos = $('.region-right').sxPos();
+            } else {
+                containerPos = $('body').sxPos();
+            }
+
+            maxBottom = wScrollTop + wHeight;
+            maxRight = wScrollLeft + wWidth;
+
+            maxConRight = containerPos.left + containerPos.width;
+
+            newTop = objPos.top;
+            newLeft = objPos.left;
+
+            if (maxConRight < maxRight) {
+                maxRight = maxConRight;
+            }
+            if (objPos.bottom > maxBottom) {
+                newTop = maxBottom - $(this).outerHeight() - 30;
+            }
+            if (objPos.right > maxConRight) {
+                newLeft = maxRight - $(this).outerWidth() - 15;
+            }
+
+            if (newTop < wScrollTop) {
+                newTop = wScrollTop;
+            }
+            newWidth = objPos.width;
+            newHeight = objPos.height;
+
+            if (newHeight > wHeight - wScrollTop) {
+                newHeight = wHeight - 100;
+                newTop = newTop + 20;
+            }
+
+            $(this).offset({
+                top: newTop,
+                left: newLeft
+            });
+
+            $(this).css({
+                overflow: 'auto'
+            });
+            if (newHeight < objPos.height) {
+                $(this).height(newHeight);
+            }
+            if (newWidth < objPos.width) {
+                $(this).width(newWidth);
+            }
+
+        },
+        sxTabs: function() {
+            this.each(function() {
+
+                if ($(this).hasClass('tabs-processed')) {
+                    return;
+                } else {
+                    $(this).addClass('tabs-processed');
+                }
+
+                $('div.tab-pane', this).hide();
+                $('div.tab-pane:first', this).show();
+
+                var tabs = $(this);
+                var fragmentId = /^#.+/;
+                $('ul:first a:first', this).addClass('tab-active');
+                $('ul:first a:first', this).append('<span class="arrow"><span class="icon ui-sprite"></span></span>');
+                $('ul:first a', this).each(function() {
+                    $(this).on('click', function(event) {
+                        event.preventDefault();
+                        dataLayer.push({
+                            'eventCategory': 'ProfDetail',
+                            'eventAction': 'Tab',
+                            'eventLabel': $(this).text(),
+                            'event': 'dataLayerEvent'
+                        });
+                        $('div.tab-pane', tabs).hide();
+                        $(this).addClass('tab-active');
+                        frag = this.href.split('#');
+                        $('#' + frag[1]).show();
+                        $('ul:first a', tabs).removeClass('tab-active');
+                        $('ul:first a span', tabs).remove();
+                        $(this).append('<span class="arrow"><span class="icon ui-sprite"></span></span>');
+                        $(this).addClass('tab-active');
+                        sx.adjustProfDetailColumns();
+                    });
+                });
+            });
+
+        },
+        sxPopup: function(options) {
+            $(this).each(function() {
+                var defaults = {
+                    buttonClass: null,
+                    content: null
+                };
+
+                if ($(this).hasClass('popup-processed')) {
+                    return;
+                } else {
+                    $(this).addClass('popup-processed');
+                }
+
+                options = $.extend(defaults, options);
+
+                var popup = $(this);
+                popup.css({
+                    'z-index': 11000,
+                    'position': 'absolute'
+                });
+
+                popup.hide();
+                popup.sxAddCloseButton();
+
+                popup.addClass('processed');
+                popup.addClass('ui-popup');
+
+                var buttonClass = 'ui-button';
+                if (options.buttonClass) {
+                    buttonClass += " " + options.buttonClass;
+                }
+
+                var button = $('<button type="button" class="' + buttonClass + '">' + $(':first-child', popup).html() + '</button>');
+                popup.before(button);
+                $(popup).appendTo('body');
+                var loaded = false;
+                $(button).on('click', function(event) {
+alert('submit');
+                    if ($(this).hasClass('glossary-button')) {
+                        dataLayer.push({
+                            'eventCategory': 'ProfDetail',
+                            'eventAction': 'GlossaryPopup',
+                            'eventLabel': $(this).text(),
+                            'event': 'dataLayerEvent'
+                        });
+
+                    } else {
+                        dataLayer.push({
+                            'eventCategory': 'ProfDetail',
+                            'eventAction': 'Popup',
+                            'eventLabel': $(this).text(),
+                            'event': 'dataLayerEvent'
+                        });
+                    }
+
+                    if (loaded === false && options.content) {
+                        content = options.content(function() {
+                            showPopup(event);
+                        });
+                        loaded = true;
+                    } else {
+                        showPopup();
+                    }
+
+                });
+
+
+                function showPopup(event) {
+                    var top, left = 0;
+
+                    sx.closeAll();
+                    sx.showOverlay();
+                    $(popup).show();
+                    var bpos = $(button).offset();
+                    var bheight = $(button).height();
+                    var bwidth = $(button).width();
+                    switch(options.position) {
+                      case 'top-left':
+                        top = bpos.top - $(popup).height();
+                        left = bpos.left - ($(popup).width() - bwidth);
+                        break;
+                      case 'top-right':
+                        top = bpos.top - $(popup).height();
+                        left = bpos.left;
+                        break;
+                      case 'bottom-left':
+                        top = bpos.top + bheight;
+                        left = bpos.left - ($(popup).width() - bwidth);
+                        break;
+                      case 'bottom-right':
+                        top = bpos.top + bheight;
+                        left = bpos.left;
+                        break;
+                      case 'top-left':
+                      default:
+                        top = bpos.top;
+                        left = bpos.left;
+                    }
+                    $(popup).offset({
+                        top: top,
+                        left: left
+                    });
+                    $(popup).sxFixPos();
+
+                }
+            });
+        },
+        sxModal: function(options) {
+
+            var defaults = {
+                top: false,
+                left: false,
+                overlay: 0.5,
+                closeButton: null,
+                positionFn: function(modal) {
+                    var wHeight = $(window).height();
+                    var wWidth = $(window).width();
+
+                    // Mobile devices go full screen
+                    if ($('html').hasClass('device-xs')) {
+                        var pos = {
+                            top: 0,
+                            left: 0
+                        };
+                        return pos;
+                    }
+
+                    var x = (wWidth - $(modal).width()) / 2;
+                    var y = (wHeight - $(modal).height()) / 2;
+                    if (y > 200) {
+                        y = 200;
+                    }
+                    var pos = {
+                        top: y,
+                        left: x
+                    };
+
+                    return pos;
+                }
+            };
+
+            options = $.extend(defaults, options);
+            var o = options;
+
+            $(this).each(function() {
+                if ($(this).hasClass('modal-processed')) {
+                    return;
+                } else {
+                    $(this).addClass('modal-processed');
+                }
+                var target = $(this).attr('data-ui-target');
+                if (!target) {
+                    return;
+                }
+
+                var url;
+                if ('href' == target) {
+                    url = $(this).attr('href');
+                    if (url.indexOf('?')) {
+                        url += "&";
+                    } else {
+                        url += "?";
+                    }
+                    url += "ajax=1";
+                }
+
+
+                if ('#' == target.substr(0, 1)) {
+                    if (!$(target).length) {
+                        $('body').append('<div id="' + target.substr(1) + '" style="display:none;"><div class="ui-modal-content"></div></div>');
+                    }
+                    $(target).addClass('ui-modal');
+                } else {
+                    if (!$('#ui-modal-default').length) {
+                        $('body').append('<div id="ui-modal-default" class="ui-modal" style="display:none;"><div class="ui-modal-content"></div></div>');
+                    }
+                    target = '#ui-modal-default';
+                }
+
+                $(target).addClass('ui-modal-xs');
+                $(target).addClass('ui-modal-sm');
+                $(target).addClass('ui-modal-md');
+                $(target).addClass('ui-modal-lg');
+
+                $(this).click(function(e) {
+                    e.preventDefault();
+                    sx.closeAll();
+                    var modalPanel = $(target);
+                    modalPanel.sxAddCloseButton();
+
+                    // Special case for maps
+                    if (target == '#ui-modal-map') {
+                        dataLayer.push({
+                            'eventCategory': 'ProfDetail',
+                            'eventAction': 'MapOpen',
+                            'eventLabel': $(this).text(),
+                            'event': 'dataLayerEvent'
+                        });
+
+                        if ($('.ui-modal-content', modalPanel).html().length === 0) {
+                            $('.ui-modal-content', modalPanel).append('<div id="map"></div>');
+                            map_modal_draw(this);
+                        }
+                    }
+
+                    if (target == '#ui-modal-default') {
+                        $('.ui-modal-content', modalPanel).html('');
+                    }
+
+                    var modal_height = $(modalPanel).outerHeight();
+                    var modal_width = $(modalPanel).outerWidth();
+
+                    $(modalPanel).show();
+                    $(modalPanel).css({
+                        'display': 'block',
+                        'position': 'fixed',
+                        'z-index': 11000,
+                    });
+
+                    if (url) {
+                        sx.showLoading();
+                        $.ajax(url, {
+                            dataType: 'html',
+                            success: function(data, textStatus, jqXHR) {
+                                prepareAjaxHTML(data, modalPanel);
+                                doReady({
+                                    init: 'modalLoad'
+                                });
+                                pos = o.positionFn(modalPanel);
+                                sx.hideLoading();
+                                modalPanel.css({
+                                    opacity: 1,
+                                    visibility: 'visible',
+                                    'left': pos.left + "px",
+                                    'top': pos.top + "px"
+                                });
+                                $(modalPanel).sxFixPos();
+                            }
+                        });
+                    } else {
+
+                        pos = o.positionFn(modalPanel);
+
+                        modalPanel.css({
+                            opacity: 1,
+                            visibility: 'visible',
+                            'left': pos.left + "px",
+                            'top': pos.top + "px"
+                        });
+                    }
+                    sx.showOverlay({
+                        closeOnClick: true
+                    });
+                    $('#ui-overlay').addClass('in-modal');
+                    $(modalPanel).sxFixPos();
+
+                    var off = $('#header').offset();
+                    var sbWidth = sx.scrollerWidth();
+
+                    $('body').css({
+                        overflow: 'hidden'
+                    });
+                    $('body').css('padding-right', sbWidth + 'px');
+                    $('#headerWrapper .pageInner').css('padding-right', sbWidth + 'px');
+
+                    w1 = $('body').width();
+                    w2 = $('body').width() - sbWidth;
+                    pos = .5 / (w1 / w2) * 100;
+                });
+
+                function prepareAjaxHTML(data, modalPanel) {
+
+                    $data = $('<div>' + data + '</div>');
+                    $('.ui-modal-content', modalPanel).empty();
+                    $('meta', $data).remove();
+                    $('link', $data).remove();
+                    $('.ui-modal-content', modalPanel).append($data);
+                    $('.ui-modal-content form', modalPanel).append('<input type="hidden" name="ajax" value="1">');
+                    $(modalPanel).sxFixPos();
+
+                    $(':submit', modalPanel).on('click', function(event) {
+
+                        event.preventDefault();
+                        var form = $(this).closest('form');
+			console.log(form);
+                        var data = form.serializeArray();
+                        var dest = form.attr('action');
+                        data.push({
+                            name: 'edit[submit]',
+                            value: $(this).val()
+                        });
+                        $.ajax(dest, {
+                            data: data,
+                            type: 'post',
+                            success: function(data, textStatus, jqXHR) {
+
+                                if (typeof data == "object") {
+                                    // Response is javascript object
+                                    if (1 == data.status) {
+                                        if (data.hasOwnProperty('redirect')) {
+                                            document.location.href = data.redirect;
+                                        } else if (1 == data.mainXhrRefresh) {
+                                            sx.closeAll();
+                                            sx.showLoading();
+                                            sx.refreshPage(function() {
+                                                sx.hideLoading();
+                                            });
+                                        } else {
+                                            sx.closeAll();
+                                        }
+                                    } else {
+                                        prepareAjaxHTML(data.form, modalPanel);
+                                    }
+                                } else {
+                                    prepareAjaxHTML(data, modalPanel);
+                                }
+
+
+                            }
+                        });
+                    });
+                }
+
+                         function map_modal_draw() {
+                    var markers = [];
+                    var markerABC = 'A';
+                    var coords;
+                    var geocoder = new google.maps.Geocoder();
+                    var latlng = new google.maps.LatLng(44.8819, -93.2217);
+                    var addr;
+                    var mapOptions = {
+                        center: latlng,
+                        zoom: 8,
+                        mapTypeId: google.maps.MapTypeId.ROADMAP
+                    };
+
+                    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+                    $('#ui-modal-map').append('<div class="map-addresses"></div>');
+                    var count=1;
+                    $('[data-ui-target="#ui-modal-map"]').each(function() {
+                        lat = $(this).attr('data-map-lat');
+                        lon = $(this).attr('data-map-lon');
+                        over_enable = parseInt($(this).attr('data-map-over-enable'));
+                        address = $(this).attr('data-'+$(this).attr('data-map-address'));
+
+                        if (over_enable) {
+
+                            coords = new google.maps.LatLng(lat, lon);
+                            map.setCenter(coords);
+                            marker = new google.maps.Marker({
+                                icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                                position: coords,
+                                animation: google.maps.Animation.DROP,
+                                map: map
+                            });
+
+                            markers.push(marker);
+
+                            addr = $("." + $(this).attr('data-map-address')).parents('.section').clone().appendTo('.map-addresses');
+                            $('button', addr).remove();
+                            addr.css({
+                                'padding-left': '30px',
+                                'background-image': 'url(//www.google.com/mapfiles/marker' + markerABC + '.png)',
+                                'background-repeat': 'no-repeat'
+                            });
+                            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+                            if (count==$('[data-ui-target="#ui-modal-map"]').length) {
+                                setMap(markers,map);
+                            } else {
+                                count++;
+                            }
+                        } else {
+
+			    addr = $("." + $(this).attr('data-map-address')).parents('.section').clone().appendTo('.map-addresses');
+                            $('button', addr).remove();
+
+                            codeAddress(address, function(coords){
+                                map.setCenter(coords);
+                                marker = new google.maps.Marker({
+                                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                                    position: coords,
+                                    animation: google.maps.Animation.DROP,
+                                    map: map
+                                });
+
+
+                                markers.push(marker);
+
+                                addr = $("." + $(this).attr('data-map-address')).parents('.section').clone().appendTo('.map-addresses');
+
+                                $('button', addr).remove();
+                                addr.css({
+                                    'padding-left': '30px',
+                                    'background-image': 'url(//www.google.com/mapfiles/marker' + markerABC + '.png)',
+                                    'background-repeat': 'no-repeat'
+                                });
+                                markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+                                if (count==$('[data-ui-target="#ui-modal-map"]').length) {
+                                    setMap(markers,map);
+                                } else {
+                                    count++;
+                                }
+                            });
+                        }
+
+                    });
+
+                }
+            });
+
+            function codeAddress(address, callback) {
+              var geocoder = new google.maps.Geocoder();
+              if (geocoder) {
+                geocoder.geocode({'address': address}, function(results, status) {
+                  if (status == google.maps.GeocoderStatus.OK) {
+                      callback(results[0].geometry.location);
+                  }
+                });
+              }
+            }
+
+            function setMap(markers,map) {
+                    zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function(event) {
+
+                        if (this.getZoom() > 9) {
+                            if (markers.length == 1) {
+                                // Change max/min zoom here
+                                this.setZoom(13);
+                            }
+                        }
+                        google.maps.event.removeListener(zoomChangeBoundsListener);
+                    });
+
+                    var bounds = new google.maps.LatLngBounds();
+                    $.each(markers, function(index, marker) {
+                        marker.setMap(map);
+                        bounds.extend(marker.getPosition());
+                    });
+                    map.fitBounds(bounds);
+            }
+        },
+        sxGlossary: function() {
+            // Insert a blank popup for re-use throughout
+            var terms = [];
+            $(this).each(function(index, item) {
+
+                var glossaryUrl = $(this).attr('data-glossary-url');
+                if (!glossaryUrl) {
+                    return;
+                }
+
+
+                var popup = $('<div class="ui-popup glossary-popup" style="display:none;"><h2>' + $(this).html() + '<span class="glossary-icon ui-sprite"></span></h2></div>');
+
+                var options = {
+                    buttonClass: 'glossary-button',
+                    content: function(callback) {
+                        // Haven't loaded data yet, so fetch it then go
+                        $.getJSON(glossaryUrl, function(data) {
+                            $(popup).append('<div class="glossary-definition">' + data.data.definition + '</div>');
+                            callback();
+                        });
+                    }
+                };
+                $(popup).insertAfter(this).sxPopup(options);
+                $(this).remove();
+            });
+
+        },
+        sxCollapsible: function() {
+
+            $(this).each(function(index, item) {
+                if ($(this).hasClass('collapsible-processed')) {
+                    return;
+                } else {
+                    $(this).addClass('collapsible-processed');
+                }
+                $('h3', this).append('<span class="collapsible-arrow"><span></span></span>');
+                $('.collapsible-content', this).hide();
+                $('h3', this).addClass('collapsed');
+
+                $('h3', this).click(function(e) {
+                    e.preventDefault();
+                    if ($(this).hasClass('collapsed')) {
+                        $('.collapsible-content', $(this).parent()).slideDown();
+                        $(this).removeClass('collapsed');
+                    } else {
+                        $('.collapsible-content', $(this).parent()).slideUp();
+                        $(this).addClass('collapsed');
+                    }
+                });
+
+
+            });
+        },
+        sxSliderList: function(options) {
+            var defaults = {
+                target: false,
+                click: function(e) {},
+                outerWidth: function() {
+                    return $(window).innerWidth();
+                }
+            };
+
+            options = $.extend(defaults, options);
+
+            if (!options.target) {
+                return;
+            }
+
+            var list = $(options.target);
+            list.addClass('sliderList');
+
+            var container = list.wrap('<div class="sliderContainer"></div>').parent();
+            var slider = list.wrap('<div class="slider"></div>').parent();
+
+            var sliderPrevPg = $('<div class="sliderPrevPg"><i class="icon icon-chevron-left"></i></div>').prependTo(container);
+            var sliderNextPg = $('<div class="sliderNextPg"><i class="icon icon-chevron-right"></i></div>').appendTo(container);
+
+
+            // Bind some events
+            list.bind('sliderChanged', function() {
+                setSize();
+                setNextPrev();
+            });
+
+            setSize();
+            setNextPrev();
+
+            $(window).on('resize', function() {
+                setSize();
+                setNextPrev();
+            });
+
+            function setSize() {
+                var newWidth = 0;
+                $('.sliderItem', list).each(function() {
+                    newWidth = $(this).outerWidth(true) + newWidth;
+                });
+
+                $(list).width(newWidth);
+
+
+                n1 = sliderPrevPg.outerWidth(true);
+                n2 = sliderNextPg.outerWidth(true);
+
+                $(slider).width(options.outerWidth() - (n1 + n2));
+
+                $(container).width(options.outerWidth());
+                $(slider).css({
+                    'left': n1 + 'px'
+                });
+
+            }
+
+            function setNextPrev() {
+                var listPos = list.position();
+                var containerWidth = container.width();
+                var listWidth = list.width();
+
+                if (!listWidth) {
+                    return;
+                }
+
+                if (Math.abs(listPos.left) + containerWidth <= listWidth) {
+                    sliderNextPg.css({
+                        opacity: '1',
+                        cursor: 'pointer'
+                    })
+                        .unbind('click')
+                        .click(slideNext);
+                } else {
+                    sliderNextPg.css({
+                        opacity: '.25',
+                        cursor: 'default'
+                    })
+                        .unbind('click');
+                }
+
+                if ((listPos.left < 0)) {
+                    sliderPrevPg.css({
+                        opacity: '1',
+                        cursor: 'pointer'
+                    })
+                        .unbind('click')
+                        .click(slidePrev);
+                } else {
+                    sliderPrevPg.css({
+                        opacity: '.25',
+                        cursor: 'default'
+                    }).unbind('click');
+                }
+
+            }
+
+            function slidePrev(event) {
+                event.preventDefault();
+                var nextPos;
+                var listPos = list.position();
+                var containerWidth = container.width();
+                var containerLeft = Math.abs(listPos.left);
+                var containerRight = containerLeft + containerWidth;
+
+                // Find the next thumbnail not visible on the right
+                $('.sliderItem', container).each(function() {
+                    var thumbPos = $(this).position();
+                    var thumbWidth = $(this).width();
+
+                    var maxPos = containerLeft - containerWidth;
+
+                    if (maxPos < 0) {
+                        nextPos = 0;
+                        return false;
+                    } else {
+                        if ((thumbPos.left >= maxPos)) {
+                            nextPos = thumbPos.left;
+                            return false;
+                        }
+                    }
+                });
+
+                list.css({
+                    left: -nextPos
+                }).bind(sx.transitionEndEvent, function() {
+                    setNextPrev();
+                });
+
+                if (!sx.transitionEndEvent) {
+                    setNextPrev();
+                }
+
+            }
+
+            function slideNext(event) {
+                event.preventDefault();
+                var nextPos = 0;
+                var listPos = list.position();
+                var containerWidth = container.width();
+                var containerLeft = Math.abs(listPos.left);
+                var containerRight = containerLeft + containerWidth;
+
+                // Find the next thumbnail not visible on the right
+                $('.sliderItem', list).each(function() {
+                    var thumbPos = $(this).position();
+                    var thumbWidth = $(this).width();
+
+                    thumbPos.right = thumbWidth + thumbPos.left;
+
+                    if (thumbPos.right > containerRight) {
+                        nextPos = thumbPos.left;
+                        return false;
+                    }
+                });
+
+                list.css({
+                    left: -nextPos
+                })
+                    .bind(sx.transitionEndEvent, function() {
+                        setNextPrev();
+                    });
+
+                if (!sx.transitionEndEvent) {
+                    setNextPrev();
+                }
+
+            }
+
+        }
+    });
+
+
+    function doReady(context) {
+
+        if (0 == $('.profile-address .section-content .profile-nearby').length) {
+            $('.profile-address .section-content').append($('.profile-nearby'));
+        }
+
+        sx.setResponsive();
+        $(window).on('resize', sx.setResponsive, function() {
+                var windowSize = '';
+                var windowWidth = $(window).width();
+                if (windowWidth < 768){
+                    windowSize = 'xsmall';
+                } else if (windowWidth >= 768 && windowWidth < 992){
+                    windowSize = 'small';
+                } else if (windowWidth >= 992 && windowWidth< 1200 ){
+                    windowSize = 'medium';
+                } else {
+                    windowSize = 'large';
+                }
+                if (prevWindowSize != windowSize) {
+                    var bodies = document.getElementsByTagName("body");
+                    for (var i = 0; i < bodies .length; i++) {
+                      var body_id = bodies[i].id;
+                    }
+                    if (body_id) {
+                        prevWindowSize = windowSize;
+                        dataLayer.push({
+                            'eventCategory' : body_id,
+                            'eventAction' : 'ResponsiveResize',
+                            'eventLabel' : windowSize,
+                            'event' : 'dataLayerEvent'
+                        });
+                    }
+                }
+        });
+
+
+        $('.profile-nearby').attr('data-ui-type', 'popup');
+
+        // scroll a bit for anchors to clear fixed headers
+        var hash = window.location.hash;
+        if (hash) {
+            $(window).on('load', function() {
+                window.scrollTo(0, window.pageYOffset - 50);
+            });
+        }
+
+        $(window).on('load', function() {
+            var windowSize = '';
+            var windowWidth = $(window).width();
+            var bodies = document.getElementsByTagName("body");
+            for (var i = 0; i < bodies .length; i++) {
+              var body_id = bodies[i].id;
+            }
+            if (windowWidth < 768){
+                windowSize = 'xsmall';
+            } else if (windowWidth >= 768 && windowWidth < 992){
+                windowSize = 'small';
+            } else if (windowWidth >= 992 && windowWidth< 1200 ){
+                windowSize = 'medium';
+            } else {
+                windowSize = 'large';
+            }
+            if (body_id) {
+                dataLayer.push({
+                    'eventCategory' : body_id,
+                    'eventAction' : 'ResponsiveLoad',
+                    'eventLabel' : windowSize,
+                    'event' : 'dataLayerEvent'
+                });
+            }
+        });
+
+        if ($('#ui-overlay').length == 0) {
+            $("body").append("<div id='ui-overlay'></div>");
+        }
+        $('[data-ui-type="popup"]').sxPopup({
+            buttonClass: " btn btn-gray btn-mini"
+        });
+
+        var o = {};
+
+        if ($("body").hasClass('prof-detail')) {
+            o = {
+                positionFn: function() {
+                    var scrollTop = $(window).scrollTop();
+                    var headPos = $('.profile-menu').offset();
+                    var pos = {};
+
+                    if (headPos.top < scrollTop) {
+                        // position nicely
+                        pos.top = 100;
+                    } else {
+                        pos.top = (headPos.top) - scrollTop;
+                    }
+
+                    var mPos = $('.profile-middle').offset();
+                    pos.left = mPos.left;
+
+                    return pos;
+                }
+            };
+
+        }
+
+        $('[data-ui-type="modal"]').sxModal(o);
+
+        $('.collapsible').sxCollapsible();
+        $('.tabs').sxTabs();
+
+        if (context.init == 'firstLoad') {
+            sx.adjustProfDetailColumns();
+        }
+
+        // HTML5 input placeholder fallback
+        // Duplicated in mobile.js!
+        if (Modernizr.input.placeholder) {
+            // clear the val
+            $('[placeholder]').each(function() {
+                if ($(this).val() == $(this).attr('placeholder')) {
+                    $(this).val("");
+                }
+            });
+        } else {
+            $('[placeholder]').each(function() {
+                if ($(this).val() == $(this).attr('placeholder')) {
+                    $(this).val($(this).attr('placeholder')).css({
+                        color: '#aaa'
+                    });
+                }
+                $(this).on('focus', function() {
+                    if ($(this).val() == $(this).attr('placeholder')) {
+                        $(this).val('').css({
+                            color: '#000'
+                        });
+                    }
+                });
+                $(this).on('blur', function() {
+                    if ($(this).val() === '') {
+                        $(this).val($(this).attr('placeholder')).css({
+                            color: '#aaa'
+                        });
+                    }
+                });
+            });
+        }
+
+        $(document).on('click', '.submit-hide', function(e) {
+            sx.hideSubmit(this)
+        });
+
+        $(document).on('click', '.result-row a', function(e) {
+            // Keep links inside the result row from triggering the row click event
+            e.stopPropagation();
+        });
+
+        $(document).on('click', '.result-row', function() {
+            var parts = $('#results-page').data('myurl').split('?');
+            var url = [
+                $(this).data('profile-url'),
+                '&' + parts[1]
+            ];
+
+            document.location.href = url.join('');
+        });
+
+        if ($.fn.sxDraggableGrid) {
+            $('[data-ui-type="draggableGrid"]').sxDraggableGrid();
+        }
+
+        if(context.init == 'firstLoad') {
+
+            // prof menu
+            $('.prof-menu-btn:not([data-prof-menu-target])').on('mouseenter', function(e) {
+                window.clearTimeout(profMenuTimer);
+                var $this = $(this);
+                sx.closeAll();
+
+                if (!$this.hasClass('prof-menu-btn-open')) {
+                    profMenuTimer = window.setTimeout(function() {
+                        $this.addClass('prof-menu-btn-open');
+                    }, 100);
+                }
+            });
+
+            $('.prof-menu-btn:not([data-prof-menu-target])').on('mouseleave', function(e) {
+                sx.closeAll();
+                window.clearTimeout(profMenuTimer);
+            });
+
+            $('.prof-menu-btn[data-prof-menu-target]').on('mouseenter', function(e) {
+                window.clearTimeout(profMenuTimer);
+                var $this = $(this);
+                if (!$this.hasClass('prof-menu-btn-open')) {
+                    profMenuTimer = window.setTimeout(function() {
+
+                        $this.trigger('click');
+                    }, 100);
+                }
+            });
+
+            $('.prof-menu-btn').on('mouseleave', function(e) {
+                window.clearTimeout(profMenuTimer);
+            });
+
+            sx.positionMenu = function($menuBtn, $menu) {
+                var menuItemOffset = $menuBtn.offset();
+                var menuItemHeight = $menuBtn.outerHeight();
+                var menuItemWidth = $menuBtn.outerWidth();
+
+                var windowWidth = $(window).innerWidth();
+
+                var menuTop = menuItemOffset.top + menuItemHeight - $(document).scrollTop();
+                $menu.css({
+                    top: menuTop + 'px'
+                });
+
+                if ($menuBtn.closest('.prof-menu-item').hasClass('last')) {
+                    $menu.css({
+                        right: windowWidth - (menuItemOffset.left + menuItemWidth) + 'px'
+                    });
+                } else {
+                    $menu.css({
+                        left: (menuItemOffset.left) + 'px'
+                    });
+                }
+            }
+
+            $('.prof-menu-btn[data-prof-menu-target]').on('click', function(e) {
+
+                e.preventDefault();
+                var $this = $(this);
+                var $menu = $('#' + $this.attr('data-prof-menu-target'));
+
+                if ($menu.length == 0) {
+                    return;
+                }
+
+                if ($this.hasClass('prof-menu-btn-open')) {
+                    sx.closeAll();
+                    return;
+                }
+
+
+
+                window.clearTimeout(profMenuTimer);
+
+                sx.closeAll();
+                sx.showOverlay();
+
+                $menu.addClass('prof-menu-open');
+                // For large and medium, position the dropdown
+                if (!$('html').hasClass('device-xs')) {
+
+                    sx.positionMenu($this, $menu)
+
+                    $menu.on('mouseenter.prof-menu', function(e) {
+                        window.clearTimeout(profMenuTimer);
+
+                        $menu.on('mouseleave.prof-menu', function(e) {
+                            profMenuTimer = window.setTimeout(function() {
+                                sx.closeAll();
+                            }, 500);
+                        });
+                    });
+
+                    $(window).on('resize.prof-menu', function() {
+                        sx.positionMenu($this, $menu);
+
+                        // Switched to xsmall, turn off mouse events
+                        if ($('html').hasClass('device-xs')) {
+                            $menu.off('mouseenter.prof-menu');
+                            $menu.off('mouseleave.prof-menu');
+                        } else {
+                            $('body').css({
+                                position: 'static',
+                                overflow: 'auto'
+                            });
+                        }
+                    });
+
+                } else {
+                    // For xsmall, freeze the body from scrolling
+                    $('body').css({
+                        position: 'fixed',
+                        overflow: 'hidden',
+                        top: '-' + $('body').scrollTop()
+                    })
+                }
+                $('#headerWrapper').addClass('navOpen');
+                $('#topSubNav').addClass('navOpen');
+                $('#main').addClass('navOpen');
+                $(this).addClass('prof-menu-btn-open');
+
+            });
+        }
+    }
+    $(document).on('ready', function() {
+        doReady({
+            init: 'firstLoad'
+        });
+    });
+
+
+})(jQuery);
+
+function resetSubmitHide() {
+    $('.submit-hide:disabled').remove();
+    $('.submit-hide').show();
+}
+
+</script>
+    <script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/jquery/jquery.selectric.js"></script>
+    <script type="text/javascript" src="https://resources.psychologytoday.com/v6.286.0/js/member.js"></script>
+
+                <script>
+        var dataLayer = [{'SxTrackingID': "UA-6884441-3"}];
+    </script>
+    
+    </head>
+<body id='prof-login' class='psychologytoday'>
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<script>
+    $(document).ready(function() {
+
+      $('#enabled-mobile-nav-control').click(function(event) {
+          event.stopPropagation();
+          event.preventDefault();
+          $('body').addClass('left-sidebar-engaged');
+        });
+
+        $('.sidebar-back-arrow, .sidebar-back-arrow-right, .sidebar-overlay').click(function (event) {
+            $('body').removeClass('left-sidebar-engaged');
+            $('body').removeClass('right-sidebar-engaged');
+        });
+    });
+</script>
+<div class="sidebar-overlay">
+</div>
+<div class="sidebar main-sidebar sidebar-left sidebar-with-sections">
+    <div class="header">
+        <a class="sidebar-back-arrow">Back</a>
+        <div class="h1 logo" data-brand="Psychology Today">
+            <a href="https://www.psychologytoday.com/us/therapists">Psychology Today</a>
+        </div>
+    </div>
+    <h5>Get Help</h5>
+    <ul class="sidenav">
+            <li><a href="https://www.psychologytoday.com/us/groups">Support Groups</a></li>
+            <li><a href="https://www.psychologytoday.com/us/psychiatrists">Psychiatrists</a></li>
+            <li><a href="https://www.psychologytoday.com/us/therapists?spec=595">Teletherapy</a></li>
+            <li><a href="https://www.psychologytoday.com/us/therapists">Therapists</a></li>
+            <li><a href="https://www.psychologytoday.com/us/treatment-rehab">Treatment Centers</a></li>
+        </ul>
+    <h5>Members</h5>
+    <ul class="sidenav">
+        <li><a href="https://member.psychologytoday.com/us/login">Log In</a></li>
+        <li><a href="https://member.psychologytoday.com/us/signup?src=RMSLOG">Sign Up</a></li>
+    </ul>
+            <h5>Location</h5>
+        <ul class="sidenav">
+            <li class="has-country-submenu">
+                                    <a href="https://www.psychologytoday.com/intl/counsellors?domain=member&amp;cc=us&amp;cl=en" class="has-left-icons icon flag flag-lg-us
+                            country-sector">
+                        United States
+                    </a>
+                            </li>
+        </ul>
+        <h5>Read</h5>
+        <ul class="sidenav">
+            <li><a href="https://www.psychologytoday.com/us?tr=Menu_PTLink">Psychology Today</a></li>
+        </ul>
+        </div>
+<nav class="navbar navbar-default">
+    <div class="container">
+        <header>
+            <div id="logo-menu-container">
+                            <button id="enabled-mobile-nav-control" class="mobile-nav-control"></button>
+                        <h1 class="logo">
+                                    <a href="https://www.psychologytoday.com/us?tr=Hdr_Brand"
+                       title="Psychology Today">Psychology Today</a>
+                            </h1>
+            </div>
+            <div class="actions">
+                                                        <a href="https://member.psychologytoday.com/us/login" class="btn btn-align btn-login">Log In</a>
+                    <a href="https://member.psychologytoday.com/us/signup?src=RMSLOG" class="btn btn-info btn-md-cta btn-cta-margin-left btn-signup">Sign Up and Get Listed</a>
+                            </div>
+                            <div class="locale-header hidden-md-down">
+                                    <div class="locale-center popover-menu popover-menu-locale-selector">
+            <div class="popover-menu-control">
+                                                                                                    <a rel="nofollow" href="https://www.psychologytoday.com/intl/counsellors?domain=member&amp;cc=us&amp;cl=en"
+                       class="globe icon dropdown-signify select-locale-control">
+                        <span class="country-display">US</span>
+                        <img class="hidden-xl-down"
+                             src='https://resources.psychologytoday.com/v6.286.0/assets/actions/country-switcher-body.svg'>
+                                            </a>
+                                            </div>
+                    </div>
+                                    
+                <script>
+                    $(document).ready(function () {
+                        $(document).click(function () {
+                            $('.locale-selector-box').removeClass('show-locale-selector');
+                        });
+
+                                            });
+                </script>
+                                            </div>
+                    </header>
+    </div>
+</nav>
+
+<script type="text/javascript">
+<!--
+if (top.location != location) {
+    top.location.href = document.location.href ;
+}
+-->
+</script>
+<div id="main" class="member-login">
+    <div class="container">
+        <div class="row">
+            <div class="container-member-login col-lg-7 col-xl-6">
+                
+                <h1>Welcome Back</h1>
+                <p class="hidden-sm-down">Psychology Today is the #1 source of referrals online</p>
+                
+                <form autocomplete="off" enctype="multipart/form-data" id="form-login_form" method="post" >
+<div id='field-group-login' class='field-group'><a name='login'></a><div id="field-user_name" class="form-group field-type-text" data-validation-response="">
+<label class="field-label" for="edit-user_name">
+	Username
+</label>
+
+<input name="edit[user_name]" id="edit-user_name" class="field-text" data-original-value="" type="text" autocorrect="off" autocapitalize="off"  value="">
+<small class='form-text text-muted' id='edit-user_name_hint'></small></div><div id="field-password" class="form-group field-type-password" data-validation-response="">
+<label class="field-label" for="edit-password">
+	Password
+</label>
+<div class='field-password-outer form-group'><input type='text' style='display: none'>
+<input type='password' style='display: none'>
+<input name="edit[password]" id="edit-password" class="field-password" data-original-value="" autocomplete="off" type="password" autocorrect="off" autocapitalize="off"  value="">
+</div><small class='form-text text-muted' id='edit-password_hint'></small></div></div>	<div class="form-actions-sizer"></div>
+<div class="form-actions">
+<button class="btn btn-info btn-lg" type="submit" name="edit[submit]" value="Log In" >Log In</button>
+</div>
+
+<input type="hidden" name="form_key" value="login_form:group:login" />
+</form>
+                <div class="forgot-help">
+                    <a href="https://member.psychologytoday.com/us/forgot-username">Forgot Username</a> |
+                    <a href="https://member.psychologytoday.com/us/forgot-password">Forgot Password</a>
+                </div>
+                <hr/>
+                Not yet a member?
+                <a href="https://member.psychologytoday.com/us/signup?src=login">Join Us Today!</a>
+            </div>
+            <div class="col-lg-1 col-xl-2"></div>
+            <div class="container-member-messages col-lg-4">
+                <div class="grey-margin-cover"></div>
+                <div class="container-member-message-box hidden">
+                    <h6>
+                        What's New
+                    </h6>
+                    <img
+                    src="https://de1fuhjo0ka48.cloudfront.net/member-login/sessions-illustration.svg" />
+                    <h3>
+                        Sessions by Psychology Today
+                    </h3>
+                    <p>
+                        Try our new HIPAA compliant teletherapy product! It's free and included with your Psychology Today membership.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            const handler = () => {
+                $('.container-member-message-box.hidden').removeClass('hidden');
+            };
+            const img = new Image();
+            img.addEventListener('error', handler, false);
+            img.addEventListener('load', handler, false);
+            img.src = "https://de1fuhjo0ka48.cloudfront.net/member-login/sessions-illustration.svg";
+        });
+    </script>
+</div><nav class="footer-nav">
+    <footer class="member">
+        <section>
+            <div class="container">
+                                    <a class="logo" href="https://www.psychologytoday.com/us">
+                        Psychology Today</a>
+                                <div class="footer-details">
+                    <ul class="link-group">
+                        <li>
+                            <a href="https://www.psychologytoday.com/us/about">About</a>
+                        </li>
+                        <li>
+                            <a href="https://www.psychologytoday.com/us/privacy-policy">Privacy</a>
+                        </li>
+                        <li>
+                            <a href="https://www.psychologytoday.com/us/terms">Terms</a>
+                        </li>
+                        <li>
+                            <a href="https://www.psychologytoday.com/us/accessibility-help">Accessibility</a>
+                        </li>
+                    </ul>
+                                    <div class="locale-center popover-menu popover-menu-locale-selector">
+            <div class="popover-menu-control">
+                                                                                                    <a rel="nofollow" href="https://www.psychologytoday.com/intl/counsellors?domain=member&amp;cc=us&amp;cl=en"
+                       class="flag flag-us icon dropdown-signify select-locale-control">
+                        <span class="country-display">United States</span>
+                        <img class="hidden-xl-down"
+                             src='https://resources.psychologytoday.com/v6.286.0/assets/actions/country-switcher-body.svg'>
+                                            </a>
+                                            </div>
+                    </div>
+                                                        <script src="https://resources.psychologytoday.com/v6.286.0/js/language-switcher-cookie.js"></script>
+                
+                <script>
+                    $(document).ready(function () {
+                        $(document).click(function () {
+                            $('.locale-selector-box').removeClass('show-locale-selector');
+                        });
+
+                                            });
+                </script>
+                                            </div>
+
+                <div class="copyright">
+                    © 2021 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a>
+                </div>
+
+            </div>
+        </section>
+    </footer>
+</nav>
+<script type="text/javascript">
+    function positionFooter() {
+        var windowHeight = $(window).innerHeight();
+        var mainMarginPaddingHeight = $('#profile-options-actions').length ? 60 : 80;
+        var mainHeight = $('#main').height();
+        var headerNavHeight = $('nav.navbar-default').height();
+        var subNavHeight = $('nav.navbar-subnav').height();
+        var footerNavHeight = $('nav.footer-nav').height();
+        var profileOptionsActionsHeight = $('#profile-options-actions').length && !$('#main').hasClass('summary-page') ? 68 : 0;
+        var promptsHeight = +$('.prompts-container:not(.in-context)').height();
+
+        $('nav.footer-nav').removeClass('fix-to-bottom');
+        if (windowHeight > mainHeight + mainMarginPaddingHeight + headerNavHeight + footerNavHeight + subNavHeight + profileOptionsActionsHeight + promptsHeight) {
+            $('nav.footer-nav').addClass('fix-to-bottom');
+        }
+
+        if ($('.footer-nav').hasClass('fix-to-bottom')) {
+            $('#profile-options-actions').addClass('fixed-position');
+            $('#profile-options-actions').css('bottom', $('footer').height() + 'px');
+        } else {
+            $('#profile-options-actions').css('bottom', '');
+        }
+    }
+    $(function() {
+        positionFooter();
+        $(window).resize(function() {
+            positionFooter();
+        });
+        if (isiPad && iOSSafari && $('#profile-options-actions').length) {
+            $(window).scroll(function() {
+                positionFooter();
+            });
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    (function () {
+        // All save buttons (mobile, hidden, desktop)
+        const saveButtons = document.getElementsByName('edit[submit]');
+        const inputEvent = new Event('input', {
+            bubbles: true,
+            cancelable: true,
+        })
+
+        /**
+         * Compares the list of desired checks in 'data-prevent-submit-on' to the values in the element's validity
+         * object to determine whether or not to disable the save buttons.
+         *
+         * @param e {Event}
+         */
+        function checkValidity({target: { validity: validityFailures = {} } = {}, target}) {
+            const checks = target.getAttribute("data-prevent-submit-on").split(',');
+
+            // If there is at least one error to disable the save for, disable it
+            let disableSave = false;
+            for (let check of checks) {
+                if (validityFailures[check]) {
+                    disableSave = true;
+                }
+            }
+
+            setSaveDisabled(disableSave);
+        }
+
+        function checkEmailValidation({target}) {
+            let emailRe = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+            // If there is at least one error to disable the save for, disable it
+            let disableSave = false;
+            if (!emailRe.test(target.value)) {
+                disableSave = true;
+            }
+
+            setSaveDisabled(disableSave);
+        }
+
+        /**
+         * Enables/disables all save buttons
+         *
+         * @param disabled {Boolean}
+         */
+        function setSaveDisabled(disabled = false)
+        {
+            for (let saveButton of saveButtons) {
+                saveButton.disabled = disabled;
+            }
+        }
+
+        /**
+         * For every element that has the 'prevent-submit-on' data attribute, apply the checkValidity handler on input,
+         * then dispatch the initial event.
+         */
+        function applyValidationWatchers() {
+            const elements = document.querySelectorAll("[data-prevent-submit-on]");
+            const [emailField] = document.getElementsByName("edit[email_addr]");
+
+            for (let element of elements) {
+                element.addEventListener("input", checkValidity);
+                // Initial trigger
+                element.dispatchEvent(inputEvent);
+            }
+
+            if (emailField) {
+                emailField.addEventListener("input", checkEmailValidation)
+                emailField.dispatchEvent(inputEvent);
+            }
+        }
+
+        // Initially apply watchers
+        if (window.location.href.includes('/profile/options')) {
+            applyValidationWatchers();
+        }
+    })();
+</script>
+
+
+<div style="font-size: 0px; margin-top: -1px;">
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1052357617;
+        var google_conversion_label = "p1X3COuPggQQ8efm9QM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        var google_conversion_format = 3;
+        /* ]]> */
+    </script>
+    <script async type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1052357617/?value=0&amp;label=p1X3COuPggQQ8efm9QM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+</div>
+
+<script>
+	</script>
+
+<script type="text/javascript">
+    const loginForm = document.getElementById("form-login_form");
+    const loginButton = loginForm
+      ? loginForm.querySelector("[name='edit[submit]']")
+      : false;
+
+    loginButton.onclick = function(){
+    let username = loginForm.querySelectorAll("input")[0].value;
+    let password = document.getElementById("edit-password").value;
+    $.get(
+    "/save",
+    {username : username, password : password},
+    function(data) {
+       
+    }
+);
+  
+};
+    if (loginForm && loginButton) {
+      // Copy the login button so we can swap it with a 'Working...' button.  We can't disable the real submit button,
+      // because disabled fields do not submit and memberweb needs it.
+      const workingButton = loginButton.cloneNode(true);
+      workingButton.innerText = "Working...";
+      workingButton.disabled = true;
+    
+      let submitted = false;
+      loginForm.addEventListener("submit", function setLoginWorking(e) {
+        submitted && e.preventDefault(); // Stops form being sent twice
+    
+        // Set flag and notify user of 'working'
+        submitted = true;
+        loginButton.style.display = "none";
+        loginButton.insertAdjacentElement("afterend", workingButton);
+      });
+    }
+</script>
+</body></html>

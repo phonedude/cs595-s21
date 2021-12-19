@@ -1,0 +1,1174 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 07 Aug 2021 01:32:59 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 07 Aug 2021 12:05:23 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: 3d1fe947-d905-4060-aa2b-90eb8d59b565
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=036039af-126c-441b-9945-c25749792fad; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: trrgeo=40.8822%7C-74.296%7CFAIRFIELD%7CNUEVA+JERSEY%7CUS%7C1; Domain=terra.com.br; expires=Sun, 08 Aug 2021 01:32:59 GMT; SameSite=None; Secure
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+X-Xact-Uuid: 0b30054d-777f-4485-9bdc-097193fe096d
+X-Xact-Montador-Time: 1628299933
+X-Http-Reason: OK
+X-Cache-Profile: terra360-cover
+Cache-Control: max-age=30, stale-if-error=3600
+X-Original-Ua: Microsoft URL Control - 6.01.9782
+Strict-Transport-Security: max-age=15552000
+X-Mt-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+Date: Sat, 07 Aug 2021 01:32:59 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+
+<!DOCTYPE html>
+<html lang="pt-BR" data-range="xlarge">
+<head>
+
+
+	            
+    
+    
+            
+
+
+
+
+    
+    
+
+
+    
+    
+
+
+
+
+
+
+
+    
+    
+
+            
+
+
+    
+
+
+    
+    
+
+    
+
+
+
+
+<title>Terra - Notícias, esportes, coberturas ao vivo, diversão e estilo de vida</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<meta name="description" content="Veja no Terra as últimas notícias e as melhores coberturas ao vivo do Brasil e do Mundo, Esportes, Diversão, Vida e Estilo e assista os melhores vídeos no TerraTV." />
+<meta name="keywords" content="" />
+<meta http-equiv="default-style" content="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="theme-color" content="#ff7212">
+<meta name="referrer" content="origin">
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content">
+<meta property="fb:admins" content="1640032884" />
+<meta property="fb:app_id" content="319227784756907" />
+<meta property="fb:pages" content="136852373848" />
+<meta property="og:site_name" content="Terra" />
+<meta property="og:url" content="https://www.terra.com.br/" />
+<meta property="og:title" content="Terra - Notícias, esportes, coberturas ao vivo, diversão e estilo de vida" />
+<meta property="og:description" content="Veja no Terra as últimas notícias e as melhores coberturas ao vivo do Brasil e do Mundo, Esportes, Diversão, Vida e Estilo e assista os melhores vídeos no TerraTV." />
+<meta property="og:image" content="http://s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg"/>
+
+<link rel="shortcut icon" type="image/x-icon" href="//s1.trrsf.com/favicon.ico" />
+<link rel="canonical" href="https://www.terra.com.br/" />
+<link rel="manifest" href="https://www.terra.com.br/manifest-br.json">
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://s1.trrsf.com/apple-icon.jpg" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/2048x2732.png" sizes="2048x2732" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/1668x2224.png" sizes="1668x2224" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/1536x2048.png" sizes="1536x2048" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/1125x2436.png" sizes="1125x2436" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/1242x2208.png" sizes="1242x2208" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/750x1334.png" sizes="750x1334" rel="apple-touch-startup-image" />
+<link href="https://p2.trrsf.com/image/fget/cf/s1.trrsf.com/fe/zaz-morph/_img/ios/640x1136.png" sizes="640x1136" rel="apple-touch-startup-image" />
+
+<link rel="preconnect" href="https://p2.trrsf.com" crossorigin>
+<!-- INCLUDER -->
+        
+
+
+    
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+<link rel="preload" href="https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.min.js" as="script">
+<link rel="preload" href="https://s1.trrsf.com/update-1628027143/fe/zaz-mod-manager/mod-manager.min.js" as="script">
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1621433467/fe/zaz-mod-t360-icons/_css/essential-solid.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1604599864/fe/zaz-mod-t360-icons/_css/sizes.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1621433467/fe/zaz-mod-t360-icons/_css/shields.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1621433467/fe/zaz-mod-t360-icons/_css/zodiac-solid.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1625603469/fe/zaz-app-t360-cards/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1619818849/fe/zaz-ui-t360/_css/context.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1627929946/fe/zaz-app-t360-navbar/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1623260754/fe/zaz-app-t360-subject-table/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1625249464/fe/zaz-app-t360-ticker/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1626096955/fe/zaz-app-t360-live/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1622814352/fe/zaz-app-player/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1628025065/fe/zaz-app-t360-editorial-table/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1628025066/fe/zaz-app-t360-sva-bar/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1627596679/fe/zaz-app-t360-embed/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1624471555/fe/zaz-app-t360-horoscope/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1624630862/fe/zaz-app-t360-financial/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="https://s1.trrsf.com/update-1626978343/fe/zaz-ui-t360-home/_css/context.min.css"  />
+<script type="text/javascript" data-includerInjection="https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.scope.min.js">
+/*! zaz-cerebro - v1.7.6 - 03/08/2021 -- 6:13pm */
+if(!window.zaz&&window.performance&&"function"==typeof window.performance.mark)try{window.performance.mark("ZAZ_CEREBRO_DEFINED")}catch(perfException){window.console&&"object"==typeof window.console&&("function"==typeof window.console.warn?window.console.warn("Error registering performance metric ZAZ_CEREBRO_DEFINED. "+perfException.message):"function"==typeof window.console.log&&window.console.error("[ZaZ Warning] Error registering performance metric ZAZ_CEREBRO_DEFINED. "+perfException.message))}!function(){"use strict";if(window.zaz)return!1;var environment;window.zaz=function(){var minified=!1,q=[],eq=[],o={};return o.getQueue=function(){return q},o.getExtQueue=function(){return eq},o.use=function(fn,scope){return fn.scope=scope,q.push(fn),window.zaz},o.extend=function(name,fn){eq.push([name,fn])},o.status="pre-build",o.options={global:{}},o.version="1.7.6",o.notSupported=!1,o.fullyLoaded=!1,o.lastRevision="",o}(),window.zaz.environment=environment}();
+
+</script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" data-includerInjection="https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/range.inline.min.js">
+/*! zaz-cerebro - v1.7.6 - 03/08/2021 -- 6:13pm */
+!function(){"use strict";var zazViewport=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth,zazObjHTML=document.querySelector("html");768>zazViewport?zazObjHTML.setAttribute("data-range","small"):1024>zazViewport?zazObjHTML.setAttribute("data-range","medium"):1280>zazViewport?zazObjHTML.setAttribute("data-range","large"):zazViewport>=1280&&zazObjHTML.setAttribute("data-range","xlarge")}();
+
+</script><noscript><!-- behavior layer --></noscript>
+
+<!-- // INCLUDER -->
+
+
+<script type="text/javascript">
+var tgmKey="br.homepage.home360";
+    var terra_info_channel = 'br.portada.portada';var terra_info_channeldetail = '/';
+var terra_info_id= "20e07ef2795b2310VgnVCM3000009af154d0RCRD";
+var terra_info_service = "PubCMSTerra";
+var terra_info_type = "CAP";
+var terra_info_clssfctn = "novo_portal";
+var terra_info_pagetype = "home";
+var terra_stats_dvctype = "web";
+var terra_size_version = "default";
+window.terraVersion = 'terra360';
+
+    
+
+window.info_path = {
+    channel: "capa",
+    subchannel: "",
+    channeldetail: "",
+    breadcrumb: "capa"
+};
+
+//Context
+window.trr = {};
+window.trr.contextData = {
+    device : "web",
+    lang : "pt-BR",
+    country : "br",
+    channelId : "20e07ef2795b2310VgnVCM3000009af154d0RCRD",
+    idItemMenu: "home",
+    socialreader : false,
+    liveTicker: {
+        idItemMenu: "home",
+        countryLive: "br"
+    }
+}
+</script><noscript><!-- no script mess here --></noscript>
+
+<script type="text/javascript">
+zaz.use(function(pkg){
+/***** TAGMAN DEFINIÇOES DAS AREAS ****/
+pkg.context.publisher.set("env", "prd");
+pkg.context.publisher.set("template", "home");
+pkg.context.platform.set("type", "web");
+pkg.context.browser.set("agentProfile","modern");
+
+pkg.context.page.set("isHome", true);
+pkg.context.page.set("country", "br");
+pkg.context.page.set("lang", "pt");
+pkg.context.page.set("locale", "pt-BR");
+pkg.context.page.set("channel", "home");
+pkg.context.page.set("idItemMenu","home");
+pkg.context.page.set("subjectTables","5b7d84569407b310VgnVCM3000009acceb0aRCRD|4,187775b4786b2310VgnVCM3000009af154d0RCRD|7,8a8775b4786b2310VgnVCM3000009af154d0RCRD|5,2d19f517cd779310VgnVCM5000009ccceb0aRCRD|6,4e9775b4786b2310VgnVCM3000009af154d0RCRD|9,6f22bd10e1c4a310VgnVCM4000009bcceb0aRCRD|13,562f4ce4eaea4310VgnVCM3000009af154d0RCRD|12,app.t360.customNews.1430858|20,app.t360.customNews.1430833|20,app.t360.customNews.1430834|20,app.t360.customNews.1430836|20,app.t360.customNews.1430859|20,app.t360.customNews.1434031|20,app.t360.customNews.1434035|20,app.t360.customNews.1434034|20,app.t360.customNews.1434033|20,app.t360.customNews.1434032|20,app.t360.customNews.1434441|20,app.t360.customNews.1452469|22,app.t360.customNews.1452470|23,app.t360.customNews.1452468|21,app.t360.customNews.1452471|24,app.t360.customNews.1434420|20");
+pkg.context.page.set("pageSize", "80");
+pkg.context.page.set("timelineSize", "240");
+pkg.context.page.set("dflt", "0");
+pkg.context.page.set("prioritized", "");
+pkg.context.page.set("isLatestPage", false);
+pkg.context.page.set("cardTypes", "");
+pkg.context.page.set("lomas", "br.*.*");
+pkg.context.page.set("countryLive", "br");
+pkg.context.page.set("uuid", "0b30054d-777f-4485-9bdc-097193fe096d");
+pkg.context.page.set("channelID", "20e07ef2795b2310VgnVCM3000009af154d0RCRD");
+pkg.context.page.set("channelPath", "Brasil");
+pkg.context.page.set('ticker', true);
+pkg.context.page.set('menu_contextual', false);
+pkg.context.page.set('editorialTable', 'editorial-1');
+pkg.context.page.set('nativeAd', 2);
+pkg.context.page.set('hasPagination', true);
+pkg.context.page.set("musaIdTeam", 0);
+pkg.context.page.set("truvid", '4e9775b4786b2310VgnVCM3000009af154d0RCRD');
+pkg.context.page.set("colorPage", '');
+pkg.context.page.set("dateResponse", '2021-08-06 22:31');
+    pkg.context.page.set("mediaService", false);
+
+
+
+
+
+        
+});
+</script><noscript><!-- Configurações da página --></noscript>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.terra.com.br/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.terra.com.br/busca/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}
+</script><noscript><!-- Configurações para a home do portal --></noscript>
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Terra",
+    "url" : "https://www.terra.com.br/",
+    "logo": "http://s1.trrsf.com/fe/zaz-morph/_img/terra-logo-google.jpg",
+    "sameAs" : ["https://www.facebook.com/TerraBrasil", "http://twitter.com/Terra", "http://plus.google.com/115961647624943558279"],
+    "contactPoint" : [
+        {  "@type" : "ContactPoint",
+           "telephone" : "+55-0800-777-1234",
+           "contactType" : "sales",
+           "contactOption": "TollFree",
+           "availableLanguage": "Portuguese",
+           "areaServed": "BR"
+        },
+        {
+           "@type" : "ContactPoint",
+           "telephone" : "+55-4003-5799",
+           "contactType" : "technical support",
+           "availableLanguage": "Portuguese",
+           "areaServed": "BR"
+        }
+    ]
+}
+</script><noscript><!-- Organization: Terra (https://www.terra.com.br/) --></noscript>
+
+
+
+</head>
+<body class="pt-BR">
+<!-- NIGHTMODE -->
+<!-- ACCESSIBILITY -->
+<ul class="accessibility-block" style="position: absolute; top: -99999px; left: 0;">
+        <li><a href="#trr-ctn-general" tabindex="1">Ir ao conteúdo</a></li>
+    </ul><div id="zaz-app-t360-navbar" class="zaz-app-t360-navbar" data-active-module="">
+    <div class="navbar">
+        <header class="navbar__content">
+            <div class="navbar__ranges">
+                <div class="navbar__left">
+                    <div class="navbar__left--menu icon-solid icon-24 icon-bars icon-color-white"></div>
+                    <a href="http://www.terra.com.br" class="navbar__left--logo">Página principal</a>
+                </div>
+                <div class="navbar__center">
+                    <ul class="navbar__center--sva">
+                        <li><a href="https://www.terraempresas.com.br/construtor-sites/promo/super-oferta/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=construtor&utm_content=construtor&utm_term=cabeceira%20pos%201&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Construtor de sites">Construtor de sites</a></li>
+                        <li><a href="https://servicos.terra.com.br/mail-gigante/promo/mais-espaco-para-seu-email/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=mail-gigante&utm_content=mail-gigante&utm_term=cabeceira%20pos%202&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Mail gigante">Mail gigante</a></li>
+                        <li><a href="https://www.terraempresas.com.br/loja-virtual/promo/super-oferta-loja-pronta/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=loja-pronta&utm_content=loja-pronta&utm_term=cabeceira%20pos%203&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Loja Virtual">Loja Pronta</a></li>
+                        <li><a href="https://servicos.terra.com.br/antivirus/promo/prevencao-contra-virus/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=antivirus&utm_content=antivirus&utm_term=cabeceira%20pos%204&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Antivírus">Antivírus</a></li>
+                        <li><a href="https://www.terraempresas.com.br/construtor-sites/promo/super-oferta-site-pronto/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=site-pronto&utm_content=site-pronto&utm_term=cabeceira%20pos%205&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Curso de inglês">Site Pronto</a></li>
+                        <li><a href="https://servicos.terra.com.br/cursos-online/promo/super-oferta-bonus/?utm_source=terra%20360&utm_medium=barra%20ds&utm_campaign=cursos-online-minutrade-1GB&utm_content=jul-21&utm_term=cabeceira%20pos%201&cdConvenio=CVTR00001907" class="navbar__center--sva-item" data-event-label="Cursos online">Cursos online</a></li>
+                    </ul>
+                </div>
+                <div class="navbar__right">
+                    <div class="navbar__btn-services"><span class="icon-solid icon-12 icon-th"></span>Produtos</div>
+                    <a href="https://mail.terra.com.br" rel="noopener" target="_blank" class="navbar__right--mail icon-solid icon-18 icon-envelope icon-color-white">E-mail</a>
+                    <div class="navbar__right--user-area icon-solid icon-18 icon-user icon-color-white">Configurações da conta</div>
+                </div>
+            </div>
+        </header>
+        <div class="navbar-modules-bottom">
+            <div class="navbar-sva-mob">
+                <div class="navbar-sva-mob--title">Conheça os produtos Terra</div>
+                <div class="navbar__btn-services"><span class="icon-solid icon-12 icon-th"></span>Produtos</div>
+            </div>
+        </div>
+        <div class="navbar-modules-notifications"></div>
+    </div>
+    <div class="navbar-modules">
+        <div class="navbar-modules__shadow"></div>
+    </div>
+</div>
+<script type="text/javascript">
+if(window.performance && window.performance.mark){
+    window.performance.mark('AD_S0_START');
+}
+</script>
+<div class="table-ad ad-get-size" id="header-full-ad-container" data-type="AD">
+    <div id="header-full-ad" class="table-ad__full"><span class="table-ad__full--label">PUBLICIDADE</span></div>
+</div>
+
+
+
+
+
+
+
+
+<div id="zaz-app-t360-ticker" class="total-events-count-0">
+	<div class="zaz-app-t360-ticker--background">
+		<div class="zaz-app-t360-ticker total-events-count-0" id="zaz-app-t360-ticker--container" data-keep-index="10" data-realtime-id="">
+			<div class="zaz-app-t360-ticker--tooltip">
+				<div class="zaz-app-t360-ticker--tooltip__itemLeft  zaz-app-t360-ticker--tooltip__inactiveTab">
+					<p class="zaz-app-t360-ticker--tooltip__itemLeft--name">Esportes</p><span class="zaz-app-t360-ticker--tooltip__itemLeft--quantity">0</span>
+				</div>
+				<div class="zaz-app-t360-ticker--tooltip__itemRight  zaz-app-t360-ticker--tooltip__inactiveTab">
+					<p class="zaz-app-t360-ticker--tooltip__itemRight--name">Destaques</p><span class="zaz-app-t360-ticker--tooltip__itemRight--quantity">0</span>
+				</div>
+			</div>
+
+			<nav class="grid-view">
+				<div class="container-carousel container-carousel-esportes">
+					<div class="page-nav previous esportes disabled sem-carrossel"><span class="item-icon icon-solid icon-color-black icon-24 icon-chevron-left"></span></div>
+					<div class="container">
+						<ul class="grid-pageable">
+							<div class="slide-esportes events-count-0" style="display:flex;">
+							</div>
+						</ul>
+					</div>
+					<div class="page-nav next esportes sem-carrossel"><span class="item-icon icon-solid icon-color-black icon-24 icon-chevron-right"></span></div>
+				</div>
+
+				<div class="container-carousel container-carousel-destaques">
+					<div class="page-nav previous destaques disabled sem-carrossel"><span class="item-icon icon-solid icon-color-black icon-24 icon-chevron-left"></span></div>
+					<div class="container">
+						<ul class="grid-pageable">
+							<div class="slide-destaques events-count-0" style="display:flex;">
+							</div>
+						</ul>
+					</div>
+					<div class="page-nav next destaques sem-carrossel"><span class="item-icon icon-solid icon-color-black icon-24 icon-chevron-right"></span></div>
+				</div>
+
+			</nav>
+
+			<button class="zaz-app-t360-ticker--veja-mais">Veja mais</button>
+		</div>
+	</div>
+</div>
+
+
+    <div class="open-menu-t360 table-range-flex">
+    <nav tabindex="3">
+        <ul>
+                                    <li><a href="https://www.terra.com.br/esportes/jogos-olimpicos/" data-event-label="Jogos de Tóquio">Jogos de Tóquio</a></li>
+                            <li><a href="https://www.terra.com.br/noticias/coronavirus/" data-event-label="Coronavírus">Coronavírus</a></li>
+                            <li><a href="https://www.terra.com.br/esportes/" data-event-label="Esportes">Esportes</a></li>
+                            <li><a href="https://www.terra.com.br/noticias/" data-event-label="Notícias">Notícias</a></li>
+                            <li><a href="https://www.terra.com.br/diversao/" data-event-label="Entretenimento">Entretenimento</a></li>
+                            <li><a href="https://www.terra.com.br/economia/" data-event-label="Economia">Economia</a></li>
+                            <li><a href="https://www.terra.com.br/vida-e-estilo/" data-event-label="Vida e Estilo">Vida e Estilo</a></li>
+                            <li><a href="https://www.terra.com.br/gameon/" data-event-label="Game On">Game On</a></li>
+                            </ul>
+    </nav>
+</div>
+
+
+
+
+<div id="home-tables">
+
+<script>
+	if(window.performance && window.performance.mark){
+		window.performance.mark('startTable');
+	}
+</script><noscript>Script de configurações de app</noscript>
+<div class="table-news table-editorial-1" data-type="NEWS" data-position="1" data-area="EDITORIAL-TABLE" id="table-editorial-table" data-id="id-editorial-table-app" data-area-ad="1" data-full-ad-id="header-full-ad" data-app-name="app.t360.editorialTable">
+    <div class="table-editorial-1__line">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-7d64b5f53c91409203999089b577dd09ydbn0bjx" class="card card-news card-h  flex-1024-card-v card-hxl " data-size="card-horizontal-extra-large" data-type="N" data-tgmkey="br.sports" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.esportes" title="Isaquias domina prova e avança à final do C1 1000m em Tóquio" data-source-name="Gazeta Esportiva" data-source-types="SRC">
+    <a href="https://www.terra.com.br/esportes/jogos-olimpicos/isaquias-domina-prova-e-avanca-a-final-do-c1-1000m-em-toquio,7d64b5f53c91409203999089b577dd09ydbn0bjx.html" target="_top" >
+    <div class="card-news__shadow"></div>
+    <div class="card-news__image">
+            <img src="https://p2.trrsf.com/image/fget/cf/845/1271/1621/400/306/384/images.terra.com/2021/08/06/isaquias-queiroz-enquanto-competiva-na-baia-de-endoshima-nos-jogos-olimpicos-de-toquio-maxim-shemetov-reuters.jpg" class="flex-1024-img" alt="Isaquias domina prova e avança à final do C1 1000m em Tóquio" loading="lazy" decoding="async">
+        <img src="https://p2.trrsf.com/image/fget/cf/1723/1156/1266/439/628/384/images.terra.com/2021/08/06/isaquias-queiroz-enquanto-competiva-na-baia-de-endoshima-nos-jogos-olimpicos-de-toquio-maxim-shemetov-reuters.jpg" class="flex-default-img" alt="Isaquias domina prova e avança à final do C1 1000m em Tóquio" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/jogos-olimpicos/isaquias-domina-prova-e-avanca-a-final-do-c1-1000m-em-toquio,7d64b5f53c91409203999089b577dd09ydbn0bjx.html" class="card-news__text--hat bg-color-esportes">Jogos Olímpicos</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://www.terra.com.br/esportes/jogos-olimpicos/isaquias-domina-prova-e-avanca-a-final-do-c1-1000m-em-toquio,7d64b5f53c91409203999089b577dd09ydbn0bjx.html" target="_top" >Isaquias domina prova e avança à final do C1 1000m em Tóquio</a></h2>
+
+    </div>
+
+
+</div>        
+
+
+
+
+
+
+
+
+
+
+<div id="card-3eb7c3e0b5cc59054da2fcd8d4eb59fc2wgwcs54" class="card card-news card-v   " data-size="card-vertical" data-type="N" data-tgmkey="br.cobranded_pipocamoderna" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.diversao.tv" title="Globo contrata Marcos Mion para apresentar o &#39;Caldeirão&#39;" data-source-name="Pipoca Moderna" data-source-types="PRT">
+    <a href="https://www.terra.com.br/diversao/tv/globo-contrata-marcos-mion-para-apresentar-o-caldeirao,3eb7c3e0b5cc59054da2fcd8d4eb59fc2wgwcs54.html" class="card-v__image" target="_top" >
+    <div class="card-news__shadow"></div>
+    <div class="card-news__image">
+        <img src="https://p2.trrsf.com/image/fget/cf/306/384/smart/images.terra.com/2021/08/07/1416118562-marcos-mion-a-fazenda-1024x637-1.jpg" class="" alt="Globo contrata Marcos Mion para apresentar o &#39;Caldeirão&#39;" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://www.terra.com.br/diversao/tv/globo-contrata-marcos-mion-para-apresentar-o-caldeirao,3eb7c3e0b5cc59054da2fcd8d4eb59fc2wgwcs54.html" class="card-news__text--hat bg-color-diversao">Após Huck ir para 'Domingão'</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://www.terra.com.br/diversao/tv/globo-contrata-marcos-mion-para-apresentar-o-caldeirao,3eb7c3e0b5cc59054da2fcd8d4eb59fc2wgwcs54.html" target="_top" >Globo contrata Marcos Mion para apresentar o 'Caldeirão'</a></h2>
+
+    </div>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/parceiros/pipoca-moderna/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2020/07/10/pipoca-favicon-32x32.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Pipoca Moderna</span>
+            </a>
+    </a>
+
+
+</div>
+        <div class="table-editorial-1__line--group">
+            <script type="text/javascript">
+            if(window.performance && window.performance.mark){
+                window.performance.mark('AD_S1_START');
+            }
+            </script>
+<div class="card card-ad card-ad-rect" data-ad-area="1" data-type="AD">
+    <span class="card-ad__title">Publicidade</span>
+    <div class="card-ad-rect__content" id="ad-table-editorial-table-1"></div>
+</div>            
+
+     <div class="card card-app app-t360-sva-banner card-app-hs" id="app-t360-sva-banner" data-type="A" data-render-type="backend" data-reason="a" title="Serviços do Terra" data-id="app-t360-sva-banner" data-source-name="APP" data-app-data='{"name":"app.t360.svaBanner"}' style="height: auto;">
+        <a class="app-t360-sva-banner__display" data-gtm-event-category="ONL Barra Digital Services Display360" data-gtm-event-action="Clique" data-gtm-event-label="Display Barra DS" href="https://servicos.terra.com.br/cursos-online/promo/super-oferta-bonus/?utm_source=terra&utm_medium=display%20360&utm_campaign=cursos-online-minutrade-1GB&utm_content=banner%20barra%20ds&utm_term=display&cdConvenio=CVTR00002040">
+            <div class="app-t360-sva-banner__display--segundo" style="" ></div>
+        </a>
+    </div>
+        </div>
+    </div>
+<div class="table-news__line-all">
+    <div class="card-carousel">
+        <div class="card-carousel__pageable">
+                <div class="card-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-9ccbd2f3427d9e587f7a9803f9cc9f82ilq42veo" class="card card-h-small   " data-size="card-horizontal-small" data-type="N" data-tgmkey="br.news_brasil" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.noticias.brasil" title="Bolsonaro sobe o tom e xinga Barroso de &#34;filho da p...&#34;" data-source-name="Reuters" data-source-types="SRC">
+    <a href="https://www.terra.com.br/noticias/brasil/bolsonaro-sobe-o-tom-e-xinga-barroso-de-filho-da-p,9ccbd2f3427d9e587f7a9803f9cc9f82ilq42veo.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/855/855/941/81/104/114/images.terra.com/2021/08/06/ish20210806023.jpg" alt="Bolsonaro sobe o tom e xinga Barroso de &#34;filho da p...&#34;" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/noticias/brasil/bolsonaro-sobe-o-tom-e-xinga-barroso-de-filho-da-p,9ccbd2f3427d9e587f7a9803f9cc9f82ilq42veo.html" class="card-h-small__text--hat color-noticias">escalada de ataques</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/noticias/brasil/bolsonaro-sobe-o-tom-e-xinga-barroso-de-filho-da-p,9ccbd2f3427d9e587f7a9803f9cc9f82ilq42veo.html" target="_top" >Bolsonaro sobe o tom e xinga Barroso de "filho da p..."</a></h2>
+
+
+    </div>
+</div>                </div>
+                <div class="card-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-b473b24a7a7d691e936ba7c0547ccb0ddqqdxxc5" class="card card-h-small   " data-size="card-horizontal-small" data-type="N" data-tgmkey="br.cobranded_lance" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.esportes" title="Ítalo Ferreira ostenta com carro de mais de R$ 500 mil" data-source-name="LANCE!" data-source-types="PRT">
+    <a href="https://www.terra.com.br/esportes/jogos-olimpicos/ouro-italo-ferreira-ostenta-com-carro-de-mais-de-r-500-mil,b473b24a7a7d691e936ba7c0547ccb0ddqqdxxc5.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/477/477/179/0/104/114/images.terra.com/2021/08/06/980805129-60fff988b6ca9.jpeg" alt="Ítalo Ferreira ostenta com carro de mais de R$ 500 mil" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/jogos-olimpicos/ouro-italo-ferreira-ostenta-com-carro-de-mais-de-r-500-mil,b473b24a7a7d691e936ba7c0547ccb0ddqqdxxc5.html" class="card-h-small__text--hat color-esportes">Medalhista de ouro</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/esportes/jogos-olimpicos/ouro-italo-ferreira-ostenta-com-carro-de-mais-de-r-500-mil,b473b24a7a7d691e936ba7c0547ccb0ddqqdxxc5.html" target="_top" >Ítalo Ferreira ostenta com carro de mais de R$ 500 mil</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/esportes/lance/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2018/11/22/lancenew.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Lance!</span>
+            </a>
+    </a>
+
+
+    </div>
+</div>                </div>
+                <div class="card-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-08150cac4dfd174acae1d7870d7eabe283cs9vn6" class="card card-h-small   " data-size="card-horizontal-small" data-type="S" data-tgmkey="br.xx" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.diversao.gente" title="Após mentir, Sérgio Hondjakoff admite internação em clínica" data-source-name="Popline" data-source-types="PRT">
+    <a href="https://portalpopline.com.br/sergio-hondjakoff-cabecao-admite-internacao-2/" class="card-h-small__image" target="_blank" rel="noopener"><img src="https://p2.trrsf.com/image/fget/cf/352/352/79/35/104/114/images.terra.com/2021/08/06/593291494-cabecao-2.jpg" alt="Após mentir, Sérgio Hondjakoff admite internação em clínica" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://portalpopline.com.br/sergio-hondjakoff-cabecao-admite-internacao-2/" class="card-h-small__text--hat color-diversao">Ator que fez 'Cabeção'</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://portalpopline.com.br/sergio-hondjakoff-cabecao-admite-internacao-2/" target="_blank" rel="noopener">Após mentir, Sérgio Hondjakoff admite internação em clínica</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://portalpopline.com.br/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2020/05/28/faviconpopline.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Popline</span>
+                <span class="icon-solid icon-12 icon-arrow-up icon-rotate-45"></span>
+            </a>
+    </a>
+
+
+    </div>
+</div>                </div>
+                <div class="card-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-d2a471583c81c1cb0767be6b8c22273fzj04qmnk" class="card card-h-small   " data-size="card-horizontal-small" data-type="N" data-tgmkey="br.cobranded_lance" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.futebol" title="Familiar do dono do PSG diz que acordo com Messi foi fechado" data-source-name="LANCE!" data-source-types="PRT">
+    <a href="https://www.terra.com.br/esportes/futebol/familiar-do-dono-do-psg-diz-que-acordo-com-messi-foi-fechado,d2a471583c81c1cb0767be6b8c22273fzj04qmnk.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/249/249/299/66/104/114/images.terra.com/2021/08/07/1363017842-60e59adc67652.jpeg" alt="Familiar do dono do PSG diz que acordo com Messi foi fechado" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/futebol/familiar-do-dono-do-psg-diz-que-acordo-com-messi-foi-fechado,d2a471583c81c1cb0767be6b8c22273fzj04qmnk.html" class="card-h-small__text--hat color-esportes">Anúncio estaria próximo</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/esportes/futebol/familiar-do-dono-do-psg-diz-que-acordo-com-messi-foi-fechado,d2a471583c81c1cb0767be6b8c22273fzj04qmnk.html" target="_top" >Familiar do dono do PSG diz que acordo com Messi foi fechado</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/esportes/lance/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2018/11/22/lancenew.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Lance!</span>
+            </a>
+    </a>
+
+
+    </div>
+</div>                </div>
+        </div>
+    </div>
+</div>
+    <div class="table-editorial-1__line table-editorial-1__line--apps">
+
+
+<div class="card card-subject-modules" data-type="P" id="card-id-editorial-table-app">
+    <a href="https://www.terra.com.br/noticias/" class="card-subject-modules__title color-noticias" data-event-label="Notícias">Notícias</a>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div id="card-9c6d3c7def195dca9e1a111d91d2e14dwkgptl5w" class="card card-news card-v card-v-color bg-color-noticias card-v-color-image " data-size="card-subject-module" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.noticias.noticias" title="&#34;Vamos ficar quietos assistindo a isso?&#34;, diz empresário" data-source-name="Estadão Conteúdo" data-source-types="SRC">
+    <a href="https://www.terra.com.br/noticias/vamos-ficar-quietos-assistindo-a-isso-diz-empresario,9c6d3c7def195dca9e1a111d91d2e14dwkgptl5w.html" class="card-v__image" target="_top" >
+    <div class="card-news__image">
+        <img src="https://p2.trrsf.com/image/fget/cf/306/384/smart/images.terra.com/2021/08/05/794436950-1628154920466.jpg" class="" alt="&#34;Vamos ficar quietos assistindo a isso?&#34;, diz empresário" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://www.terra.com.br/noticias/vamos-ficar-quietos-assistindo-a-isso-diz-empresario,9c6d3c7def195dca9e1a111d91d2e14dwkgptl5w.html" class="card-news__text--hat ">Sobre ataques de Bolsonaro</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://www.terra.com.br/noticias/vamos-ficar-quietos-assistindo-a-isso-diz-empresario,9c6d3c7def195dca9e1a111d91d2e14dwkgptl5w.html" target="_top" >"Vamos ficar quietos assistindo a isso?", diz empresário</a></h2>
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-68aba1e740f9a80f1fd4c7d53b4df154qnes239i" class="card card-h-small   card-h-small-color bg-color-noticias" data-size="card-horizontal-small-color" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.noticias.ciencia" title="Peixe com dentes &#39;humanos&#39; é capturado nos EUA" data-source-name="BBC News Brasil" data-source-types="SRC">
+    <a href="https://www.terra.com.br/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/550/550/300/0/104/118/images.terra.com/2021/08/06/1326476524-119803510mediaitem119803506.jpg" alt="Peixe com dentes &#39;humanos&#39; é capturado nos EUA" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html" class="card-h-small__text--hat ">'peixe-ovelha'</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html" target="_top" >Peixe com dentes 'humanos' é capturado nos EUA</a></h2>
+
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-b2beb2e7c87bece293d7130849c91dbcd48jqhd3" class="card card-h-small card-h-small-border card-no-image " data-size="card-horizontal-small-nopic" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.noticias.ciencia" title="Amazônia registra 2º ano com mais desmatamento desde 2015" data-source-name="Estadão Conteúdo" data-source-types="SRC">
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/noticias/ciencia/sustentabilidade/amazonia-registra-2-ano-com-mais-desmatamento-desde-2015,b2beb2e7c87bece293d7130849c91dbcd48jqhd3.html" class="card-h-small__text--hat color-noticias">devastação na Amazônia</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/noticias/ciencia/sustentabilidade/amazonia-registra-2-ano-com-mais-desmatamento-desde-2015,b2beb2e7c87bece293d7130849c91dbcd48jqhd3.html" target="_top" >Amazônia registra 2º ano com mais desmatamento desde 2015</a></h2>
+
+
+    </div>
+</div></div>
+<div class="card card-subject-modules" data-type="P" id="card-id-editorial-table-app">
+    <a href="https://www.terra.com.br/esportes/" class="card-subject-modules__title color-esportes" data-event-label="Esportes">Esportes</a>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div id="card-2b6b9275762b8f6b4033432519eaaae6e09uu7j9" class="card card-news card-v card-v-color bg-color-esportes card-v-color-image " data-size="card-subject-module" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.futebol" title="Quartas da Copa do Brasil têm Grêmio x Flamengo; veja duelos" data-source-name="Equipe portal" data-source-types="SRC">
+    <a href="https://www.terra.com.br/esportes/gremio/quartas-da-copa-do-brasil-tem-gremio-x-flamengo-veja-duelos,2b6b9275762b8f6b4033432519eaaae6e09uu7j9.html" class="card-v__image" target="_top" >
+    <div class="card-news__image">
+        <img src="https://p2.trrsf.com/image/fget/cf/284/427/368/66/306/384/images.terra.com/2021/08/06/sorteio.jpg" class="" alt="Quartas da Copa do Brasil têm Grêmio x Flamengo; veja duelos" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/gremio/quartas-da-copa-do-brasil-tem-gremio-x-flamengo-veja-duelos,2b6b9275762b8f6b4033432519eaaae6e09uu7j9.html" class="card-news__text--hat ">Confrontos definidos</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://www.terra.com.br/esportes/gremio/quartas-da-copa-do-brasil-tem-gremio-x-flamengo-veja-duelos,2b6b9275762b8f6b4033432519eaaae6e09uu7j9.html" target="_top" >Quartas da Copa do Brasil têm Grêmio x Flamengo; veja duelos</a></h2>
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-5b83af325cd95f0313be7e22753d63c31il18epu" class="card card-h-small   card-h-small-color bg-color-esportes" data-size="card-horizontal-small-color" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.esportes" title="Brasil busca medalhas no futebol, vôlei, boxe e com Isaquias" data-source-name="Equipe portal" data-source-types="SRC">
+    <a href="https://www.terra.com.br/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/1184/1184/367/172/104/118/images.terra.com/2021/08/06/jogadores-da-selecao-brasileira-comemoram-gol-lucas-figueiredo-cbf.jpg" alt="Brasil busca medalhas no futebol, vôlei, boxe e com Isaquias" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html" class="card-h-small__text--hat ">Agenda olímpica do dia</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html" target="_top" >Brasil busca medalhas no futebol, vôlei, boxe e com Isaquias</a></h2>
+
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-ebfddd17b72081a35fc72466ebda08d1thkzln08" class="card card-h-small card-h-small-border card-no-image " data-size="card-horizontal-small-nopic" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.esportes.futebol" title="Com Hernanes no estádio, Sport e Bragantino empatam" data-source-name="Gazeta Esportiva" data-source-types="SRC">
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/serie-a-com-hernanes-no-estadio-sport-e-bragantino-empatam,ebfddd17b72081a35fc72466ebda08d1thkzln08.html" class="card-h-small__text--hat color-esportes">Brasileirão Série A</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/serie-a-com-hernanes-no-estadio-sport-e-bragantino-empatam,ebfddd17b72081a35fc72466ebda08d1thkzln08.html" target="_top" >Com Hernanes no estádio, Sport e Bragantino empatam</a></h2>
+
+
+    </div>
+</div></div>
+<div class="card card-subject-modules" data-type="P" id="card-id-editorial-table-app">
+    <a href="https://www.terra.com.br/diversao/" class="card-subject-modules__title color-diversao" data-event-label="Entretenimento">Entretenimento</a>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div id="card-733398ec13d57bdc4b6ab0feddade8d089regnar" class="card card-news card-v card-v-color bg-color-diversao card-v-color-image " data-size="card-subject-module" data-type="S" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.diversao.musica" title="MC Kevin: viúva revela o valor da pensão da filha do cantor" data-source-name="Popline" data-source-types="PRT">
+    <a href="https://portalpopline.com.br/mc-kevin-viuva-revela-o-valor-da-pensao-da-filha-do-cantor/" class="card-v__image" target="_blank" rel="noopener">
+    <div class="card-news__image">
+        <img src="https://p2.trrsf.com/image/fget/cf/245/368/15/18/306/384/images.terra.com/2021/08/05/585104185-deolane-evelin.png" class="" alt="MC Kevin: viúva revela o valor da pensão da filha do cantor" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://portalpopline.com.br/mc-kevin-viuva-revela-o-valor-da-pensao-da-filha-do-cantor/" class="card-news__text--hat ">Após reclamação</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://portalpopline.com.br/mc-kevin-viuva-revela-o-valor-da-pensao-da-filha-do-cantor/" target="_blank" rel="noopener">MC Kevin: viúva revela o valor da pensão da filha do cantor</a></h2>
+
+    </div>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://portalpopline.com.br/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2020/05/28/faviconpopline.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Popline</span>
+                <span class="icon-solid icon-12 icon-arrow-up icon-rotate-45"></span>
+            </a>
+    </a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-98b383b6f7f492be9bbd9b065cdc3899urkva24j" class="card card-h-small   card-h-small-color bg-color-diversao" data-size="card-horizontal-small-color" data-type="S" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.noticias.noticias" title="Ana Maria é detonada por comentário a repórter negro" data-source-name="RD1" data-source-types="PRT">
+    <a href="https://rd1.com.br/ana-maria-braga-e-detonada-por-comentario-reporter-negro-na-globo/" class="card-h-small__image" target="_blank" rel="noopener"><img src="https://p2.trrsf.com/image/fget/cf/104/118/smart/images.terra.com/2021/08/06/1079029019-20210806-ana-maria-braga-e-thiago.jpg" alt="Ana Maria é detonada por comentário a repórter negro" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://rd1.com.br/ana-maria-braga-e-detonada-por-comentario-reporter-negro-na-globo/" class="card-h-small__text--hat ">Durante o 'Mais Você'</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://rd1.com.br/ana-maria-braga-e-detonada-por-comentario-reporter-negro-na-globo/" target="_blank" rel="noopener">Ana Maria é detonada por comentário a repórter negro</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://rd1.com.br/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2021/01/13/rd1combr-favicon.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">RD1</span>
+                <span class="icon-solid icon-12 icon-arrow-up icon-rotate-45"></span>
+            </a>
+    </a>
+
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t" class="card card-h-small card-h-small-border card-no-image " data-size="card-horizontal-small-nopic" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.diversao.tv" title="&#39;Stranger Things&#39;: 4ª temporada fica para 2022" data-source-name="Estadão Conteúdo" data-source-types="SRC">
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/diversao/tv/series/stranger-things-4-temporada-sai-em-2022-veja-teaser,4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t.html" class="card-h-small__text--hat color-diversao">Assista ao teaser</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/diversao/tv/series/stranger-things-4-temporada-sai-em-2022-veja-teaser,4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t.html" target="_top" >'Stranger Things': 4ª temporada fica para 2022</a></h2>
+
+
+    </div>
+</div></div>
+<div class="card card-subject-modules" data-type="P" id="card-id-editorial-table-app">
+    <a href="https://www.terra.com.br/vida-e-estilo/" class="card-subject-modules__title color-vidaeestilo" data-event-label="Vida e Estilo">Vida e Estilo</a>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div id="card-669ff2e5684ed5e297d27d7677b9a05ese101o23" class="card card-news card-v card-v-color bg-color-vidaeestilo card-v-color-image flex-1024-card-ha " data-size="card-vertical" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.vidaeestilo.vidaeestilo" title="O que acontece quando não se toma banho diariamente?" data-source-name="Alto Astral" data-source-types="SRC,PRT">
+    <a href="https://www.terra.com.br/vida-e-estilo/nao-tomar-banho-diariamente-dermatologista-responde-ao-habito-de-mila-kunis-e-ashton-kutcher,669ff2e5684ed5e297d27d7677b9a05ese101o23.html" class="card-v__image" target="_top" >
+    <div class="card-news__shadow"></div>
+    <div class="card-news__image">
+        <img src="https://p2.trrsf.com/image/fget/cf/480/721/739/0/306/384/images.terra.com/2021/08/03/490427539-ashtonemila.jpg" class="" alt="O que acontece quando não se toma banho diariamente?" loading="lazy" decoding="async">
+    </div>
+    </a>
+    <div class="card-news__text">
+        <div class="card-news__text--container">
+                <h3><a href="https://www.terra.com.br/vida-e-estilo/nao-tomar-banho-diariamente-dermatologista-responde-ao-habito-de-mila-kunis-e-ashton-kutcher,669ff2e5684ed5e297d27d7677b9a05ese101o23.html" class="card-news__text--hat bg-color-vidaeestilo">Mila Kunis e Ashton Kutcher</a></h3>
+        </div>
+        <h2><a class="card-news__text--title main-url" href="https://www.terra.com.br/vida-e-estilo/nao-tomar-banho-diariamente-dermatologista-responde-ao-habito-de-mila-kunis-e-ashton-kutcher,669ff2e5684ed5e297d27d7677b9a05ese101o23.html" target="_top" >O que acontece quando não se toma banho diariamente?</a></h2>
+
+    </div>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/parceiros/alto-astral/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2020/05/29/icone-portal-alto-astral-01.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Alto Astral</span>
+            </a>
+    </a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-e7fae110b173637ffbd554564782b6992i5eiw99" class="card card-h-small   card-h-small-color bg-color-vidaeestilo" data-size="card-horizontal-small-color" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.vidaeestilo.horoscopo" title="Descubra quais são os pequenos pecados dos signos" data-source-name="Alto Astral" data-source-types="SRC,PRT">
+    <a href="https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html" class="card-h-small__image" target="_top" ><img src="https://p2.trrsf.com/image/fget/cf/104/118/smart/images.terra.com/2021/08/05/1413085901-ospecadosdecadasigno.jpg" alt="Descubra quais são os pequenos pecados dos signos" loading="lazy" decoding="async"></a>
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html" class="card-h-small__text--hat ">pontos negativos do Zodíaco</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html" target="_top" >Descubra quais são os pequenos pecados dos signos</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/parceiros/alto-astral/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2020/05/29/icone-portal-alto-astral-01.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Alto Astral</span>
+            </a>
+    </a>
+
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="card-ad164263d0a0caf6c6a7af08ff84bce99bz01xp6" class="card card-h-small card-h-small-border card-no-image " data-size="card-horizontal-small-nopic" data-type="N" data-tgmkey="" data-reason="ef" data-reason-detail="," data-reason-score="" data-channel-info="br.vidaeestilo.moda" title="Efeito skate: dispara busca por tênis, roupa e equipamentos" data-source-name="Elas no Tapete Vermelho" data-source-types="SRC,PRT">
+    <div class="card-h-small__text">
+        <div class="card-h-small__text--container">
+                <h3><a href="https://www.terra.com.br/vida-e-estilo/moda/efeito-skate-dispara-busca-por-tenis-roupa-e-equipamentos,ad164263d0a0caf6c6a7af08ff84bce99bz01xp6.html" class="card-h-small__text--hat color-vidaeestilo">'Febre' após 3 medalhas</a></h3>
+        </div>
+        <h2><a class="card-h-small__text--title main-url" href="https://www.terra.com.br/vida-e-estilo/moda/efeito-skate-dispara-busca-por-tenis-roupa-e-equipamentos,ad164263d0a0caf6c6a7af08ff84bce99bz01xp6.html" target="_top" >Efeito skate: dispara busca por tênis, roupa e equipamentos</a></h2>
+            <a target="_blank" rel="noopener" class="card-news__sponsor" href="https://www.terra.com.br/vida-e-estilo/moda/elas-no-tapete-vermelho/">
+<img class="card-news__sponsor--image" src="https://p2.trrsf.com/image/fget/cf/16/16/filters:quality(100)/images.terra.com/2018/11/20/elasnotapetevermelho.png" loading="lazy" decoding="async">                <span class="card-news__sponsor--title">Elas no Tapete Vermelho</span>
+            </a>
+    </a>
+
+
+    </div>
+</div></div>       
+        
+<div id="app-t360-editorial-apps" class="table-news zaz-app-t360-editorial-apps" data-position="1" data-area="EDITORIAL-TABLE" data-type="PARTIAL" data-area-ad="2">
+        
+
+
+<div class="card card-app app-1453110  app-t360-embed" id="app-1453110" data-type="A" data-app-name="app.t360.embed" data-render-type="backend" data-id="1453110" data-reason="ea" data-ga-label="app.t360.embed - Quadro de medalhas" title="Quadro de medalhas" data-source-name="APP" data-render-app="false">
+    <div class="app-t360-embed__title">Quadro de medalhas</div>
+    <iframe title="Medalhas Olimpicas" src="https://www.estadao.com.br/widget/medalhas-olimpicas" width="100%" height="250px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+</div>        
+
+<div class="card card-app app-1419475  loading-app app-horoscope show" id="app-1419475" data-type="A" data-app-name="app.t360.horoscope" data-render-type="backend" data-id="1419475" data-reason="ea" data-ga-label="app.t360.horoscope - [Horóscopo]" title="Horóscopo" data-source-name="APP">
+<div class="app-horoscope__mosaic show">
+    <header class="app-horoscope__mosaic--header">Horóscopo</header>
+    <ul class="app-horoscope__mosaic--list">
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Áries" class="icon-32 icon-solid icon-aries" data-action="open-sign" data-action-param="aries">Áries</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Áries</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Touro" class="icon-32 icon-solid icon-taurus" data-action="open-sign" data-action-param="taurus">Touro</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Touro</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Gêmeos" class="icon-32 icon-solid icon-gemini" data-action="open-sign" data-action-param="gemini">Gêmeos</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Gêmeos</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Câncer" class="icon-32 icon-solid icon-cancer" data-action="open-sign" data-action-param="cancer">Câncer</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Câncer</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Leão" class="icon-32 icon-solid icon-leo" data-action="open-sign" data-action-param="leo">Leão</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Leão</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Virgem" class="icon-32 icon-solid icon-virgo" data-action="open-sign" data-action-param="virgo">Virgem</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Virgem</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Libra" class="icon-32 icon-solid icon-libra" data-action="open-sign" data-action-param="libra">Libra</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Libra</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Escorpião" class="icon-32 icon-solid icon-scorpio" data-action="open-sign" data-action-param="scorpio">Escorpião</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Escorpião</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Sagitário" class="icon-32 icon-solid icon-sagittarius" data-action="open-sign" data-action-param="sagittarius">Sagitário</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Sagitário</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Capricórnio" class="icon-32 icon-solid icon-capricorn" data-action="open-sign" data-action-param="capricorn">Capricórnio</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Capricórnio</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Aquário" class="icon-32 icon-solid icon-aquarius" data-action="open-sign" data-action-param="aquarius">Aquário</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Aquário</span>
+        </li>
+        <li class="app-horoscope__mosaic--list__item">
+            <buttom title="Peixes" class="icon-32 icon-solid icon-pisces" data-action="open-sign" data-action-param="pisces">Peixes</buttom>
+            <span class="app-horoscope__mosaic--list__item__text">Peixes</span>
+        </li>
+    </ul>
+</div></div>        
+
+<div class="card card-app app-1419478  loading-app" id="app-1419478" data-type="A" data-app-name="app.t360.financial" data-render-type="backend" data-id="1419478" data-reason="ea" data-ga-label="app.t360.financial - [Indicadores Financeiros]" title="Bolsa e Câmbio" data-source-name="APP">
+    <img src="https://s1.trrsf.com/fe/zaz-app-financial/_img/loader.png" alt="" />
+</div><div class="card card-ad card-ad-rect" data-ad-area="2" data-type="AD">
+    <span class="card-ad__title">Publicidade</span>
+    <div class="card-ad-rect__content" id="ad-app-t360-editorial-apps-1"></div>
+</div></div>
+    </div>
+</div>
+
+<script>
+	if(window.performance && window.performance.mark){
+		window.performance.mark('finishTable');
+	}
+</script><noscript>Script de configurações de app</noscript>
+
+
+
+<div class="table-news table-range-flex" data-type="TABLE-APP" id="table-app-t360-sva-bar" data-id="table-app-t360-sva-bar" data-app-name="app.t360.svaBar" data-app-data='{"name":"app.t360.svaBar"}' data-type-render="backend">
+    <div class="t360-sva-bar">
+        <div class="t360-sva-bar__logo t360-sva-bar__list__item__link--pf">
+            <span class="icon icon-150">
+                <a href="https://www.terra.com.br/produtos/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=todos-servicos&utm_term=pos-01&cdConvenio=CVTR00002055"><img src="https://svadata.terra.com.br/barra/logo-produtos-terra.png"></a>
+            </span>
+        </div>
+        <ul class="t360-sva-bar__list">
+            <li class="t360-sva-bar__list__item">
+                <a href="https://www.terraempresas.com.br/construtor-sites/promo/super-oferta-b/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=construtor&utm_term=pos-02&cdConvenio=CVTR00002055https://www.terraempresas.com.br/construtor-sites/promo/super-oferta-b/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=construtor&utm_term=pos-02&cdConvenio=CVTR00002055" data-gtm-event-label="Construtor de Sites" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pj">
+                    Construtor de Sites
+                </a>
+            </li>
+            <li class="t360-sva-bar__list__item">
+                <a href="https://www.terraempresas.com.br/construtor-sites/promo/super-oferta-site-pronto/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=site-pronto&utm_term=pos-03&cdConvenio=CVTR00002055" data-gtm-event-label="Site Pronto" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Site Pronto
+                </a>
+            </li>
+            <li class="t360-sva-bar__list__item">
+                <a href="https://www.terraempresas.com.br/loja-virtual/promo/super-oferta-loja-pronta/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=loja-pronta&utm_term=pos-04&cdConvenio=CVTR00002055" data-gtm-event-label="Loja Pronta" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Loja Pronta
+                </a>
+            </li>
+
+            <li class="t360-sva-bar__list__item">
+                <a href="https://www.terraempresas.com.br/loja-virtual/promo/super-oferta/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=loja-virtual&utm_term=pos-05&cdConvenio=CVTR00002055" data-gtm-event-label="Loja Virtual" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Loja Virtual
+                </a>
+            </li>
+
+            <li class="t360-sva-bar__list__item">
+                <a href="https://servicos.terra.com.br/cursos-online/promo/super-oferta-bonus/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=cursos-online-minutrade-1GB&utm_term=pos-06&cdConvenio=CVTR00002055" data-gtm-event-label="Cursos Online" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Cursos Online
+                </a>
+            </li>
+
+            <li class="t360-sva-bar__list__item">
+                <a href="https://servicos.terra.com.br/mail-gigante/promo/mais-espaco-para-seu-email/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=mail-gigante&utm_term=pos-07&cdConvenio=CVTR00002055" data-gtm-event-label="Mail Gigante" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Mail Gigante
+                </a>
+            </li>
+
+            <li class="t360-sva-bar__list__item">
+                <a href="https://servicos.terra.com.br/curso-de-ingles/promo/super-oferta/?utm_source=terra%20360&utm_medium=barra%20central&utm_campaign=curso%20ingles&utm_term=pos-08&cdConvenio=CVTR00002055" data-gtm-event-label="Curso de Inglês" class="t360-sva-bar__list__item__link t360-sva-bar__list__item__link--pf">
+                    Curso de Inglês
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+</div>
+<div class="table-ad table-ad-editorial-1 ad-get-size" data-type="AD">
+    <div id="ad-full-app-t360-editorial-apps" class="table-ad__full"></div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+/***** FEED TAGMAN-TGMKEYS ****/
+var tempTgm = [["br.lifestyle_saudebucal", "br.lifestyle_alimentacaoinfantil", "br.lifestyle_tratamentodentais", "br.lifestyle_diadasmaes", "br.lifestyle_infantil", "br.lifestyle_boahigieneoral", "br.lifestyle_estagiosdavida", "br.lifestyle_atualidades", "br.lifestyle_problemascomuns", "br.lifestyle_condicoesmedicas", "br.lifestyle_branqueamento", "br.lifestyle_mauhalito", "br.lifestyle_sensibilidade", "br.economy_blackfriday", "br.economy_dinheironobolso", "br.conteudopublicitario_realize"]];
+if(tempTgm.length > 0){
+	window.tgmkeys = tempTgm[0];
+}else{
+	window.tgmkeys = [];
+}
+var tagmanAreas = [{"s0_altura_minima": "90", "s0_altura_minima_mobile": "50", "t360.home": {"web": {"areas": {"1": {"cards": [{"card_width": 300, "card_height": 250, "full_width": 970, "full_height": 250, "type": "rect"}]}, "2": {"cards": [{"card_width": 300, "card_height": 250, "full_width": "parallax", "full_height": "parallax", "type": "rect"}]}, "3": {"cards": [{"card_width": 300, "card_height": 600, "full_width": 970, "full_height": 250, "type": "vert"}]}}, "viewport_max": 3, "viewport_order": [2, 3, 2, 1]}, "mob": {"areas": {"1": {"cards": [{"card_width": 300, "card_height": 250, "full_width": 320, "full_height": 50, "type": "rect"}]}, "2": {"cards": [{"card_width": 300, "card_height": 600, "type": "vert"}]}, "3": {"cards": [{"card_width": 300, "card_height": 250, "type": "rect"}]}}, "viewport_max": 3, "viewport_order": [3]}}, "home": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"full": true}, "3": {"cards": [{"height": 600, "width": 300}], "full": true}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}, "subject": {"home": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"full": true}, "3": {"cards": [{"height": 600, "width": 300}], "full": true}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}}, "media_service": {"home": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"cards": [{"height": 250, "width": 300}]}, "3": {"cards": [{"height": 600, "width": 300}]}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}, "article": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"full": true}, "3": {"cards": [{"height": 600, "width": 300}], "full": true}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}}, "premium": {"home": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"full": true}, "3": {"cards": [{"height": 600, "width": 300}], "full": true}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}, "article": {"areas": {"1": {"cards": [{"height": 250, "width": 300}]}, "2": {"full": true}, "3": {"cards": [{"height": 600, "width": 300}], "full": true}, "4": {"cards": [{"height": 250, "width": 300}]}}, "viewport_max": 4, "viewport_order": [4, 2, 3, 4]}}}];
+if(tagmanAreas.length > 0){
+	tagmanAreas = tagmanAreas[0];
+}else{
+	tagmanAreas = [];
+}
+zaz.use(function(pkg){
+	pkg.context.page.set("timelineApps", {"id-editorial-table-app": {"id": "id-editorial-table-app", "name": "app.t360.editorialTable", "items": [{"cartola": {"chooseEditor": false, "customHat": false, "id": "187775b4786b2310VgnVCM3000009af154d0RCRD", "label": "Not\u00edcias", "path": "Brasil.noticias", "url": "https://www.terra.com.br/noticias/"}, "cmsVideo": null, "configs": {"idItemMenu": "not", "orderWeb": "1", "subjectModule": "true"}, "date": "2021-08-06 13:28:06 -0300", "expirationDate": null, "fixedPosition": null, "id": "1431504", "image": null, "paidContent": false, "items": [{"ampURL": "https://www.terra.com.br/amp/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html", "breadCrumb": ["31b0316871bf3310VgnVCM3000009af154d0RCRD", "881842b39854a310VgnVCM3000009acceb0aRCRD", "1950ea396a54a310VgnVCM3000009acceb0aRCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "187775b4786b2310VgnVCM3000009af154d0RCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "1950ea396a54a310VgnVCM3000009acceb0aRCRD", "label": "'peixe-ovelha'", "path": "Brasil.noticias.ciencia.animais", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Confira as \u00faltimas not\u00edcias de animais e o seu habitat natual.", "display": null, "id": "1950ea396a54a310VgnVCM3000009acceb0aRCRD", "idMenu": "not-cien-anim", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Animais", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.ciencia", "terra_info_channeldetail": "animais"}, "metricsChannel": "br.noticias.ciencia", "metricsSiteId": null, "name": "Animais", "originalPath": "/Brasil/Not\u00edcias/Ci\u00eancia/Animais", "path": "Brasil.noticias.ciencia.animais", "site": "Brasil", "terratv": 5622, "tgmKey": "br.news_ciencia", "title": "Not\u00edcias de animais e seu habitat - Ci\u00eancia - Terra", "url": "https://www.terra.com.br/noticias/ciencia/animais/"}, {"channels": null, "description": "Veja as \u00faltimas not\u00edcias, fotos e v\u00eddeos no mundo sobre pol\u00edtica, diplomacia, conflitos, curiosidades e mais.", "display": null, "id": "31b0316871bf3310VgnVCM3000009af154d0RCRD", "idMenu": "not-mund", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Mundo", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.mundo", "terra_info_channeldetail": "/"}, "metricsChannel": "br.noticias.mundo", "metricsSiteId": null, "name": "Mundo", "originalPath": "/Brasil/Not\u00edcias/Mundo", "path": "Brasil.noticias.mundo", "site": "Brasil", "terratv": 4201, "tgmKey": "br.news_mundo", "title": "Not\u00edcias do mundo: pol\u00edtica, conflitos, crimes, curiosidade e mais - Terra", "url": "https://www.terra.com.br/noticias/mundo/"}, {"channels": null, "description": "Veja as \u00faltimas not\u00edcias, fotos e v\u00eddeos sobre animais, clima, aquecimento global, novas pesquisas, descobertas e muito mais.", "display": null, "id": "881842b39854a310VgnVCM3000009acceb0aRCRD", "idMenu": "not-cien", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Ci\u00eancia", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.ciencia", "terra_info_channeldetail": "/"}, "metricsChannel": "br.noticias.ciencia", "metricsSiteId": null, "name": "Ci\u00eancia", "originalPath": "/Brasil/Not\u00edcias/Ci\u00eancia", "path": "Brasil.noticias.ciencia", "site": "Brasil", "terratv": 4195, "tgmKey": "br.news_ciencia", "title": "Ci\u00eancia : animais, clima, novas pesquisas, espa\u00e7o e mais - Terra", "url": "https://www.terra.com.br/noticias/ciencia/"}], "configs": null, "firstPublishedDate": "2021-08-06 12:17:11 -0300", "fullTitle": "Peixe com dentes 'humanos' \u00e9 capturado nos EUA", "id": "68aba1e740f9a80f1fd4c7d53b4df154qnes239i", "image": {"alt": "BBC News Brasil - Todos os direitos reservados. \u00c9 proibido todo tipo de reprodu\u00e7\u00e3o sem autoriza\u00e7\u00e3o escrita da BBC News Brasil. Foto: Jennette's Pier / BBC News Brasil", "author": "Jennette's Pier", "caption": "BBC News Brasil - Todos os direitos reservados. \u00c9 proibido todo tipo de reprodu\u00e7\u00e3o sem autoriza\u00e7\u00e3o escrita da BBC News Brasil.", "creationDate": "2021-08-06 12:17:11 -0300", "height": 549, "horizontalCrop": "/819/550/25/0/", "id": "3f5da956336ae5d8c9da59f42c90c6b0cywwcm7n", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "1326476524-119803510mediaitem119803506.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/06/1326476524-119803510mediaitem119803506.jpg", "source": {"audience": "bbcnewsbrasil", "description": "BBC News Brasil - Todos os direitos reservados. \u00c9 proibido todo tipo de reprodu\u00e7\u00e3o sem autoriza\u00e7\u00e3o escrita da BBC News Brasil.", "id": null, "image": null, "keywords": null, "name": "BBC News Brasil", "publicName": "BBC News Brasil", "tgmKey": null, "url": "http://bbcbrasil.com/"}, "squareCrop": "/550/550/300/0/", "url": "http://images.terra.com/2021/08/06/1326476524-119803510mediaitem119803506.jpg", "verticalCrop": "/366/550/410/0/", "wideCrop": null, "width": 976}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 12:47:14 -0300", "socialURL": "https://www.terra.com.br/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html", "source": {"audience": "bbcnewsbrasil", "description": "BBC News Brasil - Todos os direitos reservados. \u00c9 proibido todo tipo de reprodu\u00e7\u00e3o sem autoriza\u00e7\u00e3o escrita da BBC News Brasil.", "icon": null, "id": "0912a48f91a74310VgnVCM20000099f154d0RCRD", "image": {"alt": "BBC_News_Tile_HR_RGB.jpg Foto: Divulga\u00e7\u00e3o", "author": null, "caption": "BBC_News_Tile_HR_RGB.jpg", "creationDate": "2018-06-04 09:26:04 -0300", "height": 2362, "horizontalCrop": null, "id": "aa6fc28a40698e5f405b5301cdb9d6a3qq0n6aq1", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "bbcnewstilehrrgb.jpg", "order": 0, "originalURL": "images.terra.com/2018/06/04/bbcnewstilehrrgb.jpg", "source": {"audience": "divulgacao", "description": null, "id": null, "image": null, "keywords": null, "name": "Divulga\u00e7\u00e3o", "publicName": "Divulga\u00e7\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2018/06/04/bbcnewstilehrrgb.jpg", "verticalCrop": null, "wideCrop": null, "width": 2362}, "keywords": null, "name": "BBC News Brasil", "publicName": "BBC News Brasil", "tgmKey": null, "types": ["SRC"], "url": "http://bbcbrasil.com/"}, "subTitle": null, "title": "Peixe com dentes 'humanos' \u00e9 capturado nos EUA", "url": "https://www.terra.com.br/noticias/mundo/peixe-com-dentes-humanos-e-capturado-em-pescaria-nos-eua,68aba1e740f9a80f1fd4c7d53b4df154qnes239i.html"}, {"ampURL": "https://www.terra.com.br/amp/noticias/ciencia/sustentabilidade/amazonia-registra-2-ano-com-mais-desmatamento-desde-2015,b2beb2e7c87bece293d7130849c91dbcd48jqhd3.html", "breadCrumb": ["058251a77fb05310VgnVCM4000009bf154d0RCRD", "881842b39854a310VgnVCM3000009acceb0aRCRD", "5a94baa8deb05310VgnVCM4000009bf154d0RCRD", "8fad01f03e16b310VgnVCM5000009ccceb0aRCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "187775b4786b2310VgnVCM3000009af154d0RCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "8fad01f03e16b310VgnVCM5000009ccceb0aRCRD", "label": "devasta\u00e7\u00e3o na Amaz\u00f4nia", "path": "Brasil.noticias.ciencia.sustentabilidade", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Confira as principais not\u00edcias da pol\u00edtica no Brasil. Casos de corrup\u00e7\u00e3o, o dia o dia no Planalto, Congresso, prefeituras e mais.", "display": null, "id": "058251a77fb05310VgnVCM4000009bf154d0RCRD", "idMenu": "not-bras-plit", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Pol\u00edtica", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.brasil", "terra_info_channeldetail": "politica"}, "metricsChannel": "br.noticias.brasil", "metricsSiteId": null, "name": "Pol\u00edtica", "originalPath": "/Brasil/Not\u00edcias/Brasil/Pol\u00edtica", "path": "Brasil.noticias.brasil.politica", "site": "Brasil", "terratv": 5597, "tgmKey": "br.news_brasil", "title": "Not\u00edcias da pol\u00edtica: pol\u00edticos e casos de corrup\u00e7\u00e3o - Terra", "url": "https://www.terra.com.br/noticias/brasil/politica/"}, {"channels": null, "description": "O que \u00e9 Sustentabilidade e o seu conceito. Fotos, v\u00eddeos, artigos e entrevistas sobre meio ambiente, sustentabilidade social, empresarial e ambiental.", "display": null, "id": "8fad01f03e16b310VgnVCM5000009ccceb0aRCRD", "idMenu": "not-cien-sust", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Sustentabilidade", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.ciencia", "terra_info_channeldetail": "/"}, "metricsChannel": "br.noticias.ciencia", "metricsSiteId": null, "name": "Sustentabilidade", "originalPath": "/Brasil/Not\u00edcias/Ci\u00eancia/Sustentabilidade", "path": "Brasil.noticias.ciencia.sustentabilidade", "site": "Brasil", "terratv": 5180, "tgmKey": "br.news_espsustentabilidade", "title": "Sustentabilidade: Um novo olhar para o meio ambiente - Terra", "url": "https://www.terra.com.br/noticias/ciencia/sustentabilidade/"}], "configs": null, "firstPublishedDate": "2021-08-06 12:16:50 -0300", "fullTitle": "Amaz\u00f4nia registra 2\u00ba ano com mais desmatamento desde 2015", "id": "b2beb2e7c87bece293d7130849c91dbcd48jqhd3", "image": {"alt": "Reuters - Esta publica\u00e7\u00e3o inclusive informa\u00e7\u00e3o e dados s\u00e3o de propriedade intelectual de Reuters. Fica expresamente proibido seu uso ou de seu nome sem a pr\u00e9via autoriza\u00e7\u00e3o de Reuters. Todos os direitos reservados. Foto: Reuters", "author": null, "caption": "Reuters - Esta publica\u00e7\u00e3o inclusive informa\u00e7\u00e3o e dados s\u00e3o de propriedade intelectual de Reuters. Fica expresamente proibido seu uso ou de seu nome sem a pr\u00e9via autoriza\u00e7\u00e3o de Reuters. Todos os direitos reservados.", "creationDate": "2021-08-03 19:50:41 -0300", "height": 533, "horizontalCrop": null, "id": "ae87f1189925268c8c9036c55d44775fq5sa4qa5", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "149006.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/03/149006.jpg", "source": {"audience": "reuters", "description": "Reuters - Esta publica\u00e7\u00e3o inclusive informa\u00e7\u00e3o e dados s\u00e3o de propriedade intelectual de Reuters. Fica expresamente proibido seu uso ou de seu nome sem a pr\u00e9via autoriza\u00e7\u00e3o de Reuters. Todos os direitos reservados.", "id": null, "image": null, "keywords": null, "name": "Reuters", "publicName": "Reuters", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2021/08/03/149006.jpg", "verticalCrop": null, "wideCrop": null, "width": 800}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 12:32:52 -0300", "socialURL": "https://www.terra.com.br/noticias/ciencia/sustentabilidade/amazonia-registra-2-ano-com-mais-desmatamento-desde-2015,b2beb2e7c87bece293d7130849c91dbcd48jqhd3.html", "source": {"audience": "estadaoconteudo", "description": null, "icon": {"id": "7b7a1cc6a4d289ccd8b6cd5cc1bace9cyzvch8eu", "originalURL": "images.terra.com/2018/11/20/estadao.png", "url": "http://images.terra.com/2018/11/20/estadao.png"}, "id": "0d80799996d9629de4177e27c58ddc258as1zt8m", "image": {"alt": "Estadao Conteudo.jpg Foto: Divulga\u00e7\u00e3o", "author": null, "caption": "Estadao Conteudo.jpg", "creationDate": "2018-06-04 10:30:45 -0300", "height": 357, "horizontalCrop": null, "id": "5b5fbb5b4f2d3a84667ca43fe508e0e6e587127w", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "estadao-conteudo.jpg", "order": 0, "originalURL": "images.terra.com/2018/06/04/estadao-conteudo.jpg", "source": {"audience": "divulgacao", "description": null, "id": null, "image": null, "keywords": null, "name": "Divulga\u00e7\u00e3o", "publicName": "Divulga\u00e7\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2018/06/04/estadao-conteudo.jpg", "verticalCrop": null, "wideCrop": null, "width": 2218}, "keywords": null, "name": "Estad\u00e3o Conte\u00fado", "publicName": "Estad\u00e3o", "tgmKey": null, "types": ["SRC"], "url": null}, "subTitle": null, "title": "Amaz\u00f4nia registra 2\u00ba ano com mais desmatamento desde 2015", "url": "https://www.terra.com.br/noticias/ciencia/sustentabilidade/amazonia-registra-2-ano-com-mais-desmatamento-desde-2015,b2beb2e7c87bece293d7130849c91dbcd48jqhd3.html"}], "label": "M\u00d3DULO: Not\u00edcias", "logo": null, "name": "GROUP", "publishedDate": "2021-08-06 22:31:58 -0300", "publishedTime": 1628299918000, "source": null, "subTitle": null, "tgmKey": "br.news", "time": 1628267286000, "title": "M\u00d3DULO: Not\u00edcias", "type": "P", "url": "https://www.terra.com.br/noticias/"}, {"cartola": {"chooseEditor": false, "customHat": false, "id": "2d19f517cd779310VgnVCM5000009ccceb0aRCRD", "label": "Esportes", "path": "Brasil.esportes", "url": "https://www.terra.com.br/esportes/"}, "cmsVideo": null, "configs": {"idItemMenu": "esp", "orderWeb": "1", "subjectModule": "true"}, "date": "2021-08-06 21:06:04 -0300", "expirationDate": null, "fixedPosition": null, "id": "1431508", "image": null, "paidContent": false, "items": [{"ampURL": "https://www.terra.com.br/amp/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html", "breadCrumb": ["5b7d84569407b310VgnVCM3000009acceb0aRCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "2d19f517cd779310VgnVCM5000009ccceb0aRCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "5b7d84569407b310VgnVCM3000009acceb0aRCRD", "label": "Agenda ol\u00edmpica do dia", "path": "Brasil.esportes.jogos-olimpicos", "url": null}, "category": "N", "channels": [{"channels": null, "description": "\u00daltimas not\u00edcias dos Jogos Ol\u00edmpicos. A prepara\u00e7\u00e3o dos est\u00e1dios, obras e informa\u00e7\u00f5es sobre as competi\u00e7\u00f5es.", "display": null, "id": "5b7d84569407b310VgnVCM3000009acceb0aRCRD", "idMenu": "esp-ri16", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Jogos de T\u00f3quio", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.esportes", "terra_info_channeldetail": "jogos_olimpicos"}, "metricsChannel": "br.esportes.esportes", "metricsSiteId": null, "name": "Jogos Olimpicos", "originalPath": "/Brasil/Esportes/Jogos Olimpicos", "path": "Brasil.esportes.jogos-olimpicos", "site": "Brasil", "terratv": null, "tgmKey": "br.sports", "title": "Jogos Ol\u00edmpicos - Terra", "url": "https://www.terra.com.br/esportes/jogos-olimpicos/"}], "configs": null, "firstPublishedDate": "2021-08-06 12:12:24 -0300", "fullTitle": "Brasil busca medalhas no futebol, v\u00f4lei, boxe e com Isaquias", "id": "5b83af325cd95f0313be7e22753d63c31il18epu", "image": {"alt": "Jogadores da Sele\u00e7\u00e3o Brasileira comemoram gol Lucas Figueiredo CBF.jpg Foto: Lucas Figueiredo / CBF", "author": "Lucas Figueiredo", "caption": "Jogadores da Sele\u00e7\u00e3o Brasileira comemoram gol Lucas Figueiredo CBF.jpg", "creationDate": "2021-08-06 11:13:50 -0300", "height": 1365, "horizontalCrop": "/1764/1184/142/136/", "id": "4e8de009622cc546dc0ad515eccf79eblo21axyw", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "Jogadores da Sele\u00e7\u00e3o Brasileira comemoram gol Lucas Figueiredo CBF.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/06/jogadores-da-selecao-brasileira-comemoram-gol-lucas-figueiredo-cbf.jpg", "source": {"audience": "cbf", "description": null, "id": null, "image": null, "keywords": null, "name": "CBF", "publicName": "CBF", "tgmKey": null, "url": null}, "squareCrop": "/1184/1184/367/172/", "url": "http://images.terra.com/2021/08/06/jogadores-da-selecao-brasileira-comemoram-gol-lucas-figueiredo-cbf.jpg", "verticalCrop": "/787/1184/633/154/", "wideCrop": null, "width": 2048}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 12:12:24 -0300", "socialURL": "https://www.terra.com.br/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html", "source": {"audience": "equipeportal", "description": null, "icon": null, "id": "9cce34b1d61575e0e75d8dc64e6a1e07b3eh2t87", "image": null, "keywords": "equipe portal", "name": "Equipe portal", "publicName": "Equipe portal", "tgmKey": null, "types": ["SRC"], "url": null}, "subTitle": null, "title": "Brasil busca medalhas no futebol, v\u00f4lei, boxe e com Isaquias", "url": "https://www.terra.com.br/esportes/jogos-olimpicos/brasil-busca-medalhas-no-futebol-volei-boxe-e-com-isaquias,5b83af325cd95f0313be7e22753d63c31il18epu.html"}, {"ampURL": "https://www.terra.com.br/amp/esportes/futebol/brasileiro-serie-a/serie-a-com-hernanes-no-estadio-sport-e-bragantino-empatam,ebfddd17b72081a35fc72466ebda08d1thkzln08.html", "breadCrumb": ["4846bd722c879310VgnVCM5000009ccceb0aRCRD", "04d1b3f715879310VgnVCM5000009ccceb0aRCRD", "2d19f517cd779310VgnVCM5000009ccceb0aRCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "029bb8e87798a310VgnVCM20000099cceb0aRCRD", "f33af9aebc39a310VgnVCM5000009ccceb0aRCRD", "66b5fad1f739a310VgnVCM5000009ccceb0aRCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "4846bd722c879310VgnVCM5000009ccceb0aRCRD", "label": "Brasileir\u00e3o S\u00e9rie A", "path": "Brasil.esportes.futebol.brasileiro-serie-a", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Sport. Confira hor\u00e1rios de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito.", "display": null, "id": "66b5fad1f739a310VgnVCM5000009ccceb0aRCRD", "idMenu": "esp-spor", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Sport", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.futebol", "terra_info_channeldetail": "sport"}, "metricsChannel": "br.esportes.futebol", "metricsSiteId": null, "name": "Sport", "originalPath": "/Brasil/Esportes/Equipes/Sport", "path": "Brasil.esportes.equipes.sport", "site": "Brasil", "terratv": null, "tgmKey": "br.sports_sport", "title": "Sport: que horas joga o Sport, estat\u00edsticas e fotos - Terra", "url": "https://www.terra.com.br/esportes/sport/"}, {"channels": null, "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Bragantino. Confira hor\u00e1rios de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito.", "display": null, "id": "f33af9aebc39a310VgnVCM5000009ccceb0aRCRD", "idMenu": "esp-brag", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Bragantino", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.futebol", "terra_info_channeldetail": "bragantino"}, "metricsChannel": "br.esportes.futebol", "metricsSiteId": null, "name": "Bragantino", "originalPath": "/Brasil/Esportes/Equipes/Bragantino", "path": "Brasil.esportes.equipes.bragantino", "site": "Brasil", "terratv": null, "tgmKey": "br.sports_bragantino", "title": "Bragantino: que horas joga o Bragantino, not\u00edcias, estat\u00edsticas e fotos - Terra", "url": "https://www.terra.com.br/esportes/bragantino/"}, {"channels": null, "description": "Confira todas as informa\u00e7\u00f5es sobre o Brasileir\u00e3o S\u00e9rie A: tabela do campeonato, classifica\u00e7\u00e3o e resultados dos jogos, not\u00edcias, fotos, v\u00eddeos e mais.", "display": null, "id": "4846bd722c879310VgnVCM5000009ccceb0aRCRD", "idMenu": "esp-futb-brsa", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Brasileiro S\u00e9rie A", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.futebol", "terra_info_channeldetail": "serie-a"}, "metricsChannel": "br.esportes.futebol", "metricsSiteId": null, "name": "Brasileiro Serie A", "originalPath": "/Brasil/Esportes/Futebol/Brasileiro Serie A", "path": "Brasil.esportes.futebol.brasileiro-serie-a", "site": "Brasil", "terratv": 5015, "tgmKey": "br.sports_campbrasileiro", "title": "Campeonato Brasileiro S\u00e9rie A: Tabela, Classifica\u00e7\u00e3o e mais - Futebol - Terra", "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/"}, {"channels": null, "description": "Tudo sobre Futebol no Terra: clubes, jogos ao vivo, Brasileir\u00e3o, Copa do Brasil, campeonatos estaduais, Copa 2014, Libertadores e Futebol Europeu. Fotos, v\u00eddeos, tabelas, classifica\u00e7\u00e3o, artilheiros e mais.", "display": null, "id": "04d1b3f715879310VgnVCM5000009ccceb0aRCRD", "idMenu": "esp-futb", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Futebol", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.futebol", "terra_info_channeldetail": "/"}, "metricsChannel": "br.esportes.futebol", "metricsSiteId": null, "name": "Futebol", "originalPath": "/Brasil/Esportes/Futebol", "path": "Brasil.esportes.futebol", "site": "Brasil", "terratv": 4191, "tgmKey": "br.sports_futebol", "title": "Futebol: Jogos Ao Vivo, Brasileir\u00e3o, Libertadores, Europeu e tudo sobre seu time - Terra", "url": "https://www.terra.com.br/esportes/futebol/"}, {"channels": null, "description": "Terra Esportes: Futebol, Automobilismo, Basquete e mais tudo sobre esportes e seu time preferido: fotos, v\u00eddeos, tabelas, resultados, classifica\u00e7\u00e3o e not\u00edcias de futebol, f\u00f3rmula 1, UFC, v\u00f4lei, esportes ol\u00edmpicos e mais.", "display": null, "id": "2d19f517cd779310VgnVCM5000009ccceb0aRCRD", "idMenu": "esp", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Esportes", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.esportes.esportes", "terra_info_channeldetail": "/"}, "metricsChannel": "br.esportes.esportes", "metricsSiteId": null, "name": "Esportes", "originalPath": "/Brasil/Esportes", "path": "Brasil.esportes", "site": "Brasil", "terratv": 4005, "tgmKey": "br.sports", "title": "Terra Esportes: Futebol, Automobilismo, Basquete e mais", "url": "https://www.terra.com.br/esportes/"}], "configs": null, "firstPublishedDate": "2021-08-06 20:58:57 -0300", "fullTitle": "Com Hernanes no est\u00e1dio, Sport e Bragantino empatam", "id": "ebfddd17b72081a35fc72466ebda08d1thkzln08", "image": {"alt": "gazeta-press-foto-1574122.jpg Foto: Rafael Vieira/AGIF / Gazeta Press", "author": "Rafael Vieira/AGIF", "caption": "gazeta-press-foto-1574122.jpg", "creationDate": "2021-08-06 21:04:30 -0300", "height": 2000, "horizontalCrop": null, "id": "e13886904d7df480a6a086ff578d97a1bz8y9hw7", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "gazeta-press-foto-1574122.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/07/gazeta-press-foto-1574122.jpg", "source": {"audience": "gazetapress", "description": null, "id": null, "image": null, "keywords": null, "name": "Gazeta Press", "publicName": "Gazeta Press", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2021/08/07/gazeta-press-foto-1574122.jpg", "verticalCrop": null, "wideCrop": null, "width": 3000}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 21:05:12 -0300", "socialURL": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/serie-a-com-hernanes-no-estadio-sport-e-bragantino-empatam,ebfddd17b72081a35fc72466ebda08d1thkzln08.html", "source": {"audience": "gazetaesportiva", "description": "Gazeta Esportiva", "icon": null, "id": "5774e9f509a7a310VgnVCM3000009acceb0aRCRD", "image": {"alt": "gazetaesportiva.jpg Foto: Terra", "author": null, "caption": "gazetaesportiva.jpg", "creationDate": "2012-10-19 16:55:27 -0300", "height": 49, "horizontalCrop": null, "id": "0ad910e9da97a310VgnCLD2000000ec6eb0aRCRD", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "GazetaEsportiva.jpg", "order": 0, "originalURL": "images.terra.com/2012/10/19/gazetaesportiva.jpg", "source": {"audience": "terra", "description": null, "id": null, "image": null, "keywords": null, "name": "Terra", "publicName": "Terra", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2012/10/19/gazetaesportiva.jpg", "verticalCrop": null, "wideCrop": null, "width": 120}, "keywords": null, "name": "Gazeta Esportiva", "publicName": "Gazeta Esportiva", "tgmKey": null, "types": ["SRC"], "url": null}, "subTitle": null, "title": "Com Hernanes no est\u00e1dio, Sport e Bragantino empatam", "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/serie-a-com-hernanes-no-estadio-sport-e-bragantino-empatam,ebfddd17b72081a35fc72466ebda08d1thkzln08.html"}], "label": "M\u00d3DULO: Esportes", "logo": null, "name": "GROUP", "publishedDate": "2021-08-06 22:31:58 -0300", "publishedTime": 1628299918000, "source": null, "subTitle": null, "tgmKey": "br.sports", "time": 1628294764000, "title": "M\u00d3DULO: Esportes", "type": "P", "url": "https://www.terra.com.br/esportes/"}, {"cartola": {"chooseEditor": false, "customHat": false, "id": "8a8775b4786b2310VgnVCM3000009af154d0RCRD", "label": "Entretenimento", "path": "Brasil.diversao", "url": "https://www.terra.com.br/diversao/"}, "cmsVideo": null, "configs": {"idItemMenu": "dive", "orderWeb": "1", "subjectModule": "true"}, "date": "2021-08-06 20:44:50 -0300", "expirationDate": null, "fixedPosition": null, "id": "1450994", "image": null, "paidContent": false, "items": [{"breadCrumb": ["4d1ace59087ab20d330d64f24fb1d3f527h0lk2g", "8a8775b4786b2310VgnVCM3000009af154d0RCRD", "156e1584bc9c8310VgnVCM3000009acceb0aRCRD", "afa9280af150acfe65477a86ec056f3dxns5uqbe", "20e07ef2795b2310VgnVCM3000009af154d0RCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "156e1584bc9c8310VgnVCM3000009acceb0aRCRD", "label": "Durante o 'Mais Voc\u00ea'", "path": "Brasil.diversao.tv", "url": null}, "category": "S", "channels": [{"channels": null, "description": null, "display": null, "id": "4d1ace59087ab20d330d64f24fb1d3f527h0lk2g", "idMenu": null, "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "RD1", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.noticias.noticias", "terra_info_channeldetail": "/"}, "metricsChannel": "br.noticias.noticias", "metricsSiteId": null, "name": "RD1", "originalPath": "/Brasil/parceiros/RD1", "path": "Brasil.parceiros.rd1", "site": "Brasil", "terratv": 8918833, "tgmKey": "br.x", "title": null, "url": "https://www.terra.com.br/parceiros/rd1/"}, {"channels": null, "description": "Acompanhe o resumo das novelas, programa\u00e7\u00e3o da TV, reality shows e mais. Fofocas dos artistas e not\u00edcias sobre as s\u00e9ries e novelas.", "display": null, "id": "156e1584bc9c8310VgnVCM3000009acceb0aRCRD", "idMenu": "dive-ditv", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "TV", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.diversao.tv", "terra_info_channeldetail": "/"}, "metricsChannel": "br.diversao.tv", "metricsSiteId": null, "name": "TV", "originalPath": "/Brasil/Divers\u00e3o/TV", "path": "Brasil.diversao.tv", "site": "Brasil", "terratv": 5595, "tgmKey": "br.entertainment_tv", "title": "TV: programas, programa\u00e7\u00e3o, estreias, reality shows e filmes - Terra", "url": "https://www.terra.com.br/diversao/tv/"}], "configs": null, "firstPublishedDate": "2021-08-06 09:28:53 -0300", "fullTitle": "Ana Maria \u00e9 detonada por coment\u00e1rio a rep\u00f3rter negro", "id": "98b383b6f7f492be9bbd9b065cdc3899urkva24j", "image": {"alt": "1079029019-20210806-ana-maria-braga-e-thiago.jpg Foto: RD1", "author": null, "caption": "1079029019-20210806-ana-maria-braga-e-thiago.jpg", "creationDate": "2021-08-06 09:28:53 -0300", "height": 420, "horizontalCrop": null, "id": "672dcd238158ed2b31826bd87803b3e5a8plzum3", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "1079029019-20210806-ana-maria-braga-e-thiago.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/06/1079029019-20210806-ana-maria-braga-e-thiago.jpg", "source": {"audience": "rd1", "description": null, "id": null, "image": null, "keywords": null, "name": "RD1", "publicName": "RD1", "tgmKey": null, "url": "https://rd1.com.br/"}, "squareCrop": null, "url": "http://images.terra.com/2021/08/06/1079029019-20210806-ana-maria-braga-e-thiago.jpg", "verticalCrop": "/280/420/6/0/", "wideCrop": null, "width": 620}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 09:33:54 -0300", "socialURL": "https://rd1.com.br/ana-maria-braga-e-detonada-por-comentario-reporter-negro-na-globo/", "source": {"audience": "rd1", "description": null, "icon": {"id": "f42f4d211523e8afccc769ef3da4c7cb11uzavqm", "originalURL": "images.terra.com/2021/01/13/rd1combr-favicon.png", "url": "http://images.terra.com/2021/01/13/rd1combr-favicon.png"}, "id": "0dc1d952952c51c2c662800aca9a4328q6p9705w", "image": {"alt": "RD1.com.br - favicon.png Foto:", "author": null, "caption": "RD1.com.br - favicon.png", "creationDate": "2021-01-13 09:53:48 -0300", "height": 32, "horizontalCrop": null, "id": "f42f4d211523e8afccc769ef3da4c7cb11uzavqm", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "rd1combr-favicon.png", "order": 0, "originalURL": "images.terra.com/2021/01/13/rd1combr-favicon.png", "source": {"audience": "", "description": null, "id": null, "image": null, "keywords": null, "name": "", "publicName": "", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2021/01/13/rd1combr-favicon.png", "verticalCrop": null, "wideCrop": null, "width": 32}, "keywords": null, "name": "RD1", "partner": true, "publicName": "RD1", "tgmKey": "cobranded_rd1", "types": ["PRT"], "url": "https://rd1.com.br/"}, "subTitle": null, "title": "Ana Maria \u00e9 detonada por coment\u00e1rio a rep\u00f3rter negro", "url": "https://rd1.com.br/ana-maria-braga-e-detonada-por-comentario-reporter-negro-na-globo/"}, {"ampURL": "https://www.terra.com.br/amp/diversao/tv/series/stranger-things-4-temporada-sai-em-2022-veja-teaser,4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t.html", "breadCrumb": ["5c6427be2b92833f4a846f3b0c8d50ec9o9ae9lj", "8a8775b4786b2310VgnVCM3000009af154d0RCRD", "156e1584bc9c8310VgnVCM3000009acceb0aRCRD", "ed4f83846e54a310VgnVCM4000009bcceb0aRCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "ed4f83846e54a310VgnVCM4000009bcceb0aRCRD", "label": "Assista ao\u00a0teaser", "path": "Brasil.diversao.tv.series", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Noticias, fotos e muito mais sobre as melhores s\u00e9ries e seriados, policiais, terror, a\u00e7\u00e3o, humor e mais.", "display": null, "id": "ed4f83846e54a310VgnVCM4000009bcceb0aRCRD", "idMenu": "dive-ditv-seri", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "S\u00e9ries", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.diversao.tv", "terra_info_channeldetail": "/"}, "metricsChannel": "br.diversao.tv", "metricsSiteId": null, "name": "S\u00e9ries", "originalPath": "/Brasil/Divers\u00e3o/TV/S\u00e9ries", "path": "Brasil.diversao.tv.series", "site": "Brasil", "terratv": null, "tgmKey": "br.entertainment_tv", "title": "S\u00e9ries - os maiores suscessos da TV - Terra", "url": "https://www.terra.com.br/diversao/tv/series/"}, {"channels": null, "description": "O que assistir nas principais plataformas de streaming. Filmes e s\u00e9ries vencedoras do Globo de Ouro, Oscar e Emmy Awards.", "display": null, "id": "5c6427be2b92833f4a846f3b0c8d50ec9o9ae9lj", "idMenu": "dive", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Streaming", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.diversao.diversao", "terra_info_channeldetail": "Streaming"}, "metricsChannel": "br.diversao.diversao", "metricsSiteId": null, "name": "Streaming", "originalPath": "/Brasil/Divers\u00e3o/Streaming", "path": "Brasil.diversao.streaming", "site": "Brasil", "terratv": 9145386, "tgmKey": "br.entertainment", "title": "Streaming - Terra", "url": "https://www.terra.com.br/diversao/streaming/"}, {"channels": null, "description": "Tudo sobre m\u00fasica, shows ao vivo, novelas e celebridades, programa\u00e7\u00e3o da TV, games, arte e cultura e mais.", "display": null, "id": "8a8775b4786b2310VgnVCM3000009af154d0RCRD", "idMenu": "dive", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Entretenimento", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.diversao.diversao", "terra_info_channeldetail": "/"}, "metricsChannel": "br.diversao.diversao", "metricsSiteId": null, "name": "Divers\u00e3o", "originalPath": "/Brasil/Divers\u00e3o", "path": "Brasil.diversao", "site": "Brasil", "terratv": 4004, "tgmKey": "br.entertainment", "title": "Terra Divers\u00e3o: M\u00fasica, Celebridades, TV e Novelas, Roteiro Cultural, Cinema, Games", "url": "https://www.terra.com.br/diversao/"}], "configs": null, "firstPublishedDate": "2021-08-06 13:54:59 -0300", "fullTitle": "'Stranger Things': 4\u00aa temporada fica para 2022", "id": "4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t", "image": {"alt": "2018173899-1628268782138.jpg Foto: Reprodu\u00e7\u00e3o YouTube / Netflix / Estad\u00e3o", "author": "Reprodu\u00e7\u00e3o YouTube / Netflix", "caption": "2018173899-1628268782138.jpg", "creationDate": "2021-08-06 13:56:51 -0300", "height": 524, "horizontalCrop": null, "id": "4edee34163f4c98e6d8014540124fcc6uydtplgh", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "2018173899-1628268782138.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/06/2018173899-1628268782138.jpg", "source": {"audience": "estadaoconteudo", "description": null, "id": null, "image": null, "keywords": null, "name": "Estad\u00e3o Conte\u00fado", "publicName": "Estad\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2021/08/06/2018173899-1628268782138.jpg", "verticalCrop": null, "wideCrop": null, "width": 932}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 20:40:38 -0300", "socialURL": "https://www.terra.com.br/diversao/tv/series/stranger-things-4-temporada-sai-em-2022-veja-teaser,4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t.html", "source": {"audience": "estadaoconteudo", "description": null, "icon": {"id": "7b7a1cc6a4d289ccd8b6cd5cc1bace9cyzvch8eu", "originalURL": "images.terra.com/2018/11/20/estadao.png", "url": "http://images.terra.com/2018/11/20/estadao.png"}, "id": "0d80799996d9629de4177e27c58ddc258as1zt8m", "image": {"alt": "Estadao Conteudo.jpg Foto: Divulga\u00e7\u00e3o", "author": null, "caption": "Estadao Conteudo.jpg", "creationDate": "2018-06-04 10:30:45 -0300", "height": 357, "horizontalCrop": null, "id": "5b5fbb5b4f2d3a84667ca43fe508e0e6e587127w", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "estadao-conteudo.jpg", "order": 0, "originalURL": "images.terra.com/2018/06/04/estadao-conteudo.jpg", "source": {"audience": "divulgacao", "description": null, "id": null, "image": null, "keywords": null, "name": "Divulga\u00e7\u00e3o", "publicName": "Divulga\u00e7\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2018/06/04/estadao-conteudo.jpg", "verticalCrop": null, "wideCrop": null, "width": 2218}, "keywords": null, "name": "Estad\u00e3o Conte\u00fado", "publicName": "Estad\u00e3o", "tgmKey": null, "types": ["SRC"], "url": null}, "subTitle": null, "title": "'Stranger Things': 4\u00aa temporada fica para 2022", "url": "https://www.terra.com.br/diversao/tv/series/stranger-things-4-temporada-sai-em-2022-veja-teaser,4ebc66a4a5c0ddb4092660a5c8add0449udsnl8t.html"}], "label": "M\u00d3DULO: Divers\u00e3o", "logo": null, "name": "GROUP", "publishedDate": "2021-08-06 22:31:58 -0300", "publishedTime": 1628299918000, "source": null, "subTitle": null, "tgmKey": "br.entertainment", "time": 1628293490000, "title": "M\u00d3DULO: Divers\u00e3o", "type": "P", "url": "https://www.terra.com.br/diversao/"}, {"cartola": {"chooseEditor": false, "customHat": false, "id": "4e9775b4786b2310VgnVCM3000009af154d0RCRD", "label": "Vida e Estilo", "path": "Brasil.vida-e-estilo", "url": "https://www.terra.com.br/vida-e-estilo/"}, "cmsVideo": null, "configs": {"idItemMenu": "vida", "orderWeb": "1", "subjectModule": "true"}, "date": "2021-08-06 19:58:45 -0300", "expirationDate": null, "fixedPosition": null, "id": "1431514", "image": null, "paidContent": false, "items": [{"ampURL": "https://www.terra.com.br/amp/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html", "breadCrumb": ["1379b0146a909a1e95360d4ab973fa1aq8uo96dl", "189987640d12d310VgnVCM4000009bcceb0aRCRD", "afa9280af150acfe65477a86ec056f3dxns5uqbe", "4e9775b4786b2310VgnVCM3000009af154d0RCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "a5af8faaeb12d310VgnVCM4000009bcceb0aRCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "189987640d12d310VgnVCM4000009bcceb0aRCRD", "label": "pontos negativos do Zod\u00edaco", "path": "Brasil.vida-e-estilo.horoscopo.esoterico", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Veja as \u00faltimas not\u00edcias de Esot\u00e9rico, simpatias, vid\u00eancias, espiritualidades e previs\u00f5es", "display": null, "id": "189987640d12d310VgnVCM4000009bcceb0aRCRD", "idMenu": "horo-esot", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Esot\u00e9rico", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.vidaeestilo.horoscopo", "terra_info_channeldetail": "esoterico"}, "metricsChannel": "br.vidaeestilo.horoscopo", "metricsSiteId": null, "name": "Esot\u00e9rico", "originalPath": "/Brasil/Vida e Estilo/Hor\u00f3scopo/Esot\u00e9rico", "path": "Brasil.vida-e-estilo.horoscopo.esoterico", "site": "Brasil", "terratv": null, "tgmKey": "br.lifestyle_horoscopo", "title": "Esot\u00e9rico: simpatias, vid\u00eancia, espiritualidades e mais - Hor\u00f3scopo - Terra", "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/"}, {"channels": null, "description": null, "display": null, "id": "1379b0146a909a1e95360d4ab973fa1aq8uo96dl", "idMenu": "vida-astr", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Alto Astral", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.vidaeestilo.vidaeestilo", "terra_info_channeldetail": "alto_astral"}, "metricsChannel": "br.vidaeestilo.vidaeestilo", "metricsSiteId": null, "name": "Alto Astral", "originalPath": "/Brasil/parceiros/Alto Astral", "path": "Brasil.parceiros.alto-astral", "site": "Brasil", "terratv": null, "tgmKey": "br.cobranded_altoastral", "title": "Alto Astral - Terra", "url": "https://www.terra.com.br/parceiros/alto-astral/"}], "configs": null, "firstPublishedDate": "2021-08-05 18:04:45 -0300", "fullTitle": "Descubra quais s\u00e3o os pequenos pecados dos signos", "id": "e7fae110b173637ffbd554564782b6992i5eiw99", "image": {"alt": "1413085901-ospecadosdecadasigno.jpg Foto: Shutterstock / Alto Astral", "author": "Shutterstock", "caption": "1413085901-ospecadosdecadasigno.jpg", "creationDate": "2021-08-05 18:04:45 -0300", "height": 720, "horizontalCrop": null, "id": "280a831cb3fb3f40d8bb1f8a4c28a668zxcqgvdg", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "1413085901-ospecadosdecadasigno.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/05/1413085901-ospecadosdecadasigno.jpg", "source": {"audience": "altoastral", "description": null, "id": null, "image": null, "keywords": null, "name": "Alto Astral", "publicName": "Alto Astral", "tgmKey": null, "url": "https://www.terra.com.br/parceiros/alto-astral/"}, "squareCrop": null, "url": "http://images.terra.com/2021/08/05/1413085901-ospecadosdecadasigno.jpg", "verticalCrop": null, "wideCrop": null, "width": 1280}, "paidContent": false, "locations": null, "publishedDate": "2021-08-05 18:04:45 -0300", "socialURL": "https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html", "source": {"audience": "altoastral", "description": null, "icon": {"id": "36159ff7e77377a20c191581aa0cb9bbbgdjfvds", "originalURL": "images.terra.com/2020/05/29/icone-portal-alto-astral-01.png", "url": "http://images.terra.com/2020/05/29/icone-portal-alto-astral-01.png"}, "id": "de21e38de4382a560dca3240103d63dabbhjux04", "image": {"alt": "Logo Portal Alto Astral_maior-01.png Foto: Divulga\u00e7\u00e3o", "author": null, "caption": "Logo Portal Alto Astral_maior-01.png", "creationDate": "2020-05-29 14:09:15 -0300", "height": 125, "horizontalCrop": null, "id": "051029ed75f76aa0d5dfd24458c7a8e4hveixu65", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "logo-portal-alto-astralmaior-01.png", "order": 0, "originalURL": "images.terra.com/2020/05/29/logo-portal-alto-astralmaior-01.png", "source": {"audience": "divulgacao", "description": null, "id": null, "image": null, "keywords": null, "name": "Divulga\u00e7\u00e3o", "publicName": "Divulga\u00e7\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2020/05/29/logo-portal-alto-astralmaior-01.png", "verticalCrop": null, "wideCrop": null, "width": 333}, "keywords": null, "name": "Alto Astral", "partner": true, "publicName": "Alto Astral", "tgmKey": "cobranded_altoastral", "types": ["SRC", "PRT"], "url": "https://www.terra.com.br/parceiros/alto-astral/"}, "subTitle": null, "title": "Descubra quais s\u00e3o os pequenos pecados dos signos", "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/descubra-quais-sao-os-pequenos-pecados-dos-signos,e7fae110b173637ffbd554564782b6992i5eiw99.html"}, {"ampURL": "https://www.terra.com.br/amp/vida-e-estilo/moda/efeito-skate-dispara-busca-por-tenis-roupa-e-equipamentos,ad164263d0a0caf6c6a7af08ff84bce99bz01xp6.html", "breadCrumb": ["274b1b5ca4234310VgnVCM20000099f154d0RCRD", "afa9280af150acfe65477a86ec056f3dxns5uqbe", "1a41b601435bccc2654ffb2283cf8f4ffa766263", "4e9775b4786b2310VgnVCM3000009af154d0RCRD", "20e07ef2795b2310VgnVCM3000009af154d0RCRD"], "cartola": {"chooseEditor": true, "customHat": true, "id": "274b1b5ca4234310VgnVCM20000099f154d0RCRD", "label": "'Febre' ap\u00f3s 3 medalhas", "path": "Brasil.vida-e-estilo.moda", "url": null}, "category": "N", "channels": [{"channels": null, "description": "Dicas de moda feminina e masculina, as tend\u00eancias para o inverno e ver\u00e3o, desfiles de moda das principais semanas: SPFW e moda carioca.", "display": null, "id": "274b1b5ca4234310VgnVCM20000099f154d0RCRD", "idMenu": "vida-mod", "active": true, "canonical": true, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": true, "videoOnly": false, "label": "Moda", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.vidaeestilo.moda", "terra_info_channeldetail": "/"}, "metricsChannel": "br.vidaeestilo.moda", "metricsSiteId": null, "name": "Moda", "originalPath": "/Brasil/Vida e Estilo/Moda", "path": "Brasil.vida-e-estilo.moda", "site": "Brasil", "terratv": 4168, "tgmKey": "br.lifestyle_moda", "title": "Moda: Feminina, masculina, tend\u00eancias e estilo - Terra", "url": "https://www.terra.com.br/vida-e-estilo/moda/"}, {"channels": null, "description": "Tudo sobre moda das famosas, tend\u00eancias, gafes, as mais bem vestidas, entre outros assuntos", "display": null, "id": "1a41b601435bccc2654ffb2283cf8f4ffa766263", "idMenu": "vida-mod-tape", "active": true, "canonical": false, "hiddenFromParents": false, "hide": false, "reference": false, "usedInURL": false, "videoOnly": false, "label": "Elas no Tapete Vermelho", "logo": null, "logoAutosuggest": null, "metrics": {"terra_info_channel": "br.vidaeestilo.moda", "terra_info_channeldetail": "elas_no_tapete_vermelho"}, "metricsChannel": "br.vidaeestilo.moda", "metricsSiteId": null, "name": "Elas no Tapete Vermelho", "originalPath": "/Brasil/parceiros/Elas no Tapete Vermelho", "path": "Brasil.parceiros.elas-no-tapete-vermelho", "site": "Brasil", "terratv": 8893528, "tgmKey": "br.cobranded_elasnotapetevermelho", "title": "Elas no Tapete Vermelho - Terra", "url": "https://www.terra.com.br/vida-e-estilo/moda/elas-no-tapete-vermelho/"}], "configs": null, "firstPublishedDate": "2021-08-06 10:53:21 -0300", "fullTitle": "Efeito skate: dispara busca por t\u00eanis, roupa e equipamentos", "id": "ad164263d0a0caf6c6a7af08ff84bce99bz01xp6", "image": {"alt": "1959713615-sktmascgn050821-0457-scaled.jpg Foto: Gaspar N\u00f3brega/COB/Divulga\u00e7\u00e3o / Elas no Tapete Vermelho", "author": "Gaspar N\u00f3brega/COB/Divulga\u00e7\u00e3o", "caption": "1959713615-sktmascgn050821-0457-scaled.jpg", "creationDate": "2021-08-06 10:53:20 -0300", "height": 1707, "horizontalCrop": null, "id": "8b2a548325cc2627c58fa36963fede99bcvyxoez", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "1959713615-sktmascgn050821-0457-scaled.jpg", "order": 0, "originalURL": "images.terra.com/2021/08/06/1959713615-sktmascgn050821-0457-scaled.jpg", "source": {"audience": "elasnotapetevermelho", "description": null, "id": null, "image": null, "keywords": null, "name": "Elas no Tapete Vermelho", "publicName": "Elas no Tapete Vermelho", "tgmKey": null, "url": "https://www.terra.com.br/vida-e-estilo/moda/elas-no-tapete-vermelho/"}, "squareCrop": null, "url": "http://images.terra.com/2021/08/06/1959713615-sktmascgn050821-0457-scaled.jpg", "verticalCrop": "/1139/1712/779/0/", "wideCrop": null, "width": 2560}, "paidContent": false, "locations": null, "publishedDate": "2021-08-06 13:14:20 -0300", "socialURL": "https://www.terra.com.br/vida-e-estilo/moda/efeito-skate-dispara-busca-por-tenis-roupa-e-equipamentos,ad164263d0a0caf6c6a7af08ff84bce99bz01xp6.html", "source": {"audience": "elasnotapetevermelho", "description": null, "icon": {"id": "063816fbb231eeb8b3ebfde0e9b2bda7wxwm86un", "originalURL": "images.terra.com/2018/11/20/elasnotapetevermelho.png", "url": "http://images.terra.com/2018/11/20/elasnotapetevermelho.png"}, "id": "3dea3231131394eaacf0d1b1dccf5b73hf5slyn5", "image": {"alt": "logotipo grande_elas no tapete vermelho.jpg Foto: Divulga\u00e7\u00e3o", "author": null, "caption": "logotipo grande_elas no tapete vermelho.jpg", "creationDate": "2017-05-18 12:55:44 -0300", "height": 437, "horizontalCrop": null, "id": "03036ed2213b252a0b5d986e2daa8647zuqec98g", "imageOrientation": null, "representative": false, "link": null, "locality": null, "name": "logotipo-grandeelas-no-tapete-vermelho.jpg", "order": 0, "originalURL": "images.terra.com/2017/05/18/logotipo-grandeelas-no-tapete-vermelho.jpg", "source": {"audience": "divulgacao", "description": null, "id": null, "image": null, "keywords": null, "name": "Divulga\u00e7\u00e3o", "publicName": "Divulga\u00e7\u00e3o", "tgmKey": null, "url": null}, "squareCrop": null, "url": "http://images.terra.com/2017/05/18/logotipo-grandeelas-no-tapete-vermelho.jpg", "verticalCrop": null, "wideCrop": null, "width": 811}, "keywords": null, "name": "Elas no Tapete Vermelho", "partner": true, "publicName": "Elas no Tapete Vermelho", "tgmKey": "cobranded_elasnotapetevermelho", "types": ["SRC", "PRT"], "url": "https://www.terra.com.br/vida-e-estilo/moda/elas-no-tapete-vermelho/"}, "subTitle": null, "title": "Efeito skate: dispara busca por t\u00eanis, roupa e equipamentos", "url": "https://www.terra.com.br/vida-e-estilo/moda/efeito-skate-dispara-busca-por-tenis-roupa-e-equipamentos,ad164263d0a0caf6c6a7af08ff84bce99bz01xp6.html"}], "label": "M\u00d3DULO: Vida e Estilo", "logo": null, "name": "GROUP", "publishedDate": "2021-08-06 22:31:58 -0300", "publishedTime": 1628299918000, "source": null, "subTitle": null, "tgmKey": "br.lifestyle", "time": 1628290725000, "title": "M\u00d3DULO: Vida e Estilo", "type": "P", "url": "https://www.terra.com.br/vida-e-estilo/"}, {"cartola": null, "cmsVideo": null, "configs": {"orderWeb": "1", "positionWeb": "2", "tableApp": "true"}, "date": "2021-08-02 10:00:28 -0300", "expirationDate": null, "fixedPosition": "11", "id": "1419479", "image": null, "paidContent": false, "items": [{"cartola": null, "cmsVideo": null, "configs": {"cardsizes": ["w2h2"], "script": "https://www.estadao.com.br/widget/medalhas-olimpicas", "subtype": "iframe"}, "date": null, "expirationDate": null, "fixedPosition": null, "id": "1453110", "image": null, "items": [{"breadCrumb": null, "cartola": null, "category": "app.t360.embed", "channels": null, "configs": {"cardsizes": ["w2h2"], "script": "https://www.estadao.com.br/widget/medalhas-olimpicas", "subtype": "iframe"}, "firstPublishedDate": "2021-07-22 17:35:01 -0300", "fullTitle": "Quadro de medalhas", "id": "1453110", "image": null, "locations": null, "paidContent": false, "publishedDate": "2021-07-22 17:35:01 -0300", "socialURL": null, "source": null, "subTitle": null, "title": "Quadro de medalhas", "url": null}], "label": null, "logo": null, "name": "app.t360.embed", "paidContent": false, "publishedDate": null, "publishedTime": null, "source": null, "subTitle": null, "tgmKey": null, "time": null, "title": "Quadro de medalhas", "type": "A", "url": null, "croupier": {"reasons": {"ea": ""}}}, {"cartola": null, "cmsVideo": null, "configs": {"cardsizes": ["w2h2"]}, "date": null, "expirationDate": null, "fixedPosition": "26", "id": "1419475", "image": null, "items": [{"breadCrumb": null, "cartola": null, "category": "app.t360.horoscope", "channels": null, "configs": {"cardsizes": ["w2h2"]}, "firstPublishedDate": "2020-12-21 17:15:21 -0300", "fullTitle": "[Hor\u00f3scopo]", "id": "1419475", "image": null, "locations": null, "paidContent": false, "publishedDate": "2020-12-21 17:15:21 -0300", "socialURL": null, "source": null, "subTitle": null, "title": "[Hor\u00f3scopo]", "url": null}], "label": null, "logo": null, "name": "app.t360.horoscope", "paidContent": false, "publishedDate": null, "publishedTime": null, "source": null, "subTitle": null, "tgmKey": null, "time": null, "title": "[Hor\u00f3scopo]", "type": "A", "url": null, "croupier": {"reasons": {"ea": ""}}}, {"cartola": {"chooseEditor": false, "customHat": false, "id": "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "label": "Brasil", "path": "Brasil", "url": "https://www.terra.com.br/"}, "cmsVideo": null, "configs": {"cardsizes": ["w2h2"], "idItemMenu": "home", "renderBackend": "true", "subtype": "stockexchange"}, "date": null, "expirationDate": null, "fixedPosition": null, "id": "1419478", "image": null, "items": [{"breadCrumb": null, "cartola": {"chooseEditor": false, "customHat": false, "id": "20e07ef2795b2310VgnVCM3000009af154d0RCRD", "label": "Brasil", "path": "Brasil", "url": "https://www.terra.com.br/"}, "category": "app.t360.financial", "channels": null, "configs": {"cardsizes": ["w2h2"], "renderBackend": "true", "subtype": "stockexchange"}, "firstPublishedDate": "2020-12-21 17:17:06 -0300", "fullTitle": "[Indicadores Financeiros]", "id": "1419478", "image": null, "locations": null, "paidContent": false, "publishedDate": "2020-12-21 17:17:06 -0300", "socialURL": "https://www.terra.com.br/", "source": null, "subTitle": null, "title": "[Indicadores Financeiros]", "url": "https://www.terra.com.br/"}], "label": null, "logo": null, "name": "app.t360.financial", "paidContent": false, "publishedDate": null, "publishedTime": null, "source": null, "subTitle": null, "tgmKey": "br.homepage", "time": null, "title": "[Indicadores Financeiros]", "type": "A", "url": "https://www.terra.com.br/", "croupier": {"reasons": {"ea": ""}}}, {"cartola": null, "cmsVideo": null, "configs": {"cardsizes": ["w2h2"], "id_championship": "256"}, "date": null, "expirationDate": null, "fixedPosition": "70", "id": "1419476", "image": null, "items": [{"breadCrumb": null, "cartola": null, "category": "app.t360.teams", "channels": null, "configs": {"cardsizes": ["w2h2"], "id_championship": "256"}, "firstPublishedDate": "2020-12-21 17:16:28 -0300", "fullTitle": "[Clubes] Brasileiro S\u00e9rie A - 256", "id": "1419476", "image": null, "locations": null, "paidContent": false, "publishedDate": "2020-12-21 17:16:28 -0300", "socialURL": null, "source": null, "subTitle": null, "title": "[Clubes] Brasileiro S\u00e9rie A - 256", "url": null}], "label": null, "logo": null, "name": "app.t360.teams", "paidContent": false, "publishedDate": null, "publishedTime": null, "source": null, "subTitle": null, "tgmKey": null, "time": null, "title": "[Clubes] Brasileiro S\u00e9rie A - 256", "type": "A", "url": null}], "label": "Linha de Apps", "logo": null, "name": "app.t360.editorialApps", "publishedDate": "2021-08-06 22:31:58 -0300", "publishedTime": 1628299918000, "source": null, "subTitle": null, "tgmKey": null, "time": 1627909228000, "title": "Linha de Apps", "type": "A", "url": null}], "type": "A", "configs": {"tableApp": "true", "positionWeb": "2"}}});
+	pkg.context.page.set("tagmanAreas", tagmanAreas);
+	pkg.context.page.set("tagmanStampFeed", window.tgmkeys);
+});
+window.feedLive = {};
+</script><noscript>Scripts de configurações</noscript>
+
+<div id="zaz-app-t360-footer" class="zaz-app-t360-footer"></div>
+
+<script type="text/javascript">
+var hostNames = {
+"montador": 'montador-canary-74449b8957-hr5gz',
+"croupier": 'montador-canary-74449b8957-hr5gz',
+"includer": 'montador-canary-74449b8957-hr5gz'
+}
+</script><noscript>No content<!-- no script mess here --></noscript>
+
+
+
+
+
+<!-- prefetch includer -->
+<script type="text/javascript" data-includerInjection="https://s2.trrsf.com/update-1419856518/fe/zaz-includer-fe/cerebro-extension/reporter.js">
+var includerComponents = [{"components": {"app.t360.terratv": {"meta": null, "events": null, "depends": ["ui.t360.style", "app.player"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1622212865/fe/zaz-app-t360-terratv/_js/app-t360-terratv.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-terratv/_js/app-t360-terratv.min.js", "env": "prod", "component": "app.t360.terratv", "manifest": "zaz-app-t360-terratv", "concat": false, "type": "js", "namespaces": "zaz:app.t360.terratv", "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1621452664/fe/zaz-app-t360-terratv/_css/theme-default.min.css", "attributes": {}, "inline": false, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-terratv/_css/theme-default.min.css", "env": "prod", "component": "app.t360.terratv", "manifest": "zaz-app-t360-terratv", "concat": false, "type": "css", "namespaces": null, "corsAllowed": true, "events": null}]}, "mod.globalStorage": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1580908535/fe/zaz-mod-globalstorage/zaz-globalstorage-min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-globalstorage/zaz-globalstorage-min.js", "env": "prod", "component": "mod.globalStorage", "manifest": "zaz-mod-globalstorage", "concat": false, "type": "js", "namespaces": "global:GlobalStorage", "corsAllowed": true, "events": null}]}, "mod.videojs": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1624389668/fe/zaz-3rd/videojs/video.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-3rd/videojs/video.min.js", "env": "prod", "component": "mod.videojs", "manifest": "zaz-3rd", "concat": false, "type": "js", "namespaces": "global:videojs", "corsAllowed": true, "events": null}]}, "mod.xRequest": {"meta": null, "events": null, "depends": ["cerebro"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1542656221/fe/zaz-mod-xrequest/_js/mod-xrequest.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-xrequest/_js/mod-xrequest.min.js", "env": "prod", "component": "mod.xRequest", "manifest": "zaz-mod-xrequest", "concat": false, "type": "js", "namespaces": "global:XRequest", "corsAllowed": true, "events": null}]}, "mod.dfp": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://imasdk.googleapis.com/js/sdkloader/ima3.js", "attributes": {}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.dfp", "type": "js", "namespaces": "global:google", "corsAllowed": false, "events": null}]}, "mod.fireBaseApp": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://www.gstatic.com/firebasejs/8.4.2/firebase-app.js", "attributes": {}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.fireBaseApp", "type": "js", "namespaces": "global:firebase", "corsAllowed": false, "events": null}]}, "app.t360.footer": {"meta": null, "events": null, "depends": ["ui.t360.style"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1626981943/fe/zaz-app-t360-footer/_js/app-t360-footer.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-footer/_js/app-t360-footer.min.js", "env": "prod", "component": "app.t360.footer", "manifest": "zaz-app-t360-footer", "concat": false, "type": "js", "namespaces": "zaz:app.t360.footer", "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1615316143/fe/zaz-app-t360-footer/_css/theme-default.min.css", "attributes": {}, "inline": false, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-footer/_css/theme-default.min.css", "env": "prod", "component": "app.t360.footer", "manifest": "zaz-app-t360-footer", "concat": false, "type": "css", "namespaces": null, "corsAllowed": true, "events": null}]}, "mod.prebid": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1624389667/fe/zaz-3rd/prebid/prebid.js", "attributes": {"async": "async"}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-3rd/prebid/prebid.js", "env": "prod", "component": "mod.prebid", "manifest": "zaz-3rd", "concat": false, "type": "js", "namespaces": "window.pbjs", "corsAllowed": false, "events": null}]}, "ui.t360.style": {"meta": null, "events": null, "depends": ["cerebro"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1619818849/fe/zaz-ui-t360/_css/context.min.css", "attributes": {}, "inline": false, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-ui-t360/_css/context.min.css", "env": "prod", "component": "ui.t360.style", "manifest": "zaz-ui-t360", "concat": false, "type": "css", "namespaces": null, "corsAllowed": true, "events": null}]}, "mod.stalker": {"meta": null, "events": null, "depends": ["mod.xRequest", "cerebro"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1617973552/fe/zaz-mod-stalker/_js/mod-stalker.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-stalker/_js/mod-stalker.min.js", "env": "prod", "component": "mod.stalker", "manifest": "zaz-mod-stalker", "concat": false, "type": "js", "namespaces": "zaz:mod.stalker", "corsAllowed": true, "events": null}]}, "mod.chromecast": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-mod-player-plugin", "path": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js", "attributes": {}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.chromecast", "type": "js", "namespaces": "global:chrome.cast", "corsAllowed": false, "events": null}]}, "app.player": {"meta": null, "events": null, "depends": ["mod.videojs", "cerebro"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1628193942/fe/zaz-app-player/_js/app-player.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-app-player/_js/app-player.min.js", "env": "prod", "component": "app.player", "manifest": "zaz-app-player", "concat": false, "type": "js", "namespaces": "zaz:app.player", "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1622814352/fe/zaz-app-player/_css/theme-default.min.css", "attributes": {}, "inline": false, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-app-player/_css/theme-default.min.css", "env": "prod", "component": "app.player", "manifest": "zaz-app-player", "concat": false, "type": "css", "namespaces": null, "corsAllowed": true, "events": null}]}, "mod.t360.carouselRanges": {"meta": null, "events": null, "depends": ["ui.t360.style"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1614964868/fe/zaz-mod-t360-carousel-ranges/_js/mod-t360-carousel-ranges.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-t360-carousel-ranges/_js/mod-t360-carousel-ranges.min.js", "env": "prod", "component": "mod.t360.carouselRanges", "manifest": "zaz-mod-t360-carousel-ranges", "concat": false, "type": "js", "namespaces": "zaz:mod.t360.carouselRanges", "corsAllowed": true, "events": null}]}, "mod.gemini": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://s.yimg.com/dy/ads/native.js", "attributes": {"async": "async"}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.gemini", "type": "js", "namespaces": "global:NativeJS", "corsAllowed": false, "events": null}]}, "app.t360.svaBanner": {"meta": null, "events": null, "depends": ["ui.t360.style"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1626462065/fe/zaz-app-t360-sva-banner/_js/app-t360-sva-banner.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-sva-banner/_js/app-t360-sva-banner.min.js", "env": "prod", "component": "app.t360.svaBanner", "manifest": "zaz-app-t360-sva-banner", "concat": false, "type": "js", "namespaces": "zaz:app.t360.svaBanner", "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1626462064/fe/zaz-app-t360-sva-banner/_css/theme-default.min.css", "attributes": {}, "inline": false, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-app-t360-sva-banner/_css/theme-default.min.css", "env": "prod", "component": "app.t360.svaBanner", "manifest": "zaz-app-t360-sva-banner", "concat": false, "type": "css", "namespaces": null, "corsAllowed": true, "events": null}]}, "mod.gpt": {"meta": null, "events": {"onBeforeExport": "window.googletag = window.googletag || {}; window.googletag.cmd = window.googletag.cmd || [];"}, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://securepubads.g.doubleclick.net/tag/js/gpt.js", "attributes": {"async": "async"}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.gpt", "type": "js", "namespaces": "window.googletag", "corsAllowed": false, "events": null}]}, "cerebro": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.scope.min.js", "attributes": {}, "inline": true, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-cerebro/prd/scripts/zaz.scope.min.js", "env": "prod", "component": "cerebro", "manifest": "zaz-cerebro", "concat": false, "type": "js", "namespaces": null, "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/range.inline.min.js", "attributes": {}, "inline": true, "render": "pre", "file": "/nfs/stf-htdocs/fe/zaz-cerebro/prd/scripts/range.inline.min.js", "env": "prod", "component": "cerebro", "manifest": "zaz-cerebro", "concat": false, "type": "js", "namespaces": null, "corsAllowed": true, "events": null}, {"path": "https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-cerebro/prd/scripts/zaz.min.js", "env": "prod", "component": "cerebro", "manifest": "zaz-cerebro", "concat": false, "type": "js", "namespaces": "global:zaz", "corsAllowed": true, "events": null}]}, "FireBaseCore": {"meta": null, "events": null, "depends": ["mod.fireBaseApp"], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://www.gstatic.com/firebasejs/8.4.2/firebase-messaging.js", "attributes": {}, "file": "", "render": "post", "inline": false, "concat": false, "component": "FireBaseCore", "type": "js", "namespaces": null, "corsAllowed": false, "events": null}]}, "mod.analytics": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"env": "prod", "manifest": "zaz-3rd", "path": "https://www.google-analytics.com/analytics.js", "attributes": {"async": "async"}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.analytics", "type": "js", "namespaces": "global:ga", "corsAllowed": false, "events": null}, {"env": "prod", "manifest": "zaz-3rd", "path": "https://www.google-analytics.com/plugins/ua/ec.js", "attributes": {"async": "async"}, "file": "", "render": "post", "inline": false, "concat": false, "component": "mod.analytics", "type": "js", "namespaces": null, "corsAllowed": false, "events": null}]}, "mod.notifications": {"meta": null, "events": null, "depends": ["cerebro"], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1620422458/fe/zaz-mod-notifications/_js/mod-notifications.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-notifications/_js/mod-notifications.min.js", "env": "prod", "component": "mod.notifications", "manifest": "zaz-mod-notifications", "concat": false, "type": "js", "namespaces": "zaz:mod.notifications", "corsAllowed": true, "events": null}]}, "mod.realtime": {"meta": null, "events": null, "depends": [], "requests": [], "delivers": [], "includes": [{"path": "https://s1.trrsf.com/update-1542656220/fe/zaz-mod-realtime/_js/realtime.min.js", "attributes": {}, "inline": false, "render": "post", "file": "/nfs/stf-htdocs/fe/zaz-mod-realtime/_js/realtime.min.js", "env": "prod", "component": "mod.realtime", "manifest": "zaz-mod-realtime", "concat": false, "type": "js", "namespaces": "global:Realtime", "corsAllowed": true, "events": null}]}}, "invalid_components": [], "content-type": "text/css", "hostname": "includer"}];
+(function() {
+    'use strict';
+    if (!window.zaz || typeof window.zaz.use != 'function') {
+        throw new Error('Framework not found as "window.zaz".');
+    }
+    window.zaz.use(function(pkg) {
+        try {
+            if (typeof pkg.includer != 'object') {
+                throw new Error('Includer not delivered on this pkg');
+            }
+            if (includerComponents.length > 0) {
+                pkg.includer.registerFetchedComponents(includerComponents[0].components);
+            }
+        } catch (e) {
+            e.message = 'Error on Includer\'s reporter: ' + e.messsage;
+            if (window.console && typeof window.console.error == 'function') {
+                window.console.error(e);
+            }
+        }
+    });
+})();
+</script><noscript>No content<!-- behavior layer --></noscript>
+<!-- end prefetch includer -->
+
+
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1628014548/fe/zaz-cerebro/prd/scripts/zaz.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1627929946/fe/zaz-ui-t360/_js/context.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1627929946/fe/zaz-ui-t360/_js/context.min.js</noscript>
+<script type="text/javascript" async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><noscript>Script = https://securepubads.g.doubleclick.net/tag/js/gpt.js</noscript>
+<script type="text/javascript" async="async" src="https://www.google-analytics.com/analytics.js"></script><noscript>Script = https://www.google-analytics.com/analytics.js</noscript>
+<script type="text/javascript" async="async" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><noscript>Script = https://www.google-analytics.com/plugins/ua/ec.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1626979263/fe/zaz-app-t360-cards/_js/app-t360-cards.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1626979263/fe/zaz-app-t360-cards/_js/app-t360-cards.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1624389668/fe/zaz-3rd/videojs/video.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1624389668/fe/zaz-3rd/videojs/video.min.js</noscript>
+<script type="text/javascript"  src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script><noscript>Script = https://imasdk.googleapis.com/js/sdkloader/ima3.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1606325146/fe/zaz-mod-viewable/_js/zaz-mod-viewable.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1606325146/fe/zaz-mod-viewable/_js/zaz-mod-viewable.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1628027143/fe/zaz-mod-manager/mod-manager.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1628027143/fe/zaz-mod-manager/mod-manager.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1627929946/fe/zaz-app-t360-navbar/_js/app-t360-navbar.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1627929946/fe/zaz-app-t360-navbar/_js/app-t360-navbar.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1626978343/fe/zaz-app-t360-subject-table/_js/app-t360-subject-table.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1626978343/fe/zaz-app-t360-subject-table/_js/app-t360-subject-table.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1625249465/fe/zaz-app-t360-ticker/_js/app-t360-ticker.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1625249465/fe/zaz-app-t360-ticker/_js/app-t360-ticker.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1626096955/fe/zaz-app-t360-live/_js/app-t360-live.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1626096955/fe/zaz-app-t360-live/_js/app-t360-live.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1628193942/fe/zaz-app-player/_js/app-player.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1628193942/fe/zaz-app-player/_js/app-player.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1628025065/fe/zaz-app-t360-editorial-table/_js/app-t360-editorial-table.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1628025065/fe/zaz-app-t360-editorial-table/_js/app-t360-editorial-table.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1628025066/fe/zaz-app-t360-sva-bar/_js/app-t360-sva-bar.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1628025066/fe/zaz-app-t360-sva-bar/_js/app-t360-sva-bar.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1625774150/fe/zaz-app-t360-horoscope/_js/app-t360-horoscope.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1625774150/fe/zaz-app-t360-horoscope/_js/app-t360-horoscope.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1625774150/fe/zaz-app-t360-financial/_js/app-t360-financial.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1625774150/fe/zaz-app-t360-financial/_js/app-t360-financial.min.js</noscript>
+<script type="text/javascript"  src="https://s1.trrsf.com/update-1626978343/fe/zaz-ui-t360-home/_js/context.min.js"></script><noscript>Script = https://s1.trrsf.com/update-1626978343/fe/zaz-ui-t360-home/_js/context.min.js</noscript>
+
+<!-- ZaZ end -->
+
+
+        
+<!-- SETUP tgmkey="br.homepage.home360" -->
+<script type="text/javascript">
+try { AdManager.set('backend_getviewport', { }) } catch(e) { };
+window.zaz.use(function(pkg){try{if("br.terra.homepage".search("chat")!=-1||"br.terra.homepage".search("mail")!=-1){window.AdManager.configure({VIEWPORT_MAX:1});}else{if("home360".search("articles")!=-1||pkg.context.page.get("template")=="content"){if(pkg.context.platform.get("type")!=="web"){window.AdManager.configure({VIEWPORT_MAX:3,VIEWPORT_ORDER:[3]});}else{window.AdManager.configure({VIEWPORT_MAX:4,VIEWPORT_ORDER:[4,3,2]});}}else{window.AdManager.configure({VIEWPORT_MAX:3,VIEWPORT_ORDER:[2,3,2,1]});}}}catch(error){}try{top.AdManager.set("ppiCompanion","0");top.AdManager.set("google_tag","/1211/br.terra.homepage/home360");}catch(error){}window.getAudCookie=function(){var getTailTargetParam=function(a){var ttCookieName="_ttdmp";if(!window._ttprofilescache){window._ttprofilescache={};try{var c=document.cookie.match("(^|;)\\s*"+ttCookieName+"\\s*=\\s*([^;]+)");var d=c?c.pop().split("|"):[];for(var i=0;i<d.length;i++){var kv=d[i].split(":");if(kv[1]&&kv[1].indexOf(",")>0){window._ttprofilescache[kv[0]]=kv[1].split(",");}else{window._ttprofilescache[kv[0]]=kv[1];}}}catch(e){}}return window._ttprofilescache[a];};var f="";try{if("testeab"=="testeab"){if(Math.random()*100<50){f="testfloor=true";}else{f="testfloor=false";}}if(getTailTargetParam("A")){f=f+";age="+getTailTargetParam("A");}if(getTailTargetParam("G")){f=f+";gender="+getTailTargetParam("G");}if(getTailTargetParam("LS")){f=f+";cluster="+getTailTargetParam("LS");}if(getTailTargetParam("S")){f=f+";subjects="+getTailTargetParam("S");}if(getTailTargetParam("T")){f=f+";team="+getTailTargetParam("T");}if(getTailTargetParam("C")){f=f+";sclass="+getTailTargetParam("C");}if(getTailTargetParam("U")){f=f+";msegments="+getTailTargetParam("U");}if(getTailTargetParam("L")){f=f+";lists="+getTailTargetParam("L");}if(getTailTargetParam("CA")){f=f+";customaud="+getTailTargetParam("CA");}if(window.location.search.match("[?&]lineid=([^&]+)")){f=f+";lineid="+window.location.search.match("[?&]lineid=([^&]+)")[1];}}catch(error){}return f;};window.keyGen=function(h,k){keyword=h;customCriteria={};try{if(pkg.context.page.get("adultContent")){keyword=keyword+";adultcontent=true";}}catch(i){}try{if(window.trr.contextData.vgnID){keyword=keyword+";pageid="+window.trr.contextData.vgnID;}}catch(i){}try{if(window.terra_info_source){keyword=keyword+";contentsource="+window.terra_info_source;}}catch(i){}try{if(contextData.pageModel=="freecontent"){keyword=keyword+";freecontent=true";}}catch(i){}if(window.info_path){keyword=keyword+";channel="+window.info_path.channel;if(window.info_path.subchannel){keyword=keyword+";subchannel="+window.info_path.subchannel;}if(window.info_path.channeldetail){keyword=keyword+";channeldetail="+window.info_path.channeldetail;}}try{if(k.search("300x250")!=-1&&window.AdManager.get("ppiCompanion")!="undefined"){keyword=keyword+";companion="+window.AdManager.get("ppiCompanion");window.AdManager.set("ppiCompanion","0");}}catch(i){}try{keyword=keyword+";"+window.getAudCookie();}catch(i){}try{if(navigator.connection.effectiveType){keyword=keyword+";"+"connection="+navigator.connection.effectiveType;}}catch(i){}try{if(navigator.userAgent.search("TerraLauncher")!=-1){keyword=keyword+";"+"iosapp=true";}}catch(i){}if(keyword!=""){var p=keyword.split(";");for(var o=0;o<p.length;o++){if(p[o].search("=")!=-1){customCriteriaArray2=p[o].split("=");customCriteria[customCriteriaArray2[0]]=customCriteriaArray2[1].split(",");}}}return customCriteria;};window.sizeGen=function(sizes){var slotSize=sizes;if(slotSize!=""){var slotSizeArray1=slotSize.split(";");slotSize="";for(var i=0;i<slotSizeArray1.length;i++){slotSize=slotSize+"["+slotSizeArray1[i].replace("x",",")+"],";}slotSize=eval("["+slotSize.substring(0,slotSize.length-1)+"]");}return slotSize;};var pbjs=pbjs||{};pbjs.que=pbjs.que||[];pbjs.que.push(function(){var customGranularity={"buckets":[{"precision":2,"min":0,"max":50,"increment":0.01}]};pbjs.setConfig({enableSendAllBids:true,priceGranularity:customGranularity,rubicon:{singleRequest:true},useBidCache:true,userSync:{userIds:[{name:"criteo"}]}});});if(""!="false"&&!(window.adswall&&(window.adswall.reduceAds||window.adswall.showAdsWallNextPageview))){var keywords=top.keyGen("","oofp");top.AdManager.outOfPage(keywords);}window.addEventListener("message",function(b){if(b.origin=="https://rvv.terra.com.br"){window.AdManager.set("ppiCompanion",b.data);}if(b.origin.indexOf("googlesyndication.com")!=-1){if(b.data=="videofloater"){document.getElementById("ad-floater").style.display="none";}}},false);(function(){var key=/[\?&]tgmkey=([^&\s]+)/i.exec(window.location.search);key=key?key[1]:window.tgmkey||window.tgmKey;if(key&&window.AdManager){window.AdManager.set("setup_done_for_"+key,true);}})();});
+</script><noscript>Configuração de publicidade</noscript>
+<!-- AREA s1 -->
+<script type="text/javascript">
+try { AdManager.get('backend_getviewport')['s1'] = function() { (function(){if(window.adswall&&window.adswall.reduceAds){adSizes="2x2";}else{adSizes="300x250";}try{slotSize=window.sizeGen(adSizes);}catch(a){slotSize=[[1,1]];}if("true"=="true"){adserver="prebid";}else{adserver="dfp";}if("false"=="true"){reloadKey=true;reloadTime=35;if(""!=""){reloadTime=parseInt("");}}else{reloadKey=false;reloadTime=0;}if(""!="false"){reloadViewable="viewable";}else{reloadViewable="always";}var kw=";";try{if(""=="cabeceira"){if(window.AdManager.get("s0Sticky")&&"web"=="web"){kw=kw+"sticky=true;";}}}catch(a){}if(""=="true"){parallax=true;kw=kw+"parallax=mob;";}else{parallax=false;}try{if(window.adswall&&window.adswall.creativeId){kw=kw+"adswall="+window.adswall.creativeId+";";}}catch(a){}try{customCriteria=window.keyGen(kw,adSizes);}catch(a){customCriteria={seg:["error"]};}googleTag=("br.terra.homepage/home360"=="/")?window.AdManager.get("google_tag"):"/1211/br.terra.homepage/home360";googleTag_area=googleTag+"/";bidders=[{bidder:"rubicon",params:{accountId:"10828",siteId:"25078",zoneId:("web"!="mob")?"97396":"100306",inventory:{adunit:googleTag_area.replace(/^\/.+?\//,"").replace(/\./g,"_"),viewport:"s"+window.AdManager.getCurrentViewport()},visitor:customCriteria}},{bidder:"appnexus",params:{placementId:"14507090",keywords:customCriteria}},{bidder:"onemobile",params:{dcn:("web"!="mob")?"8a9698c3017777fced36fe4872a100b0":"8a9698c3017777fced36fe4d495e00b7",pos:"8a9698c3017777fced36fe49f94100b2"}},{bidder:"smartadserver",params:{domain:"https://prg.smartadserver.com",siteId:254198,pageId:("web"!="mob")?1354600:1354599,formatId:parseInt("68541")}},{bidder:"criteo",params:{networkId:6729}},{bidder:"rtbhouse",params:{publisherId:"ICFKBQB9BvReg3VYIa1o",region:"prebid-us"}}];try{window.AdManager.defineAd({platform:"web",adserver:adserver,type:"card",bids:bidders,sizes:slotSize,google_tag:googleTag_area,keywords:customCriteria,timeout:3000,parallax:{visible:parallax,height:300},reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:reloadViewable,times:1000}});}catch(a){}})();(function(){if(window.adswall&&window.adswall.reduceAds){adSizes="2x2";}else{adSizes="300x250";}try{slotSize=window.sizeGen(adSizes);}catch(a){slotSize=[[1,1]];}if("true"=="true"){adserver="prebid";}else{adserver="dfp";}if("false"=="true"){reloadKey=true;reloadTime=35;if(""!=""){reloadTime=parseInt("");}}else{reloadKey=false;reloadTime=0;}if(""!="false"){reloadViewable="viewable";}else{reloadViewable="always";}var kw=";";try{if(""=="cabeceira"){if(window.AdManager.get("s0Sticky")&&"mob"=="web"){kw=kw+"sticky=true;";}}}catch(a){}if(""=="true"){parallax=true;kw=kw+"parallax=mob;";}else{parallax=false;}try{if(window.adswall&&window.adswall.creativeId){kw=kw+"adswall="+window.adswall.creativeId+";";}}catch(a){}try{customCriteria=window.keyGen(kw,adSizes);}catch(a){customCriteria={seg:["error"]};}googleTag=("br.terra.homepage/home360"=="/")?window.AdManager.get("google_tag"):"/1211/br.terra.homepage/home360";googleTag_area=googleTag+"/";bidders=[{bidder:"rubicon",params:{accountId:"10828",siteId:"25078",zoneId:("mob"!="mob")?"97396":"100306",inventory:{adunit:googleTag_area.replace(/^\/.+?\//,"").replace(/\./g,"_"),viewport:"s"+window.AdManager.getCurrentViewport()},visitor:customCriteria}},{bidder:"appnexus",params:{placementId:"19350446",keywords:customCriteria}},{bidder:"onemobile",params:{dcn:("mob"!="mob")?"8a9698c3017777fced36fe4872a100b0":"8a9698c3017777fced36fe4d495e00b7",pos:"8a96959b017777fcf5e8fe4dad7f00a0"}},{bidder:"smartadserver",params:{domain:"https://prg.smartadserver.com",siteId:254198,pageId:("mob"!="mob")?1354600:1354599,formatId:parseInt("68541")}},{bidder:"criteo",params:{networkId:6729}},{bidder:"rtbhouse",params:{publisherId:"ICFKBQB9BvReg3VYIa1o",region:"prebid-us"}}];try{window.AdManager.defineAd({platform:"mob",adserver:adserver,type:"card",bids:bidders,sizes:slotSize,google_tag:googleTag_area,keywords:customCriteria,timeout:3000,parallax:{visible:parallax,height:300},reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:reloadViewable,times:1000}});}catch(a){}})();(function(){if(window.adswall&&window.adswall.reduceAds){adSizes="2x2";}else{adSizes="728x90;970x90;970x250";}try{slotSize=window.sizeGen(adSizes);}catch(a){slotSize=[[1,1]];}if("true"=="true"){adserver="prebid";}else{adserver="dfp";}if("true"=="true"){reloadKey=true;reloadTime=35;if(""!=""){reloadTime=parseInt("");}}else{reloadKey=false;reloadTime=0;}if(""!="false"){reloadViewable="viewable";}else{reloadViewable="always";}var kw=";";try{if(""=="cabeceira"){if(window.AdManager.get("s0Sticky")&&"web"=="web"){kw=kw+"sticky=true;";}}}catch(a){}if(""=="true"){parallax=true;kw=kw+"parallax=mob;";}else{parallax=false;}try{if(window.adswall&&window.adswall.creativeId){kw=kw+"adswall="+window.adswall.creativeId+";";}}catch(a){}try{customCriteria=window.keyGen(kw,adSizes);}catch(a){customCriteria={seg:["error"]};}googleTag=("br.terra.homepage/home360"=="/")?window.AdManager.get("google_tag"):"/1211/br.terra.homepage/home360";googleTag_area=googleTag+"/";bidders=[{bidder:"rubicon",params:{accountId:"10828",siteId:"25078",zoneId:("web"!="mob")?"97396":"100306",inventory:{adunit:googleTag_area.replace(/^\/.+?\//,"").replace(/\./g,"_"),viewport:"s"+window.AdManager.getCurrentViewport()},visitor:customCriteria}},{bidder:"appnexus",params:{placementId:"14507081",keywords:customCriteria}},{bidder:"onemobile",params:{dcn:("web"!="mob")?"8a9698c3017777fced36fe4872a100b0":"8a9698c3017777fced36fe4d495e00b7",pos:"8a9690fa017777fcf14bfe4ca7d900a8"}},{bidder:"smartadserver",params:{domain:"https://prg.smartadserver.com",siteId:254198,pageId:("web"!="mob")?1354600:1354599,formatId:parseInt("68543")}},{bidder:"criteo",params:{networkId:6729}},{bidder:"rtbhouse",params:{publisherId:"ICFKBQB9BvReg3VYIa1o",region:"prebid-us"}}];try{window.AdManager.defineAd({platform:"web",adserver:adserver,type:"full",bids:bidders,sizes:slotSize,google_tag:googleTag_area,keywords:customCriteria,timeout:3000,parallax:{visible:parallax,height:300},reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:reloadViewable,times:1000}});}catch(a){}})();(function(){if(window.adswall&&window.adswall.reduceAds){adSizes="2x2";}else{adSizes="300x50;320x50;300x100;320x100";}try{slotSize=window.sizeGen(adSizes);}catch(a){slotSize=[[1,1]];}if("true"=="true"){adserver="prebid";}else{adserver="dfp";}if("true"=="true"){reloadKey=true;reloadTime=35;if(""!=""){reloadTime=parseInt("");}}else{reloadKey=false;reloadTime=0;}if(""!="false"){reloadViewable="viewable";}else{reloadViewable="always";}var kw=";";try{if(""=="cabeceira"){if(window.AdManager.get("s0Sticky")&&"mob"=="web"){kw=kw+"sticky=true;";}}}catch(a){}if(""=="true"){parallax=true;kw=kw+"parallax=mob;";}else{parallax=false;}try{if(window.adswall&&window.adswall.creativeId){kw=kw+"adswall="+window.adswall.creativeId+";";}}catch(a){}try{customCriteria=window.keyGen(kw,adSizes);}catch(a){customCriteria={seg:["error"]};}googleTag=("br.terra.homepage/home360"=="/")?window.AdManager.get("google_tag"):"/1211/br.terra.homepage/home360";googleTag_area=googleTag+"/";bidders=[{bidder:"rubicon",params:{accountId:"10828",siteId:"25078",zoneId:("mob"!="mob")?"97396":"100306",inventory:{adunit:googleTag_area.replace(/^\/.+?\//,"").replace(/\./g,"_"),viewport:"s"+window.AdManager.getCurrentViewport()},visitor:customCriteria}},{bidder:"appnexus",params:{placementId:"14507088",keywords:customCriteria}},{bidder:"onemobile",params:{dcn:("mob"!="mob")?"8a9698c3017777fced36fe4872a100b0":"8a9698c3017777fced36fe4d495e00b7",pos:"8a9690fa017777fcf14bfe4dfed000a9"}},{bidder:"smartadserver",params:{domain:"https://prg.smartadserver.com",siteId:254198,pageId:("mob"!="mob")?1354600:1354599,formatId:parseInt("68543")}},{bidder:"criteo",params:{networkId:6729}},{bidder:"rtbhouse",params:{publisherId:"ICFKBQB9BvReg3VYIa1o",region:"prebid-us"}}];try{window.AdManager.defineAd({platform:"mob",adserver:adserver,type:"full",bids:bidders,sizes:slotSize,google_tag:googleTag_area,keywords:customCriteria,timeout:3000,parallax:{visible:parallax,height:300},reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:reloadViewable,times:1000}});}catch(a){}})(); } } catch(e) { }
+</script><noscript>Espaço publicitário</noscript>
+
+
+<script type="text/javascript">
+try {
+	AdManager.set('setup_done_for_br.homepage.home360', true);
+	AdManager.configure({
+		DFP_TIMEOUT : 3000
+	});
+} catch (error) {}
+</script><noscript>No content<!-- no script mess here --></noscript>
+
+
+
+
+</body>
+</html>

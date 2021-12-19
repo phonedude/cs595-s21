@@ -1,0 +1,176 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/codesite
+Cross-Origin-Resource-Policy: cross-origin
+Content-Length: 5325
+Date: Sat, 07 Aug 2021 00:47:02 GMT
+Expires: Sat, 07 Aug 2021 01:37:02 GMT
+Last-Modified: Tue, 03 Mar 2020 20:15:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Age: 2711
+Cache-Control: public, max-age=3000
+
+<html>
+  <head>
+    <meta name="google-site-verification" content="4zcIJTHN2ODvJZZARi0H8nqNDAgKPktLCuSGFcsXwIs" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Google Code</title>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
+          type="text/css">
+    <link rel="stylesheet" href="css/material.blue_grey-blue.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      .mdl-grid {
+        max-width: 95%;
+        min-height: 100%;
+      }
+      .mdl-cell {
+        padding: 1em;
+      }
+      a {
+        text-decoration: none;
+      }
+      .mdl-card__title {
+        border-bottom: 1px solid #aaa;
+      }
+      .mdl-card__title-text {
+        color: #454545;
+        font-weight: 700;
+      }
+      .mdl-card__supporting-text {
+        height:80px;
+      }
+      .mdl-card__media {
+        background: white;
+        text-align:center;
+        height: 264.44px;
+      }
+      .mdl-card__media img {
+        width: 80%;
+      }
+      .mdl-card:hover {
+        transform: scale(1.01, 1.01);
+        transition: transform .1s;
+      }
+      .mdl-card__actions {
+        text-align: right;
+      }
+      .mdl-card {
+        float:left;
+        margin: 2em 2em;
+      }
+      .outer {
+        width: 100%;
+      }
+      .inner {
+        padding-top: 2em;
+        padding-bottom: 10em;
+        display: table;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="outer">
+      <div class="inner">
+
+        <a href="https://opensource.google.com/">
+          <div class="mdl-card mdl-shadow--4dp"  id="opensource">
+            <div class="mdl-card__title">
+              <h2 class="mdl-card__title-text">Google Open Source</h2>
+            </div>
+            <div class="mdl-card__media">
+              <img src="images/opensource.png">
+            </div>
+            <div class="mdl-card__supporting-text">
+              <b>Open source is good for everyone!</b>  Google believes that
+              by being open and freely available, it enables and encourages
+              collaboration and the development of technology, solving real
+              world problems.
+            </div>
+            <div class="mdl-card__actions">
+              <button class="mdl-button">
+                <a href="https://opensource.google.com/"
+                   >opensource.google.com</a>
+              </button>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://developers.google.com">
+          <div class="mdl-card mdl-shadow--4dp" id="developers">
+            <div class="mdl-card__title">
+              <h2 class="mdl-card__title-text">Google Developers</h2>
+            </div>
+            <div class="mdl-card__media">
+              <img src="images/developers.png">
+            </div>
+            <div class="mdl-card__supporting-text">
+              <b>Looking for Google APIs and Tools?</b>
+              Google Developers is the place to find all Google developer
+              documentation, resources, events, and products.
+            </div>
+            <div class="mdl-card__actions">
+              <button class="mdl-button">
+                <a href="https://developers.google.com/"
+                   >developers.google.com</a>
+              </button>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://code.google.com/archive/">
+          <div class="mdl-card mdl-shadow--4dp" id="projecthosting">
+            <div class="mdl-card__title">
+              <h2 class="mdl-card__title-text">Google Code Archive</h2>
+            </div>
+            <div class="mdl-card__media">
+              <img src="images/projecthosting.png">
+            </div>
+            <div class="mdl-card__supporting-text">
+              From 2006-2016, <b>Google Code Project Hosting</b> offered a free
+              collaborative development environment for open source projects.
+              Projects hosted on Google Code remain available in the Google
+              Code Archive.
+            </div>
+            <div class="mdl-card__actions">
+              <button class="mdl-button">
+                <a href="https://code.google.com/archive/"
+                   >code.google.com/archive</a>
+              </button>
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </div>
+
+    <footer class="mdl-mini-footer">
+      <div class="mdl-mini-footer__left-section">
+        <div class="mdl-logo">code.google.com</div>
+        <ul class="mdl-mini-footer__link-list">
+          <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</li>
+          <li><a href="https://www.google.com/intl/en/policies/terms/">Terms</a></li>
+        </ul>
+      </div>
+      <div class="mdl-mini-footer__right-section">
+        &copy; 2017 Google Inc.
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18071-1', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
